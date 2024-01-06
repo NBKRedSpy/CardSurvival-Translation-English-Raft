@@ -1,1 +1,94 @@
-{"ActionModifiers":[],"ActionObjectives":[],"AddedCards":[],"AddedStartingHours":0,"CardsOnBoardObjectives":[],"CheckingNotificationDetails":0,"CompleteOnLose":false,"CompleteOnWin":false,"DifficultyRating":8000,"DisplayPriority":10000.0,"EditorOnly":false,"EquippedCards":[],"HiddenUntilUnlocked":false,"MoonsCost":0,"NestedObjectives":[],"NoSafetyMode":false,"NotifyWhenNotChecked":false,"OverrideEnvironment":{"m_FileID":0,"m_PathID":0},"OverrideEquipment":false,"OverrideWeather":{"m_FileID":0,"m_PathID":0},"OverrideWeatherWarpData":"","OverrideWeatherWarpType":3,"PassiveStatModifiers":[],"PerkDescription":{"DefaultText":"\u4f60\u4ece\u4e00\u4e2a\u7834\u70c2\u7684\u6728\u7b4f\u4e0a\u9192\u6765","LocalizationKey":"","ParentObjectID":""},"PerkIcon":{"m_FileID":0,"m_PathID":0},"PerkIconWarpData":"\u7834\u635f\u7684\u6728\u7b4f","PerkIconWarpType":3,"PerkName":{"DefaultText":"\u6728\u7b4f\u6c42\u751f","LocalizationKey":"","ParentObjectID":""},"PerkUnlockConditions":{"DefaultText":"","LocalizationKey":"","ParentObjectID":""},"PlayedCharacter":[],"RequiredDifficultyScore":{"x":0,"y":0},"ResetLockInEditor":false,"StartUnlocked":true,"StartingStatModifiers":[{"ApplyEachTick":false,"InstantModifier":false,"IsInverse":false,"RateModifier":{"x":0,"y":0},"Stat":{"m_FileID":0,"m_PathID":0},"StatWarpData":"89077cb2a5f65bea487603cb5fe48961","StatWarpType":3,"ValueModifier":{"x":1.0,"y":1.0}}],"StatsObjectives":[],"SunsCost":30,"TagsOnBoardObjectives":[],"TimeObjectives":[],"UniqueID":"518852350b765352e93807f49d3ad9ee","OverrideEnvironmentWarpType":3,"OverrideEnvironmentWarpData":"3daf0a7a90b58f1dfb49d0d91edf982d","AddedCardsWarpType":3,"AddedCardsWarpData":["d757e2f5d125d06bb25ca68f5a9f2d71","6bd1f8e58ae8c9148ac466c1f980b116","4bc731aa28b26b74e845e96988633ddb"],"CharacterPerkPerkGroup":"Pkg_Location"}
+{
+  "ActionModifiers": [],
+  "ActionObjectives": [],
+  "AddedCards": [],
+  "AddedStartingHours": 0,
+  "CardsOnBoardObjectives": [],
+  "CheckingNotificationDetails": 0,
+  "CompleteOnLose": false,
+  "CompleteOnWin": false,
+  "DifficultyRating": 8000,
+  "DisplayPriority": 10000.0,
+  "EditorOnly": false,
+  "EquippedCards": [],
+  "HiddenUntilUnlocked": false,
+  "MoonsCost": 0,
+  "NestedObjectives": [],
+  "NoSafetyMode": false,
+  "NotifyWhenNotChecked": false,
+  "OverrideEnvironment": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "OverrideEquipment": false,
+  "OverrideWeather": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "OverrideWeatherWarpData": "",
+  "OverrideWeatherWarpType": 3,
+  "PassiveStatModifiers": [],
+  "PerkDescription": {
+    "DefaultText": "\u4F60\u4ECE\u4E00\u4E2A\u7834\u70C2\u7684\u6728\u7B4F\u4E0A\u9192\u6765",
+    "LocalizationKey": "",
+    "ParentObjectID": ""
+  },
+  "PerkIcon": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "PerkIconWarpData": "\u7834\u635F\u7684\u6728\u7B4F",
+  "PerkIconWarpType": 3,
+  "PerkName": {
+    "DefaultText": "\u6728\u7B4F\u6C42\u751F",
+    "LocalizationKey": "",
+    "ParentObjectID": ""
+  },
+  "PerkUnlockConditions": {
+    "DefaultText": "",
+    "LocalizationKey": "",
+    "ParentObjectID": ""
+  },
+  "PlayedCharacter": [],
+  "RequiredDifficultyScore": {
+    "x": 0,
+    "y": 0
+  },
+  "ResetLockInEditor": false,
+  "StartUnlocked": true,
+  "StartingStatModifiers": [
+    {
+      "ApplyEachTick": false,
+      "InstantModifier": false,
+      "IsInverse": false,
+      "RateModifier": {
+        "x": 0,
+        "y": 0
+      },
+      "Stat": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "StatWarpData": "89077cb2a5f65bea487603cb5fe48961",
+      "StatWarpType": 3,
+      "ValueModifier": {
+        "x": 1.0,
+        "y": 1.0
+      }
+    }
+  ],
+  "StatsObjectives": [],
+  "SunsCost": 30,
+  "TagsOnBoardObjectives": [],
+  "TimeObjectives": [],
+  "UniqueID": "518852350b765352e93807f49d3ad9ee",
+  "OverrideEnvironmentWarpType": 3,
+  "OverrideEnvironmentWarpData": "3daf0a7a90b58f1dfb49d0d91edf982d",
+  "AddedCardsWarpType": 3,
+  "AddedCardsWarpData": [
+    "d757e2f5d125d06bb25ca68f5a9f2d71",
+    "6bd1f8e58ae8c9148ac466c1f980b116",
+    "4bc731aa28b26b74e845e96988633ddb"
+  ],
+  "CharacterPerkPerkGroup": "Pkg_Location"
+}

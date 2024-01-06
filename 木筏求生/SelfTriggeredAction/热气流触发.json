@@ -1,1 +1,285 @@
-{"Actions":[{"ActionName":{"DefaultText":"\u89e6\u53d1","LocalizationKey":"","ParentObjectID":""},"ActionDescription":{"DefaultText":"\u70ed\u6c14\u6d41","LocalizationKey":"","ParentObjectID":""},"RepeatOptions":2,"StatChangeTrigger":[{"HideAllWhenNotMet":false,"NotifyWhenNotMet":false,"Stat":{"m_FileID":0,"m_PathID":0},"StatWarpData":"93ae087fd5d88315f97077c23916100b","StatWarpType":3,"TriggerRange":{"x":288.0,"y":288.0}},{"HideAllWhenNotMet":false,"NotifyWhenNotMet":false,"Stat":{"m_FileID":0,"m_PathID":0},"StatWarpData":"89077cb2a5f65bea487603cb5fe48961","StatWarpType":3,"TriggerRange":{"x":1.0,"y":1.0}},{"HideAllWhenNotMet":false,"NotifyWhenNotMet":false,"Stat":{"m_FileID":0,"m_PathID":0},"StatWarpData":"9a6b7f427e7fab48a02e3942f7ac6d7b","StatWarpType":3,"TriggerRange":{"x":1.0,"y":287.0}}],"ExtraDurabilityModifications":[{"AffectedCards":[],"AffectedTags":[],"NOTAffectedThings":[],"AffectedTagsWarpData":[],"AffectedTagsWarpType":3,"AppliesTo":4,"LookInInventories":false,"RequiredDurabilities":{"SpoilageRange":{"x":0.0,"y":0.0},"UsageRange":{"x":0.0,"y":0.0},"FuelRange":{"x":0.0,"y":0.0},"ProgressRange":{"x":0.0,"y":0.0},"Special1Range":{"x":0.0,"y":0.0},"Special2Range":{"x":0.0,"y":0.0},"Special3Range":{"x":0.0,"y":0.0},"Special4Range":{"x":0.0,"y":0.0},"LiquidQuantityRange":{"x":0.0,"y":0.0}},"SpoilageChange":{"x":0.0,"y":0.0},"UsageChange":{"x":0.0,"y":0.0},"FuelChange":{"x":0.0,"y":0.0},"ChargesChange":{"x":0.0,"y":0.0},"LiquidChange":{"x":0.0,"y":0.0},"Special1Change":{"x":0.0,"y":0.0},"Special2Change":{"x":0.0,"y":0.0},"Special3Change":{"x":0.0,"y":0.0},"Special4Change":{"x":0.0,"y":0.0},"CardChanges":1,"DropOnDestroyList":false,"RandomlyAffectedCards":1.0,"RandomAmountType":1,"SendToEnvironment":[],"AffectedCardsWarpType":3,"AffectedCardsWarpData":["76e15d6d2ee199844a4812b3dc361c74","a16ea348288688841b3119f930506e77","dc4523f5854ec904b971af4bf6f08858","7d3c97dbef2089d44bc6abe0578fa45f","bbaf57503d11c3d4e9c494793f4b34cf"]}],"ProducedCards":[{"CardDropChanceModifiers":[],"CollectionMessages":[],"CollectionName":"col_0","CollectionUses":{"x":0,"y":0},"CollectionWeight":0.0,"CreatedLiquid":{"LiquidCard":{"m_FileID":0,"m_PathID":0},"Quantity":{}},"DroppedCards":[{"DroppedCard":{"m_FileID":0,"m_PathID":0},"DroppedCardWarpData":"33574d76de528bbdfbe207bbb689131a","DroppedCardWarpType":3,"Quantity":{"x":1.0,"y":1.0}}],"DroppedEncounter":{"m_FileID":0,"m_PathID":0},"DroppedEncounterWarpData":"","DroppedEncounterWarpType":3,"DurabilitiesDropChanceModifier":{"Fuel":{"DurabilityRange":{},"InterpWeightRange":{}},"Progress":{"DurabilityRange":{},"InterpWeightRange":{}},"Special1":{"DurabilityRange":{},"InterpWeightRange":{}},"Special2":{"DurabilityRange":{},"InterpWeightRange":{}},"Special3":{"DurabilityRange":{},"InterpWeightRange":{}},"Special4":{"DurabilityRange":{},"InterpWeightRange":{}},"Spoilage":{"DurabilityRange":{},"InterpWeightRange":{}},"Usage":{"DurabilityRange":{},"InterpWeightRange":{}}},"DurabilityModifications":{"ChargesChange":{},"FuelChange":{},"Special1Change":{},"Special2Change":{},"Special3Change":{},"Special4Change":{},"SpoilageChange":{},"UsageChange":{}},"StatModifications":[],"StatsDropChanceModifiers":[]}],"StatModifications":[{"ApplyEachTick":false,"InstantModifier":false,"IsInverse":false,"RateModifier":{"x":0,"y":0},"Stat":{"m_FileID":0,"m_PathID":0},"StatWarpData":"4a27fb5da9326b545a5ef73f2b80316e","StatWarpType":3,"ValueModifier":{"x":-15.0,"y":-15.0}},{"ApplyEachTick":false,"InstantModifier":false,"IsInverse":false,"RateModifier":{"x":0,"y":0},"Stat":{"m_FileID":0,"m_PathID":0},"StatWarpData":"93ae087fd5d88315f97077c23916100b","StatWarpType":3,"ValueModifier":{"x":-288.0,"y":-288.0}}]}],"UniqueID":"9e0dc40ba53a5f0229db67047e519dd5"}
+{
+  "Actions": [
+    {
+      "ActionName": {
+        "DefaultText": "\u89E6\u53D1",
+        "LocalizationKey": "",
+        "ParentObjectID": ""
+      },
+      "ActionDescription": {
+        "DefaultText": "\u70ED\u6C14\u6D41",
+        "LocalizationKey": "",
+        "ParentObjectID": ""
+      },
+      "RepeatOptions": 2,
+      "StatChangeTrigger": [
+        {
+          "HideAllWhenNotMet": false,
+          "NotifyWhenNotMet": false,
+          "Stat": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "StatWarpData": "93ae087fd5d88315f97077c23916100b",
+          "StatWarpType": 3,
+          "TriggerRange": {
+            "x": 288.0,
+            "y": 288.0
+          }
+        },
+        {
+          "HideAllWhenNotMet": false,
+          "NotifyWhenNotMet": false,
+          "Stat": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "StatWarpData": "89077cb2a5f65bea487603cb5fe48961",
+          "StatWarpType": 3,
+          "TriggerRange": {
+            "x": 1.0,
+            "y": 1.0
+          }
+        },
+        {
+          "HideAllWhenNotMet": false,
+          "NotifyWhenNotMet": false,
+          "Stat": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "StatWarpData": "9a6b7f427e7fab48a02e3942f7ac6d7b",
+          "StatWarpType": 3,
+          "TriggerRange": {
+            "x": 1.0,
+            "y": 287.0
+          }
+        }
+      ],
+      "ExtraDurabilityModifications": [
+        {
+          "AffectedCards": [],
+          "AffectedTags": [],
+          "NOTAffectedThings": [],
+          "AffectedTagsWarpData": [],
+          "AffectedTagsWarpType": 3,
+          "AppliesTo": 4,
+          "LookInInventories": false,
+          "RequiredDurabilities": {
+            "SpoilageRange": {
+              "x": 0.0,
+              "y": 0.0
+            },
+            "UsageRange": {
+              "x": 0.0,
+              "y": 0.0
+            },
+            "FuelRange": {
+              "x": 0.0,
+              "y": 0.0
+            },
+            "ProgressRange": {
+              "x": 0.0,
+              "y": 0.0
+            },
+            "Special1Range": {
+              "x": 0.0,
+              "y": 0.0
+            },
+            "Special2Range": {
+              "x": 0.0,
+              "y": 0.0
+            },
+            "Special3Range": {
+              "x": 0.0,
+              "y": 0.0
+            },
+            "Special4Range": {
+              "x": 0.0,
+              "y": 0.0
+            },
+            "LiquidQuantityRange": {
+              "x": 0.0,
+              "y": 0.0
+            }
+          },
+          "SpoilageChange": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "UsageChange": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "FuelChange": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "ChargesChange": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "LiquidChange": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "Special1Change": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "Special2Change": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "Special3Change": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "Special4Change": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "CardChanges": 1,
+          "DropOnDestroyList": false,
+          "RandomlyAffectedCards": 1.0,
+          "RandomAmountType": 1,
+          "SendToEnvironment": [],
+          "AffectedCardsWarpType": 3,
+          "AffectedCardsWarpData": [
+            "76e15d6d2ee199844a4812b3dc361c74",
+            "a16ea348288688841b3119f930506e77",
+            "dc4523f5854ec904b971af4bf6f08858",
+            "7d3c97dbef2089d44bc6abe0578fa45f",
+            "bbaf57503d11c3d4e9c494793f4b34cf"
+          ]
+        }
+      ],
+      "ProducedCards": [
+        {
+          "CardDropChanceModifiers": [],
+          "CollectionMessages": [],
+          "CollectionName": "col_0",
+          "CollectionUses": {
+            "x": 0,
+            "y": 0
+          },
+          "CollectionWeight": 0.0,
+          "CreatedLiquid": {
+            "LiquidCard": {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            "Quantity": {}
+          },
+          "DroppedCards": [
+            {
+              "DroppedCard": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "DroppedCardWarpData": "33574d76de528bbdfbe207bbb689131a",
+              "DroppedCardWarpType": 3,
+              "Quantity": {
+                "x": 1.0,
+                "y": 1.0
+              }
+            }
+          ],
+          "DroppedEncounter": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "DroppedEncounterWarpData": "",
+          "DroppedEncounterWarpType": 3,
+          "DurabilitiesDropChanceModifier": {
+            "Fuel": {
+              "DurabilityRange": {},
+              "InterpWeightRange": {}
+            },
+            "Progress": {
+              "DurabilityRange": {},
+              "InterpWeightRange": {}
+            },
+            "Special1": {
+              "DurabilityRange": {},
+              "InterpWeightRange": {}
+            },
+            "Special2": {
+              "DurabilityRange": {},
+              "InterpWeightRange": {}
+            },
+            "Special3": {
+              "DurabilityRange": {},
+              "InterpWeightRange": {}
+            },
+            "Special4": {
+              "DurabilityRange": {},
+              "InterpWeightRange": {}
+            },
+            "Spoilage": {
+              "DurabilityRange": {},
+              "InterpWeightRange": {}
+            },
+            "Usage": {
+              "DurabilityRange": {},
+              "InterpWeightRange": {}
+            }
+          },
+          "DurabilityModifications": {
+            "ChargesChange": {},
+            "FuelChange": {},
+            "Special1Change": {},
+            "Special2Change": {},
+            "Special3Change": {},
+            "Special4Change": {},
+            "SpoilageChange": {},
+            "UsageChange": {}
+          },
+          "StatModifications": [],
+          "StatsDropChanceModifiers": []
+        }
+      ],
+      "StatModifications": [
+        {
+          "ApplyEachTick": false,
+          "InstantModifier": false,
+          "IsInverse": false,
+          "RateModifier": {
+            "x": 0,
+            "y": 0
+          },
+          "Stat": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "StatWarpData": "4a27fb5da9326b545a5ef73f2b80316e",
+          "StatWarpType": 3,
+          "ValueModifier": {
+            "x": -15.0,
+            "y": -15.0
+          }
+        },
+        {
+          "ApplyEachTick": false,
+          "InstantModifier": false,
+          "IsInverse": false,
+          "RateModifier": {
+            "x": 0,
+            "y": 0
+          },
+          "Stat": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "StatWarpData": "93ae087fd5d88315f97077c23916100b",
+          "StatWarpType": 3,
+          "ValueModifier": {
+            "x": -288.0,
+            "y": -288.0
+          }
+        }
+      ]
+    }
+  ],
+  "UniqueID": "9e0dc40ba53a5f0229db67047e519dd5"
+}
