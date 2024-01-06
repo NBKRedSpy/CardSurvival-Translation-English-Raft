@@ -1,17 +1,17 @@
 {
   "CardName": {
-    "DefaultText": "\u951A",
-    "LocalizationKey": "",
+    "DefaultText": "锚",
+    "LocalizationKey": "T-JNT/D3A2uzu2etHvq80JLZF23Sg=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u5F7B\u5E95\u505C\u9A7B",
-    "LocalizationKey": "",
+    "DefaultText": "彻底停驻",
+    "LocalizationKey": "T-gGDX1pf/tp0cLYGdn5eKcK2LS2Y=",
     "ParentObjectID": ""
   },
   "CardTags": [],
   "CardTagsWarpData": [
-    "\u951A"
+    "锚"
   ],
   "CardTagsWarpType": 3,
   "CardType": 0,
@@ -110,7 +110,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u951A",
+  "CardImageWarpData": "锚",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],

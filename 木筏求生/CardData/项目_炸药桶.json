@@ -1,17 +1,17 @@
 {
   "CardName": {
-    "DefaultText": "\u70B8\u836F\u6876",
-    "LocalizationKey": "",
+    "DefaultText": "炸药桶",
+    "LocalizationKey": "T-zxWnLQF+BN0MQrdJNN3T/H/NSZA=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u6211\u6700\u597D\u522B\u70B9\u71C3\u5B83\uFF01",
-    "LocalizationKey": "",
+    "DefaultText": "我最好别点燃它！",
+    "LocalizationKey": "T-Bq0TlQa/loWGBGci9o9In4KZlhk=",
     "ParentObjectID": ""
   },
   "CardTags": [],
   "CardTagsWarpData": [
-    "\u53EF\u88AB\u71C3\u70E7"
+    "可被燃烧"
   ],
   "CardTagsWarpType": 3,
   "CardType": 0,
@@ -110,7 +110,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u70B8\u836F\u6876",
+  "CardImageWarpData": "炸药桶",
   "CardImageWarpType": 3,
   "CardInteractions": [
     {
@@ -131,8 +131,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u5272\u5F00",
-        "LocalizationKey": "",
+        "DefaultText": "割开",
+        "LocalizationKey": "T-RQI7sx3rxPvi+Ofm9ZCopZb+4F4=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],

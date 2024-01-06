@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u87BA\u65CB\u6868\uFF08\u5F00\u542F\uFF09",
-    "LocalizationKey": "",
+    "DefaultText": "螺旋桨（开启）",
+    "LocalizationKey": "T-RXYulfYpzbG/VX1EsxDZhzAn1XI=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u98DE\u4E00\u822C\u7684\u611F\u89C9",
-    "LocalizationKey": "",
+    "DefaultText": "飞一般的感觉",
+    "LocalizationKey": "T-qEpasyNjkhGDvdiX58smvE2Da2w=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -108,7 +108,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u87BA\u65CB\u6868\uFF08\u5F00\u542F\uFF09",
+  "CardImageWarpData": "螺旋桨（开启）",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],
@@ -187,8 +187,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u5173\u95ED",
-        "LocalizationKey": "",
+        "DefaultText": "关闭",
+        "LocalizationKey": "T-bBS9f2+eVORgJNNd/ixFSMmjgh0=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],

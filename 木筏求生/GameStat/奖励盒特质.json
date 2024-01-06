@@ -23,7 +23,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "DefaultStatusIconWarpData": "\u5956\u52B1\u76D2\u7279\u8D28",
+  "DefaultStatusIconWarpData": "奖励盒特质",
   "DefaultStatusIconWarpType": 3,
   "DefaultStatusName": {
     "DefaultText": "",
@@ -48,8 +48,8 @@
     "StepValue": 1.0
   },
   "GameName": {
-    "DefaultText": "\u5956\u52B1\u76D2\u7279\u8D28",
-    "LocalizationKey": "",
+    "DefaultText": "奖励盒特质",
+    "LocalizationKey": "T-G/XEwZtdld+038Cv3lR1URvfRWM=",
     "ParentObjectID": ""
   },
   "InvertedDirection": false,

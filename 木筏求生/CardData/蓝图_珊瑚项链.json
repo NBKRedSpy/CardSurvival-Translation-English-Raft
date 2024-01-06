@@ -1,7 +1,7 @@
 {
   "CardName": {
-    "DefaultText": "\u73CA\u745A\u9879\u94FE",
-    "LocalizationKey": "",
+    "DefaultText": "珊瑚项链",
+    "LocalizationKey": "T-dT6thLsrWMoio/+XUi0/lvlnVzk=",
     "ParentObjectID": ""
   },
   "CardDescription": {
@@ -389,7 +389,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u73CA\u745A\u9879\u94FE",
+  "CardImageWarpData": "珊瑚项链",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [
@@ -3570,8 +3570,8 @@
   "UniqueID": "374a9ab35a3ebed5dc2f7f74616934e1",
   "UniqueOnBoard": false,
   "UnlockConditionsDesc": {
-    "DefaultText": "\u9700\u8981\u73CA\u745A",
-    "LocalizationKey": "",
+    "DefaultText": "需要珊瑚",
+    "LocalizationKey": "T-Dmv4qG+Ydwskdo4djgIFbFTLhxQ=",
     "ParentObjectID": ""
   },
   "UsageDurability": {

@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u69BB\u69BB\u7C73",
-    "LocalizationKey": "",
+    "DefaultText": "榻榻米",
+    "LocalizationKey": "T-xPScGrNkGTLqqeeR/BYhC6YLImA=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u65B9\u4FBF\u53C8\u8212\u9002",
-    "LocalizationKey": "",
+    "DefaultText": "方便又舒适",
+    "LocalizationKey": "T-b+KflDZVehel1Z5/kFlnQhHsGSQ=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -108,7 +108,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u69BB\u69BB\u7C73",
+  "CardImageWarpData": "榻榻米",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],
@@ -187,8 +187,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u5C0F\u61A9",
-        "LocalizationKey": "",
+        "DefaultText": "小憩",
+        "LocalizationKey": "T-S1NEHZb0W2W+0DJLyp2vDiSQqok=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -582,8 +582,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u7761\u89C9",
-        "LocalizationKey": "",
+        "DefaultText": "睡觉",
+        "LocalizationKey": "T-Y4AmCmUrnk7b5jqYk7p7d8mWPok=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -977,8 +977,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u642C\u8D70",
-        "LocalizationKey": "",
+        "DefaultText": "搬走",
+        "LocalizationKey": "T-DOpL2mBkHjmaeRi18Z0PdBDux68=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],

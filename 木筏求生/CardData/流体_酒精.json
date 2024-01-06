@@ -1,7 +1,7 @@
 {
   "CardName": {
-    "DefaultText": "\u9152\u7CBE",
-    "LocalizationKey": "",
+    "DefaultText": "酒精",
+    "LocalizationKey": "T-3PvmgaOg38DqGYwHZJYL7p25Q/Y=",
     "ParentObjectID": ""
   },
   "CardDescription": {
@@ -108,7 +108,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u9152\u7CBE",
+  "CardImageWarpData": "酒精",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],
@@ -746,7 +746,7 @@
         "Active": false,
         "FloatValue": 0.0
       },
-      "EffectName": "\u655E\u53E3\u5BB9\u5668",
+      "EffectName": "敞口容器",
       "EffectStacksWithRequiredCards": false,
       "FuelRateModifier": {
         "Active": false,
@@ -859,7 +859,7 @@
         "Active": false,
         "FloatValue": 0.0
       },
-      "EffectName": "\u84C4\u6C34\u6C60\u84B8\u53D1",
+      "EffectName": "蓄水池蒸发",
       "EffectStacksWithRequiredCards": false,
       "FuelRateModifier": {
         "Active": false,

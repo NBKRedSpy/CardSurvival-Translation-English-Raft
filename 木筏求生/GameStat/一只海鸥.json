@@ -23,7 +23,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "DefaultStatusIconWarpData": "\u4E00\u53EA\u6D77\u9E25",
+  "DefaultStatusIconWarpData": "一只海鸥",
   "DefaultStatusIconWarpType": 3,
   "DefaultStatusName": {
     "DefaultText": "",
@@ -48,8 +48,8 @@
     "StepValue": 1.0
   },
   "GameName": {
-    "DefaultText": "\u4E00\u53EA\u6D77\u9E25",
-    "LocalizationKey": "",
+    "DefaultText": "一只海鸥",
+    "LocalizationKey": "T-Yf+l06Iq6fk8UWeHjJey+RP6qfQ=",
     "ParentObjectID": ""
   },
   "InvertedDirection": false,
@@ -115,8 +115,8 @@
         }
       ],
       "GameName": {
-        "DefaultText": "\u4E00\u53EA\u6D77\u9E25\u91CD\u7F6E",
-        "LocalizationKey": "",
+        "DefaultText": "一只海鸥重置",
+        "LocalizationKey": "T-4UdNN+kbi/s9uNSvCxlwxnNsOQQ=",
         "ParentObjectID": ""
       },
       "GameOver": false,
@@ -124,7 +124,7 @@
         "m_FileID": 0,
         "m_PathID": 0
       },
-      "IconWarpData": "\u4E00\u53EA\u6D77\u9E25",
+      "IconWarpData": "一只海鸥",
       "IconWarpType": 3,
       "NotifyPlayer": 1,
       "PreventingActionMessage": {

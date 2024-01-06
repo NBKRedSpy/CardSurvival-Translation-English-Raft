@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u73CA\u745A\u4E1B",
-    "LocalizationKey": "",
+    "DefaultText": "珊瑚丛",
+    "LocalizationKey": "T-4vplhnn88QbxGFbPNmM4dIPmNAA=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u6F02\u4EAE\u7684\u73CA\u745A\u4E1B",
-    "LocalizationKey": "",
+    "DefaultText": "漂亮的珊瑚丛",
+    "LocalizationKey": "T-bNfu8kpvs8AmDIsA99qwsaJpSME=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -108,7 +108,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u73CA\u745A\u4E1B",
+  "CardImageWarpData": "珊瑚丛",
   "CardImageWarpType": 3,
   "CardInteractions": [
     {
@@ -129,8 +129,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u91C7\u73CA\u745A",
-        "LocalizationKey": "",
+        "DefaultText": "采珊瑚",
+        "LocalizationKey": "T-rFQONAl9tfHwsjCXjOuJ7dT9O74=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -623,8 +623,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u8F70\u9686\uFF01",
-        "LocalizationKey": "",
+        "DefaultText": "轰隆！",
+        "LocalizationKey": "T-k52YJR5XrDUIh4ObKEnk1VpPsno=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -1061,8 +1061,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u8F70\u9686\uFF01",
-        "LocalizationKey": "",
+        "DefaultText": "轰隆！",
+        "LocalizationKey": "T-k52YJR5XrDUIh4ObKEnk1VpPsno=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],

@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u94C1\u9E1F\u7B3C",
-    "LocalizationKey": "",
+    "DefaultText": "铁鸟笼",
+    "LocalizationKey": "T-8PYyDp6I+BXdzTHnm7PwTVU3a+U=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u4E00\u4E2A",
-    "LocalizationKey": "",
+    "DefaultText": "一个",
+    "LocalizationKey": "T-2OOuIp8FZDueVWRBDeTSkK5C/KQ=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -108,7 +108,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u94C1\u9E1F\u7B3C",
+  "CardImageWarpData": "铁鸟笼",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],

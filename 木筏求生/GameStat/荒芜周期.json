@@ -23,7 +23,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "DefaultStatusIconWarpData": "\u8352\u829C\u5468\u671F",
+  "DefaultStatusIconWarpData": "荒芜周期",
   "DefaultStatusIconWarpType": 3,
   "DefaultStatusName": {
     "DefaultText": "",
@@ -48,8 +48,8 @@
     "StepValue": 1.0
   },
   "GameName": {
-    "DefaultText": "\u8352\u829C\u5468\u671F",
-    "LocalizationKey": "",
+    "DefaultText": "荒芜周期",
+    "LocalizationKey": "T-+XmEitEirZg4kNnXWfx2N9zOUdc=",
     "ParentObjectID": ""
   },
   "InvertedDirection": false,

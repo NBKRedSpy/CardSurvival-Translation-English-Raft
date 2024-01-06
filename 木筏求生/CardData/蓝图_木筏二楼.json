@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u6728\u7B4F\u4E8C\u697C",
-    "LocalizationKey": "",
+    "DefaultText": "木筏二楼",
+    "LocalizationKey": "T-FbW693ev5RcChRwyKFB2/+lpy9A=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u7ED9\u4F60\u7684\u6728\u7B4F\u589E\u52A0\u4E00\u4E2A\u623F\u9876\uFF01",
-    "LocalizationKey": "",
+    "DefaultText": "给你的木筏增加一个房顶！",
+    "LocalizationKey": "T-42jm4QzeTwN4eOguj/h73qlRUYY=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -1338,7 +1338,7 @@
           "Special4": 0,
           "Spoilage": 0,
           "Usage": 0,
-          "RequiredTabGroupWarpData": "\u94C1\u9524\u5B50",
+          "RequiredTabGroupWarpData": "铁锤子",
           "RequiredTabGroupWarpType": 3
         },
         {
@@ -2030,7 +2030,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u6728\u7B4F\u4E8C\u697C",
+  "CardImageWarpData": "木筏二楼",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],
@@ -5214,8 +5214,8 @@
   "UniqueID": "b0b806016a4dd1d7935363335c8e6531",
   "UniqueOnBoard": false,
   "UnlockConditionsDesc": {
-    "DefaultText": "\u9700\u8981\u5236\u4F5C\u6280\u80FD",
-    "LocalizationKey": "",
+    "DefaultText": "需要制作技能",
+    "LocalizationKey": "T-Lq3m8c/AmUxfBG5ismhI9bcgNJk=",
     "ParentObjectID": ""
   },
   "UsageDurability": {

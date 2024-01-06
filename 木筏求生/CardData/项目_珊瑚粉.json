@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u73CA\u745A\u7C89",
-    "LocalizationKey": "",
+    "DefaultText": "珊瑚粉",
+    "LocalizationKey": "T-98rvsLUDmfXYogMgaNBD+8ulLok=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u73CD\u8D35\u6750\u6599",
-    "LocalizationKey": "",
+    "DefaultText": "珍贵材料",
+    "LocalizationKey": "T-NeUjf1qJX7wSevrfkL7wRoEVVhU=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -110,7 +110,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u73CA\u745A\u7C89",
+  "CardImageWarpData": "珊瑚粉",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],

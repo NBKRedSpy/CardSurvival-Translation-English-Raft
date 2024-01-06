@@ -1,7 +1,7 @@
 {
   "CardName": {
-    "DefaultText": "\u9489\u67AA",
-    "LocalizationKey": "",
+    "DefaultText": "钉枪",
+    "LocalizationKey": "T-YQy3gZEY3SBQ9nHEf8LFouQPWYU=",
     "ParentObjectID": ""
   },
   "CardDescription": {
@@ -294,7 +294,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u9489\u67AA",
+  "CardImageWarpData": "钉枪",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [
@@ -3475,8 +3475,8 @@
   "UniqueID": "648b9a2c7bb4957e5d41c755be1f6cf8",
   "UniqueOnBoard": false,
   "UnlockConditionsDesc": {
-    "DefaultText": "\u9700\u8981\u4E00\u888B\u94F6\u86C7\u5E01",
-    "LocalizationKey": "",
+    "DefaultText": "需要一袋银蛇币",
+    "LocalizationKey": "T-hZ0gM4wfyxPIFsYs7X71JTTmguA=",
     "ParentObjectID": ""
   },
   "UsageDurability": {

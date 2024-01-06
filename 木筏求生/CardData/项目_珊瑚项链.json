@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u73CA\u745A\u9879\u94FE",
-    "LocalizationKey": "",
+    "DefaultText": "珊瑚项链",
+    "LocalizationKey": "T-dT6thLsrWMoio/+XUi0/lvlnVzk=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u4E00\u6761\u73CA\u745A\u4E32\u6210\u7684\u82B1\u4FCF\u9879\u94FE\u3002",
-    "LocalizationKey": "",
+    "DefaultText": "一条珊瑚串成的花俏项链。",
+    "LocalizationKey": "T-ZSAcohHPoCrDcMEwh8pkTKdu/8w=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -112,7 +112,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u73CA\u745A\u9879\u94FE",
+  "CardImageWarpData": "珊瑚项链",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],
@@ -191,8 +191,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u62C6\u89E3",
-        "LocalizationKey": "",
+        "DefaultText": "拆解",
+        "LocalizationKey": "T-GDPFm/RajRVzs5OJeCACAa0Ba84=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],

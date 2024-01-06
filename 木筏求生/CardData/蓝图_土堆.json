@@ -1,7 +1,7 @@
 {
   "CardName": {
-    "DefaultText": "\u571F\u5806",
-    "LocalizationKey": "",
+    "DefaultText": "土堆",
+    "LocalizationKey": "T-ROJ1oap9+7iWVEw6dbcWdi4x6l8=",
     "ParentObjectID": ""
   },
   "CardDescription": {
@@ -3532,8 +3532,8 @@
   "UniqueID": "df8d852495036f7ea92219a2fcfff630",
   "UniqueOnBoard": false,
   "UnlockConditionsDesc": {
-    "DefaultText": "\u9700\u8981\u8150\u70C2\u7269",
-    "LocalizationKey": "",
+    "DefaultText": "需要腐烂物",
+    "LocalizationKey": "T-NJ0i/gkFYIwpXuxAyUUxMMqIVPk=",
     "ParentObjectID": ""
   },
   "UsageDurability": {

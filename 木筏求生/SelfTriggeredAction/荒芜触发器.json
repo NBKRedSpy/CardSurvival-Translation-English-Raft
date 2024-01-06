@@ -2,8 +2,8 @@
   "Actions": [
     {
       "ActionName": {
-        "DefaultText": "\u4E00\u9636\u6BB5",
-        "LocalizationKey": "",
+        "DefaultText": "一阶段",
+        "LocalizationKey": "T-Scp2Lgzme82uzEOcdjqxFDQrM/8=",
         "ParentObjectID": ""
       },
       "RepeatOptions": 2,
@@ -135,8 +135,8 @@
     },
     {
       "ActionName": {
-        "DefaultText": "\u4E8C\u9636\u6BB5",
-        "LocalizationKey": "",
+        "DefaultText": "二阶段",
+        "LocalizationKey": "T-6SDXXU2dJZC8CdSAuFJ//UbEDeg=",
         "ParentObjectID": ""
       },
       "RepeatOptions": 2,
@@ -256,8 +256,8 @@
     },
     {
       "ActionName": {
-        "DefaultText": "\u4E09\u9636\u6BB5",
-        "LocalizationKey": "",
+        "DefaultText": "三阶段",
+        "LocalizationKey": "T-OnhO7VYqAYu8B69292ZLx7NXnZw=",
         "ParentObjectID": ""
       },
       "RepeatOptions": 2,
@@ -377,8 +377,8 @@
     },
     {
       "ActionName": {
-        "DefaultText": "\u56DB\u9636\u6BB5",
-        "LocalizationKey": "",
+        "DefaultText": "四阶段",
+        "LocalizationKey": "T-yvqaEjUBM51dTQ/d3TclVkZCHFk=",
         "ParentObjectID": ""
       },
       "RepeatOptions": 2,

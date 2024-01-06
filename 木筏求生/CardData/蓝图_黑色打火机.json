@@ -1,7 +1,7 @@
 {
   "CardName": {
-    "DefaultText": "\u9ED1\u8272\u6253\u706B\u673A",
-    "LocalizationKey": "",
+    "DefaultText": "黑色打火机",
+    "LocalizationKey": "T-Vk6HFdCW97qxttWbN/suthctnlg=",
     "ParentObjectID": ""
   },
   "CardDescription": {
@@ -294,7 +294,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u9ED1\u8272\u6253\u706B\u673A",
+  "CardImageWarpData": "黑色打火机",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [
@@ -3475,8 +3475,8 @@
   "UniqueID": "dbb2d6e6ff94aec5145fbc3891dd5c70",
   "UniqueOnBoard": false,
   "UnlockConditionsDesc": {
-    "DefaultText": "\u9700\u8981\u94F6\u86C7\u5E01",
-    "LocalizationKey": "",
+    "DefaultText": "需要银蛇币",
+    "LocalizationKey": "T-4xxoUJ1NXlGgqpKO+tCEr5+b41Q=",
     "ParentObjectID": ""
   },
   "UsageDurability": {

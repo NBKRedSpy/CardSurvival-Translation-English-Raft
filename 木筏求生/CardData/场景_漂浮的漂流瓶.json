@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u6F02\u6D6E\u7684\u6F02\u6D41\u74F6",
-    "LocalizationKey": "",
+    "DefaultText": "漂浮的漂流瓶",
+    "LocalizationKey": "T-0Xmw4n78sf80UEC5NtNZeDW+BXA=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u8FDC\u5904\u7684\u6D77\u9762\u4E0A\u6F02\u6D6E\u7740\u4E00\u4E2A\u6F02\u6D41\u74F6",
-    "LocalizationKey": "",
+    "DefaultText": "远处的海面上漂浮着一个漂流瓶",
+    "LocalizationKey": "T-+lR7k52THO21VQpgCKrStw89cgA=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -108,7 +108,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u6F02\u6D6E\u7684\u6F02\u6D41\u74F6",
+  "CardImageWarpData": "漂浮的漂流瓶",
   "CardImageWarpType": 3,
   "CardInteractions": [
     {
@@ -129,8 +129,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u52FE\u8FC7\u6765",
-        "LocalizationKey": "",
+        "DefaultText": "勾过来",
+        "LocalizationKey": "T-CiRG8MKTSuDNDTm4dWOQYI6seEA=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -589,7 +589,7 @@
       "WorksBothWays": false,
       "ActionSoundsWarpType": 3,
       "ActionSoundsWarpData": [
-        "\u94A9\u7D22"
+        "钩索"
       ]
     }
   ],

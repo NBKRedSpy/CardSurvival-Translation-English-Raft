@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u4ED9\u4EBA\u638C\u679C",
-    "LocalizationKey": "",
+    "DefaultText": "仙人掌果",
+    "LocalizationKey": "T-R+dYUrIK70dfld9fAK5gfkxgMPU=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u610F\u5916\u7684\u4E0D\u9519\uFF01",
-    "LocalizationKey": "",
+    "DefaultText": "意外的不错！",
+    "LocalizationKey": "T-MYjRRNHosYn0v+//7zfzN+FFE7g=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -115,7 +115,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u4ED9\u4EBA\u638C\u679C",
+  "CardImageWarpData": "仙人掌果",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],
@@ -194,8 +194,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u98DF\u7528",
-        "LocalizationKey": "",
+        "DefaultText": "食用",
+        "LocalizationKey": "T-/CTIPWxzNS43sBPJ2MPBHWGtsdM=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],

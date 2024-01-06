@@ -1,18 +1,18 @@
 {
   "CardName": {
-    "DefaultText": "\u672A\u70F9\u996A\u7684\u7AE0\u9C7C\u4E38\u5B50",
-    "LocalizationKey": "",
+    "DefaultText": "未烹饪的章鱼丸子",
+    "LocalizationKey": "T-iUO6lScJ9rN3brTGcitFSZydxao=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u653E\u5728\u706B\u4E0A",
-    "LocalizationKey": "",
+    "DefaultText": "放在火上",
+    "LocalizationKey": "T-qDvxAEvp+bw7FSqDsnmlpTtapiU=",
     "ParentObjectID": ""
   },
   "CardTags": [],
   "CardTagsWarpData": [
     "tag_Cookable",
-    "\u53EF\u88AB\u71C3\u70E7"
+    "可被燃烧"
   ],
   "CardTagsWarpType": 3,
   "CardType": 0,
@@ -111,7 +111,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u672A\u70F9\u996A\u7684\u9505",
+  "CardImageWarpData": "未烹饪的锅",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],

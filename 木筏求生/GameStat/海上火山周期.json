@@ -23,7 +23,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "DefaultStatusIconWarpData": "\u6D77\u4E0A\u706B\u5C71\u5468\u671F",
+  "DefaultStatusIconWarpData": "海上火山周期",
   "DefaultStatusIconWarpType": 3,
   "DefaultStatusName": {
     "DefaultText": "",
@@ -48,8 +48,8 @@
     "StepValue": 1.0
   },
   "GameName": {
-    "DefaultText": "\u6D77\u4E0A\u706B\u5C71\u5468\u671F",
-    "LocalizationKey": "",
+    "DefaultText": "海上火山周期",
+    "LocalizationKey": "T-DKICXq44E4qQ6iYtRhDPHKjXWQE=",
     "ParentObjectID": ""
   },
   "InvertedDirection": false,

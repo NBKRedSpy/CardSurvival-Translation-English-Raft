@@ -1,7 +1,7 @@
 {
   "CardName": {
-    "DefaultText": "10\u4E2A\u73BB\u7483\u74F6",
-    "LocalizationKey": "",
+    "DefaultText": "10个玻璃瓶",
+    "LocalizationKey": "T-Cy05c2R+g/A+4W3WhknGOE4NN6A=",
     "ParentObjectID": ""
   },
   "CardDescription": {
@@ -294,7 +294,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u73BB\u7483\u74F6",
+  "CardImageWarpData": "玻璃瓶",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [
@@ -3475,8 +3475,8 @@
   "UniqueID": "026e8d89153c0495ab0266e0166864d0",
   "UniqueOnBoard": false,
   "UnlockConditionsDesc": {
-    "DefaultText": "\u9700\u8981\u94F6\u86C7\u5E01",
-    "LocalizationKey": "",
+    "DefaultText": "需要银蛇币",
+    "LocalizationKey": "T-4xxoUJ1NXlGgqpKO+tCEr5+b41Q=",
     "ParentObjectID": ""
   },
   "UsageDurability": {

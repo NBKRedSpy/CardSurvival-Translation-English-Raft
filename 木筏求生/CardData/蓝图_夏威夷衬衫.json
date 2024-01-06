@@ -1,7 +1,7 @@
 {
   "CardName": {
-    "DefaultText": "\u590F\u5A01\u5937\u886C\u886B",
-    "LocalizationKey": "",
+    "DefaultText": "夏威夷衬衫",
+    "LocalizationKey": "T-GC1GyNlhffsW9OH92bzJ5yKW/Uo=",
     "ParentObjectID": ""
   },
   "CardDescription": {
@@ -3475,8 +3475,8 @@
   "UniqueID": "308fa7644e17482ebae621270383f622",
   "UniqueOnBoard": false,
   "UnlockConditionsDesc": {
-    "DefaultText": "\u9700\u8981\u94F6\u86C7\u5E01",
-    "LocalizationKey": "",
+    "DefaultText": "需要银蛇币",
+    "LocalizationKey": "T-4xxoUJ1NXlGgqpKO+tCEr5+b41Q=",
     "ParentObjectID": ""
   },
   "UsageDurability": {

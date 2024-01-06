@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u58A8\u56CA",
-    "LocalizationKey": "",
+    "DefaultText": "墨囊",
+    "LocalizationKey": "T-hpzL7TOTM+FjP2bmL6hB+K7Rv8Y=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u5929\u7136\u7684\u9ED1\u8272\u67D3\u6599",
-    "LocalizationKey": "",
+    "DefaultText": "天然的黑色染料",
+    "LocalizationKey": "T-2VVtmNzHn8iG0MUIte5whbVfHLQ=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -108,7 +108,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u58A8\u56CA",
+  "CardImageWarpData": "墨囊",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],

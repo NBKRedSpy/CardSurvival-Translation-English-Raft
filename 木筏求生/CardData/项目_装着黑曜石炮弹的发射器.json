@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u88C5\u7740\u9ED1\u66DC\u77F3\u70AE\u5F39\u7684\u53D1\u5C04\u5668",
-    "LocalizationKey": "",
+    "DefaultText": "装着黑曜石炮弹的发射器",
+    "LocalizationKey": "T-yxShpT3ka2tTODcfq2LMZ7lW3w4=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u66F4\u5F3A\u7684\u70ED\u6B66\u5668\uFF01",
-    "LocalizationKey": "",
+    "DefaultText": "更强的热武器！",
+    "LocalizationKey": "T-z5K2pMEccwF+JSEfN4sncmBmxIQ=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -108,7 +108,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u6930\u5B50\u70AE\u53D1\u5C04\u5668",
+  "CardImageWarpData": "椰子炮发射器",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],
@@ -3814,6 +3814,6 @@
   "WeaponReach": 0.0,
   "EquipmentTagsWarpType": 3,
   "EquipmentTagsWarpData": [
-    "\u6B66\u5668"
+    "武器"
   ]
 }

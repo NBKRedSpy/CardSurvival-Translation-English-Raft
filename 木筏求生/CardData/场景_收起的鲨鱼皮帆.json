@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u6536\u8D77\u7684\u9CA8\u9C7C\u76AE\u5E06",
-    "LocalizationKey": "",
+    "DefaultText": "收起的鲨鱼皮帆",
+    "LocalizationKey": "T-BLEMW5gt8SWX9x0H8bT/uQSBL+4=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u5F53\u6211\u60F3\u8981\u52A0\u901F\u524D\u8FDB\u65F6\uFF0C\u6211\u5E94\u8BE5\u5347\u8D77\u9CA8\u9C7C\u76AE\u5E06\u3002",
-    "LocalizationKey": "",
+    "DefaultText": "当我想要加速前进时，我应该升起鲨鱼皮帆。",
+    "LocalizationKey": "T-//Ws556RXrMfxBXkP6ZRPFRx0go=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -108,7 +108,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u6536\u8D77\u7684\u9CA8\u9C7C\u76AE\u5E06",
+  "CardImageWarpData": "收起的鲨鱼皮帆",
   "CardImageWarpType": 3,
   "CardInteractions": [
     {
@@ -129,8 +129,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u4FEE\u7406\u9CA8\u9C7C\u76AE\u5E06",
-        "LocalizationKey": "",
+        "DefaultText": "修理鲨鱼皮帆",
+        "LocalizationKey": "T-0a8pnLOtZCny5qxDOzc5DnwTJLw=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -553,8 +553,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u626C\u9CA8\u9C7C\u76AE\u5E06",
-        "LocalizationKey": "",
+        "DefaultText": "扬鲨鱼皮帆",
+        "LocalizationKey": "T-NYQgRMFZhKtTwvXYOoQlufrK5o0=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -4121,8 +4121,8 @@
     "OnFullNotification": 0,
     "OnZero": {
       "ActionDescription": {
-        "DefaultText": "\u9CA8\u9C7C\u76AE\u5E06\u6D88\u5931\u4E86\u3002",
-        "LocalizationKey": "",
+        "DefaultText": "鲨鱼皮帆消失了。",
+        "LocalizationKey": "T-u5JCSsH09YmSvI/QtY9K6WdB+dE=",
         "ParentObjectID": ""
       },
       "ActionLog": {

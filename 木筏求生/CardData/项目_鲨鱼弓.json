@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u9CA8\u9C7C\u5F13",
-    "LocalizationKey": "",
+    "DefaultText": "鲨鱼弓",
+    "LocalizationKey": "T-jkk07P9RjwX12BLY5vT/bflnI9M=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u9CA8\u9C7C\u7B4B\u8BA9\u5F13\u7BAD\u5F3A\u800C\u6709\u529B(\u76EE\u524D\u53EA\u80FD\u88C5\u8F7D\u91D1\u5C5E\u7BAD)",
-    "LocalizationKey": "",
+    "DefaultText": "鲨鱼筋让弓箭强而有力(目前只能装载金属箭)",
+    "LocalizationKey": "T-MzymrWFpmACSg83i1Ew37Cn/XBA=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -108,7 +108,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u9CA8\u9C7C\u5F13",
+  "CardImageWarpData": "鲨鱼弓",
   "CardImageWarpType": 3,
   "CardInteractions": [
     {
@@ -129,8 +129,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u88C5\u5F39",
-        "LocalizationKey": "",
+        "DefaultText": "装弹",
+        "LocalizationKey": "T-vIjU4Dvi5bXpIk/uGnmgulRU3H8=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -375,8 +375,8 @@
       "RequiredReceivingContainerTag": [],
       "RequiredReceivingDurabilities": {
         "FailMessage": {
-          "DefaultText": "\u5B50\u5F39\u5DF2\u6EE1",
-          "LocalizationKey": "",
+          "DefaultText": "子弹已满",
+          "LocalizationKey": "T-Q1rpQSuUSO/8H/yKDMeIQIcZMv8=",
           "ParentObjectID": ""
         },
         "HideActionIfNotMet": false,
@@ -4165,6 +4165,6 @@
   "WeaponReach": 0.0,
   "EquipmentTagsWarpType": 3,
   "EquipmentTagsWarpData": [
-    "\u6B66\u5668"
+    "武器"
   ]
 }

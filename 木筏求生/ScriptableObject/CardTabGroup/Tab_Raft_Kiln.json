@@ -15,8 +15,8 @@
   "TabIconWarpData": "ClayMold",
   "TabIconWarpType": 3,
   "TabName": {
-    "DefaultText": "\u7194\u70BC",
-    "LocalizationKey": "",
+    "DefaultText": "熔炼",
+    "LocalizationKey": "T-WJFSasIkdNIJLWpwHrV0P3aYGK8=",
     "ParentObjectID": ""
   }
 }

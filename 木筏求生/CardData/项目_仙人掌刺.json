@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u4ED9\u4EBA\u638C\u523A",
-    "LocalizationKey": "",
+    "DefaultText": "仙人掌刺",
+    "LocalizationKey": "T-N/NPmPjNMd+SxOxV4IFUTpzDE+M=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u5C16\u9510\u7684\u6295\u63B7\u6B66\u5668",
-    "LocalizationKey": "",
+    "DefaultText": "尖锐的投掷武器",
+    "LocalizationKey": "T-5URCnE1amHgHiF0+WiPzAtBaNOU=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -108,7 +108,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u4ED9\u4EBA\u638C\u523A",
+  "CardImageWarpData": "仙人掌刺",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],

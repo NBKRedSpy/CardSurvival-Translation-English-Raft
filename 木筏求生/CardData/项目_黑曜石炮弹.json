@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u9ED1\u66DC\u77F3\u70AE\u5F39",
-    "LocalizationKey": "",
+    "DefaultText": "黑曜石炮弹",
+    "LocalizationKey": "T-RM8NFDe9mPm0JYA9Q3thopiqbn8=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u6211\u8981\u628A\u5B83\u653E\u5230\u53D1\u5C04\u70AE\u91CC",
-    "LocalizationKey": "",
+    "DefaultText": "我要把它放到发射炮里",
+    "LocalizationKey": "T-+GVCnViv9pkt0ozgiktx7dHQ6dk=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -108,7 +108,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u9ED1\u66DC\u77F3\u70AE\u5F39",
+  "CardImageWarpData": "黑曜石炮弹",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],

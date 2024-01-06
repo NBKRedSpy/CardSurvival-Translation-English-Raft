@@ -1,7 +1,7 @@
 {
   "CardName": {
-    "DefaultText": "\u9EC4\u91D1\u9493\u7AFF",
-    "LocalizationKey": "",
+    "DefaultText": "黄金钓竿",
+    "LocalizationKey": "T-6PYKM1phz8OlV+TLnd7pNAs0NHY=",
     "ParentObjectID": ""
   },
   "CardDescription": {
@@ -294,7 +294,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u9EC4\u91D1\u9493\u7AFF",
+  "CardImageWarpData": "黄金钓竿",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [
@@ -3475,8 +3475,8 @@
   "UniqueID": "652c31b2352f8f7fec11e3ba2b08035b",
   "UniqueOnBoard": false,
   "UnlockConditionsDesc": {
-    "DefaultText": "\u9700\u8981\u94F6\u86C7\u5E01",
-    "LocalizationKey": "",
+    "DefaultText": "需要银蛇币",
+    "LocalizationKey": "T-4xxoUJ1NXlGgqpKO+tCEr5+b41Q=",
     "ParentObjectID": ""
   },
   "UsageDurability": {

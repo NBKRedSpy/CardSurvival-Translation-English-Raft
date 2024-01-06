@@ -1,7 +1,7 @@
 {
   "CardName": {
-    "DefaultText": "\u9CA8\u9C7C\u76AE\u9F13",
-    "LocalizationKey": "",
+    "DefaultText": "鲨鱼皮鼓",
+    "LocalizationKey": "T-rBa1jLSbtdTW5ZXB05CX4nj5NyE=",
     "ParentObjectID": ""
   },
   "CardDescription": {
@@ -790,7 +790,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u9CA8\u9C7C\u76AE\u9F13",
+  "CardImageWarpData": "鲨鱼皮鼓",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],
@@ -3974,8 +3974,8 @@
   "UniqueID": "3732af7347327a1c772424b21846a9db",
   "UniqueOnBoard": false,
   "UnlockConditionsDesc": {
-    "DefaultText": "\u9700\u8981\u5236\u4F5C\u6280\u80FD",
-    "LocalizationKey": "",
+    "DefaultText": "需要制作技能",
+    "LocalizationKey": "T-Lq3m8c/AmUxfBG5ismhI9bcgNJk=",
     "ParentObjectID": ""
   },
   "UsageDurability": {

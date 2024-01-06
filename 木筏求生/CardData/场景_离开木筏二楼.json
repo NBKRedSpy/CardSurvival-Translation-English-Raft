@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u79BB\u5F00",
-    "LocalizationKey": "",
+    "DefaultText": "离开",
+    "LocalizationKey": "T-C6GJBTwNxnbvd9Es2vwp8HQAVKI=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u79BB\u5F00\u6728\u7B4F\u4E8C\u697C",
-    "LocalizationKey": "",
+    "DefaultText": "离开木筏二楼",
+    "LocalizationKey": "T-OY74srDjyf92cNjZAK287giBZ0k=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -108,7 +108,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u6728\u7B4F\u4E00\u697C",
+  "CardImageWarpData": "木筏一楼",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],
@@ -187,8 +187,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u79BB\u5F00",
-        "LocalizationKey": "",
+        "DefaultText": "离开",
+        "LocalizationKey": "T-C6GJBTwNxnbvd9Es2vwp8HQAVKI=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],

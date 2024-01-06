@@ -23,7 +23,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "DefaultStatusIconWarpData": "\u6D77\u6D0B\u4F4D\u7F6E\u8BA1\u6570\u5668\u6E05\u7A7A",
+  "DefaultStatusIconWarpData": "海洋位置计数器清空",
   "DefaultStatusIconWarpType": 3,
   "DefaultStatusName": {
     "DefaultText": "",
@@ -48,8 +48,8 @@
     "StepValue": 1.0
   },
   "GameName": {
-    "DefaultText": "\u6D77\u6D0B\u4F4D\u7F6E\u8BA1\u6570\u5668\u6E05\u7A7A",
-    "LocalizationKey": "",
+    "DefaultText": "海洋位置计数器清空",
+    "LocalizationKey": "T-14prYje2v4Sm1sLxI51i+W5Ro1Y=",
     "ParentObjectID": ""
   },
   "InvertedDirection": false,
@@ -267,8 +267,8 @@
         }
       ],
       "GameName": {
-        "DefaultText": "\u6D77\u6D0B\u4F4D\u7F6E\u8BA1\u6570\u5668\u6E05\u7A7A",
-        "LocalizationKey": "",
+        "DefaultText": "海洋位置计数器清空",
+        "LocalizationKey": "T-14prYje2v4Sm1sLxI51i+W5Ro1Y=",
         "ParentObjectID": ""
       },
       "GameOver": false,
@@ -276,7 +276,7 @@
         "m_FileID": 0,
         "m_PathID": 0
       },
-      "IconWarpData": "\u6D77\u6D0B\u4F4D\u7F6E\u8BA1\u6570\u5668\u6E05\u7A7A",
+      "IconWarpData": "海洋位置计数器清空",
       "IconWarpType": 3,
       "NotifyPlayer": 1,
       "PreventingActionMessage": {

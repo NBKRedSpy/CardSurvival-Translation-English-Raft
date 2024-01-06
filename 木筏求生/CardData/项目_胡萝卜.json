@@ -1,18 +1,18 @@
 {
   "CardName": {
-    "DefaultText": "\u80E1\u841D\u535C",
-    "LocalizationKey": "",
+    "DefaultText": "胡萝卜",
+    "LocalizationKey": "T-g3eC9EA21F/aazVS7J/meXmuUWU=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u6211\u4E0D\u7231\u5403\u80E1\u841D\u535C",
-    "LocalizationKey": "",
+    "DefaultText": "我不爱吃胡萝卜",
+    "LocalizationKey": "T-6P7YWIzIcg95JpHpEiMc9HJ1jfs=",
     "ParentObjectID": ""
   },
   "CardTags": [],
   "CardTagsWarpData": [
     "tag_Cookable",
-    "\u53EF\u88AB\u71C3\u70E7",
+    "可被燃烧",
     "tag_Meat"
   ],
   "CardTagsWarpType": 3,
@@ -112,7 +112,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u80E1\u841D\u535C",
+  "CardImageWarpData": "胡萝卜",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],
@@ -191,8 +191,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u98DF\u7528",
-        "LocalizationKey": "",
+        "DefaultText": "食用",
+        "LocalizationKey": "T-/CTIPWxzNS43sBPJ2MPBHWGtsdM=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],

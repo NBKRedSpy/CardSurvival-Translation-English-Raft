@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u7535\u51FB\u67AA\uFF08\u7A7A\uFF09",
-    "LocalizationKey": "",
+    "DefaultText": "电击枪（空）",
+    "LocalizationKey": "T-F9o0vNtzTU18tLuDX/Y728Pxg90=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u6211\u7535\u6C60\u5462\uFF1F\uFF01",
-    "LocalizationKey": "",
+    "DefaultText": "我电池呢？！",
+    "LocalizationKey": "T-ZTW4NDxf/74nJDYxTWNbXVGw/oE=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -108,7 +108,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u7535\u51FB\u67AA",
+  "CardImageWarpData": "电击枪",
   "CardImageWarpType": 3,
   "CardInteractions": [
     {
@@ -129,8 +129,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u88C5\u5F39",
-        "LocalizationKey": "",
+        "DefaultText": "装弹",
+        "LocalizationKey": "T-vIjU4Dvi5bXpIk/uGnmgulRU3H8=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -4166,6 +4166,6 @@
   "WeaponReach": 0.0,
   "EquipmentTagsWarpType": 3,
   "EquipmentTagsWarpData": [
-    "\u6B66\u5668"
+    "武器"
   ]
 }

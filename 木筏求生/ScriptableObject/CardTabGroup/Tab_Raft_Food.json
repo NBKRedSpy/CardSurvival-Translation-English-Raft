@@ -12,11 +12,11 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "TabIconWarpData": "\u5377\u5FC3\u83DC",
+  "TabIconWarpData": "卷心菜",
   "TabIconWarpType": 3,
   "TabName": {
-    "DefaultText": "\u98DF\u7269",
-    "LocalizationKey": "",
+    "DefaultText": "食物",
+    "LocalizationKey": "T-gYN3MVW84PLS0lHjW3oPIja7+ms=",
     "ParentObjectID": ""
   }
 }

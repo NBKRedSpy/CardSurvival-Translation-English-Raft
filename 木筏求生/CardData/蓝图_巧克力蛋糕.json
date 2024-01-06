@@ -1,7 +1,7 @@
 {
   "CardName": {
-    "DefaultText": "\u5DE7\u514B\u529B\u86CB\u7CD5",
-    "LocalizationKey": "",
+    "DefaultText": "巧克力蛋糕",
+    "LocalizationKey": "T-CTsas+i2xudOB9PNX8IMLmFXDdQ=",
     "ParentObjectID": ""
   },
   "CardDescription": {
@@ -659,7 +659,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u5DE7\u514B\u529B\u86CB\u7CD5",
+  "CardImageWarpData": "巧克力蛋糕",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],
@@ -3843,8 +3843,8 @@
   "UniqueID": "227f186d74ea48d158248f2326009827",
   "UniqueOnBoard": false,
   "UnlockConditionsDesc": {
-    "DefaultText": "\u9700\u8981\u70F9\u996A\u6280\u80FD",
-    "LocalizationKey": "",
+    "DefaultText": "需要烹饪技能",
+    "LocalizationKey": "T-EgA5E52q8KRc36YNt9kA5NSWtdU=",
     "ParentObjectID": ""
   },
   "UsageDurability": {

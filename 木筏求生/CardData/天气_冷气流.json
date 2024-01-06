@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u51B7\u6C14\u6D41",
-    "LocalizationKey": "",
+    "DefaultText": "冷气流",
+    "LocalizationKey": "T-qR9MGEIz9UZFL9TGWJfPGE0kpNM=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u4F4E\u6E29\u51CF\u901F\uFF01",
-    "LocalizationKey": "",
+    "DefaultText": "低温减速！",
+    "LocalizationKey": "T-xxMYt2AF5Jqs6G4F91mvMBGxqA0=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -114,7 +114,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u51B7\u6C14\u6D41",
+  "CardImageWarpData": "冷气流",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],

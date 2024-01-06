@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u9CA8\u9C7C\u76AE",
-    "LocalizationKey": "",
+    "DefaultText": "鲨鱼皮",
+    "LocalizationKey": "T-QjHfyFipONVCNSBrJt0sclVBA/E=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u5F88\u7ED3\u5B9E\u8010\u7528",
-    "LocalizationKey": "",
+    "DefaultText": "很结实耐用",
+    "LocalizationKey": "T-7QCgT/RUvXiihvXOGhZCRSuV/4Q=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -108,7 +108,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u9CA8\u9C7C\u76AE",
+  "CardImageWarpData": "鲨鱼皮",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],

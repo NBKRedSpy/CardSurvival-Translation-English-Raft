@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u6536\u8D77\u7684\u68D5\u6988\u53F6\u5E06",
-    "LocalizationKey": "",
+    "DefaultText": "收起的棕榈叶帆",
+    "LocalizationKey": "T-R+g2rCgHQFh5gS3Ly2ofE/LoYfI=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u5F53\u6211\u60F3\u8981\u52A0\u901F\u524D\u8FDB\u65F6\uFF0C\u6211\u5E94\u8BE5\u5347\u8D77\u68D5\u6988\u53F6\u5E06\u3002",
-    "LocalizationKey": "",
+    "DefaultText": "当我想要加速前进时，我应该升起棕榈叶帆。",
+    "LocalizationKey": "T-0maGaOE1vrDNEYeXcbzGzxYL6FQ=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -108,7 +108,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u6536\u8D77\u7684\u68D5\u6988\u53F6\u5E06",
+  "CardImageWarpData": "收起的棕榈叶帆",
   "CardImageWarpType": 3,
   "CardInteractions": [
     {
@@ -129,8 +129,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u4FEE\u7406\u8239\u68D5\u6988\u53F6\u5E06",
-        "LocalizationKey": "",
+        "DefaultText": "修理船棕榈叶帆",
+        "LocalizationKey": "T-ekIEMGXJnkiIc9riC8d+Bsu8HY8=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -553,8 +553,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u626C\u68D5\u6988\u53F6\u5E06",
-        "LocalizationKey": "",
+        "DefaultText": "扬棕榈叶帆",
+        "LocalizationKey": "T-7grZm6klNclHnMXmwLUGfZSU6fw=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -4121,8 +4121,8 @@
     "OnFullNotification": 0,
     "OnZero": {
       "ActionDescription": {
-        "DefaultText": "\u68D5\u6988\u53F6\u5E06\u6D88\u5931\u4E86\u3002",
-        "LocalizationKey": "",
+        "DefaultText": "棕榈叶帆消失了。",
+        "LocalizationKey": "T-yOY2/s3+LYusK1kNp92dhtp3uPY=",
         "ParentObjectID": ""
       },
       "ActionLog": {

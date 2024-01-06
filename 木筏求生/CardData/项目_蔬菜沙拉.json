@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u852C\u83DC\u6C99\u62C9",
-    "LocalizationKey": "",
+    "DefaultText": "蔬菜沙拉",
+    "LocalizationKey": "T-LGrnrn/h6EH4Y3l8Y2FT8gF+yhs=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u8865\u5145\u7EF4\u751F\u7D20\uFF01",
-    "LocalizationKey": "",
+    "DefaultText": "补充维生素！",
+    "LocalizationKey": "T-zBnIRua0vjL4QFRJZ0jOUoWnPUg=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -111,7 +111,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u852C\u83DC\u6C99\u62C9",
+  "CardImageWarpData": "蔬菜沙拉",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],
@@ -190,8 +190,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u98DF\u7528",
-        "LocalizationKey": "",
+        "DefaultText": "食用",
+        "LocalizationKey": "T-/CTIPWxzNS43sBPJ2MPBHWGtsdM=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],

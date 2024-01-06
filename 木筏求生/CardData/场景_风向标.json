@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u98CE\u5411\u6807",
-    "LocalizationKey": "",
+    "DefaultText": "风向标",
+    "LocalizationKey": "T-OJ3+rK/fZjVoT1NYl8NfkDk86o4=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u6709\u610F\u601D(\u53EA\u80FD\u505A\u4E00\u4E2A)",
-    "LocalizationKey": "",
+    "DefaultText": "有意思(只能做一个)",
+    "LocalizationKey": "T-UBBAk9UKS3B6IsGj3nfKUfb/Jvo=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -110,7 +110,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u98CE\u5411\u6807",
+  "CardImageWarpData": "风向标",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],

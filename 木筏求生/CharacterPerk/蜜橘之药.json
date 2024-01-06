@@ -29,19 +29,19 @@
   "OverrideWeatherWarpType": 3,
   "PassiveStatModifiers": [],
   "PerkDescription": {
-    "DefaultText": "\u5F00\u5C40\u7ED9\u4F609\u4E2A\u4FDD\u8D28\u671F\u8D3C\u957F\u7684\u871C\u6A58\uFF0C\u7528\u4E8E\u7F13\u89E3\u524D\u671F\u7684\u8D25\u8840\u75C7",
-    "LocalizationKey": "",
+    "DefaultText": "开局给你9个保质期贼长的蜜橘，用于缓解前期的败血症",
+    "LocalizationKey": "T-sZ8bxZgIrTSFf8OUo2HvdiPrhx4=",
     "ParentObjectID": ""
   },
   "PerkIcon": {
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "PerkIconWarpData": "\u6A58\u5B50",
+  "PerkIconWarpData": "橘子",
   "PerkIconWarpType": 3,
   "PerkName": {
-    "DefaultText": "\u871C\u6A58\u4E4B\u836F",
-    "LocalizationKey": "",
+    "DefaultText": "蜜橘之药",
+    "LocalizationKey": "T-15dzc3j9oobmjKML9iXd9IunhVw=",
     "ParentObjectID": ""
   },
   "PerkUnlockConditions": {

@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u868A\u5B50\u7FA4",
-    "LocalizationKey": "",
+    "DefaultText": "蚊子群",
+    "LocalizationKey": "T-7D0x3yaPahFjz1+9LOcM+rNI3yQ=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u4F60\u53EF\u4EE5\u7528\u706B\u628A\u9A71\u8D76\u5B83\u4EEC",
-    "LocalizationKey": "",
+    "DefaultText": "你可以用火把驱赶它们",
+    "LocalizationKey": "T-UJTQFVLCk8Rtr2SQ87264zIS1gA=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -108,7 +108,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u868A\u5B50\u7FA4",
+  "CardImageWarpData": "蚊子群",
   "CardImageWarpType": 3,
   "CardInteractions": [
     {
@@ -129,8 +129,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u9A71\u6563",
-        "LocalizationKey": "",
+        "DefaultText": "驱散",
+        "LocalizationKey": "T-A51DNZzrRfta2mPKOLLRwuy1gj8=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -4272,7 +4272,7 @@
   "WeaponReach": 0.0,
   "WhenCreatedSounds": [],
   "WhenCreatedSoundsWarpData": [
-    "\u868A\u5B50"
+    "蚊子"
   ],
   "WhenCreatedSoundsWarpType": 3
 }

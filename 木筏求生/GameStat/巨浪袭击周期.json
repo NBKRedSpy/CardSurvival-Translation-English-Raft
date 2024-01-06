@@ -23,7 +23,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "DefaultStatusIconWarpData": "\u5DE8\u6D6A\u88AD\u51FB\u5468\u671F",
+  "DefaultStatusIconWarpData": "巨浪袭击周期",
   "DefaultStatusIconWarpType": 3,
   "DefaultStatusName": {
     "DefaultText": "",
@@ -48,8 +48,8 @@
     "StepValue": 1.0
   },
   "GameName": {
-    "DefaultText": "\u5DE8\u6D6A\u88AD\u51FB\u5468\u671F",
-    "LocalizationKey": "",
+    "DefaultText": "巨浪袭击周期",
+    "LocalizationKey": "T-msaZjsenh9BmZB1IL3UdtK3OstM=",
     "ParentObjectID": ""
   },
   "InvertedDirection": false,

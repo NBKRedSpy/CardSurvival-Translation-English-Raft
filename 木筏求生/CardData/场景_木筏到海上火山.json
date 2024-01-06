@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u6D77\u4E0A\u706B\u5C71",
-    "LocalizationKey": "",
+    "DefaultText": "海上火山",
+    "LocalizationKey": "T-hXbRZ0/ZiZR7LemI7dgVaF+aa10=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u524D\u5F80\u706B\u5C71",
-    "LocalizationKey": "",
+    "DefaultText": "前往火山",
+    "LocalizationKey": "T-mQSVD7HhGJ9yeAszg+FgC5HSvuw=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -108,7 +108,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u6D77\u4E0A\u706B\u5C71",
+  "CardImageWarpData": "海上火山",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],
@@ -187,8 +187,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u524D\u5F80",
-        "LocalizationKey": "",
+        "DefaultText": "前往",
+        "LocalizationKey": "T-I5JtYUaM5gqjt7WyL+xsaNA49jY=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],

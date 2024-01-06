@@ -1,7 +1,7 @@
 {
   "CardName": {
-    "DefaultText": "\u7535\u51FB\u67AA",
-    "LocalizationKey": "",
+    "DefaultText": "电击枪",
+    "LocalizationKey": "T-X3BY7hkxQnX50kfqlQD00YOzreo=",
     "ParentObjectID": ""
   },
   "CardDescription": {
@@ -308,7 +308,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u7535\u51FB\u67AA",
+  "CardImageWarpData": "电击枪",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [
@@ -3489,8 +3489,8 @@
   "UniqueID": "c859d2461bc2d5fa3cba9384a69692bd",
   "UniqueOnBoard": false,
   "UnlockConditionsDesc": {
-    "DefaultText": "\u9700\u8981\u4E00\u888B\u94F6\u86C7\u5E01",
-    "LocalizationKey": "",
+    "DefaultText": "需要一袋银蛇币",
+    "LocalizationKey": "T-hZ0gM4wfyxPIFsYs7X71JTTmguA=",
     "ParentObjectID": ""
   },
   "UsageDurability": {

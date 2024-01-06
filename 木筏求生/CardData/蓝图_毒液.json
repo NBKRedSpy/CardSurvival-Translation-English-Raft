@@ -1,7 +1,7 @@
 {
   "CardName": {
-    "DefaultText": "\u6BD2\u6DB2",
-    "LocalizationKey": "",
+    "DefaultText": "毒液",
+    "LocalizationKey": "T-TpCkvIiWbQk30j0sw5e/2ZJabGE=",
     "ParentObjectID": ""
   },
   "CardDescription": {
@@ -294,7 +294,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u6BD2\u6DB2",
+  "CardImageWarpData": "毒液",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [
@@ -3475,8 +3475,8 @@
   "UniqueID": "a47f7d64553fad39097d60fbd419a281",
   "UniqueOnBoard": false,
   "UnlockConditionsDesc": {
-    "DefaultText": "\u9700\u8981\u94F6\u86C7\u5E01",
-    "LocalizationKey": "",
+    "DefaultText": "需要银蛇币",
+    "LocalizationKey": "T-4xxoUJ1NXlGgqpKO+tCEr5+b41Q=",
     "ParentObjectID": ""
   },
   "UsageDurability": {

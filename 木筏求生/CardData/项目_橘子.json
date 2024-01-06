@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u6A58\u5B50",
-    "LocalizationKey": "",
+    "DefaultText": "橘子",
+    "LocalizationKey": "T-abLgfGbHrLmSrWRVN3P5OEfTPiY=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u7F8E\u5473\u591A\u6C41\u7684\u6A58\u5B50\uFF01",
-    "LocalizationKey": "",
+    "DefaultText": "美味多汁的橘子！",
+    "LocalizationKey": "T-vkcW3iUnd0gutvbC+Qpa9WZbYow=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -115,7 +115,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u6A58\u5B50",
+  "CardImageWarpData": "橘子",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],
@@ -194,8 +194,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u98DF\u7528",
-        "LocalizationKey": "",
+        "DefaultText": "食用",
+        "LocalizationKey": "T-/CTIPWxzNS43sBPJ2MPBHWGtsdM=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],

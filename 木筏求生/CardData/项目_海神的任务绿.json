@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u6D77\u795E\u7684\u4EFB\u52A1\u7EFF",
-    "LocalizationKey": "",
+    "DefaultText": "海神的任务绿",
+    "LocalizationKey": "T-R1xGCVl1ZrFDVYrV3z8hAfQJ6Cc=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u4EFB\u52A1\u8981\u6C42:4\u4E2A\u5DE7\u514B\u529B\u86CB\u7CD5",
-    "LocalizationKey": "",
+    "DefaultText": "任务要求:4个巧克力蛋糕",
+    "LocalizationKey": "T-gQB2tKm/Ybf2lGc80ckWx5A4+zM=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -110,7 +110,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u6D77\u795E\u7684\u4EFB\u52A1\u7EFF",
+  "CardImageWarpData": "海神的任务绿",
   "CardImageWarpType": 3,
   "CardInteractions": [
     {
@@ -131,8 +131,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u732E\u4E0A",
-        "LocalizationKey": "",
+        "DefaultText": "献上",
+        "LocalizationKey": "T-nSIR800Cf6b8Oz12Wrh/8wOrzNU=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],

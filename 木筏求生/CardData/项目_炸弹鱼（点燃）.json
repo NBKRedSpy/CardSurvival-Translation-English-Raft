@@ -1,17 +1,17 @@
 {
   "CardName": {
-    "DefaultText": "\u70B8\u5F39\u9C7C\uFF08\u70B9\u71C3\uFF09",
-    "LocalizationKey": "",
+    "DefaultText": "炸弹鱼（点燃）",
+    "LocalizationKey": "T-fKf4NQMMRWMs6K+dyAyVDdgBZeA=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u5C0F\u5FC3\u7206\u70B8\uFF01",
-    "LocalizationKey": "",
+    "DefaultText": "小心爆炸！",
+    "LocalizationKey": "T-USBUSwuEdRkoj1OdEZctzszoXh4=",
     "ParentObjectID": ""
   },
   "CardTags": [],
   "CardTagsWarpData": [
-    "\u53EF\u88AB\u71C3\u70E7",
+    "可被燃烧",
     "tag_Cookable"
   ],
   "CardTagsWarpType": 3,
@@ -111,7 +111,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u70B8\u5F39\u9C7C",
+  "CardImageWarpData": "炸弹鱼",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],
@@ -190,8 +190,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u5173\u95ED",
-        "LocalizationKey": "",
+        "DefaultText": "关闭",
+        "LocalizationKey": "T-bBS9f2+eVORgJNNd/ixFSMmjgh0=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],

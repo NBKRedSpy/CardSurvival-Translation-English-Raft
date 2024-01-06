@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u6D77\u6C34\u84B8\u998F\u5668\uFF08\u5173\uFF09",
-    "LocalizationKey": "",
+    "DefaultText": "海水蒸馏器（关）",
+    "LocalizationKey": "T-D9Vlhc9JVeJw5xPCw9onAKNoWjY=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u5C06\u6D77\u6C34\u84B8\u998F\u6210\u54B8\u6C34\u3002",
-    "LocalizationKey": "",
+    "DefaultText": "将海水蒸馏成咸水。",
+    "LocalizationKey": "T-BuXamkIiPbSYb1Ovfni43Ebt3p8=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -110,7 +110,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u6D77\u6C34\u84B8\u998F\u5668",
+  "CardImageWarpData": "海水蒸馏器",
   "CardImageWarpType": 3,
   "CardInteractions": [
     {
@@ -131,8 +131,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u6DFB\u5165\u6930\u5B50\u58F3",
-        "LocalizationKey": "",
+        "DefaultText": "添入椰子壳",
+        "LocalizationKey": "T-Y0BNgZuR61Npi2NADQsTfG3y50w=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -485,8 +485,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u6DFB\u5165\u67F4\u706B",
-        "LocalizationKey": "",
+        "DefaultText": "添入柴火",
+        "LocalizationKey": "T-MWvvA3SlMH6sqf412+4azTfiwi8=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -835,8 +835,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u6DFB\u5165\u71C3\u6599",
-        "LocalizationKey": "",
+        "DefaultText": "添入燃料",
+        "LocalizationKey": "T-++5EOtax4hD8YpTwPneKP03efZo=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -1185,8 +1185,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u6DFB\u5165\u6728\u70AD",
-        "LocalizationKey": "",
+        "DefaultText": "添入木炭",
+        "LocalizationKey": "T-+EJE4D3Znk64Td3hazbO66aUCog=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -1535,8 +1535,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u6DFB\u5165\u6811\u53F6",
-        "LocalizationKey": "",
+        "DefaultText": "添入树叶",
+        "LocalizationKey": "T-jKUzshAkMdyXzgBRWBCVK4RPdK8=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -1885,8 +1885,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u6DFB\u5165\u706B\u70AD",
-        "LocalizationKey": "",
+        "DefaultText": "添入火炭",
+        "LocalizationKey": "T-ec7UNQpX9xsZW7dr1d7MXsh3LxM=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -2235,8 +2235,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u6DFB\u5165\u7164\u77FF",
-        "LocalizationKey": "",
+        "DefaultText": "添入煤矿",
+        "LocalizationKey": "T-T4/2EVK6rOfxJK84Hi1LZ+T4pOI=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -2585,8 +2585,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u6DFB\u5165\u6930\u5B50\u76AE",
-        "LocalizationKey": "",
+        "DefaultText": "添入椰子皮",
+        "LocalizationKey": "T-Cfo/qwOPAb7JmjFcxdO6FzfUqKg=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -2935,8 +2935,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u70B9\u71C3",
-        "LocalizationKey": "",
+        "DefaultText": "点燃",
+        "LocalizationKey": "T-74fS2RsuWMLN7rNfw1qT5dYbN6I=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -3286,8 +3286,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u5012\u5165",
-        "LocalizationKey": "",
+        "DefaultText": "倒入",
+        "LocalizationKey": "T-5nk2vAzl/pmAnibAmP10JI/lb6g=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -3639,8 +3639,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u5012\u5165",
-        "LocalizationKey": "",
+        "DefaultText": "倒入",
+        "LocalizationKey": "T-5nk2vAzl/pmAnibAmP10JI/lb6g=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -4048,8 +4048,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u53D6\u51FA\u6728\u70AD\u548C\u7070\u70EC",
-        "LocalizationKey": "",
+        "DefaultText": "取出木炭和灰烬",
+        "LocalizationKey": "T-ooByYj/Y6ijMBWhBSQmp8RByjvs=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -4255,8 +4255,8 @@
       "RequiredReceivingContainerTag": [],
       "RequiredReceivingDurabilities": {
         "FailMessage": {
-          "DefaultText": "\u6728\u70AD\u5C1A\u672A\u5B8C\u6210\u3002",
-          "LocalizationKey": "",
+          "DefaultText": "木炭尚未完成。",
+          "LocalizationKey": "T-ZfqsVNkl+JRqiwHaqF9UugC+wc0=",
           "ParentObjectID": ""
         },
         "HideActionIfNotMet": false,
@@ -5304,8 +5304,8 @@
   "SpecialDurability1": {
     "Active": true,
     "CardStatName": {
-      "DefaultText": "\u785D\u77F3\u6EB6\u6DB2",
-      "LocalizationKey": "",
+      "DefaultText": "硝石溶液",
+      "LocalizationKey": "T-YO5aUFVTnOSGhj+N2Hgl+JAHOCc=",
       "ParentObjectID": ""
     },
     "ExtraRateWhenEquipped": 0.0,
@@ -7468,8 +7468,8 @@
   "UsageDurability": {
     "Active": true,
     "CardStatName": {
-      "DefaultText": "\u6C34\u91CF",
-      "LocalizationKey": "",
+      "DefaultText": "水量",
+      "LocalizationKey": "T-mXc3mpQE1bPpJrr9Ti16HUPng1s=",
       "ParentObjectID": ""
     },
     "ExtraRateWhenEquipped": 0.0,

@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u53D1\u73B0\u706B\u5C71\uFF01",
-    "LocalizationKey": "",
+    "DefaultText": "发现火山！",
+    "LocalizationKey": "T-i79JXI0kWuwQBi/3eoAQhhGfLkk=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u90A3\u662F\u4E00\u4E2A\u4F11\u7720\u7684\u706B\u5C71\uFF0C\u4E5F\u8BB8\u6211\u5E94\u8BE5\u5728\u90A3\u5F85\u4E00\u6BB5\u65F6\u95F4\uFF1F",
-    "LocalizationKey": "",
+    "DefaultText": "那是一个休眠的火山，也许我应该在那待一段时间？",
+    "LocalizationKey": "T-q5LhbKWehGExYlfWZMuOPpNb/Ig=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -108,7 +108,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u6D77\u4E0A\u706B\u5C71",
+  "CardImageWarpData": "海上火山",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],
@@ -187,8 +187,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u505C\u5728\u8FD9",
-        "LocalizationKey": "",
+        "DefaultText": "停在这",
+        "LocalizationKey": "T-Xf1pvxi259Lw9iHYuS82lXc3eRc=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -506,8 +506,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u7EE7\u7EED\u524D\u8FDB",
-        "LocalizationKey": "",
+        "DefaultText": "继续前进",
+        "LocalizationKey": "T-l69vqFLuwDjDHJ21Lz0WUeFK87E=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],

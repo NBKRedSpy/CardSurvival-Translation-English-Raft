@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u7535\u6C60",
-    "LocalizationKey": "",
+    "DefaultText": "电池",
+    "LocalizationKey": "T-eOQuOM8Ro2hO66jKzcaIxmeUxnQ=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u652F\u6491\u7535\u5668\u7684\u8FD0\u8F6C",
-    "LocalizationKey": "",
+    "DefaultText": "支撑电器的运转",
+    "LocalizationKey": "T-PXn0oyFvH8vO4l+5IxmPjHPmNFQ=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -108,7 +108,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u7535\u6C60",
+  "CardImageWarpData": "电池",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],

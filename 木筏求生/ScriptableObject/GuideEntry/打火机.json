@@ -6,13 +6,13 @@
     "m_PathID": 0
   },
   "OverrideTitle": {
-    "DefaultText": "\u6253\u706B\u673A",
-    "LocalizationKey": "",
+    "DefaultText": "打火机",
+    "LocalizationKey": "T-BJ8lqQhCn4GDMHQDXKGEfQ7MEvM=",
     "ParentObjectID": ""
   },
   "OverrideDescription": {
-    "DefaultText": "\u8425\u706B\uFF08\u5173\uFF09\n\u706B\u5806\uFF08\u5173\uFF09\n\u7A91\u7089\uFF08\u5173\uFF09\n\u9AD8\u7EA7\u7A91\u7089\uFF08\u5173\uFF09\n\u84B8\u998F\u5668\uFF08\u5173\uFF09  \n\u74E6\u65AF\u7089\uFF08\u5173\uFF09\n\u718F\u8702\u5668\uFF08\u70B9\u71C3\uFF09\n\u9999\u8305\u8721\u70DB\uFF08\u70B9\u71C3\uFF09\n\u8309\u8389\u8721\u70DB\uFF08\u70B9\u71C3\uFF09\n\u8721\u70DB\uFF08\u70B9\u71C3\uFF09\n\u70B8\u836F\uFF08\u70B9\u71C3\uFF09\n\u71C3\u70E7\u7BAD\uFF08\u70B9\u71C3\uFF09\n\u70DF\u718F\u67B6\uFF08\u70B9\u71C3\uFF09\n\u70DF\u718F\u7089\uFF08\u5173\uFF09\n\n\u706B\u628A\uFF08\u70B9\u71C3\uFF09\n\u70B8\u5F39\u9C7C\uFF08\u70B9\u71C3\uFF09",
-    "LocalizationKey": "",
+    "DefaultText": "营火（关）\n火堆（关）\n窑炉（关）\n高级窑炉（关）\n蒸馏器（关）  \n瓦斯炉（关）\n熏蜂器（点燃）\n香茅蜡烛（点燃）\n茉莉蜡烛（点燃）\n蜡烛（点燃）\n炸药（点燃）\n燃烧箭（点燃）\n烟熏架（点燃）\n烟熏炉（关）\n\n火把（点燃）\n炸弹鱼（点燃）",
+    "LocalizationKey": "T-QvCy+qmP6Ym8Mu6UV7nnlZMTJfA=",
     "ParentObjectID": ""
   },
   "RelatedEntries": [],
@@ -26,8 +26,8 @@
   ],
   "RelatedEntriesWarpType": 3,
   "RelatedEntriesWarpData": [
-    "\u5F00\u7F50\u5668"
+    "开罐器"
   ],
   "OverrideIllustrationWarpType": 3,
-  "OverrideIllustrationWarpData": "\u6253\u706B\u673A"
+  "OverrideIllustrationWarpData": "打火机"
 }

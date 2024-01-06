@@ -1,7 +1,7 @@
 {
   "CardName": {
-    "DefaultText": "\u79CD\u690D\u5B8C\u6210\u7684\u80E1\u841D\u535C",
-    "LocalizationKey": "",
+    "DefaultText": "种植完成的胡萝卜",
+    "LocalizationKey": "T-dcYAbtIh2jidRgFHcwlMnVyW4Qc=",
     "ParentObjectID": ""
   },
   "CardDescription": {
@@ -108,7 +108,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u79CD\u690D\u5B8C\u6210\u7684\u80E1\u841D\u535C",
+  "CardImageWarpData": "种植完成的胡萝卜",
   "CardImageWarpType": 3,
   "CardInteractions": [
     {
@@ -129,8 +129,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u6D47\u6C34",
-        "LocalizationKey": "",
+        "DefaultText": "浇水",
+        "LocalizationKey": "T-rzFxFQtk1OXoXkuuSz98l6+X5b8=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -150,7 +150,7 @@
         "TriggerCardsWarpType": 3,
         "TriggerTagsWarpData": [
           "tag_WaterFresh",
-          "\u80A5\u6C34"
+          "肥水"
         ],
         "TriggerTagsWarpType": 3
       },
@@ -485,8 +485,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u65BD\u80A5",
-        "LocalizationKey": "",
+        "DefaultText": "施肥",
+        "LocalizationKey": "T-fqVW2HFJzPlH4T6bJiswaHp992E=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -835,8 +835,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u65BD\u80A5",
-        "LocalizationKey": "",
+        "DefaultText": "施肥",
+        "LocalizationKey": "T-fqVW2HFJzPlH4T6bJiswaHp992E=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -1244,8 +1244,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u6458\u53D6",
-        "LocalizationKey": "",
+        "DefaultText": "摘取",
+        "LocalizationKey": "T-Q06KUwMNqzxxRzC+ZO9u3CFXxqQ=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -1580,8 +1580,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u6458\u53D6",
-        "LocalizationKey": "",
+        "DefaultText": "摘取",
+        "LocalizationKey": "T-Q06KUwMNqzxxRzC+ZO9u3CFXxqQ=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -1896,8 +1896,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u653E\u7F6E",
-        "LocalizationKey": "",
+        "DefaultText": "放置",
+        "LocalizationKey": "T-+HwHw+LXnXl+/7FwS13hN4Wklsw=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -2112,8 +2112,8 @@
   "FuelCapacity": {
     "Active": true,
     "CardStatName": {
-      "DefaultText": "\u6C34\u5206",
-      "LocalizationKey": "",
+      "DefaultText": "水分",
+      "LocalizationKey": "T-XXJYimzjmTRCjc8yXuQxB2SMNxg=",
       "ParentObjectID": ""
     },
     "ExtraRateWhenEquipped": 0.0,
@@ -2686,7 +2686,7 @@
         "Active": false,
         "FloatValue": 0.0
       },
-      "EffectName": "\u4E0B\u96E8",
+      "EffectName": "下雨",
       "EffectStacksWithRequiredCards": false,
       "FuelRateModifier": {
         "Active": true,
@@ -3171,8 +3171,8 @@
   "SpecialDurability1": {
     "Active": true,
     "CardStatName": {
-      "DefaultText": "\u57FA\u56E0",
-      "LocalizationKey": "",
+      "DefaultText": "基因",
+      "LocalizationKey": "T-nvLtRyZup1hJtB4onKABCHXfrKo=",
       "ParentObjectID": ""
     },
     "ExtraRateWhenEquipped": 0.0,
@@ -3601,8 +3601,8 @@
   "SpecialDurability2": {
     "Active": true,
     "CardStatName": {
-      "DefaultText": "\u57FA\u56E0\u52A3\u5316",
-      "LocalizationKey": "",
+      "DefaultText": "基因劣化",
+      "LocalizationKey": "T-EsFjQV9wRSN5md+UwKb0PCLkdUw=",
       "ParentObjectID": ""
     },
     "ExtraRateWhenEquipped": 0.0,
@@ -4894,8 +4894,8 @@
   "SpoilageTime": {
     "Active": true,
     "CardStatName": {
-      "DefaultText": "\u80A5\u529B",
-      "LocalizationKey": "",
+      "DefaultText": "肥力",
+      "LocalizationKey": "T-ZB/zI6aEK2wE1RCVaG+gDAojvgI=",
       "ParentObjectID": ""
     },
     "ExtraRateWhenEquipped": 0.0,

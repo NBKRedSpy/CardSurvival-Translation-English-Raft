@@ -1,7 +1,7 @@
 {
   "CardName": {
-    "DefaultText": "\u4F0F\u7279\u52A0",
-    "LocalizationKey": "",
+    "DefaultText": "伏特加",
+    "LocalizationKey": "T-eCFr5bYadv4sq+k1v8YJiSTrHsM=",
     "ParentObjectID": ""
   },
   "CardDescription": {
@@ -475,7 +475,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u4F0F\u7279\u52A0",
+  "CardImageWarpData": "伏特加",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],
@@ -3659,8 +3659,8 @@
   "UniqueID": "b39b081f760d08db7cde9f8a69a9bb6a",
   "UniqueOnBoard": false,
   "UnlockConditionsDesc": {
-    "DefaultText": "\u9700\u8981\u70F9\u996A\u6280\u80FD",
-    "LocalizationKey": "",
+    "DefaultText": "需要烹饪技能",
+    "LocalizationKey": "T-EgA5E52q8KRc36YNt9kA5NSWtdU=",
     "ParentObjectID": ""
   },
   "UsageDurability": {

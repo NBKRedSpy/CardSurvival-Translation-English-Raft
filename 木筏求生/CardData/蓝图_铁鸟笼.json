@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u94C1\u9E1F\u7B3C",
-    "LocalizationKey": "",
+    "DefaultText": "铁鸟笼",
+    "LocalizationKey": "T-8PYyDp6I+BXdzTHnm7PwTVU3a+U=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u9632\u6B62\u6D77\u9E25\u98DE\u8D70",
-    "LocalizationKey": "",
+    "DefaultText": "防止海鸥飞走",
+    "LocalizationKey": "T-ADHM9uS9BG4AgsUH/xJiMq8azDk=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -572,7 +572,7 @@
           "Special4": 0,
           "Spoilage": 0,
           "Usage": 0,
-          "RequiredTabGroupWarpData": "\u94C1\u9524\u5B50",
+          "RequiredTabGroupWarpData": "铁锤子",
           "RequiredTabGroupWarpType": 3
         }
       ]
@@ -689,7 +689,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u94C1\u9E1F\u7B3C",
+  "CardImageWarpData": "铁鸟笼",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],
@@ -3873,8 +3873,8 @@
   "UniqueID": "ab251a2c9d1cf1408bd671609c30a4e6",
   "UniqueOnBoard": false,
   "UnlockConditionsDesc": {
-    "DefaultText": "\u9700\u8981\u6D77\u9E25\u6570\u91CF\u6280\u80FD",
-    "LocalizationKey": "",
+    "DefaultText": "需要海鸥数量技能",
+    "LocalizationKey": "T-KKJc6+Og/s1spN3ZLTJoomVMtiw=",
     "ParentObjectID": ""
   },
   "UsageDurability": {

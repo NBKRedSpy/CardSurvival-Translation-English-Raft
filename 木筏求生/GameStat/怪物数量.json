@@ -23,7 +23,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "DefaultStatusIconWarpData": "\u602A\u7269\u6570\u91CF",
+  "DefaultStatusIconWarpData": "怪物数量",
   "DefaultStatusIconWarpType": 3,
   "DefaultStatusName": {
     "DefaultText": "",
@@ -48,8 +48,8 @@
     "StepValue": 1.0
   },
   "GameName": {
-    "DefaultText": "\u602A\u7269\u6570\u91CF",
-    "LocalizationKey": "",
+    "DefaultText": "怪物数量",
+    "LocalizationKey": "T-E+MxlwyPJm/a9GUU+tTtjH7IXQ0=",
     "ParentObjectID": ""
   },
   "InvertedDirection": false,

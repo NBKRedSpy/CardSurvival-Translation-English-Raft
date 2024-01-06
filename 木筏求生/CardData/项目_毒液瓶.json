@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u6BD2\u6DB2\u74F6",
-    "LocalizationKey": "",
+    "DefaultText": "毒液瓶",
+    "LocalizationKey": "T-3kX7M+nDjT0TBo9duA5Y3XkCjT0=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u91CC\u9762\u662F\u5371\u9669\u7684\u5316\u5B66\u5236\u54C1!",
-    "LocalizationKey": "",
+    "DefaultText": "里面是危险的化学制品!",
+    "LocalizationKey": "T-LVuIjKj76yDggQjBJGjoRgM85QI=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -108,7 +108,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u6BD2\u6DB2\u74F6",
+  "CardImageWarpData": "毒液瓶",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],

@@ -1,7 +1,7 @@
 {
   "CardName": {
-    "DefaultText": "\u6D77\u8C5A\u4F19\u4F34\u793C\u7269",
-    "LocalizationKey": "",
+    "DefaultText": "海豚伙伴礼物",
+    "LocalizationKey": "T-jlFi2V9Zpo+3rF9/rnDbLOE26EE=",
     "ParentObjectID": ""
   },
   "CardDescription": {
@@ -108,7 +108,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u6D77\u8C5A\u4F19\u4F34",
+  "CardImageWarpData": "海豚伙伴",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],
@@ -187,8 +187,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u7EE7\u7EED",
-        "LocalizationKey": "",
+        "DefaultText": "继续",
+        "LocalizationKey": "T-H8GvxcVe2MDMKPmXFbU8rOTDcig=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -5344,7 +5344,7 @@
   "WeaponReach": 0.0,
   "WhenCreatedSounds": [],
   "WhenCreatedSoundsWarpData": [
-    "\u6D77\u8C5A\u4F19\u4F34"
+    "海豚伙伴"
   ],
   "WhenCreatedSoundsWarpType": 3
 }

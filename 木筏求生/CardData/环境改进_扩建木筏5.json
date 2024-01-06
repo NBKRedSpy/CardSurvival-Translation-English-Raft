@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u6269\u5EFA\u6728\u7B4F5",
-    "LocalizationKey": "",
+    "DefaultText": "扩建木筏5",
+    "LocalizationKey": "T-QAxYaE9gKMxuB3Y/9WgfrXbUVyw=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u6709\u66F4\u591A\u7684\u7A7A\u95F4\u6765\u5B58\u653E\u4E1C\u897F\uFF01",
-    "LocalizationKey": "",
+    "DefaultText": "有更多的空间来存放东西！",
+    "LocalizationKey": "T-q/oHoT+xbU8bFL/v03MeIFRymJE=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -369,7 +369,7 @@
           "Special4": 0,
           "Spoilage": 0,
           "Usage": 0,
-          "RequiredTabGroupWarpData": "\u94C1\u9524\u5B50",
+          "RequiredTabGroupWarpData": "铁锤子",
           "RequiredTabGroupWarpType": 3
         },
         {
@@ -1325,7 +1325,7 @@
           "Special4": 0,
           "Spoilage": 0,
           "Usage": 0,
-          "RequiredTabGroupWarpData": "\u94C1\u9524\u5B50",
+          "RequiredTabGroupWarpData": "铁锤子",
           "RequiredTabGroupWarpType": 3
         },
         {
@@ -3130,7 +3130,7 @@
           "Active": false,
           "FloatValue": 0.0
         },
-        "EffectName": "\u6269\u5EFA\u6728\u7B4F5",
+        "EffectName": "扩建木筏5",
         "EffectStacksWithRequiredCards": false,
         "FuelRateModifier": {
           "Active": false,

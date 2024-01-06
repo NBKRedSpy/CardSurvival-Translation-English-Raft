@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u751F\u9C7C\u7247",
-    "LocalizationKey": "",
+    "DefaultText": "生鱼片",
+    "LocalizationKey": "T-2Vn4kxAtQIZoKGuVlpupnXo+QMQ=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u7F8E\u5473\u7684\u6D77\u9C7C\u8089\uFF01",
-    "LocalizationKey": "",
+    "DefaultText": "美味的海鱼肉！",
+    "LocalizationKey": "T-Jj9lqp3Iuy/YThRv9ewyTrGCvWQ=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -111,7 +111,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u751F\u9C7C\u7247",
+  "CardImageWarpData": "生鱼片",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],
@@ -190,8 +190,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u98DF\u7528",
-        "LocalizationKey": "",
+        "DefaultText": "食用",
+        "LocalizationKey": "T-/CTIPWxzNS43sBPJ2MPBHWGtsdM=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],

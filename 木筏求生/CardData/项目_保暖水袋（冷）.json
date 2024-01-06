@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u4FDD\u6696\u6C34\u888B\uFF08\u51B7\uFF09",
-    "LocalizationKey": "",
+    "DefaultText": "保暖水袋（冷）",
+    "LocalizationKey": "T-XIm/tCD2Lby2zW7dQhFEnL/G3SY=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u9700\u8981\u653E\u5230\u706B\u4E0A\u52A0\u70ED\u3002\\n\\n\u003Cb\u003E\u53EF\u5728\u88C5\u5907\u680F\u88C5\u5907\u003C/b\u003E",
-    "LocalizationKey": "",
+    "DefaultText": "需要放到火上加热。\\n\\n<b>可在装备栏装备</b>",
+    "LocalizationKey": "T-Hmhuwj5AHOa8lVY2ivt7QzBS2MY=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -112,7 +112,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u4FDD\u6696\u6C34\u888B",
+  "CardImageWarpData": "保暖水袋",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],

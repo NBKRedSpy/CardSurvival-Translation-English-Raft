@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u5F39\u5F13",
-    "LocalizationKey": "",
+    "DefaultText": "弹弓",
+    "LocalizationKey": "T-vRUYDFGER7W2JfYFcMd99qoQIsY=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u54BB\uFF01\u54BB\uFF01\u54BB\uFF01",
-    "LocalizationKey": "",
+    "DefaultText": "咻！咻！咻！",
+    "LocalizationKey": "T-OxBY9qKGoZhZivY3KDk0+aV7doI=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -108,7 +108,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u5F39\u5F13",
+  "CardImageWarpData": "弹弓",
   "CardImageWarpType": 3,
   "CardInteractions": [
     {
@@ -129,8 +129,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u88C5\u5F39",
-        "LocalizationKey": "",
+        "DefaultText": "装弹",
+        "LocalizationKey": "T-vIjU4Dvi5bXpIk/uGnmgulRU3H8=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -375,8 +375,8 @@
       "RequiredReceivingContainerTag": [],
       "RequiredReceivingDurabilities": {
         "FailMessage": {
-          "DefaultText": "\u5B50\u5F39\u5DF2\u6EE1",
-          "LocalizationKey": "",
+          "DefaultText": "子弹已满",
+          "LocalizationKey": "T-Q1rpQSuUSO/8H/yKDMeIQIcZMv8=",
           "ParentObjectID": ""
         },
         "HideActionIfNotMet": false,
@@ -4165,6 +4165,6 @@
   "WeaponReach": 0.0,
   "EquipmentTagsWarpType": 3,
   "EquipmentTagsWarpData": [
-    "\u6B66\u5668"
+    "武器"
   ]
 }

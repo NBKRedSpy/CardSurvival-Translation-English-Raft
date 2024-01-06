@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u85CF\u5B9D\u7BB1",
-    "LocalizationKey": "",
+    "DefaultText": "藏宝箱",
+    "LocalizationKey": "T-bHuKGfmpmMY5lZ8qx//0S5kNhnw=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u91CC\u9762\u88C5\u7740\u5B9D\u85CF\uFF01",
-    "LocalizationKey": "",
+    "DefaultText": "里面装着宝藏！",
+    "LocalizationKey": "T-YQeQSMqm2FMN3gH4rf9kFoncNJ4=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -108,7 +108,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u85CF\u5B9D\u7BB1",
+  "CardImageWarpData": "藏宝箱",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],
@@ -187,8 +187,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u53D6\u51FA\u5B9D\u85CF",
-        "LocalizationKey": "",
+        "DefaultText": "取出宝藏",
+        "LocalizationKey": "T-Fnuvg6F1yJR6tHaVOpKlbfsHbUU=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],

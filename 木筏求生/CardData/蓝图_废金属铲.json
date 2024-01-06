@@ -1,7 +1,7 @@
 {
   "CardName": {
-    "DefaultText": "\u5E9F\u91D1\u5C5E\u94F2",
-    "LocalizationKey": "",
+    "DefaultText": "废金属铲",
+    "LocalizationKey": "T-ZLUhO206rEygZKTPi/O4AHE6tmo=",
     "ParentObjectID": ""
   },
   "CardDescription": {
@@ -3761,8 +3761,8 @@
   "UniqueID": "3f3b8a399712014a12e99129e6f3d844",
   "UniqueOnBoard": false,
   "UnlockConditionsDesc": {
-    "DefaultText": "\u9700\u8981\u91D1\u5C5E\u5E9F\u6599",
-    "LocalizationKey": "",
+    "DefaultText": "需要金属废料",
+    "LocalizationKey": "T-XhH2Pjfjj8wBrFt0uRerIIbAtw4=",
     "ParentObjectID": ""
   },
   "UsageDurability": {

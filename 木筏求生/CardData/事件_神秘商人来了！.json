@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u795E\u79D8\u5546\u4EBA\u6765\u4E86\uFF01",
-    "LocalizationKey": "",
+    "DefaultText": "神秘商人来了！",
+    "LocalizationKey": "T-PQ4kLCVFv9E/YJQAteWcnOd4y4c=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u4E00\u53EA\u8F6E\u8239\u671D\u6211\u9760\u8FD1\uFF01",
-    "LocalizationKey": "",
+    "DefaultText": "一只轮船朝我靠近！",
+    "LocalizationKey": "T-3sovE+tZONqchjmhcElJc+2loiI=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -108,7 +108,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u795E\u79D8\u8F6E\u8239",
+  "CardImageWarpData": "神秘轮船",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],
@@ -187,8 +187,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u63A5\u53D7",
-        "LocalizationKey": "",
+        "DefaultText": "接受",
+        "LocalizationKey": "T-G2mKO/4wY5+4qY43nQVVrbCoxyg=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -4112,7 +4112,7 @@
   "WeaponReach": 0.0,
   "WhenCreatedSounds": [],
   "WhenCreatedSoundsWarpData": [
-    "\u53EE\u94C3"
+    "叮铃"
   ],
   "WhenCreatedSoundsWarpType": 3
 }

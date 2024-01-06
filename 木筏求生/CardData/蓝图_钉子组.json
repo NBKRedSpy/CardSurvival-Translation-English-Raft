@@ -1,7 +1,7 @@
 {
   "CardName": {
-    "DefaultText": "\u9489\u5B50\u7EC4",
-    "LocalizationKey": "",
+    "DefaultText": "钉子组",
+    "LocalizationKey": "T-6NA8Y2il84le0NFiGWLrUJRcy14=",
     "ParentObjectID": ""
   },
   "CardDescription": {
@@ -256,7 +256,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u9489\u5B50",
+  "CardImageWarpData": "钉子",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [
@@ -3437,8 +3437,8 @@
   "UniqueID": "955f82a15e4f7313a5dee954e1ce5680",
   "UniqueOnBoard": false,
   "UnlockConditionsDesc": {
-    "DefaultText": "\u9700\u8981\u9489\u5B50",
-    "LocalizationKey": "",
+    "DefaultText": "需要钉子",
+    "LocalizationKey": "T-wdoRzxz1uOOcDxlOVLP7dekcEvQ=",
     "ParentObjectID": ""
   },
   "UsageDurability": {

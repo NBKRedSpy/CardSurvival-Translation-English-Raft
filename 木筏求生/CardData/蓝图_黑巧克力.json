@@ -1,7 +1,7 @@
 {
   "CardName": {
-    "DefaultText": "\u9ED1\u5DE7\u514B\u529B",
-    "LocalizationKey": "",
+    "DefaultText": "黑巧克力",
+    "LocalizationKey": "T-m+LgFJhf15O4kWK0hiIpaclBAJM=",
     "ParentObjectID": ""
   },
   "CardDescription": {
@@ -577,7 +577,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u9ED1\u5DE7\u514B\u529B",
+  "CardImageWarpData": "黑巧克力",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [
@@ -3758,8 +3758,8 @@
   "UniqueID": "68cd22041564ad489e6c10637ae966e2",
   "UniqueOnBoard": false,
   "UnlockConditionsDesc": {
-    "DefaultText": "\u9700\u8981\u53EF\u53EF\u7C89",
-    "LocalizationKey": "",
+    "DefaultText": "需要可可粉",
+    "LocalizationKey": "T-4eDs+FX8/sUC57sjSp6/cz/R3pc=",
     "ParentObjectID": ""
   },
   "UsageDurability": {

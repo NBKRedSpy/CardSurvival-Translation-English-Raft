@@ -1,7 +1,7 @@
 {
   "CardName": {
-    "DefaultText": "\u6D77\u6D0B\u4E4B\u5FC3",
-    "LocalizationKey": "",
+    "DefaultText": "海洋之心",
+    "LocalizationKey": "T-KDdxxWsJMmRZuJ1yl3+HrTW+dY8=",
     "ParentObjectID": ""
   },
   "CardDescription": {
@@ -365,7 +365,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u6D77\u6D0B\u4E4B\u5FC3",
+  "CardImageWarpData": "海洋之心",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [
@@ -3546,8 +3546,8 @@
   "UniqueID": "a4ac4e5ea1e83207e701002c4b65f83f",
   "UniqueOnBoard": false,
   "UnlockConditionsDesc": {
-    "DefaultText": "\u9700\u8981\u4E00\u888B\u94F6\u86C7\u5E01",
-    "LocalizationKey": "",
+    "DefaultText": "需要一袋银蛇币",
+    "LocalizationKey": "T-hZ0gM4wfyxPIFsYs7X71JTTmguA=",
     "ParentObjectID": ""
   },
   "UsageDurability": {

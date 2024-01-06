@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u79CD\u690D\u76C6",
-    "LocalizationKey": "",
+    "DefaultText": "种植盆",
+    "LocalizationKey": "T-N5gjk1nj4ddQ2eErZs/08GRiK4E=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u6211\u662F\u6765\u5230\u4E86\u897F\u4F2F\u5229\u4E9A\u5417\uFF1F",
-    "LocalizationKey": "",
+    "DefaultText": "我是来到了西伯利亚吗？",
+    "LocalizationKey": "T-C8tQyECGwh46lszQwqKEC1rjfYs=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -110,7 +110,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u79CD\u690D\u76C6",
+  "CardImageWarpData": "种植盆",
   "CardImageWarpType": 3,
   "CardInteractions": [
     {
@@ -131,8 +131,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u79CD\u690D",
-        "LocalizationKey": "",
+        "DefaultText": "种植",
+        "LocalizationKey": "T-SDZWSSLhCbAbwyGdVj60x0LfU5U=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -502,8 +502,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u79CD\u690D",
-        "LocalizationKey": "",
+        "DefaultText": "种植",
+        "LocalizationKey": "T-SDZWSSLhCbAbwyGdVj60x0LfU5U=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -873,8 +873,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u79CD\u690D",
-        "LocalizationKey": "",
+        "DefaultText": "种植",
+        "LocalizationKey": "T-SDZWSSLhCbAbwyGdVj60x0LfU5U=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -1244,8 +1244,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u6D47\u6C34",
-        "LocalizationKey": "",
+        "DefaultText": "浇水",
+        "LocalizationKey": "T-rzFxFQtk1OXoXkuuSz98l6+X5b8=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -1265,7 +1265,7 @@
         "TriggerCardsWarpType": 3,
         "TriggerTagsWarpData": [
           "tag_WaterFresh",
-          "\u80A5\u6C34"
+          "肥水"
         ],
         "TriggerTagsWarpType": 3
       },
@@ -1600,8 +1600,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u65BD\u80A5",
-        "LocalizationKey": "",
+        "DefaultText": "施肥",
+        "LocalizationKey": "T-fqVW2HFJzPlH4T6bJiswaHp992E=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -1950,8 +1950,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u65BD\u80A5",
-        "LocalizationKey": "",
+        "DefaultText": "施肥",
+        "LocalizationKey": "T-fqVW2HFJzPlH4T6bJiswaHp992E=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -2359,8 +2359,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u642C\u8D70",
-        "LocalizationKey": "",
+        "DefaultText": "搬走",
+        "LocalizationKey": "T-DOpL2mBkHjmaeRi18Z0PdBDux68=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -2575,8 +2575,8 @@
   "FuelCapacity": {
     "Active": true,
     "CardStatName": {
-      "DefaultText": "\u6C34\u5206",
-      "LocalizationKey": "",
+      "DefaultText": "水分",
+      "LocalizationKey": "T-XXJYimzjmTRCjc8yXuQxB2SMNxg=",
       "ParentObjectID": ""
     },
     "ExtraRateWhenEquipped": 0.0,
@@ -3149,7 +3149,7 @@
         "Active": false,
         "FloatValue": 0.0
       },
-      "EffectName": "\u4E0B\u96E8",
+      "EffectName": "下雨",
       "EffectStacksWithRequiredCards": false,
       "FuelRateModifier": {
         "Active": true,
@@ -3634,8 +3634,8 @@
   "SpecialDurability1": {
     "Active": true,
     "CardStatName": {
-      "DefaultText": "\u57FA\u56E0",
-      "LocalizationKey": "",
+      "DefaultText": "基因",
+      "LocalizationKey": "T-nvLtRyZup1hJtB4onKABCHXfrKo=",
       "ParentObjectID": ""
     },
     "ExtraRateWhenEquipped": 0.0,
@@ -5355,8 +5355,8 @@
   "SpoilageTime": {
     "Active": true,
     "CardStatName": {
-      "DefaultText": "\u80A5\u529B",
-      "LocalizationKey": "",
+      "DefaultText": "肥力",
+      "LocalizationKey": "T-ZB/zI6aEK2wE1RCVaG+gDAojvgI=",
       "ParentObjectID": ""
     },
     "ExtraRateWhenEquipped": 0.0,

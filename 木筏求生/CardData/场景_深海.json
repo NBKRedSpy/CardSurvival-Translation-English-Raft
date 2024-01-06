@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u6DF1\u6D77",
-    "LocalizationKey": "",
+    "DefaultText": "深海",
+    "LocalizationKey": "T-5agT/mgv2qmVlVm4zgSbbX438u0=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u975E\u5E38\u5371\u9669\u7684\u6D77\u57DF\uFF01",
-    "LocalizationKey": "",
+    "DefaultText": "非常危险的海域！",
+    "LocalizationKey": "T-nOwgL1NYZt/8KgIh/KFRmCD69c0=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -111,7 +111,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u6DF1\u6D77\u6DF1\u5904",
+  "CardImageWarpData": "深海深处",
   "CardImageWarpType": 3,
   "CardInteractions": [
     {
@@ -132,8 +132,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u53C9\u9C7C",
-        "LocalizationKey": "",
+        "DefaultText": "叉鱼",
+        "LocalizationKey": "T-+HJCHyFlUn88MG+lJWrCGk9MmEU=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -1011,8 +1011,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u9493\u9C7C",
-        "LocalizationKey": "",
+        "DefaultText": "钓鱼",
+        "LocalizationKey": "T-gSSDAZdytObj+vpAGocTYJGfyE4=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -1946,8 +1946,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u9493\u9C7C",
-        "LocalizationKey": "",
+        "DefaultText": "钓鱼",
+        "LocalizationKey": "T-gSSDAZdytObj+vpAGocTYJGfyE4=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -2881,8 +2881,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u9493\u9C7C",
-        "LocalizationKey": "",
+        "DefaultText": "钓鱼",
+        "LocalizationKey": "T-gSSDAZdytObj+vpAGocTYJGfyE4=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -3733,8 +3733,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u6253\u6C34\u6F02",
-        "LocalizationKey": "",
+        "DefaultText": "打水漂",
+        "LocalizationKey": "T-1MUjZSSnKWN7ZK5c7CnqOINVnBI=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -4144,8 +4144,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u53D6\u6C34",
-        "LocalizationKey": "",
+        "DefaultText": "取水",
+        "LocalizationKey": "T-Xm/Syr6MbK1yeBRKrUKahdQRlDI=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -4492,8 +4492,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u653E\u7F6E",
-        "LocalizationKey": "",
+        "DefaultText": "放置",
+        "LocalizationKey": "T-+HwHw+LXnXl+/7FwS13hN4Wklsw=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -4857,8 +4857,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u629B\u951A",
-        "LocalizationKey": "",
+        "DefaultText": "抛锚",
+        "LocalizationKey": "T-drQTdOOqlI+UlokZOiO6WsiHWEk=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -5236,8 +5236,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u629B\u951A",
-        "LocalizationKey": "",
+        "DefaultText": "抛锚",
+        "LocalizationKey": "T-drQTdOOqlI+UlokZOiO6WsiHWEk=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -5615,8 +5615,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u53EC\u5524\u864E\u9CB8\u6765\u9A71\u8D76\u9CA8\u9C7C",
-        "LocalizationKey": "",
+        "DefaultText": "召唤虎鲸来驱赶鲨鱼",
+        "LocalizationKey": "T-EkaSdb71JlEM6aCjXmAOVzFro0M=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -6073,8 +6073,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u8F70\u9686\uFF01",
-        "LocalizationKey": "",
+        "DefaultText": "轰隆！",
+        "LocalizationKey": "T-k52YJR5XrDUIh4ObKEnk1VpPsno=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -6594,8 +6594,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u996E\u7528",
-        "LocalizationKey": "",
+        "DefaultText": "饮用",
+        "LocalizationKey": "T-dZh6limxWBhNJc+0VQstnCG2Q5I=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -6868,8 +6868,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u6F5C\u6C34",
-        "LocalizationKey": "",
+        "DefaultText": "潜水",
+        "LocalizationKey": "T-dbxun872Dd91UttbujbiPaJNsGY=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -7786,8 +7786,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u6D17\u4E2A\u6FA1",
-        "LocalizationKey": "",
+        "DefaultText": "洗个澡",
+        "LocalizationKey": "T-XHayfKwch1ne2InFQT3Fnu8/iL4=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -8311,8 +8311,8 @@
     },
     {
       "ActionDescription": {
-        "DefaultText": "\u8B66\u544A\uFF1A\u8FD9\u4F1A\u7ED3\u675F\u6E38\u620F\u3002",
-        "LocalizationKey": "",
+        "DefaultText": "警告：这会结束游戏。",
+        "LocalizationKey": "T-O0jw/X1Dr5N55KSvkZgswDjeFOk=",
         "ParentObjectID": ""
       },
       "ActionLog": {
@@ -8327,8 +8327,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u56DE\u5F52\u5927\u6D77",
-        "LocalizationKey": "",
+        "DefaultText": "回归大海",
+        "LocalizationKey": "T-18OFLA/9Lk+dNotwIF9DJ3ecwd0=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],

@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u73BB\u7483\u74F6",
-    "LocalizationKey": "",
+    "DefaultText": "玻璃瓶",
+    "LocalizationKey": "T-n/esIbHiyuU3gPaJ8QusJ1F3Kt4=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u559D\u5B8C\u5269\u4E0B\u7684",
-    "LocalizationKey": "",
+    "DefaultText": "喝完剩下的",
+    "LocalizationKey": "T-ThE/kXV4WwE+Kst12fpiDw7iSFw=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -113,7 +113,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u73BB\u7483\u74F6",
+  "CardImageWarpData": "玻璃瓶",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],
@@ -192,8 +192,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u6536\u96C6\u96E8\u6C34",
-        "LocalizationKey": "",
+        "DefaultText": "收集雨水",
+        "LocalizationKey": "T-nDUbi05OYBCSine8w8e/Ul0Pwkc=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],

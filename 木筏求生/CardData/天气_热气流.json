@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u70ED\u6C14\u6D41",
-    "LocalizationKey": "",
+    "DefaultText": "热气流",
+    "LocalizationKey": "T-9IHF4rysu9TM91Gs6A4RUyiGXKk=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u9AD8\u6E29\u52A0\u901F\uFF01",
-    "LocalizationKey": "",
+    "DefaultText": "高温加速！",
+    "LocalizationKey": "T-hqNiYvFWDyeknhMECAa/0/UEiS4=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -114,7 +114,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u70ED\u6C14\u6D41",
+  "CardImageWarpData": "热气流",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],

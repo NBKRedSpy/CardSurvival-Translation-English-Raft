@@ -23,7 +23,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "DefaultStatusIconWarpData": "\u6F02\u6D6E\u6728\u7BB1\u6570\u91CF",
+  "DefaultStatusIconWarpData": "漂浮木箱数量",
   "DefaultStatusIconWarpType": 3,
   "DefaultStatusName": {
     "DefaultText": "",
@@ -48,8 +48,8 @@
     "StepValue": 1.0
   },
   "GameName": {
-    "DefaultText": "\u6F02\u6D6E\u6728\u7BB1\u6570\u91CF",
-    "LocalizationKey": "",
+    "DefaultText": "漂浮木箱数量",
+    "LocalizationKey": "T-A0WUbxCgAilwKN68crixl8AVYaw=",
     "ParentObjectID": ""
   },
   "InvertedDirection": false,

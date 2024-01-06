@@ -1,7 +1,7 @@
 {
   "CardName": {
-    "DefaultText": "\u89E3\u6BD2\u836F\u5242",
-    "LocalizationKey": "",
+    "DefaultText": "解毒药剂",
+    "LocalizationKey": "T-wcDTTjXKPCF3UFBwWxdZE09xlP8=",
     "ParentObjectID": ""
   },
   "CardDescription": {
@@ -484,7 +484,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u89E3\u6BD2\u836F\u5242",
+  "CardImageWarpData": "解毒药剂",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [
@@ -3665,8 +3665,8 @@
   "UniqueID": "c8b13ed76eaf57adabf3f08534db043c",
   "UniqueOnBoard": false,
   "UnlockConditionsDesc": {
-    "DefaultText": "\u9700\u8981\u6BD2\u6DB2",
-    "LocalizationKey": "",
+    "DefaultText": "需要毒液",
+    "LocalizationKey": "T-M3Yx/tm1XnIfIJo3BKZT90I1pew=",
     "ParentObjectID": ""
   },
   "UsageDurability": {

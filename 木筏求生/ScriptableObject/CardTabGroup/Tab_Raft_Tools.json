@@ -12,11 +12,11 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "TabIconWarpData": "\u5E9F\u91D1\u5C5E\u9524",
+  "TabIconWarpData": "废金属锤",
   "TabIconWarpType": 3,
   "TabName": {
-    "DefaultText": "\u5DE5\u5177",
-    "LocalizationKey": "",
+    "DefaultText": "工具",
+    "LocalizationKey": "T-py7xjZoOHEw0GryQyb8+dXPUPG8=",
     "ParentObjectID": ""
   }
 }

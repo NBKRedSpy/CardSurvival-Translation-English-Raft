@@ -29,19 +29,19 @@
   "OverrideWeatherWarpType": 3,
   "PassiveStatModifiers": [],
   "PerkDescription": {
-    "DefaultText": "\u4F60\u4ECE\u4E00\u4E2A\u7834\u70C2\u7684\u6728\u7B4F\u4E0A\u9192\u6765",
-    "LocalizationKey": "",
+    "DefaultText": "你从一个破烂的木筏上醒来",
+    "LocalizationKey": "T-is+t1lCapfHauifyE7JPY7SBZg4=",
     "ParentObjectID": ""
   },
   "PerkIcon": {
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "PerkIconWarpData": "\u7834\u635F\u7684\u6728\u7B4F",
+  "PerkIconWarpData": "破损的木筏",
   "PerkIconWarpType": 3,
   "PerkName": {
-    "DefaultText": "\u6728\u7B4F\u6C42\u751F",
-    "LocalizationKey": "",
+    "DefaultText": "木筏求生",
+    "LocalizationKey": "T-Zkw7hSlyeCaeG597JY8CL8CNnEE=",
     "ParentObjectID": ""
   },
   "PerkUnlockConditions": {

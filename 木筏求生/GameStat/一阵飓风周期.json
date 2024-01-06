@@ -23,7 +23,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "DefaultStatusIconWarpData": "\u4E00\u9635\u98D3\u98CE\u5468\u671F",
+  "DefaultStatusIconWarpData": "一阵飓风周期",
   "DefaultStatusIconWarpType": 3,
   "DefaultStatusName": {
     "DefaultText": "",
@@ -48,8 +48,8 @@
     "StepValue": 1.0
   },
   "GameName": {
-    "DefaultText": "\u4E00\u9635\u98D3\u98CE\u5468\u671F",
-    "LocalizationKey": "",
+    "DefaultText": "一阵飓风周期",
+    "LocalizationKey": "T-09Z7VXBLOyYzv3OCtTOG1SipRXA=",
     "ParentObjectID": ""
   },
   "InvertedDirection": false,

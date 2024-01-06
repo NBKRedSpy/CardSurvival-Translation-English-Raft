@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u53EF\u53EF\u6811",
-    "LocalizationKey": "",
+    "DefaultText": "可可树",
+    "LocalizationKey": "T-zOc3ihVSSdqL2dq1q+VUaNnIXso=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u6211\u80FD\u5728\u4E0A\u9762\u91C7\u96C6\u53EF\u53EF\u3002",
-    "LocalizationKey": "",
+    "DefaultText": "我能在上面采集可可。",
+    "LocalizationKey": "T-fCKLomh2If0ETJmkiwHK4vYCsEc=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -108,7 +108,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u53EF\u53EF\u6811",
+  "CardImageWarpData": "可可树",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],
@@ -187,8 +187,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u91C7\u96C6",
-        "LocalizationKey": "",
+        "DefaultText": "采集",
+        "LocalizationKey": "T-w/iTPXejkCBAmfWt+88lBK1bQ3k=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -501,8 +501,8 @@
   "FuelCapacity": {
     "Active": true,
     "CardStatName": {
-      "DefaultText": "\u53EF\u53EF \u6210\u719F\u5EA6",
-      "LocalizationKey": "",
+      "DefaultText": "可可 成熟度",
+      "LocalizationKey": "T-q3avRb0+rG03gpxTt1Ei0nnxY+s=",
       "ParentObjectID": ""
     },
     "ExtraRateWhenEquipped": 0.0,
@@ -513,8 +513,8 @@
     "MaxValue": 768.0,
     "OnFull": {
       "ActionDescription": {
-        "DefaultText": "\u6811\u4E0A\u53C8\u957F\u51FA\u4E86\u53EF\u53EF\uFF01",
-        "LocalizationKey": "",
+        "DefaultText": "树上又长出了可可！",
+        "LocalizationKey": "T-jl0phXZplzfzLtJ6ROztxtemkS4=",
         "ParentObjectID": ""
       },
       "ActionLog": {

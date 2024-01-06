@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u9690\u8EAB\u96F7\u8FBE\uFF08\u5F00\u542F\uFF09",
-    "LocalizationKey": "",
+    "DefaultText": "隐身雷达（开启）",
+    "LocalizationKey": "T-tfx4BtKQ67vtXn62D9GuLkdyEWs=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u514D\u53D7\u6D77\u6D0B\u751F\u7269\u7684\u4FB5\u6270",
-    "LocalizationKey": "",
+    "DefaultText": "免受海洋生物的侵扰",
+    "LocalizationKey": "T-M9nos5sTGew1zr2EfeUruBGJzN8=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -108,7 +108,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u9690\u8EAB\u96F7\u8FBE\uFF08\u5F00\u542F\uFF09",
+  "CardImageWarpData": "隐身雷达（开启）",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],
@@ -187,8 +187,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u5173\u95ED",
-        "LocalizationKey": "",
+        "DefaultText": "关闭",
+        "LocalizationKey": "T-bBS9f2+eVORgJNNd/ixFSMmjgh0=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],

@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u5C0F\u77F3\u5B50",
-    "LocalizationKey": "",
+    "DefaultText": "小石子",
+    "LocalizationKey": "T-Ofa0loclvCoHG2YGt6YNbdBjyLI=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u6253\u6C34\u6F02\uFF1F",
-    "LocalizationKey": "",
+    "DefaultText": "打水漂？",
+    "LocalizationKey": "T-Sk+IV76d2TcKHHnaly07iVPNmXA=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -108,7 +108,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u5C0F\u77F3\u5B50",
+  "CardImageWarpData": "小石子",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],

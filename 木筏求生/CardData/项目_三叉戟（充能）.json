@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u4E09\u53C9\u621F\uFF08\u5145\u80FD\uFF09",
-    "LocalizationKey": "",
+    "DefaultText": "三叉戟（充能）",
+    "LocalizationKey": "T-8TYENmoJt5MwwzY5tjFSDmZKGDE=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u8574\u542B\u7740\u65E0\u5C3D\u7684\u529B\u91CF",
-    "LocalizationKey": "",
+    "DefaultText": "蕴含着无尽的力量",
+    "LocalizationKey": "T-4a6Gr/4EMgk0IAxdiVVksG+X6jE=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -113,7 +113,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u4E09\u53C9\u621F\uFF08\u5145\u80FD\uFF09",
+  "CardImageWarpData": "三叉戟（充能）",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],
@@ -3822,7 +3822,7 @@
   ],
   "EquipmentTagsWarpType": 3,
   "EquipmentTagsWarpData": [
-    "\u6B66\u5668"
+    "武器"
   ],
   "ItemCardDataCardTabGpGroup": [
     "GpTag_CutterAdv",

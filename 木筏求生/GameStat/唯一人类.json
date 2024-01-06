@@ -23,7 +23,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "DefaultStatusIconWarpData": "\u552F\u4E00\u4EBA\u7C7B",
+  "DefaultStatusIconWarpData": "唯一人类",
   "DefaultStatusIconWarpType": 3,
   "DefaultStatusName": {
     "DefaultText": "",
@@ -48,8 +48,8 @@
     "StepValue": 1.0
   },
   "GameName": {
-    "DefaultText": "\u552F\u4E00\u4EBA\u7C7B",
-    "LocalizationKey": "",
+    "DefaultText": "唯一人类",
+    "LocalizationKey": "T-61KKZ0hBO0V33WZ/wflsp1Z4yzo=",
     "ParentObjectID": ""
   },
   "InvertedDirection": false,

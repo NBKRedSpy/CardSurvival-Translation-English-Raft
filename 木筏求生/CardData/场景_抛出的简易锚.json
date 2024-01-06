@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u629B\u51FA\u7684\u7B80\u6613\u951A",
-    "LocalizationKey": "",
+    "DefaultText": "抛出的简易锚",
+    "LocalizationKey": "T-0sBI5q+gVt28jXEPaJshMJTOXJQ=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u8BA9\u4F60\u7684\u6728\u7B4F\u51CF\u7F13\u4E00\u4E9B\u901F\u5EA6(\u8BB0\u5F97\u6536\u5E06)",
-    "LocalizationKey": "",
+    "DefaultText": "让你的木筏减缓一些速度(记得收帆)",
+    "LocalizationKey": "T-s79XV6qlOnO3zX5VoQl0oSVOfWI=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -108,7 +108,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u629B\u51FA\u7684\u7B80\u6613\u951A",
+  "CardImageWarpData": "抛出的简易锚",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],
@@ -3534,8 +3534,8 @@
     "OnFullNotification": 0,
     "OnZero": {
       "ActionDescription": {
-        "DefaultText": "\u7B80\u6613\u951A\u6CA1\u4E86\u3002",
-        "LocalizationKey": "",
+        "DefaultText": "简易锚没了。",
+        "LocalizationKey": "T-cBiWux9B132o2OLUWZM1r0rxqXQ=",
         "ParentObjectID": ""
       },
       "ActionLog": {

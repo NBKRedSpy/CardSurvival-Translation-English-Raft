@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u6D77\u76D7\u6765\u4E86",
-    "LocalizationKey": "",
+    "DefaultText": "海盗来了",
+    "LocalizationKey": "T-M1rxGXt9/UjFEo9gmqcCq55S5h4=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u7D27\u6025\u96C6\u5408\uFF01",
-    "LocalizationKey": "",
+    "DefaultText": "紧急集合！",
+    "LocalizationKey": "T-8PNHlIB2fKFkFQiwdGdTv922eE8=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -108,7 +108,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u6D77\u76D7\u6765\u4E86",
+  "CardImageWarpData": "海盗来了",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],
@@ -187,8 +187,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u7EE7\u7EED",
-        "LocalizationKey": "",
+        "DefaultText": "继续",
+        "LocalizationKey": "T-H8GvxcVe2MDMKPmXFbU8rOTDcig=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -4028,7 +4028,7 @@
   "WeaponReach": 0.0,
   "WhenCreatedSounds": [],
   "WhenCreatedSoundsWarpData": [
-    "\u53F7\u89D2"
+    "号角"
   ],
   "WhenCreatedSoundsWarpType": 3
 }

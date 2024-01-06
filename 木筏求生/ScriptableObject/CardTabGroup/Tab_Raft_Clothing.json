@@ -12,11 +12,11 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "TabIconWarpData": "\u9CA8\u9C7C\u76AE\u88E4",
+  "TabIconWarpData": "鲨鱼皮裤",
   "TabIconWarpType": 3,
   "TabName": {
-    "DefaultText": "\u8863\u7269",
-    "LocalizationKey": "",
+    "DefaultText": "衣物",
+    "LocalizationKey": "T-qBtRT+kOE4SRm+UzeOxuvVihgEU=",
     "ParentObjectID": ""
   }
 }

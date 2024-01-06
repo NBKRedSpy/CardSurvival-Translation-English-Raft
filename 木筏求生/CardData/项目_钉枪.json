@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u9489\u67AA",
-    "LocalizationKey": "",
+    "DefaultText": "钉枪",
+    "LocalizationKey": "T-YQy3gZEY3SBQ9nHEf8LFouQPWYU=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u8FD9\u7B97\u4EC0\u4E48\u6B66\u5668\uFF01",
-    "LocalizationKey": "",
+    "DefaultText": "这算什么武器！",
+    "LocalizationKey": "T-OhfsrftZt5ICAd9l7MGFh244wbA=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -108,7 +108,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u9489\u67AA",
+  "CardImageWarpData": "钉枪",
   "CardImageWarpType": 3,
   "CardInteractions": [
     {
@@ -129,8 +129,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u88C5\u5F39",
-        "LocalizationKey": "",
+        "DefaultText": "装弹",
+        "LocalizationKey": "T-vIjU4Dvi5bXpIk/uGnmgulRU3H8=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -375,8 +375,8 @@
       "RequiredReceivingContainerTag": [],
       "RequiredReceivingDurabilities": {
         "FailMessage": {
-          "DefaultText": "\u5B50\u5F39\u5DF2\u6EE1",
-          "LocalizationKey": "",
+          "DefaultText": "子弹已满",
+          "LocalizationKey": "T-Q1rpQSuUSO/8H/yKDMeIQIcZMv8=",
           "ParentObjectID": ""
         },
         "HideActionIfNotMet": false,
@@ -479,8 +479,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u52A0\u9489\u5B50\u7EC4",
-        "LocalizationKey": "",
+        "DefaultText": "加钉子组",
+        "LocalizationKey": "T-BKsvYcS7AhZ12L0aelPpQzEGxow=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -4515,6 +4515,6 @@
   "WeaponReach": 0.0,
   "EquipmentTagsWarpType": 3,
   "EquipmentTagsWarpData": [
-    "\u6B66\u5668"
+    "武器"
   ]
 }

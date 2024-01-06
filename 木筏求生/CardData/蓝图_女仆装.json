@@ -1,7 +1,7 @@
 {
   "CardName": {
-    "DefaultText": "\u5973\u4EC6\u88C5",
-    "LocalizationKey": "",
+    "DefaultText": "女仆装",
+    "LocalizationKey": "T-fFr+yFqHkRxv97+H8aw8rgqbXrg=",
     "ParentObjectID": ""
   },
   "CardDescription": {
@@ -580,7 +580,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u5973\u4EC6\u88C5",
+  "CardImageWarpData": "女仆装",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],
@@ -3764,8 +3764,8 @@
   "UniqueID": "9e46befd219f8c7f7e7118de05a5b55a",
   "UniqueOnBoard": false,
   "UnlockConditionsDesc": {
-    "DefaultText": "\u9700\u8981\u7EBA\u7EC7\u6280\u80FD",
-    "LocalizationKey": "",
+    "DefaultText": "需要纺织技能",
+    "LocalizationKey": "T-gu5smweblc8msBSzMNfVw+nXfSs=",
     "ParentObjectID": ""
   },
   "UsageDurability": {

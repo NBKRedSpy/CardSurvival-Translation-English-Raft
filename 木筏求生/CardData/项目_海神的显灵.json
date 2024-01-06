@@ -1,17 +1,17 @@
 {
   "CardName": {
-    "DefaultText": "\u6D77\u795E\u7684\u663E\u7075",
-    "LocalizationKey": "",
+    "DefaultText": "海神的显灵",
+    "LocalizationKey": "T-E5ifdsuDbI2XBXddBCqXsbxTkxg=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u6682\u65F6\u8BA9\u6D77\u795E\u663E\u7075\u6765\u9A71\u9664\u602A\u7269\uFF01",
-    "LocalizationKey": "",
+    "DefaultText": "暂时让海神显灵来驱除怪物！",
+    "LocalizationKey": "T-6mNw+g4gHy7uZm0LlbsNtWgtRrA=",
     "ParentObjectID": ""
   },
   "CardTags": [],
   "CardTagsWarpData": [
-    "\u53EF\u88AB\u71C3\u70E7"
+    "可被燃烧"
   ],
   "CardTagsWarpType": 3,
   "CardType": 0,
@@ -110,7 +110,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u6D77\u795E\u7684\u663E\u7075",
+  "CardImageWarpData": "海神的显灵",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],
@@ -189,8 +189,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u53EC\u5524\u6D77\u795E",
-        "LocalizationKey": "",
+        "DefaultText": "召唤海神",
+        "LocalizationKey": "T-UtaR9n9fnZLMNv20R0Xx9rFSxTg=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],

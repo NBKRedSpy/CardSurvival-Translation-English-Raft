@@ -23,7 +23,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "DefaultStatusIconWarpData": "\u6D45\u6D77\u8FB9\u7F18\u8BA1\u6570\u5668",
+  "DefaultStatusIconWarpData": "浅海边缘计数器",
   "DefaultStatusIconWarpType": 3,
   "DefaultStatusName": {
     "DefaultText": "",
@@ -48,8 +48,8 @@
     "StepValue": 1.0
   },
   "GameName": {
-    "DefaultText": "\u6D45\u6D77\u8FB9\u7F18\u8BA1\u6570\u5668",
-    "LocalizationKey": "",
+    "DefaultText": "浅海边缘计数器",
+    "LocalizationKey": "T-/GvrL4EnYxrVPRGNePSt/iCAcyQ=",
     "ParentObjectID": ""
   },
   "InvertedDirection": false,

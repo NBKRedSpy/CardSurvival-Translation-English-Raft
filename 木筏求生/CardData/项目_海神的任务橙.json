@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u6D77\u795E\u7684\u4EFB\u52A1\u6A59",
-    "LocalizationKey": "",
+    "DefaultText": "海神的任务橙",
+    "LocalizationKey": "T-GgR3RyWf4pjkWED7m4s9PWDZeZU=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u4EFB\u52A1\u8981\u6C42:1\u4E2A\u4E09\u53C9\u621F",
-    "LocalizationKey": "",
+    "DefaultText": "任务要求:1个三叉戟",
+    "LocalizationKey": "T-51IeN5pc1HJkRRkLtDWbZ7CLJso=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -110,7 +110,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u6D77\u795E\u7684\u4EFB\u52A1\u6A59",
+  "CardImageWarpData": "海神的任务橙",
   "CardImageWarpType": 3,
   "CardInteractions": [
     {
@@ -131,8 +131,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u732E\u4E0A",
-        "LocalizationKey": "",
+        "DefaultText": "献上",
+        "LocalizationKey": "T-nSIR800Cf6b8Oz12Wrh/8wOrzNU=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],

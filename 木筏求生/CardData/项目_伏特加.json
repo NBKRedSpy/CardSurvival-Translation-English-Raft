@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u4F0F\u7279\u52A0",
-    "LocalizationKey": "",
+    "DefaultText": "伏特加",
+    "LocalizationKey": "T-eCFr5bYadv4sq+k1v8YJiSTrHsM=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u8FD9\u9152\u5F88\u70C8\uFF01",
-    "LocalizationKey": "",
+    "DefaultText": "这酒很烈！",
+    "LocalizationKey": "T-WB0DVmChw1pkgFXPRAoCU7uXf/E=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -111,7 +111,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u4F0F\u7279\u52A0",
+  "CardImageWarpData": "伏特加",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],
@@ -190,8 +190,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u98DF\u7528",
-        "LocalizationKey": "",
+        "DefaultText": "食用",
+        "LocalizationKey": "T-/CTIPWxzNS43sBPJ2MPBHWGtsdM=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],

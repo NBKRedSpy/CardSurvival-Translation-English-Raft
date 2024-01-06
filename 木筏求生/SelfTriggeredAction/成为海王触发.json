@@ -2,13 +2,13 @@
   "Actions": [
     {
       "ActionName": {
-        "DefaultText": "\u89E6\u53D1",
-        "LocalizationKey": "",
+        "DefaultText": "触发",
+        "LocalizationKey": "T-J+zPl4UL+UPnVtbGOOtvzo3MudM=",
         "ParentObjectID": ""
       },
       "ActionDescription": {
-        "DefaultText": "\u4F60\u5F97\u5230\u4E86\u6D77\u795E\u7684\u8BA4\u53EF",
-        "LocalizationKey": "",
+        "DefaultText": "你得到了海神的认可",
+        "LocalizationKey": "T-FgUJwjNB3DBMx9rVxXyJxeberVg=",
         "ParentObjectID": ""
       },
       "RepeatOptions": 2,

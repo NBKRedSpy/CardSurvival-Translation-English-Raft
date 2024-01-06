@@ -1,7 +1,7 @@
 {
   "CardName": {
-    "DefaultText": "\u70DF\u718F\u67B6",
-    "LocalizationKey": "",
+    "DefaultText": "烟熏架",
+    "LocalizationKey": "T-Ac+9iXPlR5v0FEi4ZrhwIMRVeFU=",
     "ParentObjectID": ""
   },
   "CardDescription": {
@@ -579,7 +579,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u70DF\u718F\u67B6",
+  "CardImageWarpData": "烟熏架",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [
@@ -3760,8 +3760,8 @@
   "UniqueID": "3a9e8a2c966cf8df5b2d7b093935ecd6",
   "UniqueOnBoard": false,
   "UnlockConditionsDesc": {
-    "DefaultText": "\u9700\u8981\u6728\u70AD",
-    "LocalizationKey": "",
+    "DefaultText": "需要木炭",
+    "LocalizationKey": "T-6SHTjqe46HPUbftiQ8EofGPFh0s=",
     "ParentObjectID": ""
   },
   "UsageDurability": {

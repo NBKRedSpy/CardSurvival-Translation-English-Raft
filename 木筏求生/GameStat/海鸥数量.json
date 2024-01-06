@@ -23,7 +23,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "DefaultStatusIconWarpData": "\u6D77\u9E25\u6570\u91CF",
+  "DefaultStatusIconWarpData": "海鸥数量",
   "DefaultStatusIconWarpType": 3,
   "DefaultStatusName": {
     "DefaultText": "",
@@ -48,8 +48,8 @@
     "StepValue": 1.0
   },
   "GameName": {
-    "DefaultText": "\u6D77\u9E25\u6570\u91CF",
-    "LocalizationKey": "",
+    "DefaultText": "海鸥数量",
+    "LocalizationKey": "T-dd/uhpqxJml34abyS8GhqLj/4EQ=",
     "ParentObjectID": ""
   },
   "InvertedDirection": false,

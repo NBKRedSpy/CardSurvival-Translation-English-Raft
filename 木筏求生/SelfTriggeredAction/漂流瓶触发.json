@@ -2,13 +2,13 @@
   "Actions": [
     {
       "ActionName": {
-        "DefaultText": "\u89E6\u53D1",
-        "LocalizationKey": "",
+        "DefaultText": "触发",
+        "LocalizationKey": "T-J+zPl4UL+UPnVtbGOOtvzo3MudM=",
         "ParentObjectID": ""
       },
       "ActionDescription": {
-        "DefaultText": "\u6F02\u6D41\u74F6",
-        "LocalizationKey": "",
+        "DefaultText": "漂流瓶",
+        "LocalizationKey": "T-mE1wWovk1+tunpPudU+mqK+VNJw=",
         "ParentObjectID": ""
       },
       "RepeatOptions": 2,

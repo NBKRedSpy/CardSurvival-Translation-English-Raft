@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u6D77\u4E0A\u7A3B\u8349\u4EBA",
-    "LocalizationKey": "",
+    "DefaultText": "海上稻草人",
+    "LocalizationKey": "T-s+GBrz5jJuoAf16o+A5lvBPkwHk=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u53EF\u4EE5\u8BA9\u6D77\u9E25\u4E0D\u518D\u5077\u5403\u4F60\u7684\u4E1C\u897F\u3002\u5E0C\u671B\u5982\u6B64\u3002",
-    "LocalizationKey": "",
+    "DefaultText": "可以让海鸥不再偷吃你的东西。希望如此。",
+    "LocalizationKey": "T-eCK3wDtM3THXUG9kD0zv/xbXw7c=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -108,7 +108,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u6D77\u4E0A\u7A3B\u8349\u4EBA",
+  "CardImageWarpData": "海上稻草人",
   "CardImageWarpType": 3,
   "CardInteractions": [
     {
@@ -129,8 +129,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u4FEE\u7406",
-        "LocalizationKey": "",
+        "DefaultText": "修理",
+        "LocalizationKey": "T-5jxoK+mhK5np+Rv8jydQ1Z05+GU=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -553,8 +553,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u62C6\u9664",
-        "LocalizationKey": "",
+        "DefaultText": "拆除",
+        "LocalizationKey": "T-5Vbc1DoG2wO5Cu6T4mTWzns33Yg=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],

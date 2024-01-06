@@ -1,7 +1,7 @@
 {
   "CardName": {
-    "DefaultText": "\u6295\u77F3\u6280\u80FD\u4E66",
-    "LocalizationKey": "",
+    "DefaultText": "投石技能书",
+    "LocalizationKey": "T-ktu4h5Q6HJqwZWQMV7JwbrC46+Q=",
     "ParentObjectID": ""
   },
   "CardDescription": {
@@ -11,7 +11,7 @@
   },
   "CardTags": [],
   "CardTagsWarpData": [
-    "\u53EF\u88AB\u71C3\u70E7"
+    "可被燃烧"
   ],
   "CardTagsWarpType": 3,
   "CardType": 0,
@@ -110,7 +110,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u6295\u77F3\u6280\u80FD\u4E66",
+  "CardImageWarpData": "投石技能书",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],
@@ -189,8 +189,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u9605\u8BFB",
-        "LocalizationKey": "",
+        "DefaultText": "阅读",
+        "LocalizationKey": "T-qsDvbBxtEo25e7aJn9kQKEx6QSg=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -424,8 +424,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u6495\u6BC1",
-        "LocalizationKey": "",
+        "DefaultText": "撕毁",
+        "LocalizationKey": "T-6t1gYWL5nFIAVkqBzHnHnTH0fC8=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],

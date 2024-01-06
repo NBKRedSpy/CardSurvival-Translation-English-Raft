@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u6D77\u85FB\u836F\u818F",
-    "LocalizationKey": "",
+    "DefaultText": "海藻药膏",
+    "LocalizationKey": "T-wFM5inGJt+ZMHWYxjpmTDdUTN/Y=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u80FD\u591F\u5E2E\u52A9\u6211\u51CF\u8F7B\u6652\u4F24\u548C\u76AE\u80A4\u78E8\u635F",
-    "LocalizationKey": "",
+    "DefaultText": "能够帮助我减轻晒伤和皮肤磨损",
+    "LocalizationKey": "T-BJC83xZrkj2TrojdnqcNgnmy7ck=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -110,7 +110,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u6D77\u85FB\u836F\u818F",
+  "CardImageWarpData": "海藻药膏",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],
@@ -189,8 +189,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u6D82\u62B9",
-        "LocalizationKey": "",
+        "DefaultText": "涂抹",
+        "LocalizationKey": "T-1QKi0UtNarv6J/ig3avIVkqHA5g=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],

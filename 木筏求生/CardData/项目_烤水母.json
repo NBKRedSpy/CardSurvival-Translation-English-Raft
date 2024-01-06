@@ -1,18 +1,18 @@
 {
   "CardName": {
-    "DefaultText": "\u70E4\u6C34\u6BCD",
-    "LocalizationKey": "",
+    "DefaultText": "烤水母",
+    "LocalizationKey": "T-/7CHQpYki/1L6mjsLsTQ+zSKLv0=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u52C9\u5F3A\u5165\u53E3",
-    "LocalizationKey": "",
+    "DefaultText": "勉强入口",
+    "LocalizationKey": "T-THQjA8GZgy2P3S06KclZZJmZNIU=",
     "ParentObjectID": ""
   },
   "CardTags": [],
   "CardTagsWarpData": [
     "tag_Cookable",
-    "\u53EF\u88AB\u71C3\u70E7",
+    "可被燃烧",
     "tag_Meat"
   ],
   "CardTagsWarpType": 3,
@@ -112,7 +112,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u70E4\u6C34\u6BCD",
+  "CardImageWarpData": "烤水母",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],
@@ -191,8 +191,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u98DF\u7528",
-        "LocalizationKey": "",
+        "DefaultText": "食用",
+        "LocalizationKey": "T-/CTIPWxzNS43sBPJ2MPBHWGtsdM=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],

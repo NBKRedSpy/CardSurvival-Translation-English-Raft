@@ -29,19 +29,19 @@
   "OverrideWeatherWarpType": 3,
   "PassiveStatModifiers": [],
   "PerkDescription": {
-    "DefaultText": "\u6BCF\u5929\u7ED9\u4F60\u4E00\u4E2A\u968F\u673A\u7684\u5956\u52B1",
-    "LocalizationKey": "",
+    "DefaultText": "每天给你一个随机的奖励",
+    "LocalizationKey": "T-1VyMlwT9teJj01+Gy4bdpbQGJxk=",
     "ParentObjectID": ""
   },
   "PerkIcon": {
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "PerkIconWarpData": "\u5956\u52B1\u76D2",
+  "PerkIconWarpData": "奖励盒",
   "PerkIconWarpType": 3,
   "PerkName": {
-    "DefaultText": "\u5956\u52B1\u76D2",
-    "LocalizationKey": "",
+    "DefaultText": "奖励盒",
+    "LocalizationKey": "T-deJ6JMfzf/Ig4VOWkzK5WH4M2wM=",
     "ParentObjectID": ""
   },
   "PerkUnlockConditions": {

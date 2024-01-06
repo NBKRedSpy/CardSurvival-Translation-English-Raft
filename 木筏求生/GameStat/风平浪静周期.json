@@ -23,7 +23,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "DefaultStatusIconWarpData": "\u98CE\u5E73\u6D6A\u9759\u5468\u671F",
+  "DefaultStatusIconWarpData": "风平浪静周期",
   "DefaultStatusIconWarpType": 3,
   "DefaultStatusName": {
     "DefaultText": "",
@@ -48,8 +48,8 @@
     "StepValue": 1.0
   },
   "GameName": {
-    "DefaultText": "\u98CE\u5E73\u6D6A\u9759\u5468\u671F",
-    "LocalizationKey": "",
+    "DefaultText": "风平浪静周期",
+    "LocalizationKey": "T-aeebME0EDHEmP5LFyGyb7VIMoag=",
     "ParentObjectID": ""
   },
   "InvertedDirection": false,

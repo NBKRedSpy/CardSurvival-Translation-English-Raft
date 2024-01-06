@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u8089\u7F50\u5934",
-    "LocalizationKey": "",
+    "DefaultText": "肉罐头",
+    "LocalizationKey": "T-64JGgGQb7xbHcdt437Z5PcIugv0=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u7F8E\u5473\u7684\u5348\u9910\u8089\u7F50\u5934",
-    "LocalizationKey": "",
+    "DefaultText": "美味的午餐肉罐头",
+    "LocalizationKey": "T-fO63cUm5OcIi7u2PcFye9FzUK84=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -110,7 +110,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u8089\u7F50\u5934",
+  "CardImageWarpData": "肉罐头",
   "CardImageWarpType": 3,
   "CardInteractions": [
     {
@@ -131,8 +131,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u64AC\u5F00",
-        "LocalizationKey": "",
+        "DefaultText": "撬开",
+        "LocalizationKey": "T-M6rXNolKFqNzBsY6+kHOBuZXzfk=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -146,7 +146,7 @@
         "TriggerCards": [],
         "TriggerTags": [],
         "TriggerTagsWarpData": [
-          "\u5F00\u7F50\u5DE5\u5177"
+          "开罐工具"
         ],
         "TriggerTagsWarpType": 3
       },
@@ -377,8 +377,8 @@
       "RequiredReceivingContainerTag": [],
       "RequiredReceivingDurabilities": {
         "FailMessage": {
-          "DefaultText": "\u5DF2\u7ECF\u64AC\u5F00\u4E86\u54E9\uFF01",
-          "LocalizationKey": "",
+          "DefaultText": "已经撬开了哩！",
+          "LocalizationKey": "T-WNDTspld2jwLAi8kQn145RH0xDY=",
           "ParentObjectID": ""
         },
         "HideActionIfNotMet": false,
@@ -481,8 +481,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u64AC\u5F00",
-        "LocalizationKey": "",
+        "DefaultText": "撬开",
+        "LocalizationKey": "T-M6rXNolKFqNzBsY6+kHOBuZXzfk=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -728,8 +728,8 @@
       "RequiredReceivingContainerTag": [],
       "RequiredReceivingDurabilities": {
         "FailMessage": {
-          "DefaultText": "\u5DF2\u7ECF\u64AC\u5F00\u4E86\u54E9\uFF01",
-          "LocalizationKey": "",
+          "DefaultText": "已经撬开了哩！",
+          "LocalizationKey": "T-WNDTspld2jwLAi8kQn145RH0xDY=",
           "ParentObjectID": ""
         },
         "HideActionIfNotMet": false,
@@ -891,8 +891,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u98DF\u7528",
-        "LocalizationKey": "",
+        "DefaultText": "食用",
+        "LocalizationKey": "T-/CTIPWxzNS43sBPJ2MPBHWGtsdM=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -1002,8 +1002,8 @@
       "RequiredReceivingContainerTag": [],
       "RequiredReceivingDurabilities": {
         "FailMessage": {
-          "DefaultText": "\u6CA1\u6709\u6253\u5F00\u65E0\u6CD5\u98DF\u7528\u54E9\uFF01",
-          "LocalizationKey": "",
+          "DefaultText": "没有打开无法食用哩！",
+          "LocalizationKey": "T-UabjzrAOKYbG1wYNFVD0lqfS310=",
           "ParentObjectID": ""
         },
         "HideActionIfNotMet": false,
@@ -1834,7 +1834,7 @@
         "Active": false,
         "FloatValue": 0.0
       },
-      "EffectName": "\u5F00\u7F50",
+      "EffectName": "开罐",
       "EffectStacksWithRequiredCards": false,
       "FuelRateModifier": {
         "Active": false,
@@ -2319,8 +2319,8 @@
   "SpecialDurability1": {
     "Active": true,
     "CardStatName": {
-      "DefaultText": "\u5BC6\u5C01",
-      "LocalizationKey": "",
+      "DefaultText": "密封",
+      "LocalizationKey": "T-3bNqGWk7ucoH3Bdirk9DqNp0Pyg=",
       "ParentObjectID": ""
     },
     "ExtraRateWhenEquipped": 0.0,

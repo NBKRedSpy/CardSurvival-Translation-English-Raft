@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u6D77\u795E\u7684\u4EFB\u52A1\u7EA2",
-    "LocalizationKey": "",
+    "DefaultText": "海神的任务红",
+    "LocalizationKey": "T-yfOD0czmC8olyr/8ox/IYQ6BCik=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u4EFB\u52A1\u8981\u6C42:2\u4E2A\u591C\u660E\u73E0",
-    "LocalizationKey": "",
+    "DefaultText": "任务要求:2个夜明珠",
+    "LocalizationKey": "T-zC6vCbJJsE/Caxg0AJjX7eWeCNg=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -110,7 +110,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u6D77\u795E\u7684\u4EFB\u52A1\u7EA2",
+  "CardImageWarpData": "海神的任务红",
   "CardImageWarpType": 3,
   "CardInteractions": [
     {
@@ -131,8 +131,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u732E\u4E0A",
-        "LocalizationKey": "",
+        "DefaultText": "献上",
+        "LocalizationKey": "T-nSIR800Cf6b8Oz12Wrh/8wOrzNU=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],

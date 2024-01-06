@@ -1,7 +1,7 @@
 {
   "CardName": {
-    "DefaultText": "\u7B80\u6613\u62C6\u5E03",
-    "LocalizationKey": "",
+    "DefaultText": "简易拆布",
+    "LocalizationKey": "T-Nvs1e2UjWYmRMAildRzP8jWTLcY=",
     "ParentObjectID": ""
   },
   "CardDescription": {
@@ -11,7 +11,7 @@
   },
   "CardTags": [],
   "CardTagsWarpData": [
-    "\u53EF\u88AB\u71C3\u70E7"
+    "可被燃烧"
   ],
   "CardTagsWarpType": 3,
   "CardType": 0,
@@ -110,7 +110,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u7B80\u6613\u62C6\u5E03",
+  "CardImageWarpData": "简易拆布",
   "CardImageWarpType": 3,
   "CardInteractions": [
     {
@@ -131,8 +131,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u89E3\u7F16\u7EC6\u7EBF",
-        "LocalizationKey": "",
+        "DefaultText": "解编细线",
+        "LocalizationKey": "T-lKmUNVIfSBihZv2mbvU9bIr5ZIk=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -600,8 +600,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u89E3\u7F16\u5E03\u5339",
-        "LocalizationKey": "",
+        "DefaultText": "解编布匹",
+        "LocalizationKey": "T-+jt2Uhdsb1F6j5SKPSV5ft6gfAE=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -1069,8 +1069,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u89E3\u7F16\u5E03\u5339",
-        "LocalizationKey": "",
+        "DefaultText": "解编布匹",
+        "LocalizationKey": "T-+jt2Uhdsb1F6j5SKPSV5ft6gfAE=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -1538,8 +1538,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u89E3\u7F16\u5E03\u5339",
-        "LocalizationKey": "",
+        "DefaultText": "解编布匹",
+        "LocalizationKey": "T-+jt2Uhdsb1F6j5SKPSV5ft6gfAE=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -2008,8 +2008,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u89E3\u7F16\u5E03\u5339",
-        "LocalizationKey": "",
+        "DefaultText": "解编布匹",
+        "LocalizationKey": "T-+jt2Uhdsb1F6j5SKPSV5ft6gfAE=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -2537,8 +2537,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u62C6\u5378\u7B80\u6613\u62C6\u5E03",
-        "LocalizationKey": "",
+        "DefaultText": "拆卸简易拆布",
+        "LocalizationKey": "T-B2xp734UxE7x+3F/0YiEbAZtIl8=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],

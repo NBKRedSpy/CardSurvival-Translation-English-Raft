@@ -1,19 +1,19 @@
 {
   "CardName": {
-    "DefaultText": "\u6728\u5934\u76D4",
-    "LocalizationKey": "",
+    "DefaultText": "木头盔",
+    "LocalizationKey": "T-0iJpX/bhb+fmWuj8MCokzJkt8fM=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u7B80\u964B\u7684\u5934\u90E8\u9632\u5177",
-    "LocalizationKey": "",
+    "DefaultText": "简陋的头部防具",
+    "LocalizationKey": "T-p0i5XsJvXR4HDFfQXro0Z1d3C3U=",
     "ParentObjectID": ""
   },
   "CardTags": [],
   "CardTagsWarpData": [
     "tag_OuterHead",
     "tag_InnerHead",
-    "\u9632\u5177"
+    "防具"
   ],
   "CardTagsWarpType": 3,
   "CardType": 0,
@@ -112,7 +112,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u6728\u5934\u76D4",
+  "CardImageWarpData": "木头盔",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],

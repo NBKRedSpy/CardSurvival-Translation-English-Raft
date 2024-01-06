@@ -1,7 +1,7 @@
 {
   "CardName": {
-    "DefaultText": "\u5B8C\u6210\u7684\u5377\u5FC3\u83DC\u7530",
-    "LocalizationKey": "",
+    "DefaultText": "完成的卷心菜田",
+    "LocalizationKey": "T-JgwX3vfAxZe+PM/faB7nSBmRqPk=",
     "ParentObjectID": ""
   },
   "CardDescription": {
@@ -108,7 +108,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u79CD\u690D\u5B8C\u6210\u7684\u5377\u5FC3\u83DC",
+  "CardImageWarpData": "种植完成的卷心菜",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],
@@ -187,8 +187,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u6458\u53D6",
-        "LocalizationKey": "",
+        "DefaultText": "摘取",
+        "LocalizationKey": "T-Q06KUwMNqzxxRzC+ZO9u3CFXxqQ=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -238,7 +238,7 @@
         {
           "CardDropChanceModifiers": [],
           "CollectionMessages": [],
-          "CollectionName": "\u9AD8\u4EA7",
+          "CollectionName": "高产",
           "CollectionUses": {
             "x": 0,
             "y": 0
@@ -385,7 +385,7 @@
         {
           "CardDropChanceModifiers": [],
           "CollectionMessages": [],
-          "CollectionName": "\u4E2D\u4EA7",
+          "CollectionName": "中产",
           "CollectionUses": {
             "x": 0,
             "y": 0
@@ -532,7 +532,7 @@
         {
           "CardDropChanceModifiers": [],
           "CollectionMessages": [],
-          "CollectionName": "\u4F4E\u4EA7",
+          "CollectionName": "低产",
           "CollectionUses": {
             "x": 0,
             "y": 0

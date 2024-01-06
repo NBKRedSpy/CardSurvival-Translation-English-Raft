@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u85CF\u5B9D\u56FE",
-    "LocalizationKey": "",
+    "DefaultText": "藏宝图",
+    "LocalizationKey": "T-xvVx2/3PI5Nz6LlhCohy9ae5k3U=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u6211\u770B\u5230\u4E86\u85CF\u5B9D\u70B9\uFF0C\u8981\u53BB\u5417\uFF1F",
-    "LocalizationKey": "",
+    "DefaultText": "我看到了藏宝点，要去吗？",
+    "LocalizationKey": "T-ASalz2QTmo3Aun2N/in4Tkkfjpw=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -108,7 +108,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u85CF\u5B9D\u56FE",
+  "CardImageWarpData": "藏宝图",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],
@@ -187,8 +187,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u53BB\u5F80\u90A3",
-        "LocalizationKey": "",
+        "DefaultText": "去往那",
+        "LocalizationKey": "T-TlVh6Jnn8JjR+ESYiIjyaFehuCs=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],

@@ -1,7 +1,7 @@
 {
   "CardName": {
-    "DefaultText": "\u87BA\u65CB\u6868",
-    "LocalizationKey": "",
+    "DefaultText": "螺旋桨",
+    "LocalizationKey": "T-KsCJlcDId6svJYFpe/wg5nfPhOk=",
     "ParentObjectID": ""
   },
   "CardDescription": {
@@ -294,7 +294,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u87BA\u65CB\u6868",
+  "CardImageWarpData": "螺旋桨",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [
@@ -3475,8 +3475,8 @@
   "UniqueID": "3557225a8403643ad826a2d9af359a41",
   "UniqueOnBoard": false,
   "UnlockConditionsDesc": {
-    "DefaultText": "\u9700\u8981\u4E00\u888B\u94F6\u86C7\u5E01",
-    "LocalizationKey": "",
+    "DefaultText": "需要一袋银蛇币",
+    "LocalizationKey": "T-hZ0gM4wfyxPIFsYs7X71JTTmguA=",
     "ParentObjectID": ""
   },
   "UsageDurability": {

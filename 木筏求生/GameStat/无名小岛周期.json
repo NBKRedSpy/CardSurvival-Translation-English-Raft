@@ -23,7 +23,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "DefaultStatusIconWarpData": "\u65E0\u540D\u5C0F\u5C9B\u5468\u671F",
+  "DefaultStatusIconWarpData": "无名小岛周期",
   "DefaultStatusIconWarpType": 3,
   "DefaultStatusName": {
     "DefaultText": "",
@@ -48,8 +48,8 @@
     "StepValue": 1.0
   },
   "GameName": {
-    "DefaultText": "\u65E0\u540D\u5C0F\u5C9B\u5468\u671F",
-    "LocalizationKey": "",
+    "DefaultText": "无名小岛周期",
+    "LocalizationKey": "T-v1PE7mPOyXgc47xXjQzIWCKnuYM=",
     "ParentObjectID": ""
   },
   "InvertedDirection": false,

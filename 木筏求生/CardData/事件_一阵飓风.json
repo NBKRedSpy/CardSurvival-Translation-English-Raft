@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u4E00\u9635\u98D3\u98CE",
-    "LocalizationKey": "",
+    "DefaultText": "一阵飓风",
+    "LocalizationKey": "T-COd+NfxU19P/4TdHpGQTg4J8E/k=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u4F60\u822A\u884C\u7684\u8DDD\u79BB\u88AB\u589E\u52A0\u4E86\uFF1F",
-    "LocalizationKey": "",
+    "DefaultText": "你航行的距离被增加了？",
+    "LocalizationKey": "T-ONsaf9COSv3FcclxKNNYvZqGyy4=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -108,7 +108,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u4E00\u9635\u98D3\u98CE",
+  "CardImageWarpData": "一阵飓风",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],
@@ -187,8 +187,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u7EE7\u7EED",
-        "LocalizationKey": "",
+        "DefaultText": "继续",
+        "LocalizationKey": "T-H8GvxcVe2MDMKPmXFbU8rOTDcig=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -4048,7 +4048,7 @@
   "WeaponReach": 0.0,
   "WhenCreatedSounds": [],
   "WhenCreatedSoundsWarpData": [
-    "\u98D3\u98CE"
+    "飓风"
   ],
   "WhenCreatedSoundsWarpType": 3
 }

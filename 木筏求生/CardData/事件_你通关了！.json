@@ -1,7 +1,7 @@
 {
   "CardName": {
-    "DefaultText": "\u4F60\u901A\u5173\u4E86\uFF01",
-    "LocalizationKey": "",
+    "DefaultText": "你通关了！",
+    "LocalizationKey": "T-Kvv6zY01NOEN1lc78LtUnWJjZdI=",
     "ParentObjectID": ""
   },
   "CardDescription": {
@@ -108,7 +108,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u4F60\u901A\u5173\u4E86\uFF01",
+  "CardImageWarpData": "你通关了！",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],
@@ -171,8 +171,8 @@
   "DismantleActions": [
     {
       "ActionDescription": {
-        "DefaultText": "\u5FEB\u4E50\u8001\u5BB6\uFF0C\u6211\u8FD8\u662F\u7559\u5728\u7740\u6211\u7684\u6728\u7B4F\u4E0A\u5427\uFF01",
-        "LocalizationKey": "",
+        "DefaultText": "快乐老家，我还是留在着我的木筏上吧！",
+        "LocalizationKey": "T-U7xpNGYiAEOp0Q4aPFBW+E7JgOk=",
         "ParentObjectID": ""
       },
       "ActionLog": {
@@ -187,8 +187,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u7559\u5728\u8FD9\u91CC",
-        "LocalizationKey": "",
+        "DefaultText": "留在这里",
+        "LocalizationKey": "T-4qVRxniXgVCtDsrRNChrxSOzSLg=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -388,8 +388,8 @@
     },
     {
       "ActionDescription": {
-        "DefaultText": "\u6E38\u620F\u7ED3\u675F",
-        "LocalizationKey": "",
+        "DefaultText": "游戏结束",
+        "LocalizationKey": "T-Pl2niK8BCYu37rCigbgCUkSuoEY=",
         "ParentObjectID": ""
       },
       "ActionLog": {
@@ -404,8 +404,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u7ED3\u675F\u4E00\u5207",
-        "LocalizationKey": "",
+        "DefaultText": "结束一切",
+        "LocalizationKey": "T-dphQSeNJ5LNc4pokNGc43v/eLfA=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -596,8 +596,8 @@
         "Victory": true,
         "SpecialEnding": false,
         "VictoryMessage": {
-          "DefaultText": "\u4F60\u6D3B\u5230\u4E86\u6700\u540E\uFF01",
-          "LocalizationKey": "",
+          "DefaultText": "你活到了最后！",
+          "LocalizationKey": "T-38r7XC9R72vNwSNmXFUJdHcxzTo=",
           "ParentObjectID": ""
         }
       },

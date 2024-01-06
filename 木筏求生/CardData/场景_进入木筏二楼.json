@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u8FDB\u5165",
-    "LocalizationKey": "",
+    "DefaultText": "进入",
+    "LocalizationKey": "T-DiVXjo+hpn00w1H5A9lgVaFSZis=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u8FDB\u5165\u6728\u7B4F\u4E8C\u697C",
-    "LocalizationKey": "",
+    "DefaultText": "进入木筏二楼",
+    "LocalizationKey": "T-KJmkaY7tuvdOnKFVaNkCfqzfzoE=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -108,7 +108,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u6728\u7B4F\u4E8C\u697C",
+  "CardImageWarpData": "木筏二楼",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],
@@ -187,8 +187,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u8FDB\u5165",
-        "LocalizationKey": "",
+        "DefaultText": "进入",
+        "LocalizationKey": "T-DiVXjo+hpn00w1H5A9lgVaFSZis=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],

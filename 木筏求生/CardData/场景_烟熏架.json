@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u70DF\u718F\u67B6",
-    "LocalizationKey": "",
+    "DefaultText": "烟熏架",
+    "LocalizationKey": "T-Ac+9iXPlR5v0FEi4ZrhwIMRVeFU=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u70DF\u718F\u9C7C\u8089\uFF01",
-    "LocalizationKey": "",
+    "DefaultText": "烟熏鱼肉！",
+    "LocalizationKey": "T-wR6zln+OwInVoXtXIeuuVUqqoSg=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -108,7 +108,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u70DF\u718F\u67B6",
+  "CardImageWarpData": "烟熏架",
   "CardImageWarpType": 3,
   "CardInteractions": [
     {
@@ -129,8 +129,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u653E\u5165",
-        "LocalizationKey": "",
+        "DefaultText": "放入",
+        "LocalizationKey": "T-00E3A0dgWRu7IasDZ09aT/Wn10Y=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -479,8 +479,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u653E\u5165",
-        "LocalizationKey": "",
+        "DefaultText": "放入",
+        "LocalizationKey": "T-00E3A0dgWRu7IasDZ09aT/Wn10Y=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -830,8 +830,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u6DFB\u5165\u6930\u5B50\u58F3",
-        "LocalizationKey": "",
+        "DefaultText": "添入椰子壳",
+        "LocalizationKey": "T-Y0BNgZuR61Npi2NADQsTfG3y50w=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -1180,8 +1180,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u6DFB\u5165\u6728\u6750",
-        "LocalizationKey": "",
+        "DefaultText": "添入木材",
+        "LocalizationKey": "T-lzDM9hce8AuAJqp2zyEXBiCp5B4=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -1530,8 +1530,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u6DFB\u5165\u71C3\u6599",
-        "LocalizationKey": "",
+        "DefaultText": "添入燃料",
+        "LocalizationKey": "T-++5EOtax4hD8YpTwPneKP03efZo=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -1880,8 +1880,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u5F31\u6548\u71C3\u6599",
-        "LocalizationKey": "",
+        "DefaultText": "弱效燃料",
+        "LocalizationKey": "T-2hewH9emlA0lVvpEX2qTErlRGOU=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -2230,8 +2230,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u6DFB\u5165\u6728\u70AD",
-        "LocalizationKey": "",
+        "DefaultText": "添入木炭",
+        "LocalizationKey": "T-+EJE4D3Znk64Td3hazbO66aUCog=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -2580,8 +2580,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u6DFB\u5165\u6930\u5B50\u76AE",
-        "LocalizationKey": "",
+        "DefaultText": "添入椰子皮",
+        "LocalizationKey": "T-Cfo/qwOPAb7JmjFcxdO6FzfUqKg=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -2930,8 +2930,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u6DFB\u5165",
-        "LocalizationKey": "",
+        "DefaultText": "添入",
+        "LocalizationKey": "T-ZXLY4Zellclkc/YohfFfJhdyOnk=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -3280,8 +3280,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u6DFB\u5165\u7164\u77FF",
-        "LocalizationKey": "",
+        "DefaultText": "添入煤矿",
+        "LocalizationKey": "T-T4/2EVK6rOfxJK84Hi1LZ+T4pOI=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -3689,8 +3689,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u6536\u96C6\u7070\u70EC",
-        "LocalizationKey": "",
+        "DefaultText": "收集灰烬",
+        "LocalizationKey": "T-X03FfD7pW6SwQrJ4NH2lNmc+spI=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -3884,8 +3884,8 @@
       "RequiredReceivingContainerTag": [],
       "RequiredReceivingDurabilities": {
         "FailMessage": {
-          "DefaultText": "\u7070\u70EC\u8FD8\u6CA1\u6709\u51C6\u5907\u597D",
-          "LocalizationKey": "",
+          "DefaultText": "灰烬还没有准备好",
+          "LocalizationKey": "T-W93t25OVr35mJTJMyO9GyC/iMh8=",
           "ParentObjectID": ""
         },
         "HideActionIfNotMet": false,
@@ -3988,8 +3988,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u53D6\u51FA\u6728\u70AD",
-        "LocalizationKey": "",
+        "DefaultText": "取出木炭",
+        "LocalizationKey": "T-xl+kDVqbLpwHEkk+gBOcOZF5X7o=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -4183,8 +4183,8 @@
       "RequiredReceivingContainerTag": [],
       "RequiredReceivingDurabilities": {
         "FailMessage": {
-          "DefaultText": "\u6728\u70AD\u5C1A\u672A\u5B8C\u6210\u3002",
-          "LocalizationKey": "",
+          "DefaultText": "木炭尚未完成。",
+          "LocalizationKey": "T-ZfqsVNkl+JRqiwHaqF9UugC+wc0=",
           "ParentObjectID": ""
         },
         "HideActionIfNotMet": false,
@@ -4287,8 +4287,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u62C6\u9664",
-        "LocalizationKey": "",
+        "DefaultText": "拆除",
+        "LocalizationKey": "T-5Vbc1DoG2wO5Cu6T4mTWzns33Yg=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],

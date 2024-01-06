@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u591C\u660E\u73E0",
-    "LocalizationKey": "",
+    "DefaultText": "夜明珠",
+    "LocalizationKey": "T-/ORwFPRmD4HDmDBm8EYLmBiNIz8=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u4E0D\u518D\u9ED1\u6697",
-    "LocalizationKey": "",
+    "DefaultText": "不再黑暗",
+    "LocalizationKey": "T-kl+djTgPoldacccwc1Z4u+6Ml+M=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -108,7 +108,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u591C\u660E\u73E0",
+  "CardImageWarpData": "夜明珠",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],

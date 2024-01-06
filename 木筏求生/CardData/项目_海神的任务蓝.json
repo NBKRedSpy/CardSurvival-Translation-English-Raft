@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u6D77\u795E\u7684\u4EFB\u52A1\u84DD",
-    "LocalizationKey": "",
+    "DefaultText": "海神的任务蓝",
+    "LocalizationKey": "T-mwruuUaPxs+9/zBRQPjzerrnias=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u4EFB\u52A1\u8981\u6C42:10\u4E2A\u9CA8\u9C7C\u7B4B",
-    "LocalizationKey": "",
+    "DefaultText": "任务要求:10个鲨鱼筋",
+    "LocalizationKey": "T-9QqJeGEdxznCPkmvU5xyDDw+cLQ=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -110,7 +110,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u6D77\u795E\u7684\u4EFB\u52A1\u84DD",
+  "CardImageWarpData": "海神的任务蓝",
   "CardImageWarpType": 3,
   "CardInteractions": [
     {
@@ -131,8 +131,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u732E\u4E0A",
-        "LocalizationKey": "",
+        "DefaultText": "献上",
+        "LocalizationKey": "T-nSIR800Cf6b8Oz12Wrh/8wOrzNU=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],

@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u98CE\u5E73\u6D6A\u9759",
-    "LocalizationKey": "",
+    "DefaultText": "风平浪静",
+    "LocalizationKey": "T-4oyix3jcfoA6dP05r1d+Y9Foz0o=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u5E78\u8FD0\u7684\u4F60\uFF01",
-    "LocalizationKey": "",
+    "DefaultText": "幸运的你！",
+    "LocalizationKey": "T-XzTw9udJboIili0T/Truxl1sUlA=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -114,7 +114,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u98CE\u5E73\u6D6A\u9759",
+  "CardImageWarpData": "风平浪静",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],

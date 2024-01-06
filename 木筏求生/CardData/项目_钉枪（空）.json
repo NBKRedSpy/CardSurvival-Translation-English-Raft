@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u9489\u67AA\uFF08\u7A7A\uFF09",
-    "LocalizationKey": "",
+    "DefaultText": "钉枪（空）",
+    "LocalizationKey": "T-aAmngLi6NesLpkfGh43qAervcyE=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u6211\u5B50\u5F39\u5462\uFF1F\uFF01",
-    "LocalizationKey": "",
+    "DefaultText": "我子弹呢？！",
+    "LocalizationKey": "T-MFdgIFlwYHCxLyB/PiOpMqA9Z9g=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -108,7 +108,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u9489\u67AA",
+  "CardImageWarpData": "钉枪",
   "CardImageWarpType": 3,
   "CardInteractions": [
     {
@@ -129,8 +129,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u88C5\u5F39",
-        "LocalizationKey": "",
+        "DefaultText": "装弹",
+        "LocalizationKey": "T-vIjU4Dvi5bXpIk/uGnmgulRU3H8=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -4166,6 +4166,6 @@
   "WeaponReach": 0.0,
   "EquipmentTagsWarpType": 3,
   "EquipmentTagsWarpData": [
-    "\u6B66\u5668"
+    "武器"
   ]
 }

@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u4ED9\u4EBA\u638C\u7530",
-    "LocalizationKey": "",
+    "DefaultText": "仙人掌田",
+    "LocalizationKey": "T-Tqhkvj82TCDAh1GFZFsHWGM1LKg=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u6211\u5E94\u8BE5\u8BA9\u7530\u5730\u4FDD\u6301\u6C34\u5206\uFF0C\u7B49\u5B83\u6210\u719F\u3002",
-    "LocalizationKey": "",
+    "DefaultText": "我应该让田地保持水分，等它成熟。",
+    "LocalizationKey": "T-r3nY3VB9mLejt+IGpwVxKcz6Eko=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -131,8 +131,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u6D47\u6C34",
-        "LocalizationKey": "",
+        "DefaultText": "浇水",
+        "LocalizationKey": "T-rzFxFQtk1OXoXkuuSz98l6+X5b8=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -152,7 +152,7 @@
         "TriggerCardsWarpType": 3,
         "TriggerTagsWarpData": [
           "tag_WaterFresh",
-          "\u80A5\u6C34"
+          "肥水"
         ],
         "TriggerTagsWarpType": 3
       },
@@ -487,8 +487,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u65BD\u80A5",
-        "LocalizationKey": "",
+        "DefaultText": "施肥",
+        "LocalizationKey": "T-fqVW2HFJzPlH4T6bJiswaHp992E=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -837,8 +837,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u65BD\u80A5",
-        "LocalizationKey": "",
+        "DefaultText": "施肥",
+        "LocalizationKey": "T-fqVW2HFJzPlH4T6bJiswaHp992E=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -1246,8 +1246,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u6467\u6BC1",
-        "LocalizationKey": "",
+        "DefaultText": "摧毁",
+        "LocalizationKey": "T-vHgFZ5ZaiLkiKQpDJ7SxEI99oI4=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -1503,8 +1503,8 @@
   "FuelCapacity": {
     "Active": true,
     "CardStatName": {
-      "DefaultText": "\u6C34\u5206",
-      "LocalizationKey": "",
+      "DefaultText": "水分",
+      "LocalizationKey": "T-XXJYimzjmTRCjc8yXuQxB2SMNxg=",
       "ParentObjectID": ""
     },
     "ExtraRateWhenEquipped": 0.0,
@@ -2063,7 +2063,7 @@
         "Active": true,
         "FloatValue": 0.5
       },
-      "EffectName": "\u80A5\u6599",
+      "EffectName": "肥料",
       "EffectStacksWithRequiredCards": false,
       "FuelRateModifier": {
         "Active": false,
@@ -2172,7 +2172,7 @@
         "Active": false,
         "FloatValue": 0.0
       },
-      "EffectName": "\u519C\u836F",
+      "EffectName": "农药",
       "EffectStacksWithRequiredCards": false,
       "FuelRateModifier": {
         "Active": false,
@@ -2281,7 +2281,7 @@
         "Active": false,
         "FloatValue": 0.0
       },
-      "EffectName": "\u6740\u83CC\u5242",
+      "EffectName": "杀菌剂",
       "EffectStacksWithRequiredCards": false,
       "FuelRateModifier": {
         "Active": false,
@@ -2390,7 +2390,7 @@
         "Active": false,
         "FloatValue": 0.0
       },
-      "EffectName": "\u6D47\u6C34\u8FC7\u591A",
+      "EffectName": "浇水过多",
       "EffectStacksWithRequiredCards": false,
       "FuelRateModifier": {
         "Active": false,
@@ -2499,7 +2499,7 @@
         "Active": false,
         "FloatValue": 0.0
       },
-      "EffectName": "\u7F3A\u6C34",
+      "EffectName": "缺水",
       "EffectStacksWithRequiredCards": false,
       "FuelRateModifier": {
         "Active": false,
@@ -2608,7 +2608,7 @@
         "Active": false,
         "FloatValue": 0.0
       },
-      "EffectName": "\u87A8\u866B",
+      "EffectName": "螨虫",
       "EffectStacksWithRequiredCards": false,
       "FuelRateModifier": {
         "Active": false,
@@ -2717,7 +2717,7 @@
         "Active": false,
         "FloatValue": 0.0
       },
-      "EffectName": "\u771F\u83CC",
+      "EffectName": "真菌",
       "EffectStacksWithRequiredCards": false,
       "FuelRateModifier": {
         "Active": false,
@@ -2841,7 +2841,7 @@
         "Active": false,
         "FloatValue": 0.0
       },
-      "EffectName": "\u4E0B\u96E8",
+      "EffectName": "下雨",
       "EffectStacksWithRequiredCards": false,
       "FuelRateModifier": {
         "Active": true,
@@ -2954,7 +2954,7 @@
         "Active": true,
         "FloatValue": 0.0
       },
-      "EffectName": "\u6F6E\u6E7F",
+      "EffectName": "潮湿",
       "EffectStacksWithRequiredCards": false,
       "FuelRateModifier": {
         "Active": false,
@@ -3067,7 +3067,7 @@
         "Active": true,
         "FloatValue": 0.0
       },
-      "EffectName": "\u5E72\u71E5",
+      "EffectName": "干燥",
       "EffectStacksWithRequiredCards": false,
       "FuelRateModifier": {
         "Active": false,
@@ -3180,7 +3180,7 @@
         "Active": true,
         "FloatValue": 0.4
       },
-      "EffectName": "\u80A5\u6C83",
+      "EffectName": "肥沃",
       "EffectStacksWithRequiredCards": false,
       "FuelRateModifier": {
         "Active": false,
@@ -3233,8 +3233,8 @@
   "Progress": {
     "Active": true,
     "CardStatName": {
-      "DefaultText": "\u6210\u719F\u5EA6",
-      "LocalizationKey": "",
+      "DefaultText": "成熟度",
+      "LocalizationKey": "T-Wubbxw3TdFjgvdJAQ70r9CKj1uc=",
       "ParentObjectID": ""
     },
     "ExtraRateWhenEquipped": 0.0,
@@ -3302,7 +3302,7 @@
         {
           "CardDropChanceModifiers": [],
           "CollectionMessages": [],
-          "CollectionName": "\u9AD8\u4EA7",
+          "CollectionName": "高产",
           "CollectionUses": {
             "x": 0,
             "y": 0
@@ -3449,7 +3449,7 @@
         {
           "CardDropChanceModifiers": [],
           "CollectionMessages": [],
-          "CollectionName": "\u4E2D\u4EA7",
+          "CollectionName": "中产",
           "CollectionUses": {
             "x": 0,
             "y": 0
@@ -3596,7 +3596,7 @@
         {
           "CardDropChanceModifiers": [],
           "CollectionMessages": [],
-          "CollectionName": "\u4F4E\u4EA7",
+          "CollectionName": "低产",
           "CollectionUses": {
             "x": 0,
             "y": 0
@@ -4176,7 +4176,7 @@
           "Active": false,
           "FloatValue": 0.0
         },
-        "EffectName": "\u87A8\u866B\u4F20\u67D3",
+        "EffectName": "螨虫传染",
         "EffectStacksWithRequiredCards": false,
         "FuelRateModifier": {
           "Active": false,
@@ -4297,7 +4297,7 @@
           "Active": false,
           "FloatValue": 0.0
         },
-        "EffectName": "\u771F\u83CC\u4F20\u67D3",
+        "EffectName": "真菌传染",
         "EffectStacksWithRequiredCards": false,
         "FuelRateModifier": {
           "Active": false,
@@ -4351,8 +4351,8 @@
   "SpecialDurability1": {
     "Active": true,
     "CardStatName": {
-      "DefaultText": "\u519C\u836F\u2014\u87A8\u866B",
-      "LocalizationKey": "",
+      "DefaultText": "农药—螨虫",
+      "LocalizationKey": "T-Fj5Tlh6h3bTkWT7b/8xYvQzdUOw=",
       "ParentObjectID": ""
     },
     "ExtraRateWhenEquipped": 0.0,
@@ -4783,8 +4783,8 @@
   "SpecialDurability2": {
     "Active": true,
     "CardStatName": {
-      "DefaultText": "\u519C\u836F\u2014\u771F\u83CC",
-      "LocalizationKey": "",
+      "DefaultText": "农药—真菌",
+      "LocalizationKey": "T-SQHNrljrV4ElcnBuwhZZKDCw4NI=",
       "ParentObjectID": ""
     },
     "ExtraRateWhenEquipped": 0.0,
@@ -5215,8 +5215,8 @@
   "SpecialDurability3": {
     "Active": true,
     "CardStatName": {
-      "DefaultText": "\u87A8\u866B\u4FB5\u5BB3",
-      "LocalizationKey": "",
+      "DefaultText": "螨虫侵害",
+      "LocalizationKey": "T-ZU9vsJSCCzY0giN4iFcRMfJfhkE=",
       "ParentObjectID": ""
     },
     "ExtraRateWhenEquipped": 0.0,
@@ -5647,8 +5647,8 @@
   "SpecialDurability4": {
     "Active": true,
     "CardStatName": {
-      "DefaultText": "\u771F\u83CC\u611F\u67D3",
-      "LocalizationKey": "",
+      "DefaultText": "真菌感染",
+      "LocalizationKey": "T-JOp8tZlyle1uhnrntbk0oDNQfYU=",
       "ParentObjectID": ""
     },
     "ExtraRateWhenEquipped": 0.0,
@@ -6080,8 +6080,8 @@
   "SpoilageTime": {
     "Active": true,
     "CardStatName": {
-      "DefaultText": "\u80A5\u529B",
-      "LocalizationKey": "",
+      "DefaultText": "肥力",
+      "LocalizationKey": "T-ZB/zI6aEK2wE1RCVaG+gDAojvgI=",
       "ParentObjectID": ""
     },
     "ExtraRateWhenEquipped": 0.0,
@@ -6523,8 +6523,8 @@
   "UsageDurability": {
     "Active": true,
     "CardStatName": {
-      "DefaultText": "\u5065\u5EB7\u5EA6",
-      "LocalizationKey": "",
+      "DefaultText": "健康度",
+      "LocalizationKey": "T-ADxJfEAUJ+0Bm0FqhQ5nRW04L78=",
       "ParentObjectID": ""
     },
     "ExtraRateWhenEquipped": 0.0,
@@ -6755,8 +6755,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u4F5C\u7269\u5DF2\u6B7B\u4EA1\uFF01",
-        "LocalizationKey": "",
+        "DefaultText": "作物已死亡！",
+        "LocalizationKey": "T-vK5eC/DT7Rk0B4bJdfMseO9qSEk=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],

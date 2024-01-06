@@ -23,7 +23,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "DefaultStatusIconWarpData": "\u6D77\u6D0B\u4E4B\u5FC3\u6570\u91CF",
+  "DefaultStatusIconWarpData": "海洋之心数量",
   "DefaultStatusIconWarpType": 3,
   "DefaultStatusName": {
     "DefaultText": "",
@@ -48,8 +48,8 @@
     "StepValue": 1.0
   },
   "GameName": {
-    "DefaultText": "\u6D77\u6D0B\u4E4B\u5FC3\u6570\u91CF",
-    "LocalizationKey": "",
+    "DefaultText": "海洋之心数量",
+    "LocalizationKey": "T-+tulNIkPmbLHjUFqy8XwuoP0o34=",
     "ParentObjectID": ""
   },
   "InvertedDirection": false,

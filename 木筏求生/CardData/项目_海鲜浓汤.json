@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u6D77\u9C9C\u6D53\u6C64",
-    "LocalizationKey": "",
+    "DefaultText": "海鲜浓汤",
+    "LocalizationKey": "T-FzVnMuq9kzlh90enxddrRq6Mm3I=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u6D77\u6D0B\u76DB\u5BB4\uFF01",
-    "LocalizationKey": "",
+    "DefaultText": "海洋盛宴！",
+    "LocalizationKey": "T-79/jtNM9Hm6ha2GVRM+O7LjU+Dg=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -111,7 +111,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u6D77\u9C9C\u6D53\u6C64",
+  "CardImageWarpData": "海鲜浓汤",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],
@@ -190,8 +190,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u98DF\u7528",
-        "LocalizationKey": "",
+        "DefaultText": "食用",
+        "LocalizationKey": "T-/CTIPWxzNS43sBPJ2MPBHWGtsdM=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],

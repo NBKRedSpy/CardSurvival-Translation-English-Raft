@@ -1,7 +1,7 @@
 {
   "CardName": {
-    "DefaultText": "2\u4E2A\u68D5\u6988\u7F16\u7EC7\u7269",
-    "LocalizationKey": "",
+    "DefaultText": "2个棕榈编织物",
+    "LocalizationKey": "T-V2QQ6iTcwFHCxMUfQ0tAsCj5vYc=",
     "ParentObjectID": ""
   },
   "CardDescription": {
@@ -3437,8 +3437,8 @@
   "UniqueID": "b168301342e7d8538d49b78540adc258",
   "UniqueOnBoard": false,
   "UnlockConditionsDesc": {
-    "DefaultText": "\u9700\u8981\u68D5\u6988\u53F6",
-    "LocalizationKey": "",
+    "DefaultText": "需要棕榈叶",
+    "LocalizationKey": "T-nKDppMI7gceUbNTq36a8Mqdfqlc=",
     "ParentObjectID": ""
   },
   "UsageDurability": {

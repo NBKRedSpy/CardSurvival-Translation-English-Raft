@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u5DE8\u6D6A\u88AD\u51FB",
-    "LocalizationKey": "",
+    "DefaultText": "巨浪袭击",
+    "LocalizationKey": "T-cstsgP5rdaSh8JbkBsSfhSQfcX8=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u5DE8\u6D6A\u7834\u574F\u4E86\u4F60\u7684\u6728\u7B4F\u3002",
-    "LocalizationKey": "",
+    "DefaultText": "巨浪破坏了你的木筏。",
+    "LocalizationKey": "T-9AvIR5fpLws/eRFyEhyakWEEtu8=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -108,7 +108,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u5DE8\u6D6A\u88AD\u51FB",
+  "CardImageWarpData": "巨浪袭击",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],
@@ -187,8 +187,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u7EE7\u7EED",
-        "LocalizationKey": "",
+        "DefaultText": "继续",
+        "LocalizationKey": "T-H8GvxcVe2MDMKPmXFbU8rOTDcig=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -4048,7 +4048,7 @@
   "WeaponReach": 0.0,
   "WhenCreatedSounds": [],
   "WhenCreatedSoundsWarpData": [
-    "\u5DE8\u6D6A"
+    "巨浪"
   ],
   "WhenCreatedSoundsWarpType": 3
 }

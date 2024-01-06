@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u6D77\u9E25\u5582\u98DF\u5668",
-    "LocalizationKey": "",
+    "DefaultText": "海鸥喂食器",
+    "LocalizationKey": "T-qlalPElicqq9lsxS0aN41kQxVIk=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u7ED9\u6D77\u9E25\u4EEC\u63D0\u4F9B\u7A33\u5B9A\u7684\u98DF\u7269",
-    "LocalizationKey": "",
+    "DefaultText": "给海鸥们提供稳定的食物",
+    "LocalizationKey": "T-hs8G8dC9JJqB/Kn9W8DxCgshidY=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -382,7 +382,7 @@
           "Special4": 0,
           "Spoilage": 0,
           "Usage": 0,
-          "RequiredTabGroupWarpData": "\u94C1\u9524\u5B50",
+          "RequiredTabGroupWarpData": "铁锤子",
           "RequiredTabGroupWarpType": 3
         }
       ]
@@ -485,7 +485,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u6D77\u9E25\u5582\u98DF\u5668",
+  "CardImageWarpData": "海鸥喂食器",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],
@@ -3669,8 +3669,8 @@
   "UniqueID": "256029820818b27f30b172ea21ec6957",
   "UniqueOnBoard": false,
   "UnlockConditionsDesc": {
-    "DefaultText": "\u9700\u8981\u6D77\u9E25\u6570\u91CF\u6280\u80FD",
-    "LocalizationKey": "",
+    "DefaultText": "需要海鸥数量技能",
+    "LocalizationKey": "T-KKJc6+Og/s1spN3ZLTJoomVMtiw=",
     "ParentObjectID": ""
   },
   "UsageDurability": {

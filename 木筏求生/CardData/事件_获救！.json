@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u4F60\u83B7\u6551\u4E86\uFF01",
-    "LocalizationKey": "",
+    "DefaultText": "你获救了！",
+    "LocalizationKey": "T-JP2jNJZk2FYqi9/3gXZVIxfA7w4=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u795D\u8D3A\u4F60\uFF01\n\u4E00\u8258\u8DEF\u8FC7\u7684\u8239\u6551\u4E86\u4F60\uFF01",
-    "LocalizationKey": "",
+    "DefaultText": "祝贺你！\n一艘路过的船救了你！",
+    "LocalizationKey": "T-TpxPFhDhhPA4FWhe9ebxkn1GV9Y=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -187,8 +187,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u91CD\u8FD4\u6587\u660E\u4E16\u754C",
-        "LocalizationKey": "",
+        "DefaultText": "重返文明世界",
+        "LocalizationKey": "T-iq6+dAVqDMPCTQV0dwuQ5VqZ//Q=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],

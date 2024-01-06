@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u94C1\u9E1F\u7B3C",
-    "LocalizationKey": "",
+    "DefaultText": "铁鸟笼",
+    "LocalizationKey": "T-8PYyDp6I+BXdzTHnm7PwTVU3a+U=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u8FDB\u5165\u94C1\u9E1F\u7B3C",
-    "LocalizationKey": "",
+    "DefaultText": "进入铁鸟笼",
+    "LocalizationKey": "T-gMQznS4CK4+J9yj7jn7x68OnFUE=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -108,7 +108,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u94C1\u9E1F\u7B3C",
+  "CardImageWarpData": "铁鸟笼",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],
@@ -187,8 +187,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u8FDB\u5165",
-        "LocalizationKey": "",
+        "DefaultText": "进入",
+        "LocalizationKey": "T-DiVXjo+hpn00w1H5A9lgVaFSZis=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],

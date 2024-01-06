@@ -23,7 +23,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "DefaultStatusIconWarpData": "\u795E\u79D8\u5546\u4EBA\u5468\u671F",
+  "DefaultStatusIconWarpData": "神秘商人周期",
   "DefaultStatusIconWarpType": 3,
   "DefaultStatusName": {
     "DefaultText": "",
@@ -48,8 +48,8 @@
     "StepValue": 1.0
   },
   "GameName": {
-    "DefaultText": "\u795E\u79D8\u5546\u4EBA\u5468\u671F",
-    "LocalizationKey": "",
+    "DefaultText": "神秘商人周期",
+    "LocalizationKey": "T-DmNcln9DxRuWjqojWbwpaKH8zQg=",
     "ParentObjectID": ""
   },
   "InvertedDirection": false,

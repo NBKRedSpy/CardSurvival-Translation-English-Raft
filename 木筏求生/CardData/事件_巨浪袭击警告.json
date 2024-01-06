@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u5DE8\u6D6A\u88AD\u51FB\u8B66\u544A",
-    "LocalizationKey": "",
+    "DefaultText": "巨浪袭击警告",
+    "LocalizationKey": "T-gMgVjeNsWp20fo5hKvUGVxaSzxs=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u5DE8\u6D6A\u88AD\u51FB\u5373\u5C06\u6765\u4E34\u3002",
-    "LocalizationKey": "",
+    "DefaultText": "巨浪袭击即将来临。",
+    "LocalizationKey": "T-D7vvPQVIIgwWEOQZCozkYFkaCNY=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -108,7 +108,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u5DE8\u6D6A\u88AD\u51FB",
+  "CardImageWarpData": "巨浪袭击",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],
@@ -187,8 +187,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u7EE7\u7EED",
-        "LocalizationKey": "",
+        "DefaultText": "继续",
+        "LocalizationKey": "T-H8GvxcVe2MDMKPmXFbU8rOTDcig=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],

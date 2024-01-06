@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u6F02\u6D6E\u7269\u6536\u96C6\u7F51\uFF08\u5F00\u542F\uFF09",
-    "LocalizationKey": "",
+    "DefaultText": "漂浮物收集网（开启）",
+    "LocalizationKey": "T-k4gjRFSefH7k22q8L3ptemhxTL8=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u4E13\u95E8\u6536\u96C6\u6CA1\u7528\u7684\u6811\u53F6(\u7528\u68D5\u6988\u7F16\u7EC7\u7269\u4FEE\u590D)",
-    "LocalizationKey": "",
+    "DefaultText": "专门收集没用的树叶(用棕榈编织物修复)",
+    "LocalizationKey": "T-6sYz2HGzdej37QDuI2u9YxWY2Tc=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -108,7 +108,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u6F02\u6D6E\u7269\u6536\u96C6\u7F51",
+  "CardImageWarpData": "漂浮物收集网",
   "CardImageWarpType": 3,
   "CardInteractions": [
     {
@@ -129,8 +129,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u4FEE\u7406",
-        "LocalizationKey": "",
+        "DefaultText": "修理",
+        "LocalizationKey": "T-5jxoK+mhK5np+Rv8jydQ1Z05+GU=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -515,8 +515,8 @@
   "CookingRecipes": [
     {
       "ActionName": {
-        "DefaultText": "\u6536\u96C6\u6F02\u6D6E\u7269",
-        "LocalizationKey": "",
+        "DefaultText": "收集漂浮物",
+        "LocalizationKey": "T-0a2id6zHy+PYvu3RMRqBX/YgoMg=",
         "ParentObjectID": ""
       },
       "CannotCookText": {
@@ -591,13 +591,13 @@
         "m_PathID": 0
       },
       "CustomCookingText": {
-        "DefaultText": "{0}\u540E\u5B8C\u6210",
-        "LocalizationKey": "",
+        "DefaultText": "{0}后完成",
+        "LocalizationKey": "T-FOYYcobPVk187e3WMWVcuwy9UOs=",
         "ParentObjectID": ""
       },
       "CustomNotification": {
-        "DefaultText": "\u9677\u9631\u89E6\u53D1\u4E86\uFF01",
-        "LocalizationKey": "",
+        "DefaultText": "陷阱触发了！",
+        "LocalizationKey": "T-JtQzO6QEx7/qavwrCTSidEYNO0g=",
         "ParentObjectID": ""
       },
       "Drops": [],
@@ -732,8 +732,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u5173\u95ED",
-        "LocalizationKey": "",
+        "DefaultText": "关闭",
+        "LocalizationKey": "T-bBS9f2+eVORgJNNd/ixFSMmjgh0=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -9365,8 +9365,8 @@
     "OnFullNotification": 0,
     "OnZero": {
       "ActionDescription": {
-        "DefaultText": "\u6211\u4E22\u4E86\u4E00\u4E2A\u6F02\u6D6E\u7269\u6536\u96C6\u7F51\uFF01",
-        "LocalizationKey": "",
+        "DefaultText": "我丢了一个漂浮物收集网！",
+        "LocalizationKey": "T-ezycE6oB6hRgc77w/UBFM50oSOM=",
         "ParentObjectID": ""
       },
       "ActionLog": {

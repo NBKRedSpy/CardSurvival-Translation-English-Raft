@@ -1,7 +1,7 @@
 {
   "CardName": {
-    "DefaultText": "\u70F9\u996A\u6280\u80FD\u4E66",
-    "LocalizationKey": "",
+    "DefaultText": "烹饪技能书",
+    "LocalizationKey": "T-wa21PalQs0eTaPKQ51eoquI81QY=",
     "ParentObjectID": ""
   },
   "CardDescription": {
@@ -294,7 +294,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u70F9\u996A\u6280\u80FD\u4E66",
+  "CardImageWarpData": "烹饪技能书",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [
@@ -3475,8 +3475,8 @@
   "UniqueID": "90a379a94523769906e1034030dd3df3",
   "UniqueOnBoard": false,
   "UnlockConditionsDesc": {
-    "DefaultText": "\u9700\u8981\u94F6\u86C7\u5E01",
-    "LocalizationKey": "",
+    "DefaultText": "需要银蛇币",
+    "LocalizationKey": "T-4xxoUJ1NXlGgqpKO+tCEr5+b41Q=",
     "ParentObjectID": ""
   },
   "UsageDurability": {

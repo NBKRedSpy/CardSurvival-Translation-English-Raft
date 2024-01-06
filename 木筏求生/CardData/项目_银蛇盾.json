@@ -1,17 +1,17 @@
 {
   "CardName": {
-    "DefaultText": "\u94F6\u86C7\u76FE",
-    "LocalizationKey": "",
+    "DefaultText": "银蛇盾",
+    "LocalizationKey": "T-gtVu1ygE4MjncZO3LyDmT8oTo8w=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u575A\u65E0\u4E0D\u6467",
-    "LocalizationKey": "",
+    "DefaultText": "坚无不摧",
+    "LocalizationKey": "T-HV61fWLtLBtmJhflEfKjBDcyGMs=",
     "ParentObjectID": ""
   },
   "CardTags": [],
   "CardTagsWarpData": [
-    "\u9632\u5177",
+    "防具",
     "tag_Hammer",
     "tag_Heavy",
     "tag_Pretty"
@@ -113,7 +113,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u94F6\u86C7\u76FE",
+  "CardImageWarpData": "银蛇盾",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],

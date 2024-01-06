@@ -23,7 +23,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "DefaultStatusIconWarpData": "\u6B7B\u4EA1",
+  "DefaultStatusIconWarpData": "死亡",
   "DefaultStatusIconWarpType": 3,
   "DefaultStatusName": {
     "DefaultText": "",
@@ -48,8 +48,8 @@
     "StepValue": 1.0
   },
   "GameName": {
-    "DefaultText": "\u6B7B\u4EA1",
-    "LocalizationKey": "",
+    "DefaultText": "死亡",
+    "LocalizationKey": "T-9c7lYa6JdXADH2e7L3wew92Vzvo=",
     "ParentObjectID": ""
   },
   "InvertedDirection": false,
@@ -115,8 +115,8 @@
         }
       ],
       "GameName": {
-        "DefaultText": "\u6B7B\u4EA1\u7684\u7B2C1\u9636\u6BB5",
-        "LocalizationKey": "",
+        "DefaultText": "死亡的第1阶段",
+        "LocalizationKey": "T-4MMIpsE3x/3Zqj1IQ7TvHTuLHAY=",
         "ParentObjectID": ""
       },
       "GameOver": false,
@@ -124,7 +124,7 @@
         "m_FileID": 0,
         "m_PathID": 0
       },
-      "IconWarpData": "\u6B7B\u4EA1",
+      "IconWarpData": "死亡",
       "IconWarpType": 3,
       "NotifyPlayer": 1,
       "PreventingActionMessage": {

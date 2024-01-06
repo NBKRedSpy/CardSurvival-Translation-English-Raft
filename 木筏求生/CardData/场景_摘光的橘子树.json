@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u6458\u5149\u7684\u6A58\u5B50\u6811",
-    "LocalizationKey": "",
+    "DefaultText": "摘光的橘子树",
+    "LocalizationKey": "T-ryxWuOIkwBphTgbny6ZRK5AYAQM=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u6A58\u5B50\u8FD8\u662F\u4F1A\u751F\u957F\u51FA\u6765\u7684\u3002",
-    "LocalizationKey": "",
+    "DefaultText": "橘子还是会生长出来的。",
+    "LocalizationKey": "T-VjMax53qE9pmghdB6mvEG7QPe2A=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -108,7 +108,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u6458\u5149\u7684\u6A58\u5B50\u6811",
+  "CardImageWarpData": "摘光的橘子树",
   "CardImageWarpType": 3,
   "CardInteractions": [
     {
@@ -129,8 +129,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u780D\u6811",
-        "LocalizationKey": "",
+        "DefaultText": "砍树",
+        "LocalizationKey": "T-uCBXdWqjh41D6FeahtPzoRYOSP4=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -586,8 +586,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u780D\u6811",
-        "LocalizationKey": "",
+        "DefaultText": "砍树",
+        "LocalizationKey": "T-uCBXdWqjh41D6FeahtPzoRYOSP4=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -1087,8 +1087,8 @@
   "FuelCapacity": {
     "Active": true,
     "CardStatName": {
-      "DefaultText": "\u6A58\u5B50 \u6210\u719F\u5EA6",
-      "LocalizationKey": "",
+      "DefaultText": "橘子 成熟度",
+      "LocalizationKey": "T-hPlW6BhsvAcrmL8/c85TsbWdy7o=",
       "ParentObjectID": ""
     },
     "ExtraRateWhenEquipped": 0.0,
@@ -1099,8 +1099,8 @@
     "MaxValue": 768.0,
     "OnFull": {
       "ActionDescription": {
-        "DefaultText": "\u6811\u4E0A\u53C8\u957F\u51FA\u4E86\u6A58\u5B50\uFF01",
-        "LocalizationKey": "",
+        "DefaultText": "树上又长出了橘子！",
+        "LocalizationKey": "T-Z/G93KjBJEdlAkgWu+31qKz7xzo=",
         "ParentObjectID": ""
       },
       "ActionLog": {
@@ -1590,8 +1590,8 @@
   "Progress": {
     "Active": true,
     "CardStatName": {
-      "DefaultText": "\u780D\u4F10\u8FDB\u5EA6",
-      "LocalizationKey": "",
+      "DefaultText": "砍伐进度",
+      "LocalizationKey": "T-nkEturhmmKqoncCNKKKZmC3SFY4=",
       "ParentObjectID": ""
     },
     "ExtraRateWhenEquipped": 0.0,
@@ -1806,8 +1806,8 @@
     "OnFullNotification": 0,
     "OnZero": {
       "ActionDescription": {
-        "DefaultText": "\u6811\u5012\u4E86\uFF01",
-        "LocalizationKey": "",
+        "DefaultText": "树倒了！",
+        "LocalizationKey": "T-efs8sPSE477UOZRPxwIxF8G/SpA=",
         "ParentObjectID": ""
       },
       "ActionLog": {

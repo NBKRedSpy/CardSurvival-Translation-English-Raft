@@ -1,7 +1,7 @@
 {
   "CardName": {
-    "DefaultText": "\u94C1\u9524",
-    "LocalizationKey": "",
+    "DefaultText": "铁锤",
+    "LocalizationKey": "T-RMJ26vnJ+RnVf/MalOyLVm6FPcU=",
     "ParentObjectID": ""
   },
   "CardDescription": {
@@ -478,7 +478,7 @@
           "Special4": 0,
           "Spoilage": 0,
           "Usage": 0,
-          "RequiredTabGroupWarpData": "\u94C1\u9524\u5B50",
+          "RequiredTabGroupWarpData": "铁锤子",
           "RequiredTabGroupWarpType": 3
         }
       ]
@@ -581,7 +581,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u94C1\u9524",
+  "CardImageWarpData": "铁锤",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],
@@ -3765,8 +3765,8 @@
   "UniqueID": "64c50d9068b2a1fb291b2eee3c5ff77a",
   "UniqueOnBoard": false,
   "UnlockConditionsDesc": {
-    "DefaultText": "\u9700\u8981\u91D1\u5DE5\u6280\u80FD",
-    "LocalizationKey": "",
+    "DefaultText": "需要金工技能",
+    "LocalizationKey": "T-x6GaXWvaS65PS1lLE6ixux0fA3c=",
     "ParentObjectID": ""
   },
   "UsageDurability": {

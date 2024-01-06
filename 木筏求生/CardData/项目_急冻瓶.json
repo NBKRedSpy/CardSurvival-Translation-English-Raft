@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u6025\u51BB\u74F6",
-    "LocalizationKey": "",
+    "DefaultText": "急冻瓶",
+    "LocalizationKey": "T-dX+XF5MWsqlhVKHs8Fbe9SVnKOs=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u5F3A\u529B\u7684\u7FA4\u4F53\u63A7\u5236\uFF01",
-    "LocalizationKey": "",
+    "DefaultText": "强力的群体控制！",
+    "LocalizationKey": "T-ROafdxLL46s11x6ZXuVdUKvM7ug=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -108,7 +108,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u6025\u51BB\u74F6",
+  "CardImageWarpData": "急冻瓶",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],

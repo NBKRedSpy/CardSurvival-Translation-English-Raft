@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u6BD2\u7BAD",
-    "LocalizationKey": "",
+    "DefaultText": "毒箭",
+    "LocalizationKey": "T-vt4BDEidFyAcZ+FNUz3c8qwr09U=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u4E00\u51FB\u81F4\u547D",
-    "LocalizationKey": "",
+    "DefaultText": "一击致命",
+    "LocalizationKey": "T-c6vDbrvXCY5ku9YPJYtGWoSaJN8=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -112,7 +112,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u6BD2\u7BAD",
+  "CardImageWarpData": "毒箭",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],

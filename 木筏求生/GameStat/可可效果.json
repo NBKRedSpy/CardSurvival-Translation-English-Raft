@@ -23,7 +23,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "DefaultStatusIconWarpData": "\u53EF\u53EF\u6548\u679C",
+  "DefaultStatusIconWarpData": "可可效果",
   "DefaultStatusIconWarpType": 3,
   "DefaultStatusName": {
     "DefaultText": "",
@@ -31,8 +31,8 @@
     "ParentObjectID": ""
   },
   "Description": {
-    "DefaultText": "\u8BA9\u4EBA\u6B22\u6109",
-    "LocalizationKey": "",
+    "DefaultText": "让人欢愉",
+    "LocalizationKey": "T-oiCuKnhnIsId22EIS0WKS/ORRP8=",
     "ParentObjectID": ""
   },
   "FeedbackInfo": {
@@ -48,8 +48,8 @@
     "StepValue": 1.0
   },
   "GameName": {
-    "DefaultText": "\u53EF\u53EF\u6548\u679C",
-    "LocalizationKey": "",
+    "DefaultText": "可可效果",
+    "LocalizationKey": "T-0TKIB7swefsq7j4l7Q/OVgrOzm8=",
     "ParentObjectID": ""
   },
   "InvertedDirection": false,
@@ -88,8 +88,8 @@
       "AlertSounds": [],
       "ConfidenceModifier": 0.0,
       "Description": {
-        "DefaultText": "\u8BA9\u4EBA\u6B22\u6109",
-        "LocalizationKey": "",
+        "DefaultText": "让人欢愉",
+        "LocalizationKey": "T-oiCuKnhnIsId22EIS0WKS/ORRP8=",
         "ParentObjectID": ""
       },
       "EffectsOnActions": [],
@@ -191,8 +191,8 @@
         }
       ],
       "GameName": {
-        "DefaultText": "\u4E2D\u7B49\u53EF\u53EF\u6548\u679C",
-        "LocalizationKey": "",
+        "DefaultText": "中等可可效果",
+        "LocalizationKey": "T-tVE5nhWf69xsB10D/6zupSV/4Ko=",
         "ParentObjectID": ""
       },
       "GameOver": false,
@@ -200,7 +200,7 @@
         "m_FileID": 0,
         "m_PathID": 0
       },
-      "IconWarpData": "\u53EF\u53EF\u6548\u679C",
+      "IconWarpData": "可可效果",
       "IconWarpType": 3,
       "NotifyPlayer": 1,
       "PreventingActionMessage": {
@@ -233,8 +233,8 @@
       "AlertSounds": [],
       "ConfidenceModifier": 0.0,
       "Description": {
-        "DefaultText": "\u8BA9\u4EBA\u6B22\u6109",
-        "LocalizationKey": "",
+        "DefaultText": "让人欢愉",
+        "LocalizationKey": "T-oiCuKnhnIsId22EIS0WKS/ORRP8=",
         "ParentObjectID": ""
       },
       "EffectsOnActions": [],
@@ -336,8 +336,8 @@
         }
       ],
       "GameName": {
-        "DefaultText": "\u9AD8\u53EF\u53EF\u6548\u679C",
-        "LocalizationKey": "",
+        "DefaultText": "高可可效果",
+        "LocalizationKey": "T-S28fPJWN6pJQLzLqkoNtls3To7s=",
         "ParentObjectID": ""
       },
       "GameOver": false,
@@ -345,7 +345,7 @@
         "m_FileID": 0,
         "m_PathID": 0
       },
-      "IconWarpData": "\u53EF\u53EF\u6548\u679C",
+      "IconWarpData": "可可效果",
       "IconWarpType": 3,
       "NotifyPlayer": 1,
       "PreventingActionMessage": {

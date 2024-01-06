@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u6D77\u6D0B\u4E4B\u5FC3",
-    "LocalizationKey": "",
+    "DefaultText": "海洋之心",
+    "LocalizationKey": "T-KDdxxWsJMmRZuJ1yl3+HrTW+dY8=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u9700\u8981\u73CD\u73E0\u4F5C\u4E3A\u71C3\u6599",
-    "LocalizationKey": "",
+    "DefaultText": "需要珍珠作为燃料",
+    "LocalizationKey": "T-wAN655o+1N+yKn8rr9iUlsccBMY=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -113,7 +113,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u6D77\u6D0B\u4E4B\u5FC3",
+  "CardImageWarpData": "海洋之心",
   "CardImageWarpType": 3,
   "CardInteractions": [
     {
@@ -134,8 +134,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u8865\u5145",
-        "LocalizationKey": "",
+        "DefaultText": "补充",
+        "LocalizationKey": "T-Wwv9YvS7Qc6uWCUoyV3VuWQKtQE=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -546,8 +546,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u5F00\u542F",
-        "LocalizationKey": "",
+        "DefaultText": "开启",
+        "LocalizationKey": "T-JWeDt9TqDsbzB52yv4h31mpeWME=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],

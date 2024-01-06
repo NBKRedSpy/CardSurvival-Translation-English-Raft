@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u6355\u9C7C\u9677\u9631\uFF08\u653E\u7F6E\uFF09",
-    "LocalizationKey": "",
+    "DefaultText": "捕鱼陷阱（放置）",
+    "LocalizationKey": "T-B2Zt3DJvFxQKNOswKH/sU2KLjAI=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u6211\u5E94\u8BE5\u7A0D\u540E\u518D\u6765\u68C0\u67E5\u662F\u5426\u6709\u9C7C\u3002",
-    "LocalizationKey": "",
+    "DefaultText": "我应该稍后再来检查是否有鱼。",
+    "LocalizationKey": "T-/lZcjHhvFwaf9H8xqB49dA242mQ=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -149,8 +149,8 @@
   "CookingRecipes": [
     {
       "ActionName": {
-        "DefaultText": "\u6355\u6349\u730E\u7269",
-        "LocalizationKey": "",
+        "DefaultText": "捕捉猎物",
+        "LocalizationKey": "T-fMTVlqzBQCSuNveiZ1VaxhO7ykY=",
         "ParentObjectID": ""
       },
       "CannotCookText": {
@@ -224,13 +224,13 @@
         "m_PathID": 0
       },
       "CustomCookingText": {
-        "DefaultText": "{0}\u540E\u5B8C\u6210",
-        "LocalizationKey": "",
+        "DefaultText": "{0}后完成",
+        "LocalizationKey": "T-FOYYcobPVk187e3WMWVcuwy9UOs=",
         "ParentObjectID": ""
       },
       "CustomNotification": {
-        "DefaultText": "\u9677\u9631\u89E6\u53D1\u4E86\uFF01",
-        "LocalizationKey": "",
+        "DefaultText": "陷阱触发了！",
+        "LocalizationKey": "T-JtQzO6QEx7/qavwrCTSidEYNO0g=",
         "ParentObjectID": ""
       },
       "Drops": [],
@@ -781,8 +781,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u62FF\u8D77\u9677\u9631",
-        "LocalizationKey": "",
+        "DefaultText": "拿起陷阱",
+        "LocalizationKey": "T-VyPEvYbSl3FCq6Np9Ly35vRevJ4=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],

@@ -1,7 +1,7 @@
 {
   "CardName": {
-    "DefaultText": "\u58A8\u6C34\u74F6",
-    "LocalizationKey": "",
+    "DefaultText": "墨水瓶",
+    "LocalizationKey": "T-CO3ZyNQCvh6xudLwutBsjVyocMk=",
     "ParentObjectID": ""
   },
   "CardDescription": {
@@ -108,7 +108,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u58A8\u6C34\u74F6",
+  "CardImageWarpData": "墨水瓶",
   "CardImageWarpType": 3,
   "CardInteractions": [
     {
@@ -129,8 +129,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u6295\u63B7",
-        "LocalizationKey": "",
+        "DefaultText": "投掷",
+        "LocalizationKey": "T-FUemMSgdb8iihvCMjwUWjbnfwrs=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -144,7 +144,7 @@
         "TriggerCards": [],
         "TriggerTags": [],
         "TriggerTagsWarpData": [
-          "\u602A\u7269"
+          "怪物"
         ],
         "TriggerTagsWarpType": 3
       },
@@ -177,7 +177,7 @@
           "AffectedTags": [],
           "NOTAffectedThings": [],
           "AffectedTagsWarpData": [
-            "\u602A\u7269"
+            "怪物"
           ],
           "AffectedTagsWarpType": 3,
           "AppliesTo": 0,

@@ -23,7 +23,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "DefaultStatusIconWarpData": "\u706B\u5C71\u6570\u91CF",
+  "DefaultStatusIconWarpData": "火山数量",
   "DefaultStatusIconWarpType": 3,
   "DefaultStatusName": {
     "DefaultText": "",
@@ -48,8 +48,8 @@
     "StepValue": 1.0
   },
   "GameName": {
-    "DefaultText": "\u706B\u5C71\u6570\u91CF",
-    "LocalizationKey": "",
+    "DefaultText": "火山数量",
+    "LocalizationKey": "T-TN4FDtfp9qNpUe8DJbwog0BFX0A=",
     "ParentObjectID": ""
   },
   "InvertedDirection": false,

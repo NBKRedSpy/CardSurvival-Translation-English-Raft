@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u73CA\u745A",
-    "LocalizationKey": "",
+    "DefaultText": "珊瑚",
+    "LocalizationKey": "T-hFP4kmdSYALMdYSC8UZWYT/FwCc=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u6F02\u4EAE\u7684\u73CA\u745A\uFF0C\u6211\u53EF\u4EE5\u628A\u5B83\u78E8\u6210\u7C89",
-    "LocalizationKey": "",
+    "DefaultText": "漂亮的珊瑚，我可以把它磨成粉",
+    "LocalizationKey": "T-W2081UWVqAsf2jkWdEgpIPl7rpg=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -108,7 +108,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u73CA\u745A",
+  "CardImageWarpData": "珊瑚",
   "CardImageWarpType": 3,
   "CardInteractions": [
     {
@@ -129,8 +129,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u7814\u78E8",
-        "LocalizationKey": "",
+        "DefaultText": "研磨",
+        "LocalizationKey": "T-xmwAZ90e3VV8Sa/RWeFSKEMcLiE=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],

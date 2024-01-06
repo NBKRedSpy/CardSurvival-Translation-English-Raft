@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u9ED1\u5DE7\u514B\u529B",
-    "LocalizationKey": "",
+    "DefaultText": "黑巧克力",
+    "LocalizationKey": "T-m+LgFJhf15O4kWK0hiIpaclBAJM=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u7F8E\u5473\u800C\u4E14\u4FDD\u8D28\u671F\u957F\uFF01",
-    "LocalizationKey": "",
+    "DefaultText": "美味而且保质期长！",
+    "LocalizationKey": "T-U/FCksJ/xHuVeygQEv3K4ranLLI=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -114,7 +114,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u9ED1\u5DE7\u514B\u529B",
+  "CardImageWarpData": "黑巧克力",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],
@@ -193,8 +193,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u98DF\u7528",
-        "LocalizationKey": "",
+        "DefaultText": "食用",
+        "LocalizationKey": "T-/CTIPWxzNS43sBPJ2MPBHWGtsdM=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],

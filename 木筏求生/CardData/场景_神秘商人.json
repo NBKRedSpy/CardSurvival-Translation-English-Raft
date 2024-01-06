@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u795E\u79D8\u5546\u4EBA",
-    "LocalizationKey": "",
+    "DefaultText": "神秘商人",
+    "LocalizationKey": "T-x06CUUNslB9YVOSjGJKM/HricRQ=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u7ED9\u4ED6\u6709\u4EF7\u503C\u7684\u7269\u54C1\u3001\u4ED6\u4F1A\u7ED9\u4F60\u94F6\u86C7\u5E01\uFF08\u58A8\u56CA-2\u94F6\u3001\u4E09\u6587\u9C7C-2\u94F6\u3001\u8102\u80AA-2\u94F6\u3001\u9CA8\u9C7C\u8089-2\u94F6\u3001\u5927\u9A6C\u9C85\u9C7C-4\u94F6\u3001\u79CB\u5200\u9C7C-2\u94F6\u3001\u5317\u68AD\u9C7C-2\u94F6\u3001\u6C99\u4E01\u9C7C-1\u94F6\u3001\u571F\u8C462\u94F6\u3001\u5377\u5FC3\u83DC2\u94F6\u3001\u80E1\u841D\u535C2\u94F6\u3001\u4F0F\u7279\u52A0-10\u94F6\u3001\u9CA8\u9C7C\u76AE-2\u94F6\u3001\u9CA8\u9C7C\u7B4B-5\u94F6\u3001\u97A3\u5236\u517D\u76AE-2\u94F6\u3001\u7CD6-2\u94F6\u3001\u94DC-4\u94F6\u3001\u94C1-4\u94F6\u3001\u73CA\u745A-3\u94F6\u3001\u9C7C\u9AA8-2\u94F6\u3001\u871C\u6A58-4\u94F6\u3001\u6BD2\u6DB2-2\u94F6\u3001\u6D77\u9C9C\u6742\u70E9-8\u94F6\u3001\u5927\u9F99\u867E-10\u94F6\u3001\u70B8\u85AF\u6761\u20148\u94F6\u3001\u6D77\u9C9C\u6D53\u6C64-12\u94F6\u3001\u852C\u83DC\u6C99\u62C9-10\u94F6\u3001\u7AE0\u9C7C\u4E38\u5B50-14\u94F6\u3001\u9EC4\u6CB9\u7117\u9F99\u867E-25\u94F6\u3001\u591C\u660E\u73E0-15\u94F6\u3001\u9EC4\u91D1\u94A9\u7D22\u201430\u94F6\u3001\u4E09\u53C9\u621F\u201440\u94F6",
-    "LocalizationKey": "",
+    "DefaultText": "给他有价值的物品、他会给你银蛇币（墨囊-2银、三文鱼-2银、脂肪-2银、鲨鱼肉-2银、大马鲅鱼-4银、秋刀鱼-2银、北梭鱼-2银、沙丁鱼-1银、土豆2银、卷心菜2银、胡萝卜2银、伏特加-10银、鲨鱼皮-2银、鲨鱼筋-5银、鞣制兽皮-2银、糖-2银、铜-4银、铁-4银、珊瑚-3银、鱼骨-2银、蜜橘-4银、毒液-2银、海鲜杂烩-8银、大龙虾-10银、炸薯条—8银、海鲜浓汤-12银、蔬菜沙拉-10银、章鱼丸子-14银、黄油焗龙虾-25银、夜明珠-15银、黄金钩索—30银、三叉戟—40银",
+    "LocalizationKey": "T-O+mHeFy2DzWV8H/7DRFmoWmUIq8=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -108,7 +108,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u795E\u79D8\u5546\u4EBA",
+  "CardImageWarpData": "神秘商人",
   "CardImageWarpType": 3,
   "CardInteractions": [
     {
@@ -129,8 +129,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u4EA4\u6613",
-        "LocalizationKey": "",
+        "DefaultText": "交易",
+        "LocalizationKey": "T-3+eZlH/FxihXdzfDMnoFUN2KG1M=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -566,8 +566,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u4EA4\u6613",
-        "LocalizationKey": "",
+        "DefaultText": "交易",
+        "LocalizationKey": "T-3+eZlH/FxihXdzfDMnoFUN2KG1M=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -1003,8 +1003,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u4EA4\u6613",
-        "LocalizationKey": "",
+        "DefaultText": "交易",
+        "LocalizationKey": "T-3+eZlH/FxihXdzfDMnoFUN2KG1M=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -1440,8 +1440,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u4EA4\u6613",
-        "LocalizationKey": "",
+        "DefaultText": "交易",
+        "LocalizationKey": "T-3+eZlH/FxihXdzfDMnoFUN2KG1M=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -1877,8 +1877,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u4EA4\u6613",
-        "LocalizationKey": "",
+        "DefaultText": "交易",
+        "LocalizationKey": "T-3+eZlH/FxihXdzfDMnoFUN2KG1M=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -2315,8 +2315,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u4EA4\u6613",
-        "LocalizationKey": "",
+        "DefaultText": "交易",
+        "LocalizationKey": "T-3+eZlH/FxihXdzfDMnoFUN2KG1M=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -2753,8 +2753,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u4EA4\u6613",
-        "LocalizationKey": "",
+        "DefaultText": "交易",
+        "LocalizationKey": "T-3+eZlH/FxihXdzfDMnoFUN2KG1M=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -3191,8 +3191,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u4EA4\u6613",
-        "LocalizationKey": "",
+        "DefaultText": "交易",
+        "LocalizationKey": "T-3+eZlH/FxihXdzfDMnoFUN2KG1M=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -3629,8 +3629,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u4EA4\u6613",
-        "LocalizationKey": "",
+        "DefaultText": "交易",
+        "LocalizationKey": "T-3+eZlH/FxihXdzfDMnoFUN2KG1M=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -4066,8 +4066,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u4EA4\u6613",
-        "LocalizationKey": "",
+        "DefaultText": "交易",
+        "LocalizationKey": "T-3+eZlH/FxihXdzfDMnoFUN2KG1M=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -4504,8 +4504,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u4EA4\u6613",
-        "LocalizationKey": "",
+        "DefaultText": "交易",
+        "LocalizationKey": "T-3+eZlH/FxihXdzfDMnoFUN2KG1M=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -4942,8 +4942,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u4EA4\u6613",
-        "LocalizationKey": "",
+        "DefaultText": "交易",
+        "LocalizationKey": "T-3+eZlH/FxihXdzfDMnoFUN2KG1M=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -5379,8 +5379,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u4EA4\u6613",
-        "LocalizationKey": "",
+        "DefaultText": "交易",
+        "LocalizationKey": "T-3+eZlH/FxihXdzfDMnoFUN2KG1M=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -5816,8 +5816,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u4EA4\u6613",
-        "LocalizationKey": "",
+        "DefaultText": "交易",
+        "LocalizationKey": "T-3+eZlH/FxihXdzfDMnoFUN2KG1M=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -6253,8 +6253,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u4EA4\u6613",
-        "LocalizationKey": "",
+        "DefaultText": "交易",
+        "LocalizationKey": "T-3+eZlH/FxihXdzfDMnoFUN2KG1M=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -6690,8 +6690,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u4EA4\u6613",
-        "LocalizationKey": "",
+        "DefaultText": "交易",
+        "LocalizationKey": "T-3+eZlH/FxihXdzfDMnoFUN2KG1M=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -7127,8 +7127,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u4EA4\u6613",
-        "LocalizationKey": "",
+        "DefaultText": "交易",
+        "LocalizationKey": "T-3+eZlH/FxihXdzfDMnoFUN2KG1M=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -7564,8 +7564,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u4EA4\u6613",
-        "LocalizationKey": "",
+        "DefaultText": "交易",
+        "LocalizationKey": "T-3+eZlH/FxihXdzfDMnoFUN2KG1M=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -8001,8 +8001,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u4EA4\u6613",
-        "LocalizationKey": "",
+        "DefaultText": "交易",
+        "LocalizationKey": "T-3+eZlH/FxihXdzfDMnoFUN2KG1M=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -8438,8 +8438,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u4EA4\u6613",
-        "LocalizationKey": "",
+        "DefaultText": "交易",
+        "LocalizationKey": "T-3+eZlH/FxihXdzfDMnoFUN2KG1M=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -8875,8 +8875,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u4EA4\u6613",
-        "LocalizationKey": "",
+        "DefaultText": "交易",
+        "LocalizationKey": "T-3+eZlH/FxihXdzfDMnoFUN2KG1M=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -9312,8 +9312,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u4EA4\u6613",
-        "LocalizationKey": "",
+        "DefaultText": "交易",
+        "LocalizationKey": "T-3+eZlH/FxihXdzfDMnoFUN2KG1M=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -9749,8 +9749,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u4EA4\u6613",
-        "LocalizationKey": "",
+        "DefaultText": "交易",
+        "LocalizationKey": "T-3+eZlH/FxihXdzfDMnoFUN2KG1M=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -10186,8 +10186,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u4EA4\u6613",
-        "LocalizationKey": "",
+        "DefaultText": "交易",
+        "LocalizationKey": "T-3+eZlH/FxihXdzfDMnoFUN2KG1M=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -10623,8 +10623,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u4EA4\u6613",
-        "LocalizationKey": "",
+        "DefaultText": "交易",
+        "LocalizationKey": "T-3+eZlH/FxihXdzfDMnoFUN2KG1M=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -11060,8 +11060,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u4EA4\u6613",
-        "LocalizationKey": "",
+        "DefaultText": "交易",
+        "LocalizationKey": "T-3+eZlH/FxihXdzfDMnoFUN2KG1M=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -11497,8 +11497,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u4EA4\u6613",
-        "LocalizationKey": "",
+        "DefaultText": "交易",
+        "LocalizationKey": "T-3+eZlH/FxihXdzfDMnoFUN2KG1M=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -11934,8 +11934,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u4EA4\u6613",
-        "LocalizationKey": "",
+        "DefaultText": "交易",
+        "LocalizationKey": "T-3+eZlH/FxihXdzfDMnoFUN2KG1M=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -12371,8 +12371,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u4EA4\u6613",
-        "LocalizationKey": "",
+        "DefaultText": "交易",
+        "LocalizationKey": "T-3+eZlH/FxihXdzfDMnoFUN2KG1M=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -12808,8 +12808,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u4EA4\u6613",
-        "LocalizationKey": "",
+        "DefaultText": "交易",
+        "LocalizationKey": "T-3+eZlH/FxihXdzfDMnoFUN2KG1M=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -13245,8 +13245,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u4EA4\u6613",
-        "LocalizationKey": "",
+        "DefaultText": "交易",
+        "LocalizationKey": "T-3+eZlH/FxihXdzfDMnoFUN2KG1M=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -13682,8 +13682,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u4EA4\u6613",
-        "LocalizationKey": "",
+        "DefaultText": "交易",
+        "LocalizationKey": "T-3+eZlH/FxihXdzfDMnoFUN2KG1M=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -17824,7 +17824,7 @@
   "WeaponReach": 0.0,
   "WhenCreatedSounds": [],
   "WhenCreatedSoundsWarpData": [
-    "\u53EE\u94C3"
+    "叮铃"
   ],
   "WhenCreatedSoundsWarpType": 3
 }

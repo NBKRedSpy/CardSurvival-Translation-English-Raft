@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u6728\u7B4F\u4E8C\u697C",
-    "LocalizationKey": "",
+    "DefaultText": "木筏二楼",
+    "LocalizationKey": "T-FbW693ev5RcChRwyKFB2/+lpy9A=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u7528\u626B\u5E1A\u6765\u6E05\u7406\u6C61\u6E0D",
-    "LocalizationKey": "",
+    "DefaultText": "用扫帚来清理污渍",
+    "LocalizationKey": "T-H3CDv4u+Gr9CWJo2se+7VHQsZB0=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -108,7 +108,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u6728\u7B4F\u4E8C\u697C",
+  "CardImageWarpData": "木筏二楼",
   "CardImageWarpType": 3,
   "CardInteractions": [
     {
@@ -129,8 +129,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u6253\u626B",
-        "LocalizationKey": "",
+        "DefaultText": "打扫",
+        "LocalizationKey": "T-gF9+n2gnHHNjXhWHrO+zmGUkIM8=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -1149,7 +1149,7 @@
         "Active": false,
         "FloatValue": 0.0
       },
-      "EffectName": "\u6700\u5C11\u810F\u6C61",
+      "EffectName": "最少脏污",
       "EffectStacksWithRequiredCards": false,
       "FuelRateModifier": {
         "Active": false,
@@ -1278,7 +1278,7 @@
         "Active": false,
         "FloatValue": 0.0
       },
-      "EffectName": "\u8F83\u5C11\u810F\u6C61",
+      "EffectName": "较少脏污",
       "EffectStacksWithRequiredCards": false,
       "FuelRateModifier": {
         "Active": false,
@@ -1407,7 +1407,7 @@
         "Active": false,
         "FloatValue": 0.0
       },
-      "EffectName": "\u4E2D\u7B49\u810F\u6C61",
+      "EffectName": "中等脏污",
       "EffectStacksWithRequiredCards": false,
       "FuelRateModifier": {
         "Active": false,
@@ -1536,7 +1536,7 @@
         "Active": false,
         "FloatValue": 0.0
       },
-      "EffectName": "\u5927\u91CF\u810F\u6C61",
+      "EffectName": "大量脏污",
       "EffectStacksWithRequiredCards": false,
       "FuelRateModifier": {
         "Active": false,
@@ -3762,8 +3762,8 @@
   "SpoilageTime": {
     "Active": true,
     "CardStatName": {
-      "DefaultText": "\u6C61\u79FD",
-      "LocalizationKey": "",
+      "DefaultText": "污秽",
+      "LocalizationKey": "T-PppUvnFEz+wtap7KFH43MkSdWZ8=",
       "ParentObjectID": ""
     },
     "ExtraRateWhenEquipped": 0.0,

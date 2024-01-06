@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u87BA\u65CB\u6868",
-    "LocalizationKey": "",
+    "DefaultText": "螺旋桨",
+    "LocalizationKey": "T-KsCJlcDId6svJYFpe/wg5nfPhOk=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u9700\u8981\u7535\u6C60\uFF0C\u53EF\u4E0E\u8239\u5E06\u540C\u65F6\u53E0\u52A0\u4F7F\u7528",
-    "LocalizationKey": "",
+    "DefaultText": "需要电池，可与船帆同时叠加使用",
+    "LocalizationKey": "T-AaPMdifXceBQiwJyzgO84A+nDLI=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -108,7 +108,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u87BA\u65CB\u6868",
+  "CardImageWarpData": "螺旋桨",
   "CardImageWarpType": 3,
   "CardInteractions": [
     {
@@ -129,8 +129,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u8865\u5145",
-        "LocalizationKey": "",
+        "DefaultText": "补充",
+        "LocalizationKey": "T-Wwv9YvS7Qc6uWCUoyV3VuWQKtQE=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -541,8 +541,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u5F00\u542F",
-        "LocalizationKey": "",
+        "DefaultText": "开启",
+        "LocalizationKey": "T-JWeDt9TqDsbzB52yv4h31mpeWME=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],

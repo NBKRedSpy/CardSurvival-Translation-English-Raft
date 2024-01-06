@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u9EC4\u91D1\u9493\u7AFF",
-    "LocalizationKey": "",
+    "DefaultText": "黄金钓竿",
+    "LocalizationKey": "T-6PYKM1phz8OlV+TLnd7pNAs0NHY=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u4E0D\u9700\u8981\u9C7C\u9975\uFF01",
-    "LocalizationKey": "",
+    "DefaultText": "不需要鱼饵！",
+    "LocalizationKey": "T-FmmG/UVrPZz7qTRF0sO/XlOR0jw=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -108,7 +108,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u9EC4\u91D1\u9493\u7AFF",
+  "CardImageWarpData": "黄金钓竿",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],

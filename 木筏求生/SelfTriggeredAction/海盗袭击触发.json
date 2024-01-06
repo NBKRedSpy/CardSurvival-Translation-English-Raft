@@ -2,13 +2,13 @@
   "Actions": [
     {
       "ActionName": {
-        "DefaultText": "\u89E6\u53D1",
-        "LocalizationKey": "",
+        "DefaultText": "触发",
+        "LocalizationKey": "T-J+zPl4UL+UPnVtbGOOtvzo3MudM=",
         "ParentObjectID": ""
       },
       "ActionDescription": {
-        "DefaultText": "\u6D77\u76D7\u88AD\u51FB",
-        "LocalizationKey": "",
+        "DefaultText": "海盗袭击",
+        "LocalizationKey": "T-O6OOG6lobJYNzsZmAHVSdNLEZKs=",
         "ParentObjectID": ""
       },
       "RepeatOptions": 2,
@@ -189,13 +189,13 @@
     },
     {
       "ActionName": {
-        "DefaultText": "\u8B66\u544A",
-        "LocalizationKey": "",
+        "DefaultText": "警告",
+        "LocalizationKey": "T-VSHjaNh+prp6Ary/NVqyPDgiQf4=",
         "ParentObjectID": ""
       },
       "ActionDescription": {
-        "DefaultText": "\u6D77\u76D7\u88AD\u51FB\u8B66\u544A",
-        "LocalizationKey": "",
+        "DefaultText": "海盗袭击警告",
+        "LocalizationKey": "T-0M9UybhbZlbKH1rgtwuYz7aNc4U=",
         "ParentObjectID": ""
       },
       "RepeatOptions": 2,

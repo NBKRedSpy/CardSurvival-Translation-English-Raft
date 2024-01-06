@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u6D77\u795E\u7684\u8D50\u798F",
-    "LocalizationKey": "",
+    "DefaultText": "海神的赐福",
+    "LocalizationKey": "T-kQrjj01froRUASb0zvrb1gBW5Bk=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u6D77\u795E\u8FD8\u8BA9\u4F60\u7684\u6728\u7B4F\u8010\u4E45\u63D0\u5347\u4E86",
-    "LocalizationKey": "",
+    "DefaultText": "海神还让你的木筏耐久提升了",
+    "LocalizationKey": "T-L4XxMQWnvUAHq8xKJY3laCLsCY4=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -108,7 +108,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u6D77\u795E\u7684\u8D50\u798F",
+  "CardImageWarpData": "海神的赐福",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],
@@ -187,8 +187,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u7EE7\u7EED",
-        "LocalizationKey": "",
+        "DefaultText": "继续",
+        "LocalizationKey": "T-H8GvxcVe2MDMKPmXFbU8rOTDcig=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -4180,7 +4180,7 @@
   "WeaponReach": 0.0,
   "WhenCreatedSounds": [],
   "WhenCreatedSoundsWarpData": [
-    "\u5956\u52B1"
+    "奖励"
   ],
   "WhenCreatedSoundsWarpType": 3
 }

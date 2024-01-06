@@ -23,7 +23,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "DefaultStatusIconWarpData": "\u6728\u7B4F\u4E00\u697C",
+  "DefaultStatusIconWarpData": "木筏一楼",
   "DefaultStatusIconWarpType": 3,
   "DefaultStatusName": {
     "DefaultText": "",
@@ -48,8 +48,8 @@
     "StepValue": 1.0
   },
   "GameName": {
-    "DefaultText": "\u6728\u7B4F\u4E00\u697C",
-    "LocalizationKey": "",
+    "DefaultText": "木筏一楼",
+    "LocalizationKey": "T-DUZhtvuZxdcvjRU+LttbWNLvVQM=",
     "ParentObjectID": ""
   },
   "InvertedDirection": false,

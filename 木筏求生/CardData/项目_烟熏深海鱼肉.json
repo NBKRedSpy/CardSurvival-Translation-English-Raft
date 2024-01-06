@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u70DF\u718F\u6DF1\u6D77\u9C7C\u8089",
-    "LocalizationKey": "",
+    "DefaultText": "烟熏深海鱼肉",
+    "LocalizationKey": "T-GXmem3jN7QgH0mVsRi0PIXE9o4I=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u7F8E\u5473\u53C8\u8010\u50A8\u5B58\u7684\u6DF1\u6D77\u9C7C\u8089\u5E72\uFF0C\u6211\u53EF\u4EE5\u4EAB\u7528\u5F88\u4E45",
-    "LocalizationKey": "",
+    "DefaultText": "美味又耐储存的深海鱼肉干，我可以享用很久",
+    "LocalizationKey": "T-m2AilR0tWZjEcpgza2j9XxpCuyQ=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -114,7 +114,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u70DF\u718F\u6DF1\u6D77\u9C7C\u8089",
+  "CardImageWarpData": "烟熏深海鱼肉",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],
@@ -193,8 +193,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u5403",
-        "LocalizationKey": "",
+        "DefaultText": "吃",
+        "LocalizationKey": "T-oQ1NWmPmbe/kxl/bNf8nZSkCwvg=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],

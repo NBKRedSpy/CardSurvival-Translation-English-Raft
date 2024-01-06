@@ -1,7 +1,7 @@
 {
   "CardName": {
-    "DefaultText": "\u67E0\u6AAC\u8349",
-    "LocalizationKey": "",
+    "DefaultText": "柠檬草",
+    "LocalizationKey": "T-fC2zrVsyHuQD1icCkxjyDXXuXhg=",
     "ParentObjectID": ""
   },
   "CardDescription": {
@@ -3475,8 +3475,8 @@
   "UniqueID": "092db13da1a223b5e493fbb15a831724",
   "UniqueOnBoard": false,
   "UnlockConditionsDesc": {
-    "DefaultText": "\u9700\u8981\u94F6\u86C7\u5E01",
-    "LocalizationKey": "",
+    "DefaultText": "需要银蛇币",
+    "LocalizationKey": "T-4xxoUJ1NXlGgqpKO+tCEr5+b41Q=",
     "ParentObjectID": ""
   },
   "UsageDurability": {

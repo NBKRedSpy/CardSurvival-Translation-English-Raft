@@ -1,7 +1,7 @@
 {
   "CardName": {
-    "DefaultText": "\u9690\u8EAB\u96F7\u8FBE",
-    "LocalizationKey": "",
+    "DefaultText": "隐身雷达",
+    "LocalizationKey": "T-2BswcBN4sdXxkEN5c0mpCyEcVoY=",
     "ParentObjectID": ""
   },
   "CardDescription": {
@@ -308,7 +308,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u9690\u8EAB\u96F7\u8FBE",
+  "CardImageWarpData": "隐身雷达",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [
@@ -3489,8 +3489,8 @@
   "UniqueID": "496a69b6d90adf60304175345847c007",
   "UniqueOnBoard": false,
   "UnlockConditionsDesc": {
-    "DefaultText": "\u9700\u8981\u4E00\u888B\u94F6\u86C7\u5E01",
-    "LocalizationKey": "",
+    "DefaultText": "需要一袋银蛇币",
+    "LocalizationKey": "T-hZ0gM4wfyxPIFsYs7X71JTTmguA=",
     "ParentObjectID": ""
   },
   "UsageDurability": {

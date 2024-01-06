@@ -1,7 +1,7 @@
 {
   "CardName": {
-    "DefaultText": "\u5783\u573E\u6876",
-    "LocalizationKey": "",
+    "DefaultText": "垃圾桶",
+    "LocalizationKey": "T-zwvtRznggPKBiyxFzoTNJALLodo=",
     "ParentObjectID": ""
   },
   "CardDescription": {
@@ -287,7 +287,7 @@
           "Special4": 0,
           "Spoilage": 0,
           "Usage": 0,
-          "RequiredTabGroupWarpData": "\u94C1\u9524\u5B50",
+          "RequiredTabGroupWarpData": "铁锤子",
           "RequiredTabGroupWarpType": 3
         }
       ]
@@ -390,7 +390,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u5783\u573E\u6876",
+  "CardImageWarpData": "垃圾桶",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [
@@ -3571,8 +3571,8 @@
   "UniqueID": "fd889adad0236c6bf396cf545cb4f3a8",
   "UniqueOnBoard": false,
   "UnlockConditionsDesc": {
-    "DefaultText": "\u9700\u8981\u91D1\u5C5E\u5E9F\u6599",
-    "LocalizationKey": "",
+    "DefaultText": "需要金属废料",
+    "LocalizationKey": "T-XhH2Pjfjj8wBrFt0uRerIIbAtw4=",
     "ParentObjectID": ""
   },
   "UsageDurability": {

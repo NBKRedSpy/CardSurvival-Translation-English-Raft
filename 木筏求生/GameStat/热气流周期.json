@@ -23,7 +23,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "DefaultStatusIconWarpData": "\u70ED\u6C14\u6D41\u5468\u671F",
+  "DefaultStatusIconWarpData": "热气流周期",
   "DefaultStatusIconWarpType": 3,
   "DefaultStatusName": {
     "DefaultText": "",
@@ -48,8 +48,8 @@
     "StepValue": 1.0
   },
   "GameName": {
-    "DefaultText": "\u70ED\u6C14\u6D41\u5468\u671F",
-    "LocalizationKey": "",
+    "DefaultText": "热气流周期",
+    "LocalizationKey": "T-IXCrHnYFvirOxq73IKGeVlLLgl0=",
     "ParentObjectID": ""
   },
   "InvertedDirection": false,

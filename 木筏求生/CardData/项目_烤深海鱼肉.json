@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u70E4\u6DF1\u6D77\u9C7C\u8089",
-    "LocalizationKey": "",
+    "DefaultText": "烤深海鱼肉",
+    "LocalizationKey": "T-mUKh57Ej4x0wyFvEKxW8pOSdlbA=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u5F88\u597D\u5403\uFF01",
-    "LocalizationKey": "",
+    "DefaultText": "很好吃！",
+    "LocalizationKey": "T-ip3XjOV79Zje6iSX5gRG6N1UOPs=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -112,7 +112,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u70E4\u6DF1\u6D77\u9C7C\u8089",
+  "CardImageWarpData": "烤深海鱼肉",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],
@@ -191,8 +191,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u98DF\u7528",
-        "LocalizationKey": "",
+        "DefaultText": "食用",
+        "LocalizationKey": "T-/CTIPWxzNS43sBPJ2MPBHWGtsdM=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],

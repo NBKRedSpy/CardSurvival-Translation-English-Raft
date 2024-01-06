@@ -1,7 +1,7 @@
 {
   "CardName": {
-    "DefaultText": "4\u4E2A\u7EC6\u7EBF",
-    "LocalizationKey": "",
+    "DefaultText": "4个细线",
+    "LocalizationKey": "T-sPpfOlUvKb6V0in90x8JFlXWqzc=",
     "ParentObjectID": ""
   },
   "CardDescription": {
@@ -3437,8 +3437,8 @@
   "UniqueID": "a1b9387c3e15401e37933badd7af1247",
   "UniqueOnBoard": false,
   "UnlockConditionsDesc": {
-    "DefaultText": "\u9700\u8981\u86C7\u8349",
-    "LocalizationKey": "",
+    "DefaultText": "需要蛇草",
+    "LocalizationKey": "T-vD+LG8JLdK71aMfBYmrRD2PC8GQ=",
     "ParentObjectID": ""
   },
   "UsageDurability": {

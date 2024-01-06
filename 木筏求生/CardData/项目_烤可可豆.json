@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u70E4\u53EF\u53EF\u8C46",
-    "LocalizationKey": "",
+    "DefaultText": "烤可可豆",
+    "LocalizationKey": "T-5JxTNLKKqQ+eXBOpwoGA5jNDWH8=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u9187\u9999\u7684\u53EF\u53EF\uFF01(\u53EF\u4EE5\u78E8\u6210\u7C89)",
-    "LocalizationKey": "",
+    "DefaultText": "醇香的可可！(可以磨成粉)",
+    "LocalizationKey": "T-pWrmscDrUHRpITjPVJLrmQX/0IM=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -115,7 +115,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u70E4\u53EF\u53EF\u8C46",
+  "CardImageWarpData": "烤可可豆",
   "CardImageWarpType": 3,
   "CardInteractions": [
     {
@@ -136,8 +136,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u6363\u788E",
-        "LocalizationKey": "",
+        "DefaultText": "捣碎",
+        "LocalizationKey": "T-Xlj97ZeqmTnWDayUuA/31S2cDgw=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -545,8 +545,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u98DF\u7528",
-        "LocalizationKey": "",
+        "DefaultText": "食用",
+        "LocalizationKey": "T-/CTIPWxzNS43sBPJ2MPBHWGtsdM=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],

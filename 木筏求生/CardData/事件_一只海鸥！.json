@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u4E00\u53EA\u6D77\u9E25\uFF01",
-    "LocalizationKey": "",
+    "DefaultText": "一只海鸥！",
+    "LocalizationKey": "T-mXWSmtgnQdKiy/9X73MD243SixA=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u5B83\u5728\u7FFB\u4F60\u7684\u4E1C\u897F\uFF0C\u5B83\u53EF\u80FD\u5403\u6389\u4EFB\u4F55\u4F60\u6CA1\u653E\u5728\u5BB9\u5668\u91CC\u7684\u98DF\u7269\uFF01",
-    "LocalizationKey": "",
+    "DefaultText": "它在翻你的东西，它可能吃掉任何你没放在容器里的食物！",
+    "LocalizationKey": "T-LuVHUtGa7FqNE3BXEKPMOQy9fkw=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -108,7 +108,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u7070\u6D77\u9E25",
+  "CardImageWarpData": "灰海鸥",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],
@@ -187,8 +187,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u4E0D\u7BA1\u5B83",
-        "LocalizationKey": "",
+        "DefaultText": "不管它",
+        "LocalizationKey": "T-S/uImHZ8N4tu203LXCs9/p5ibfE=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -414,8 +414,8 @@
         "y": 0
       },
       "NoCardsAffectedMessage": {
-        "DefaultText": "\u6D77\u9E25\u4EC0\u4E48\u4E5F\u6CA1\u627E\u5230\u3002",
-        "LocalizationKey": "",
+        "DefaultText": "海鸥什么也没找到。",
+        "LocalizationKey": "T-SK0iZnRygH9JwLix1e9ycqNx/4Q=",
         "ParentObjectID": ""
       },
       "NotBaseAction": false,
@@ -4235,7 +4235,7 @@
   "WeaponReach": 0.0,
   "WhenCreatedSounds": [],
   "WhenCreatedSoundsWarpData": [
-    "\u6D77\u9E25"
+    "海鸥"
   ],
   "WhenCreatedSoundsWarpType": 3
 }

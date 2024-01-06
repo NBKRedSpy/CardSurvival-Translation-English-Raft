@@ -23,7 +23,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "DefaultStatusIconWarpData": "\u822A\u884C",
+  "DefaultStatusIconWarpData": "航行",
   "DefaultStatusIconWarpType": 3,
   "DefaultStatusName": {
     "DefaultText": "",
@@ -48,8 +48,8 @@
     "StepValue": 1.0
   },
   "GameName": {
-    "DefaultText": "\u822A\u884C",
-    "LocalizationKey": "",
+    "DefaultText": "航行",
+    "LocalizationKey": "T-YURxJOoarHoSU83a8SZBNhBexyY=",
     "ParentObjectID": ""
   },
   "InvertedDirection": false,
@@ -115,8 +115,8 @@
         }
       ],
       "GameName": {
-        "DefaultText": "\u822A\u884C",
-        "LocalizationKey": "",
+        "DefaultText": "航行",
+        "LocalizationKey": "T-YURxJOoarHoSU83a8SZBNhBexyY=",
         "ParentObjectID": ""
       },
       "GameOver": false,
@@ -124,7 +124,7 @@
         "m_FileID": 0,
         "m_PathID": 0
       },
-      "IconWarpData": "\u822A\u884C",
+      "IconWarpData": "航行",
       "IconWarpType": 3,
       "NotifyPlayer": 1,
       "PreventingActionMessage": {

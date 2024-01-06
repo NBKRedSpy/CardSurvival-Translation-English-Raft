@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u6D77\u795E\u7684\u4EFB\u52A1\u9EC4",
-    "LocalizationKey": "",
+    "DefaultText": "海神的任务黄",
+    "LocalizationKey": "T-pYTQNNul0oEoM6m+LL45siuPAio=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u4EFB\u52A1\u8981\u6C42:8\u4E2A\u4ED9\u4EBA\u638C\u679C",
-    "LocalizationKey": "",
+    "DefaultText": "任务要求:8个仙人掌果",
+    "LocalizationKey": "T-nNBl3ncbFZ6+dhA9cL3LHG75anY=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -110,7 +110,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u6D77\u795E\u7684\u4EFB\u52A1\u9EC4",
+  "CardImageWarpData": "海神的任务黄",
   "CardImageWarpType": 3,
   "CardInteractions": [
     {
@@ -131,8 +131,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u732E\u4E0A",
-        "LocalizationKey": "",
+        "DefaultText": "献上",
+        "LocalizationKey": "T-nSIR800Cf6b8Oz12Wrh/8wOrzNU=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],

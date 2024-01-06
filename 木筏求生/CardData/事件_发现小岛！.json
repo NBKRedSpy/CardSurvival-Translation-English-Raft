@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u53D1\u73B0\u5C0F\u5C9B\uFF01",
-    "LocalizationKey": "",
+    "DefaultText": "发现小岛！",
+    "LocalizationKey": "T-EDPgFXQ4wj4qpNy2Ltw66517RGE=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u90A3\u53EA\u662F\u4E00\u4E2A\u5F88\u5C0F\u7684\u5C0F\u5C9B\uFF0C\u4E5F\u8BB8\u6211\u5E94\u8BE5\u5728\u90A3\u5F85\u4E00\u6BB5\u65F6\u95F4\uFF1F",
-    "LocalizationKey": "",
+    "DefaultText": "那只是一个很小的小岛，也许我应该在那待一段时间？",
+    "LocalizationKey": "T-E/EMcoIXFAn/nlooPoxhf7M6WOY=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -108,7 +108,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u7740\u9646\u5C0F\u5C9B",
+  "CardImageWarpData": "着陆小岛",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],
@@ -187,8 +187,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u505C\u5728\u8FD9",
-        "LocalizationKey": "",
+        "DefaultText": "停在这",
+        "LocalizationKey": "T-Xf1pvxi259Lw9iHYuS82lXc3eRc=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -506,8 +506,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u7EE7\u7EED\u524D\u8FDB",
-        "LocalizationKey": "",
+        "DefaultText": "继续前进",
+        "LocalizationKey": "T-l69vqFLuwDjDHJ21Lz0WUeFK87E=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],

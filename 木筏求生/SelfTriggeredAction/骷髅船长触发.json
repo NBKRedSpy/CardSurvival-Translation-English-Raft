@@ -2,13 +2,13 @@
   "Actions": [
     {
       "ActionName": {
-        "DefaultText": "\u89E6\u53D1",
-        "LocalizationKey": "",
+        "DefaultText": "触发",
+        "LocalizationKey": "T-J+zPl4UL+UPnVtbGOOtvzo3MudM=",
         "ParentObjectID": ""
       },
       "ActionDescription": {
-        "DefaultText": "\u9AB7\u9AC5\u8239\u957F",
-        "LocalizationKey": "",
+        "DefaultText": "骷髅船长",
+        "LocalizationKey": "T-Orerg1rfr7YnojO2tQdLn7xwirA=",
         "ParentObjectID": ""
       },
       "RepeatOptions": 2,

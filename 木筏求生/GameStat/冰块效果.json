@@ -23,7 +23,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "DefaultStatusIconWarpData": "\u51B0\u5757\u6548\u679C",
+  "DefaultStatusIconWarpData": "冰块效果",
   "DefaultStatusIconWarpType": 3,
   "DefaultStatusName": {
     "DefaultText": "",
@@ -31,8 +31,8 @@
     "ParentObjectID": ""
   },
   "Description": {
-    "DefaultText": "\u597D\u51B7\uFF01",
-    "LocalizationKey": "",
+    "DefaultText": "好冷！",
+    "LocalizationKey": "T-xZBawrigbnZDT0I2NS61EKDyY+c=",
     "ParentObjectID": ""
   },
   "FeedbackInfo": {
@@ -48,8 +48,8 @@
     "StepValue": 1.0
   },
   "GameName": {
-    "DefaultText": "\u51B0\u5757\u6548\u679C",
-    "LocalizationKey": "",
+    "DefaultText": "冰块效果",
+    "LocalizationKey": "T-WosfBwFsDtTWfOSK9nhlOWI50Vc=",
     "ParentObjectID": ""
   },
   "InvertedDirection": false,
@@ -88,8 +88,8 @@
       "AlertSounds": [],
       "ConfidenceModifier": 0.0,
       "Description": {
-        "DefaultText": "\u597D\u51B7\uFF01",
-        "LocalizationKey": "",
+        "DefaultText": "好冷！",
+        "LocalizationKey": "T-xZBawrigbnZDT0I2NS61EKDyY+c=",
         "ParentObjectID": ""
       },
       "EffectsOnActions": [],
@@ -134,8 +134,8 @@
         }
       ],
       "GameName": {
-        "DefaultText": "\u51B0\u5757\u6548\u679C",
-        "LocalizationKey": "",
+        "DefaultText": "冰块效果",
+        "LocalizationKey": "T-WosfBwFsDtTWfOSK9nhlOWI50Vc=",
         "ParentObjectID": ""
       },
       "GameOver": false,
@@ -143,7 +143,7 @@
         "m_FileID": 0,
         "m_PathID": 0
       },
-      "IconWarpData": "\u51B0\u5757\u6548\u679C",
+      "IconWarpData": "冰块效果",
       "IconWarpType": 3,
       "NotifyPlayer": 1,
       "PreventingActionMessage": {

@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u7AE0\u9C7C\u4E38\u5B50",
-    "LocalizationKey": "",
+    "DefaultText": "章鱼丸子",
+    "LocalizationKey": "T-Ma/BMzkwssI3S46Xn0MxWRqIiEY=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u7F8E\u5473\u7684\u5C0F\u4E38\u5B50!",
-    "LocalizationKey": "",
+    "DefaultText": "美味的小丸子!",
+    "LocalizationKey": "T-FAUrFtXaHo0dZwXuUC+KdNsxOfQ=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -565,7 +565,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u7AE0\u9C7C\u4E38\u5B50",
+  "CardImageWarpData": "章鱼丸子",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],
@@ -3749,8 +3749,8 @@
   "UniqueID": "e50bdf53bf4c6db6dcffa1b9e6b9f73d",
   "UniqueOnBoard": false,
   "UnlockConditionsDesc": {
-    "DefaultText": "\u9700\u8981\u70F9\u996A\u6280\u80FD",
-    "LocalizationKey": "",
+    "DefaultText": "需要烹饪技能",
+    "LocalizationKey": "T-EgA5E52q8KRc36YNt9kA5NSWtdU=",
     "ParentObjectID": ""
   },
   "UsageDurability": {

@@ -1,7 +1,7 @@
 {
   "CardName": {
-    "DefaultText": "\u6D77\u4E0A\u7A3B\u8349\u4EBA",
-    "LocalizationKey": "",
+    "DefaultText": "海上稻草人",
+    "LocalizationKey": "T-s+GBrz5jJuoAf16o+A5lvBPkwHk=",
     "ParentObjectID": ""
   },
   "CardDescription": {
@@ -579,7 +579,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u6D77\u4E0A\u7A3B\u8349\u4EBA",
+  "CardImageWarpData": "海上稻草人",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [
@@ -3760,8 +3760,8 @@
   "UniqueID": "a5baab0e59aa42ed7398c982bffeac07",
   "UniqueOnBoard": false,
   "UnlockConditionsDesc": {
-    "DefaultText": "\u9700\u8981\u957F\u6728\u68CD",
-    "LocalizationKey": "",
+    "DefaultText": "需要长木棍",
+    "LocalizationKey": "T-040ozmcXoE/hVaCej2wfrKzApAg=",
     "ParentObjectID": ""
   },
   "UsageDurability": {

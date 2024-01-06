@@ -23,7 +23,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "DefaultStatusIconWarpData": "\u6D77\u9E25\u5582\u98DF\u5668\u5B58\u5728\u98DF\u7269",
+  "DefaultStatusIconWarpData": "海鸥喂食器存在食物",
   "DefaultStatusIconWarpType": 3,
   "DefaultStatusName": {
     "DefaultText": "",
@@ -48,8 +48,8 @@
     "StepValue": 1.0
   },
   "GameName": {
-    "DefaultText": "\u6D77\u9E25\u5582\u98DF\u5668\u5B58\u5728\u98DF\u7269",
-    "LocalizationKey": "",
+    "DefaultText": "海鸥喂食器存在食物",
+    "LocalizationKey": "T-iiB/zSPovosL7CT20FKdWI4Uuag=",
     "ParentObjectID": ""
   },
   "InvertedDirection": false,

@@ -1,18 +1,18 @@
 {
   "CardName": {
-    "DefaultText": "\u6C34\u6BCD\u5C38\u4F53",
-    "LocalizationKey": "",
+    "DefaultText": "水母尸体",
+    "LocalizationKey": "T-GPnELl5NASU4hle8jiEyFh3DZX0=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u751F\u5403\u4E0D\u597D\u5403",
-    "LocalizationKey": "",
+    "DefaultText": "生吃不好吃",
+    "LocalizationKey": "T-iOUvmeRlqqihXK1hql0luxj50CY=",
     "ParentObjectID": ""
   },
   "CardTags": [],
   "CardTagsWarpData": [
     "tag_Cookable",
-    "\u53EF\u88AB\u71C3\u70E7",
+    "可被燃烧",
     "tag_Meat"
   ],
   "CardTagsWarpType": 3,
@@ -112,7 +112,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u6C34\u6BCD\u5C38\u4F53",
+  "CardImageWarpData": "水母尸体",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],
@@ -191,8 +191,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u98DF\u7528",
-        "LocalizationKey": "",
+        "DefaultText": "食用",
+        "LocalizationKey": "T-/CTIPWxzNS43sBPJ2MPBHWGtsdM=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],

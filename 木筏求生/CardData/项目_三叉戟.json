@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u4E09\u53C9\u621F",
-    "LocalizationKey": "",
+    "DefaultText": "三叉戟",
+    "LocalizationKey": "T-wXNoVLcDi2BReFWiRYIeVXhoWFo=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u8574\u542B\u7740\u65E0\u5C3D\u7684\u529B\u91CF(\u7528\u73CD\u73E0\u5145\u80FD\u540E\u53D8\u4E3A\u8303\u56F4\u4F24\u5BB3)",
-    "LocalizationKey": "",
+    "DefaultText": "蕴含着无尽的力量(用珍珠充能后变为范围伤害)",
+    "LocalizationKey": "T-Rzqi6/1imcsS6+MxHJHebukq+cA=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -113,7 +113,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u4E09\u53C9\u621F",
+  "CardImageWarpData": "三叉戟",
   "CardImageWarpType": 3,
   "CardInteractions": [
     {
@@ -134,8 +134,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u5145\u80FD",
-        "LocalizationKey": "",
+        "DefaultText": "充能",
+        "LocalizationKey": "T-QM6JPRsGD7PiyGbXRbeM+OYf9Io=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -4175,7 +4175,7 @@
   ],
   "EquipmentTagsWarpType": 3,
   "EquipmentTagsWarpData": [
-    "\u6B66\u5668"
+    "武器"
   ],
   "ItemCardDataCardTabGpGroup": [
     "GpTag_CutterAdv",

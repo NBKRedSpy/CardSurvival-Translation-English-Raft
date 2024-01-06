@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u6D77\u795E\u96D5\u5851",
-    "LocalizationKey": "",
+    "DefaultText": "海神雕塑",
+    "LocalizationKey": "T-/Wu1Zp72G/AanjicWlpl3GWBLrY=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u6BCF\u5929\u53D1\u5E03\u4E00\u4E2A\u4E13\u5C5E\u7684\u4EFB\u52A1\u7B49\u4F60\u5B8C\u6210(\u53EF\u732E\u796D\u7269\u54C1\u6765\u83B7\u5F97\u6D77\u795E\u7684\u663E\u7075:\u852C\u83DC\u6C99\u62C9\u3001\u73CA\u745A\u7C89\u3001\u4ED9\u4EBA\u638C\u679C\u3001\u5973\u4EC6\u88C5\u3001\u4F0F\u7279\u52A0\u3001\u70B8\u9999\u8549)",
-    "LocalizationKey": "",
+    "DefaultText": "每天发布一个专属的任务等你完成(可献祭物品来获得海神的显灵:蔬菜沙拉、珊瑚粉、仙人掌果、女仆装、伏特加、炸香蕉)",
+    "LocalizationKey": "T-SZA6q1mnfzO59fySdcWRq1qIdcc=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -108,7 +108,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u6D77\u795E\u96D5\u5851",
+  "CardImageWarpData": "海神雕塑",
   "CardImageWarpType": 3,
   "CardInteractions": [
     {
@@ -129,8 +129,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u732E\u4E0A",
-        "LocalizationKey": "",
+        "DefaultText": "献上",
+        "LocalizationKey": "T-nSIR800Cf6b8Oz12Wrh/8wOrzNU=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -588,7 +588,7 @@
       "WorksBothWays": false,
       "ActionSoundsWarpType": 3,
       "ActionSoundsWarpData": [
-        "\u6D77\u795E\u7B11"
+        "海神笑"
       ]
     },
     {
@@ -609,8 +609,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u732E\u4E0A",
-        "LocalizationKey": "",
+        "DefaultText": "献上",
+        "LocalizationKey": "T-nSIR800Cf6b8Oz12Wrh/8wOrzNU=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -1001,8 +1001,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u732E\u4E0A",
-        "LocalizationKey": "",
+        "DefaultText": "献上",
+        "LocalizationKey": "T-nSIR800Cf6b8Oz12Wrh/8wOrzNU=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -1393,8 +1393,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u732E\u4E0A",
-        "LocalizationKey": "",
+        "DefaultText": "献上",
+        "LocalizationKey": "T-nSIR800Cf6b8Oz12Wrh/8wOrzNU=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -1768,7 +1768,7 @@
       "WorksBothWays": false,
       "ActionSoundsWarpType": 3,
       "ActionSoundsWarpData": [
-        "\u6D77\u795E\u7B11"
+        "海神笑"
       ]
     },
     {
@@ -1789,8 +1789,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u732E\u4E0A",
-        "LocalizationKey": "",
+        "DefaultText": "献上",
+        "LocalizationKey": "T-nSIR800Cf6b8Oz12Wrh/8wOrzNU=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -2266,7 +2266,7 @@
       "WorksBothWays": false,
       "ActionSoundsWarpType": 3,
       "ActionSoundsWarpData": [
-        "\u6D77\u795E\u7B11"
+        "海神笑"
       ]
     },
     {
@@ -2287,8 +2287,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u732E\u4E0A",
-        "LocalizationKey": "",
+        "DefaultText": "献上",
+        "LocalizationKey": "T-nSIR800Cf6b8Oz12Wrh/8wOrzNU=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -2746,7 +2746,7 @@
       "WorksBothWays": false,
       "ActionSoundsWarpType": 3,
       "ActionSoundsWarpData": [
-        "\u6D77\u795E\u7B11"
+        "海神笑"
       ]
     },
     {
@@ -2767,8 +2767,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u732E\u4E0A",
-        "LocalizationKey": "",
+        "DefaultText": "献上",
+        "LocalizationKey": "T-nSIR800Cf6b8Oz12Wrh/8wOrzNU=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -3218,8 +3218,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u642C\u8D70",
-        "LocalizationKey": "",
+        "DefaultText": "搬走",
+        "LocalizationKey": "T-DOpL2mBkHjmaeRi18Z0PdBDux68=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],

@@ -1,7 +1,7 @@
 {
   "CardName": {
-    "DefaultText": "\u9ED1\u66DC\u77F3\u70AE\u5F39",
-    "LocalizationKey": "",
+    "DefaultText": "黑曜石炮弹",
+    "LocalizationKey": "T-RM8NFDe9mPm0JYA9Q3thopiqbn8=",
     "ParentObjectID": ""
   },
   "CardDescription": {
@@ -484,7 +484,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u9ED1\u66DC\u77F3\u70AE\u5F39",
+  "CardImageWarpData": "黑曜石炮弹",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [
@@ -3665,8 +3665,8 @@
   "UniqueID": "6039817e02617e2398762196d3cd6200",
   "UniqueOnBoard": false,
   "UnlockConditionsDesc": {
-    "DefaultText": "\u9700\u8981\u9ED1\u66DC\u77F3",
-    "LocalizationKey": "",
+    "DefaultText": "需要黑曜石",
+    "LocalizationKey": "T-G/cTzwL3cAkU1GTRQvDTlRcE2J4=",
     "ParentObjectID": ""
   },
   "UsageDurability": {

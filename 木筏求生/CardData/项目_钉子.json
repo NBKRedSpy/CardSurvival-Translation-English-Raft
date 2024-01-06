@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u9489\u5B50",
-    "LocalizationKey": "",
+    "DefaultText": "钉子",
+    "LocalizationKey": "T-+Uj1t9Tfjs+UWXm8k8Z9M9OybE8=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u5C0F\u9489\u5B50\u6709\u5927\u4F5C\u7528",
-    "LocalizationKey": "",
+    "DefaultText": "小钉子有大作用",
+    "LocalizationKey": "T-vrXdbPjM5Ap9w6u2rylbFGRMET8=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -108,7 +108,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u9489\u5B50",
+  "CardImageWarpData": "钉子",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],

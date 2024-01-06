@@ -23,7 +23,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "DefaultStatusIconWarpData": "\u795E\u79D8\u5546\u4EBA\u5728\u573A",
+  "DefaultStatusIconWarpData": "神秘商人在场",
   "DefaultStatusIconWarpType": 3,
   "DefaultStatusName": {
     "DefaultText": "",
@@ -48,8 +48,8 @@
     "StepValue": 1.0
   },
   "GameName": {
-    "DefaultText": "\u795E\u79D8\u5546\u4EBA\u5728\u573A",
-    "LocalizationKey": "",
+    "DefaultText": "神秘商人在场",
+    "LocalizationKey": "T-dmdzhQcruL909l+64PzVlKJ/6pk=",
     "ParentObjectID": ""
   },
   "InvertedDirection": false,

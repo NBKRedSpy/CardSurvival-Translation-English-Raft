@@ -1,7 +1,7 @@
 {
   "CardName": {
-    "DefaultText": "\u6728\u76FE",
-    "LocalizationKey": "",
+    "DefaultText": "木盾",
+    "LocalizationKey": "T-yeMEjN3rAfFrSKb0DZLNaL6uCrc=",
     "ParentObjectID": ""
   },
   "CardDescription": {
@@ -478,7 +478,7 @@
           "Special4": 0,
           "Spoilage": 0,
           "Usage": 0,
-          "RequiredTabGroupWarpData": "\u94C1\u9524\u5B50",
+          "RequiredTabGroupWarpData": "铁锤子",
           "RequiredTabGroupWarpType": 3
         }
       ]
@@ -581,7 +581,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u6728\u76FE",
+  "CardImageWarpData": "木盾",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [
@@ -3762,8 +3762,8 @@
   "UniqueID": "e2361f1d9154fb993786da432bbdd77f",
   "UniqueOnBoard": false,
   "UnlockConditionsDesc": {
-    "DefaultText": "\u9700\u8981\u6728\u677F",
-    "LocalizationKey": "",
+    "DefaultText": "需要木板",
+    "LocalizationKey": "T-lAeKt+vyIyd7W+j8iC2OfOhlzhs=",
     "ParentObjectID": ""
   },
   "UsageDurability": {

@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u9E2C\u9E5A",
-    "LocalizationKey": "",
+    "DefaultText": "鸬鹚",
+    "LocalizationKey": "T-TJEyfFzWDUgRxjuljZanUoKqk3A=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u5B83\u5F88\u6311\u98DF\uFF0C\u53EA\u5403\u6599\u7406(\u653E\u5FC3\u597D\u4E86\uFF0C\u5B83\u4E0D\u4F1A\u541E\u9505)",
-    "LocalizationKey": "",
+    "DefaultText": "它很挑食，只吃料理(放心好了，它不会吞锅)",
+    "LocalizationKey": "T-BuyFOimR+WINdzuOUfOIhJAAVSg=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -108,7 +108,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u9E2C\u9E5A",
+  "CardImageWarpData": "鸬鹚",
   "CardImageWarpType": 3,
   "CardInteractions": [
     {
@@ -129,8 +129,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u732E\u4E0A",
-        "LocalizationKey": "",
+        "DefaultText": "献上",
+        "LocalizationKey": "T-nSIR800Cf6b8Oz12Wrh/8wOrzNU=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -621,8 +621,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u732E\u4E0A",
-        "LocalizationKey": "",
+        "DefaultText": "献上",
+        "LocalizationKey": "T-nSIR800Cf6b8Oz12Wrh/8wOrzNU=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -1113,8 +1113,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u732E\u4E0A",
-        "LocalizationKey": "",
+        "DefaultText": "献上",
+        "LocalizationKey": "T-nSIR800Cf6b8Oz12Wrh/8wOrzNU=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -1605,8 +1605,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u732E\u4E0A",
-        "LocalizationKey": "",
+        "DefaultText": "献上",
+        "LocalizationKey": "T-nSIR800Cf6b8Oz12Wrh/8wOrzNU=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -2097,8 +2097,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u732E\u4E0A",
-        "LocalizationKey": "",
+        "DefaultText": "献上",
+        "LocalizationKey": "T-nSIR800Cf6b8Oz12Wrh/8wOrzNU=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -2589,8 +2589,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u732E\u4E0A",
-        "LocalizationKey": "",
+        "DefaultText": "献上",
+        "LocalizationKey": "T-nSIR800Cf6b8Oz12Wrh/8wOrzNU=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -3081,8 +3081,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u732E\u4E0A",
-        "LocalizationKey": "",
+        "DefaultText": "献上",
+        "LocalizationKey": "T-nSIR800Cf6b8Oz12Wrh/8wOrzNU=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -3631,8 +3631,8 @@
   "FuelCapacity": {
     "Active": true,
     "CardStatName": {
-      "DefaultText": "\u966A\u4F34",
-      "LocalizationKey": "",
+      "DefaultText": "陪伴",
+      "LocalizationKey": "T-5OQYCkZjnapERi1e8SWXbFKkTfQ=",
       "ParentObjectID": ""
     },
     "ExtraRateWhenEquipped": 0.0,
@@ -4575,8 +4575,8 @@
     "MaxValue": 6.0,
     "OnFull": {
       "ActionDescription": {
-        "DefaultText": "\u5B83\u9971\u4E86\uFF01",
-        "LocalizationKey": "",
+        "DefaultText": "它饱了！",
+        "LocalizationKey": "T-9Ibx7LzunGEj8j1SPEIv9Qgo/mo=",
         "ParentObjectID": ""
       },
       "ActionLog": {
@@ -7261,7 +7261,7 @@
   "WeaponReach": 0.0,
   "WhenCreatedSounds": [],
   "WhenCreatedSoundsWarpData": [
-    "\u4E4C\u9E26\u53EB"
+    "乌鸦叫"
   ],
   "WhenCreatedSoundsWarpType": 3
 }

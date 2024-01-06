@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u5927\u51B0\u6676\u7BB1",
-    "LocalizationKey": "",
+    "DefaultText": "大冰晶箱",
+    "LocalizationKey": "T-II+xMDb8aHxPe+IF3KM+r2JThHQ=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u53EF\u4EE5\u88C5\u66F4\u591A",
-    "LocalizationKey": "",
+    "DefaultText": "可以装更多",
+    "LocalizationKey": "T-xenh/VoTHebd4OCVS2HbihawJ3o=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -108,7 +108,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u5927\u51B0\u6676\u7BB1",
+  "CardImageWarpData": "大冰晶箱",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],
@@ -187,8 +187,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u653E\u7F6E",
-        "LocalizationKey": "",
+        "DefaultText": "放置",
+        "LocalizationKey": "T-+HwHw+LXnXl+/7FwS13hN4Wklsw=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -452,7 +452,7 @@
         "Active": false,
         "FloatValue": 0.0
       },
-      "EffectName": "\u4FDD\u9C9C",
+      "EffectName": "保鲜",
       "EffectStacksWithRequiredCards": false,
       "FuelRateModifier": {
         "Active": false,

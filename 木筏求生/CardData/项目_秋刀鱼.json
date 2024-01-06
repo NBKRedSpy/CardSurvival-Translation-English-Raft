@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u79CB\u5200\u9C7C",
-    "LocalizationKey": "",
+    "DefaultText": "秋刀鱼",
+    "LocalizationKey": "T-FknJPafAj1l5sLWzEg13x2FS0wI=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u79CB\u5200\u9C7C\u7684\u6ECB\u5473?",
-    "LocalizationKey": "",
+    "DefaultText": "秋刀鱼的滋味?",
+    "LocalizationKey": "T-z8G9BfDNW3Jdl4VSo2lpVE8S+j8=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -114,7 +114,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u79CB\u5200\u9C7C",
+  "CardImageWarpData": "秋刀鱼",
   "CardImageWarpType": 3,
   "CardInteractions": [
     {
@@ -135,8 +135,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u5256\u5F00",
-        "LocalizationKey": "",
+        "DefaultText": "剖开",
+        "LocalizationKey": "T-cGTC5eo1/7Hw8nfdzC8p4TDGyjA=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],

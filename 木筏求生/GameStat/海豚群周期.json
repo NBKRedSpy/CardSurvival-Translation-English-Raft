@@ -23,7 +23,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "DefaultStatusIconWarpData": "\u6D77\u8C5A\u7FA4\u5468\u671F",
+  "DefaultStatusIconWarpData": "海豚群周期",
   "DefaultStatusIconWarpType": 3,
   "DefaultStatusName": {
     "DefaultText": "",
@@ -48,8 +48,8 @@
     "StepValue": 1.0
   },
   "GameName": {
-    "DefaultText": "\u6D77\u8C5A\u7FA4\u5468\u671F",
-    "LocalizationKey": "",
+    "DefaultText": "海豚群周期",
+    "LocalizationKey": "T-oT3aNFa8K2EbflLp+8XKFBwVCGg=",
     "ParentObjectID": ""
   },
   "InvertedDirection": false,

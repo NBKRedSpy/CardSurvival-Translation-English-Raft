@@ -1,7 +1,7 @@
 {
   "CardName": {
-    "DefaultText": "\u65E0\u540D\u5C0F\u5C9B\uFF08\u73AF\u5883\uFF09",
-    "LocalizationKey": "",
+    "DefaultText": "无名小岛（环境）",
+    "LocalizationKey": "T-fHIhOfZYDgtlXxO7JdS/U8H03OI=",
     "ParentObjectID": ""
   },
   "CardDescription": {
@@ -117,7 +117,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u7740\u9646\u5C0F\u5C9B",
+  "CardImageWarpData": "着陆小岛",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],

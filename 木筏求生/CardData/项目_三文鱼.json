@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u4E09\u6587\u9C7C",
-    "LocalizationKey": "",
+    "DefaultText": "三文鱼",
+    "LocalizationKey": "T-D9TChPkzu/lU7yt+gYxHvC+mXEg=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u597D\u5927\u4E00\u6761\uFF0C\u6211\u5F97\u5148\u628A\u5B83\u5207\u6210\u51E0\u5757\u3002",
-    "LocalizationKey": "",
+    "DefaultText": "好大一条，我得先把它切成几块。",
+    "LocalizationKey": "T-M+U/+MlzEoF8f48qekDEE0q0kTk=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -114,7 +114,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u4E09\u6587\u9C7C",
+  "CardImageWarpData": "三文鱼",
   "CardImageWarpType": 3,
   "CardInteractions": [
     {
@@ -135,8 +135,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u5256\u5F00",
-        "LocalizationKey": "",
+        "DefaultText": "剖开",
+        "LocalizationKey": "T-cGTC5eo1/7Hw8nfdzC8p4TDGyjA=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],

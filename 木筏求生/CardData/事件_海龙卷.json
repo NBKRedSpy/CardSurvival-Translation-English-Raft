@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u6D77\u9F99\u5377",
-    "LocalizationKey": "",
+    "DefaultText": "海龙卷",
+    "LocalizationKey": "T-/HPNKvNe1Vu4tpjfxWYsgGHCVhs=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u9F99\u5377\u98CE\u5939\u5E26\u7740\u4E0D\u77E5\u540D\u7684\u751F\u7269\u964D\u843D\u6765\u3002",
-    "LocalizationKey": "",
+    "DefaultText": "龙卷风夹带着不知名的生物降落来。",
+    "LocalizationKey": "T-WQsONgkuDtLLNMaEBOTJEEDs2NY=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -108,7 +108,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u6D77\u9F99\u5377",
+  "CardImageWarpData": "海龙卷",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],
@@ -187,8 +187,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u7EE7\u7EED",
-        "LocalizationKey": "",
+        "DefaultText": "继续",
+        "LocalizationKey": "T-H8GvxcVe2MDMKPmXFbU8rOTDcig=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -4501,7 +4501,7 @@
   "WeaponReach": 0.0,
   "WhenCreatedSounds": [],
   "WhenCreatedSoundsWarpData": [
-    "\u6C99\u9F99\u5377"
+    "沙龙卷"
   ],
   "WhenCreatedSoundsWarpType": 3
 }

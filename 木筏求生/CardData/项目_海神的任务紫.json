@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u6D77\u795E\u7684\u4EFB\u52A1\u7D2B",
-    "LocalizationKey": "",
+    "DefaultText": "海神的任务紫",
+    "LocalizationKey": "T-787TL2htHzQN9QwR72rvKahDdjM=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u4EFB\u52A1\u8981\u6C42:20\u4E2A\u9CA8\u9C7C\u76AE",
-    "LocalizationKey": "",
+    "DefaultText": "任务要求:20个鲨鱼皮",
+    "LocalizationKey": "T-CPU0x2ioUIVwS3irG8Sz6dYAzlw=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -110,7 +110,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u6D77\u795E\u7684\u4EFB\u52A1\u7D2B",
+  "CardImageWarpData": "海神的任务紫",
   "CardImageWarpType": 3,
   "CardInteractions": [
     {
@@ -131,8 +131,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u732E\u4E0A",
-        "LocalizationKey": "",
+        "DefaultText": "献上",
+        "LocalizationKey": "T-nSIR800Cf6b8Oz12Wrh/8wOrzNU=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],

@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u4F11\u7720\u706B\u5C71",
-    "LocalizationKey": "",
+    "DefaultText": "休眠火山",
+    "LocalizationKey": "T-AsLhhf+BvPcE0zFAXzb+epM9VOU=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u4E00\u5EA7\u795E\u5947\u7684\u706B\u5C71\u5C9B\u5C7F\u3002",
-    "LocalizationKey": "",
+    "DefaultText": "一座神奇的火山岛屿。",
+    "LocalizationKey": "T-YGsIe03oiuXP4b4x9HKo+AOFN1E=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -108,7 +108,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u6D77\u4E0A\u706B\u5C71",
+  "CardImageWarpData": "海上火山",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],
@@ -187,8 +187,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u63A2\u7D22",
-        "LocalizationKey": "",
+        "DefaultText": "探索",
+        "LocalizationKey": "T-KRhjOsgRtvfjRiwhnw2VhbEq6+M=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],

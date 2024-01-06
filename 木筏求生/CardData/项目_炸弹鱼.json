@@ -1,17 +1,17 @@
 {
   "CardName": {
-    "DefaultText": "\u70B8\u5F39\u9C7C",
-    "LocalizationKey": "",
+    "DefaultText": "炸弹鱼",
+    "LocalizationKey": "T-XgHslbpY5rqJB9T2nYJXkz3SkW0=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u5B83\u771F\u5947\u602A\uFF01",
-    "LocalizationKey": "",
+    "DefaultText": "它真奇怪！",
+    "LocalizationKey": "T-HcDLV+ybbly01GkPr6sB4gvOLZo=",
     "ParentObjectID": ""
   },
   "CardTags": [],
   "CardTagsWarpData": [
-    "\u53EF\u88AB\u71C3\u70E7",
+    "可被燃烧",
     "tag_Cookable"
   ],
   "CardTagsWarpType": 3,
@@ -111,7 +111,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u70B8\u5F39\u9C7C",
+  "CardImageWarpData": "炸弹鱼",
   "CardImageWarpType": 3,
   "CardInteractions": [
     {
@@ -132,8 +132,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u70B9\u71C3",
-        "LocalizationKey": "",
+        "DefaultText": "点燃",
+        "LocalizationKey": "T-74fS2RsuWMLN7rNfw1qT5dYbN6I=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -157,7 +157,7 @@
         "TriggerCardsWarpType": 3,
         "TriggerTagsWarpData": [
           "tag_FireSource",
-          "\u70B9\u706B\u5DE5\u5177"
+          "点火工具"
         ],
         "TriggerTagsWarpType": 3
       },

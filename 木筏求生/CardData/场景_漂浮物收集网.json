@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u6F02\u6D6E\u7269\u6536\u96C6\u7F51",
-    "LocalizationKey": "",
+    "DefaultText": "漂浮物收集网",
+    "LocalizationKey": "T-RsPjebRYQc3XD6zGAvEA3yO4enY=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u6253\u5F00\u5B83\uFF01",
-    "LocalizationKey": "",
+    "DefaultText": "打开它！",
+    "LocalizationKey": "T-TfJQJM58Tl3VudkmyeH1dM+Jfxg=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -108,7 +108,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u6F02\u6D6E\u7269\u6536\u96C6\u7F51",
+  "CardImageWarpData": "漂浮物收集网",
   "CardImageWarpType": 3,
   "CardInteractions": [
     {
@@ -129,8 +129,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u4FEE\u7406",
-        "LocalizationKey": "",
+        "DefaultText": "修理",
+        "LocalizationKey": "T-5jxoK+mhK5np+Rv8jydQ1Z05+GU=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -553,8 +553,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u5F00\u542F",
-        "LocalizationKey": "",
+        "DefaultText": "开启",
+        "LocalizationKey": "T-JWeDt9TqDsbzB52yv4h31mpeWME=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -4078,8 +4078,8 @@
     "OnFullNotification": 0,
     "OnZero": {
       "ActionDescription": {
-        "DefaultText": "\u6211\u4E22\u4E86\u4E00\u4E2A\u6F02\u6D6E\u7269\u6536\u96C6\u7F51\uFF01",
-        "LocalizationKey": "",
+        "DefaultText": "我丢了一个漂浮物收集网！",
+        "LocalizationKey": "T-ezycE6oB6hRgc77w/UBFM50oSOM=",
         "ParentObjectID": ""
       },
       "ActionLog": {

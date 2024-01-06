@@ -23,7 +23,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "DefaultStatusIconWarpData": "\u5377\u5FC3\u83DC\u65BD\u80A5",
+  "DefaultStatusIconWarpData": "卷心菜施肥",
   "DefaultStatusIconWarpType": 3,
   "DefaultStatusName": {
     "DefaultText": "",
@@ -48,8 +48,8 @@
     "StepValue": 1.0
   },
   "GameName": {
-    "DefaultText": "\u5377\u5FC3\u83DC\u65BD\u80A5",
-    "LocalizationKey": "",
+    "DefaultText": "卷心菜施肥",
+    "LocalizationKey": "T-auVHl1r0RAITi4DHet05k5GvddU=",
     "ParentObjectID": ""
   },
   "InvertedDirection": false,

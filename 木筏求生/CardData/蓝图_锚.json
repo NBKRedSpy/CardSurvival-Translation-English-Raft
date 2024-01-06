@@ -1,7 +1,7 @@
 {
   "CardName": {
-    "DefaultText": "\u951A",
-    "LocalizationKey": "",
+    "DefaultText": "锚",
+    "LocalizationKey": "T-JNT/D3A2uzu2etHvq80JLZF23Sg=",
     "ParentObjectID": ""
   },
   "CardDescription": {
@@ -294,7 +294,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u951A",
+  "CardImageWarpData": "锚",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [
@@ -3475,8 +3475,8 @@
   "UniqueID": "0f9c20b392d116f81b4eb3cf33ace4b7",
   "UniqueOnBoard": false,
   "UnlockConditionsDesc": {
-    "DefaultText": "\u9700\u8981\u94F6\u86C7\u5E01",
-    "LocalizationKey": "",
+    "DefaultText": "需要银蛇币",
+    "LocalizationKey": "T-4xxoUJ1NXlGgqpKO+tCEr5+b41Q=",
     "ParentObjectID": ""
   },
   "UsageDurability": {

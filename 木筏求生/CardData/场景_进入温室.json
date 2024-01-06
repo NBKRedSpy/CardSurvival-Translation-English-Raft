@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u6E29\u5BA4",
-    "LocalizationKey": "",
+    "DefaultText": "温室",
+    "LocalizationKey": "T-i1eSDOwFI5zYLSKXfCq8YTbD5dI=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u8FDB\u5165\u6E29\u5BA4",
-    "LocalizationKey": "",
+    "DefaultText": "进入温室",
+    "LocalizationKey": "T-zRg2f+akk2F86Z1c8X6v9NK5b5M=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -108,7 +108,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u6E29\u5BA4",
+  "CardImageWarpData": "温室",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],
@@ -187,8 +187,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u8FDB\u5165",
-        "LocalizationKey": "",
+        "DefaultText": "进入",
+        "LocalizationKey": "T-DiVXjo+hpn00w1H5A9lgVaFSZis=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],

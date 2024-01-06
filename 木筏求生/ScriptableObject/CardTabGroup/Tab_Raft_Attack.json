@@ -12,11 +12,11 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "TabIconWarpData": "\u5F39\u5F13",
+  "TabIconWarpData": "弹弓",
   "TabIconWarpType": 3,
   "TabName": {
-    "DefaultText": "\u6B66\u5668",
-    "LocalizationKey": "",
+    "DefaultText": "武器",
+    "LocalizationKey": "T-bw8W4MCYhMxYxCOGpBptmTRn8PQ=",
     "ParentObjectID": ""
   }
 }

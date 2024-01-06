@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u6D77\u795E\u7684\u4EFB\u52A1\u9752",
-    "LocalizationKey": "",
+    "DefaultText": "海神的任务青",
+    "LocalizationKey": "T-kg8s2O/uODb5fWHWEEcGOpy6G9c=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u4EFB\u52A1\u8981\u6C42:8\u4E2A\u5927\u9F99\u867E",
-    "LocalizationKey": "",
+    "DefaultText": "任务要求:8个大龙虾",
+    "LocalizationKey": "T-PMkawhUiGbl6eY8hxCS8C1umxo4=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -110,7 +110,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u6D77\u795E\u7684\u4EFB\u52A1\u9752",
+  "CardImageWarpData": "海神的任务青",
   "CardImageWarpType": 3,
   "CardInteractions": [
     {
@@ -131,8 +131,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u732E\u4E0A",
-        "LocalizationKey": "",
+        "DefaultText": "献上",
+        "LocalizationKey": "T-nSIR800Cf6b8Oz12Wrh/8wOrzNU=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],

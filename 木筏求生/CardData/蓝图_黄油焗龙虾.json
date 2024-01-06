@@ -1,7 +1,7 @@
 {
   "CardName": {
-    "DefaultText": "\u9EC4\u6CB9\u7117\u9F99\u867E",
-    "LocalizationKey": "",
+    "DefaultText": "黄油焗龙虾",
+    "LocalizationKey": "T-74aitzJC90KXu7FlVRcPHHfXeMc=",
     "ParentObjectID": ""
   },
   "CardDescription": {
@@ -477,7 +477,7 @@
           "Special4": 0,
           "Spoilage": 0,
           "Usage": 0,
-          "RequiredTabGroupWarpData": "\u852C\u83DC",
+          "RequiredTabGroupWarpData": "蔬菜",
           "RequiredTabGroupWarpType": 3
         }
       ]
@@ -561,7 +561,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u9EC4\u6CB9\u7117\u9F99\u867E",
+  "CardImageWarpData": "黄油焗龙虾",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],
@@ -3745,8 +3745,8 @@
   "UniqueID": "403b6219c4e1a1480112e3110a81ade3",
   "UniqueOnBoard": false,
   "UnlockConditionsDesc": {
-    "DefaultText": "\u9700\u8981\u70F9\u996A\u6280\u80FD",
-    "LocalizationKey": "",
+    "DefaultText": "需要烹饪技能",
+    "LocalizationKey": "T-EgA5E52q8KRc36YNt9kA5NSWtdU=",
     "ParentObjectID": ""
   },
   "UsageDurability": {

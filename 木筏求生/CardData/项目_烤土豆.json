@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u70E4\u571F\u8C46",
-    "LocalizationKey": "",
+    "DefaultText": "烤土豆",
+    "LocalizationKey": "T-tHMGGxXwEGHXZHVAo0SDvheLXb0=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u767E\u5403\u4E0D\u817B\uFF01",
-    "LocalizationKey": "",
+    "DefaultText": "百吃不腻！",
+    "LocalizationKey": "T-U24uliO8nNAu0xsVgscjFVvOj9s=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -111,7 +111,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u70E4\u571F\u8C46",
+  "CardImageWarpData": "烤土豆",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],
@@ -190,8 +190,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u98DF\u7528",
-        "LocalizationKey": "",
+        "DefaultText": "食用",
+        "LocalizationKey": "T-/CTIPWxzNS43sBPJ2MPBHWGtsdM=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],

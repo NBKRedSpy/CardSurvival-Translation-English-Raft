@@ -1,7 +1,7 @@
 {
   "CardName": {
-    "DefaultText": "\u6D77\u85FB\u836F\u818F",
-    "LocalizationKey": "",
+    "DefaultText": "海藻药膏",
+    "LocalizationKey": "T-wFM5inGJt+ZMHWYxjpmTDdUTN/Y=",
     "ParentObjectID": ""
   },
   "CardDescription": {
@@ -485,7 +485,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u6D77\u85FB\u836F\u818F",
+  "CardImageWarpData": "海藻药膏",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [
@@ -3666,8 +3666,8 @@
   "UniqueID": "c7a2e2695ef05e9244ddc2dbce279134",
   "UniqueOnBoard": false,
   "UnlockConditionsDesc": {
-    "DefaultText": "\u9700\u8981\u8102\u80AA",
-    "LocalizationKey": "",
+    "DefaultText": "需要脂肪",
+    "LocalizationKey": "T-nKnvZnJfuz9ptuiHmH6JvSfseOA=",
     "ParentObjectID": ""
   },
   "UsageDurability": {

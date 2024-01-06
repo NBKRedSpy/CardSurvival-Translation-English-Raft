@@ -1,7 +1,7 @@
 {
   "CardName": {
-    "DefaultText": "\u73CA\u745A\u7C89\u6577\u6599",
-    "LocalizationKey": "",
+    "DefaultText": "珊瑚粉敷料",
+    "LocalizationKey": "T-mBkTiGfA5nsKaIYFxYVbtH1apFE=",
     "ParentObjectID": ""
   },
   "CardDescription": {
@@ -484,7 +484,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u73CA\u745A\u7C89\u6577\u6599",
+  "CardImageWarpData": "珊瑚粉敷料",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [
@@ -3665,8 +3665,8 @@
   "UniqueID": "176a5266722c4efb8bead9837b4e14b7",
   "UniqueOnBoard": false,
   "UnlockConditionsDesc": {
-    "DefaultText": "\u9700\u8981\u73CA\u745A\u7C89",
-    "LocalizationKey": "",
+    "DefaultText": "需要珊瑚粉",
+    "LocalizationKey": "T-Ice3HDwNvgmpKAM9kx/QHdW2i4Q=",
     "ParentObjectID": ""
   },
   "UsageDurability": {

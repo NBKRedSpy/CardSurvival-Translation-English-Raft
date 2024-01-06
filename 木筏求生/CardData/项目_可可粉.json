@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u53EF\u53EF\u7C89",
-    "LocalizationKey": "",
+    "DefaultText": "可可粉",
+    "LocalizationKey": "T-uY9ddN7T4UkJpwofL0An9NSUzVg=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u5F88\u9999\uFF0C\u53EF\u4EE5\u7528\u6765\u70F9\u996A\u548C\u51B2\u6CE1\u3002",
-    "LocalizationKey": "",
+    "DefaultText": "很香，可以用来烹饪和冲泡。",
+    "LocalizationKey": "T-3c+Mrq2uB7EKVs2zBjBtaN0Tww4=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -115,7 +115,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u53EF\u53EF\u7C89",
+  "CardImageWarpData": "可可粉",
   "CardImageWarpType": 3,
   "CardInteractions": [
     {
@@ -136,8 +136,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u6D78\u6CE1",
-        "LocalizationKey": "",
+        "DefaultText": "浸泡",
+        "LocalizationKey": "T-cJ6RiWplRkUFJpEh5BRs7C0U0os=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],

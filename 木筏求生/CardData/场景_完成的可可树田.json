@@ -1,7 +1,7 @@
 {
   "CardName": {
-    "DefaultText": "\u5B8C\u6210\u7684\u53EF\u53EF\u6811\u7530",
-    "LocalizationKey": "",
+    "DefaultText": "完成的可可树田",
+    "LocalizationKey": "T-jdJEWIZdjrAdwDUH8T0+/xmHfQw=",
     "ParentObjectID": ""
   },
   "CardDescription": {
@@ -108,7 +108,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u53EF\u53EF\u6811\u7530",
+  "CardImageWarpData": "可可树田",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],
@@ -187,8 +187,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u6458\u53D6",
-        "LocalizationKey": "",
+        "DefaultText": "摘取",
+        "LocalizationKey": "T-Q06KUwMNqzxxRzC+ZO9u3CFXxqQ=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -238,7 +238,7 @@
         {
           "CardDropChanceModifiers": [],
           "CollectionMessages": [],
-          "CollectionName": "\u9AD8\u4EA7",
+          "CollectionName": "高产",
           "CollectionUses": {
             "x": 0,
             "y": 0
@@ -385,7 +385,7 @@
         {
           "CardDropChanceModifiers": [],
           "CollectionMessages": [],
-          "CollectionName": "\u4E2D\u4EA7",
+          "CollectionName": "中产",
           "CollectionUses": {
             "x": 0,
             "y": 0
@@ -532,7 +532,7 @@
         {
           "CardDropChanceModifiers": [],
           "CollectionMessages": [],
-          "CollectionName": "\u4F4E\u4EA7",
+          "CollectionName": "低产",
           "CollectionUses": {
             "x": 0,
             "y": 0

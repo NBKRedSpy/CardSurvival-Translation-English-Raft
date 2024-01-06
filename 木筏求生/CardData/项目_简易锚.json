@@ -1,17 +1,17 @@
 {
   "CardName": {
-    "DefaultText": "\u7B80\u6613\u951A",
-    "LocalizationKey": "",
+    "DefaultText": "简易锚",
+    "LocalizationKey": "T-hqTbpyqxX3pIxm3AxKnPYIiEoow=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u629B\u5230\u6D77\u9762",
-    "LocalizationKey": "",
+    "DefaultText": "抛到海面",
+    "LocalizationKey": "T-lktqCTBvLLKPl4Ml8FiGGiCLo9Y=",
     "ParentObjectID": ""
   },
   "CardTags": [],
   "CardTagsWarpData": [
-    "\u951A"
+    "锚"
   ],
   "CardTagsWarpType": 3,
   "CardType": 0,
@@ -110,7 +110,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u7B80\u6613\u951A",
+  "CardImageWarpData": "简易锚",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],

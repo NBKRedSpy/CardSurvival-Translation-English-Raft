@@ -23,7 +23,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "DefaultStatusIconWarpData": "\u571F\u8C46\u65BD\u80A5",
+  "DefaultStatusIconWarpData": "土豆施肥",
   "DefaultStatusIconWarpType": 3,
   "DefaultStatusName": {
     "DefaultText": "",
@@ -48,8 +48,8 @@
     "StepValue": 1.0
   },
   "GameName": {
-    "DefaultText": "\u571F\u8C46\u65BD\u80A5",
-    "LocalizationKey": "",
+    "DefaultText": "土豆施肥",
+    "LocalizationKey": "T-rhPD+qGUO2MiUBqoLJ3InRB7rP0=",
     "ParentObjectID": ""
   },
   "InvertedDirection": false,

@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u4FEE\u590D\u6728\u7B4F2",
-    "LocalizationKey": "",
+    "DefaultText": "修复木筏2",
+    "LocalizationKey": "T-fFom+wBjnZPR3vK4ySkxs3Pg04w=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u63D0\u5347\u635F\u574F\u6728\u7B4F\u7684\u8010\u4E45\u5EA6(200\uFF1C\u8010\u4E45\u5EA6\uFF1C500\u65F6)",
-    "LocalizationKey": "",
+    "DefaultText": "提升损坏木筏的耐久度(200＜耐久度＜500时)",
+    "LocalizationKey": "T-AFfvj+JiNscBJOP9t69Hx94VeZg=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -274,7 +274,7 @@
           "Special4": 0,
           "Spoilage": 0,
           "Usage": 0,
-          "RequiredTabGroupWarpData": "\u94C1\u9524\u5B50",
+          "RequiredTabGroupWarpData": "铁锤子",
           "RequiredTabGroupWarpType": 3
         },
         {
@@ -448,7 +448,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u4FEE\u590D\u6728\u7B4F2",
+  "CardImageWarpData": "修复木筏2",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [

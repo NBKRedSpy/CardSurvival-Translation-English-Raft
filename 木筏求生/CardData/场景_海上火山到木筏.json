@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u56DE\u53BB\u6728\u7B4F",
-    "LocalizationKey": "",
+    "DefaultText": "回去木筏",
+    "LocalizationKey": "T-GAXrOYjNKCXR0Ux4tcIgFpZzHhQ=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u524D\u5F80\u6728\u7B4F",
-    "LocalizationKey": "",
+    "DefaultText": "前往木筏",
+    "LocalizationKey": "T-j1JgyV3HmHF8A6nrg6ccQAunjLs=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -108,7 +108,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u6728\u7B4F",
+  "CardImageWarpData": "木筏",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],
@@ -187,8 +187,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u524D\u5F80",
-        "LocalizationKey": "",
+        "DefaultText": "前往",
+        "LocalizationKey": "T-I5JtYUaM5gqjt7WyL+xsaNA49jY=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],

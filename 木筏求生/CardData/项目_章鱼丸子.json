@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u7AE0\u9C7C\u4E38\u5B50",
-    "LocalizationKey": "",
+    "DefaultText": "章鱼丸子",
+    "LocalizationKey": "T-Ma/BMzkwssI3S46Xn0MxWRqIiEY=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u55EF\uFF0C\u7AE0\u9C7C\u70E7~",
-    "LocalizationKey": "",
+    "DefaultText": "嗯，章鱼烧~",
+    "LocalizationKey": "T-im6K6cW/5+oPMJYns39ErjZOXTc=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -111,7 +111,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u7AE0\u9C7C\u4E38\u5B50",
+  "CardImageWarpData": "章鱼丸子",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],
@@ -190,8 +190,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u98DF\u7528",
-        "LocalizationKey": "",
+        "DefaultText": "食用",
+        "LocalizationKey": "T-/CTIPWxzNS43sBPJ2MPBHWGtsdM=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],

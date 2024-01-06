@@ -1,7 +1,7 @@
 {
   "CardName": {
-    "DefaultText": "\u4E00\u888B\u94F6\u86C7\u5E01",
-    "LocalizationKey": "",
+    "DefaultText": "一袋银蛇币",
+    "LocalizationKey": "T-yU3ZYd1k9GCbStcVHVYUIgw+aMg=",
     "ParentObjectID": ""
   },
   "CardDescription": {
@@ -256,7 +256,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u4E00\u888B\u94F6\u86C7\u5E01",
+  "CardImageWarpData": "一袋银蛇币",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [
@@ -3437,8 +3437,8 @@
   "UniqueID": "db4cb714528ef57f69d442aea5080c10",
   "UniqueOnBoard": false,
   "UnlockConditionsDesc": {
-    "DefaultText": "\u9700\u8981\u94F6\u86C7\u5E01",
-    "LocalizationKey": "",
+    "DefaultText": "需要银蛇币",
+    "LocalizationKey": "T-4xxoUJ1NXlGgqpKO+tCEr5+b41Q=",
     "ParentObjectID": ""
   },
   "UsageDurability": {

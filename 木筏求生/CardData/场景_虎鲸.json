@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u864E\u9CB8",
-    "LocalizationKey": "",
+    "DefaultText": "虎鲸",
+    "LocalizationKey": "T-H0plFC90QrcxsZzUNtSMNBVf2QI=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u53CB\u5584\u7684\u751F\u7269\uFF0C\u5B83\u80FD\u8D76\u8D70\u5F31\u5C0F\u7684\u9CA8\u9C7C",
-    "LocalizationKey": "",
+    "DefaultText": "友善的生物，它能赶走弱小的鲨鱼",
+    "LocalizationKey": "T-6iFSGOUEyVHPN69zWQHiem+PWNA=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -108,7 +108,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u864E\u9CB8",
+  "CardImageWarpData": "虎鲸",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],
@@ -186,8 +186,8 @@
   "FuelCapacity": {
     "Active": true,
     "CardStatName": {
-      "DefaultText": "\u966A\u4F34",
-      "LocalizationKey": "",
+      "DefaultText": "陪伴",
+      "LocalizationKey": "T-5OQYCkZjnapERi1e8SWXbFKkTfQ=",
       "ParentObjectID": ""
     },
     "ExtraRateWhenEquipped": 0.0,
@@ -3813,7 +3813,7 @@
   "WeaponReach": 0.0,
   "WhenCreatedSounds": [],
   "WhenCreatedSoundsWarpData": [
-    "\u864E\u9CB8"
+    "虎鲸"
   ],
   "WhenCreatedSoundsWarpType": 3
 }

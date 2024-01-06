@@ -1,7 +1,7 @@
 {
   "CardName": {
-    "DefaultText": "\u6210\u4E3A\u6D77\u738B\uFF1F",
-    "LocalizationKey": "",
+    "DefaultText": "成为海王？",
+    "LocalizationKey": "T-i2p5zqbEu8LIKClSmouPF4zSMAw=",
     "ParentObjectID": ""
   },
   "CardDescription": {
@@ -108,7 +108,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u6210\u4E3A\u6D77\u738B\uFF1F",
+  "CardImageWarpData": "成为海王？",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],
@@ -171,8 +171,8 @@
   "DismantleActions": [
     {
       "ActionDescription": {
-        "DefaultText": "\u6211\u8FD8\u662F\u7EE7\u7EED\u7B49\u5F85\u4EBA\u7C7B\u6551\u63F4\u5427\uFF01",
-        "LocalizationKey": "",
+        "DefaultText": "我还是继续等待人类救援吧！",
+        "LocalizationKey": "T-VaBbcw5XX699YkAHgpP9rNcLstg=",
         "ParentObjectID": ""
       },
       "ActionLog": {
@@ -187,8 +187,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u7559\u5728\u8FD9\u91CC",
-        "LocalizationKey": "",
+        "DefaultText": "留在这里",
+        "LocalizationKey": "T-4qVRxniXgVCtDsrRNChrxSOzSLg=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -388,8 +388,8 @@
     },
     {
       "ActionDescription": {
-        "DefaultText": "\u548C\u6D77\u795E\u4E00\u8D77\u53BB\u5F80\u5927\u6D77",
-        "LocalizationKey": "",
+        "DefaultText": "和海神一起去往大海",
+        "LocalizationKey": "T-r/duWkJbyurWLWgpHJFrG5pYLO4=",
         "ParentObjectID": ""
       },
       "ActionLog": {
@@ -404,8 +404,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u6210\u4E3A\u6D77\u738B",
-        "LocalizationKey": "",
+        "DefaultText": "成为海王",
+        "LocalizationKey": "T-cxOymDZG8MJTzNQnX5/KfL5Q6gk=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -596,8 +596,8 @@
         "Victory": true,
         "SpecialEnding": false,
         "VictoryMessage": {
-          "DefaultText": "\u9690\u85CF\u7ED3\u5C40\uFF01",
-          "LocalizationKey": "",
+          "DefaultText": "隐藏结局！",
+          "LocalizationKey": "T-diE/kEvStRdJSkTyp4CkjAv8VKg=",
           "ParentObjectID": ""
         }
       },

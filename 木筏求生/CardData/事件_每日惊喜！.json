@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u6BCF\u65E5\u60CA\u559C\uFF01",
-    "LocalizationKey": "",
+    "DefaultText": "每日惊喜！",
+    "LocalizationKey": "T-1z5XUAnTXkAMm27/Fo/9DiCmzDA=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u4ECA\u5929\u4F1A\u6709\u4EC0\u4E48\u5462\uFF1F",
-    "LocalizationKey": "",
+    "DefaultText": "今天会有什么呢？",
+    "LocalizationKey": "T-0qqWaQ+2gNgYz12TIhnBAOcAkUM=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -108,7 +108,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u5956\u52B1\u76D2",
+  "CardImageWarpData": "奖励盒",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],
@@ -187,8 +187,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u7EE7\u7EED",
-        "LocalizationKey": "",
+        "DefaultText": "继续",
+        "LocalizationKey": "T-H8GvxcVe2MDMKPmXFbU8rOTDcig=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -5025,7 +5025,7 @@
   "WeaponReach": 0.0,
   "WhenCreatedSounds": [],
   "WhenCreatedSoundsWarpData": [
-    "\u5956\u52B1\u76D2"
+    "奖励盒"
   ],
   "WhenCreatedSoundsWarpType": 3
 }

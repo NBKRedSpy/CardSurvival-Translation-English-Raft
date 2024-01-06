@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u53EF\u53EF\u8C46",
-    "LocalizationKey": "",
+    "DefaultText": "可可豆",
+    "LocalizationKey": "T-nHymHPhpWzZ94GSjBFH3Hse3N+Q=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u6211\u8FD8\u4E0D\u80FD\u76F4\u63A5\u5403\uFF0C\u9700\u8981\u70E4\u5236",
-    "LocalizationKey": "",
+    "DefaultText": "我还不能直接吃，需要烤制",
+    "LocalizationKey": "T-ix6M56OFRtwASVkYLzoRoTQk4GE=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -115,7 +115,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u53EF\u53EF\u8C46",
+  "CardImageWarpData": "可可豆",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],

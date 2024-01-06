@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u79CD\u690D\u4E2D\u7684\u5377\u5FC3\u83DC",
-    "LocalizationKey": "",
+    "DefaultText": "种植中的卷心菜",
+    "LocalizationKey": "T-YTKR5zq/okvs3n3PV2v1phkm6/Y=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u6211\u8981\u8010\u5FC3\u7B49\u5F85\u5B83\u957F\u5927",
-    "LocalizationKey": "",
+    "DefaultText": "我要耐心等待它长大",
+    "LocalizationKey": "T-lGb2YGerznOHXP8ZmtdIJIwQEfI=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -108,7 +108,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u79CD\u690D\u4E2D\u7684\u5377\u5FC3\u83DC",
+  "CardImageWarpData": "种植中的卷心菜",
   "CardImageWarpType": 3,
   "CardInteractions": [
     {
@@ -129,8 +129,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u6D47\u6C34",
-        "LocalizationKey": "",
+        "DefaultText": "浇水",
+        "LocalizationKey": "T-rzFxFQtk1OXoXkuuSz98l6+X5b8=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -150,7 +150,7 @@
         "TriggerCardsWarpType": 3,
         "TriggerTagsWarpData": [
           "tag_WaterFresh",
-          "\u80A5\u6C34"
+          "肥水"
         ],
         "TriggerTagsWarpType": 3
       },
@@ -505,8 +505,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u65BD\u80A5",
-        "LocalizationKey": "",
+        "DefaultText": "施肥",
+        "LocalizationKey": "T-fqVW2HFJzPlH4T6bJiswaHp992E=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -875,8 +875,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u65BD\u80A5",
-        "LocalizationKey": "",
+        "DefaultText": "施肥",
+        "LocalizationKey": "T-fqVW2HFJzPlH4T6bJiswaHp992E=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -1304,8 +1304,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u653E\u7F6E",
-        "LocalizationKey": "",
+        "DefaultText": "放置",
+        "LocalizationKey": "T-+HwHw+LXnXl+/7FwS13hN4Wklsw=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -1520,8 +1520,8 @@
   "FuelCapacity": {
     "Active": true,
     "CardStatName": {
-      "DefaultText": "\u6C34\u5206",
-      "LocalizationKey": "",
+      "DefaultText": "水分",
+      "LocalizationKey": "T-XXJYimzjmTRCjc8yXuQxB2SMNxg=",
       "ParentObjectID": ""
     },
     "ExtraRateWhenEquipped": 0.0,
@@ -1736,8 +1736,8 @@
     "OnFullNotification": 0,
     "OnZero": {
       "ActionDescription": {
-        "DefaultText": "\u5377\u5FC3\u83DC\u6E34\u6B7B\u4E86\uFF01",
-        "LocalizationKey": "",
+        "DefaultText": "卷心菜渴死了！",
+        "LocalizationKey": "T-brxd0HNQoN6zMa5EFsz0M1n+Apg=",
         "ParentObjectID": ""
       },
       "ActionLog": {
@@ -2179,7 +2179,7 @@
         "Active": false,
         "FloatValue": 0.0
       },
-      "EffectName": "\u4E0B\u96E8",
+      "EffectName": "下雨",
       "EffectStacksWithRequiredCards": false,
       "FuelRateModifier": {
         "Active": true,
@@ -2288,7 +2288,7 @@
         "Active": true,
         "FloatValue": 1.5
       },
-      "EffectName": "\u80A5\u6599",
+      "EffectName": "肥料",
       "EffectStacksWithRequiredCards": false,
       "FuelRateModifier": {
         "Active": false,
@@ -2341,8 +2341,8 @@
   "Progress": {
     "Active": true,
     "CardStatName": {
-      "DefaultText": "\u5B8C\u6210\u5EA6",
-      "LocalizationKey": "",
+      "DefaultText": "完成度",
+      "LocalizationKey": "T-T77faJw2tydivM1ff9qQDZjjkSk=",
       "ParentObjectID": ""
     },
     "ExtraRateWhenEquipped": 0.0,
@@ -2775,8 +2775,8 @@
   "SpecialDurability1": {
     "Active": true,
     "CardStatName": {
-      "DefaultText": "\u57FA\u56E0",
-      "LocalizationKey": "",
+      "DefaultText": "基因",
+      "LocalizationKey": "T-nvLtRyZup1hJtB4onKABCHXfrKo=",
       "ParentObjectID": ""
     },
     "ExtraRateWhenEquipped": 0.0,
@@ -4496,8 +4496,8 @@
   "SpoilageTime": {
     "Active": true,
     "CardStatName": {
-      "DefaultText": "\u80A5\u529B",
-      "LocalizationKey": "",
+      "DefaultText": "肥力",
+      "LocalizationKey": "T-ZB/zI6aEK2wE1RCVaG+gDAojvgI=",
       "ParentObjectID": ""
     },
     "ExtraRateWhenEquipped": 0.0,

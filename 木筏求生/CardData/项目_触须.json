@@ -1,18 +1,18 @@
 {
   "CardName": {
-    "DefaultText": "\u89E6\u987B",
-    "LocalizationKey": "",
+    "DefaultText": "触须",
+    "LocalizationKey": "T-bEoHgiovLUOXIq6qFUyXoOye3r4=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u5B83\u8FD8\u5728\u626D\u52A8\uFF01",
-    "LocalizationKey": "",
+    "DefaultText": "它还在扭动！",
+    "LocalizationKey": "T-U5GZzXu6a6JTTvY57iNduRDTrQU=",
     "ParentObjectID": ""
   },
   "CardTags": [],
   "CardTagsWarpData": [
     "tag_Cookable",
-    "\u53EF\u88AB\u71C3\u70E7",
+    "可被燃烧",
     "tag_Feed"
   ],
   "CardTagsWarpType": 3,
@@ -112,7 +112,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u89E6\u987B",
+  "CardImageWarpData": "触须",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],
@@ -191,8 +191,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u98DF\u7528",
-        "LocalizationKey": "",
+        "DefaultText": "食用",
+        "LocalizationKey": "T-/CTIPWxzNS43sBPJ2MPBHWGtsdM=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],

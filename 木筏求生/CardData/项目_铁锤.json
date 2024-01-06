@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u94C1\u9524",
-    "LocalizationKey": "",
+    "DefaultText": "铁锤",
+    "LocalizationKey": "T-RMJ26vnJ+RnVf/MalOyLVm6FPcU=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u8010\u7528\u591A\u4E86",
-    "LocalizationKey": "",
+    "DefaultText": "耐用多了",
+    "LocalizationKey": "T-fil1qodr+fhau5o6Dj9MWK1ISAY=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -108,7 +108,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u94C1\u9524",
+  "CardImageWarpData": "铁锤",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],

@@ -1,19 +1,19 @@
 {
   "CardName": {
-    "DefaultText": "\u6DF1\u6D77\u9C7C\u8089",
-    "LocalizationKey": "",
+    "DefaultText": "深海鱼肉",
+    "LocalizationKey": "T-UhhoVc8KkYkKPZFlnrZsMhhGWd4=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u7F8E\u5473\u7684\u6DF1\u6D77\u9C7C\uFF0C\u751F\u5403\u4E5F\u6CA1\u95EE\u9898\uFF01",
-    "LocalizationKey": "",
+    "DefaultText": "美味的深海鱼，生吃也没问题！",
+    "LocalizationKey": "T-8SuGYDHDxNBDrzOd99ND2aTGrtc=",
     "ParentObjectID": ""
   },
   "CardTags": [],
   "CardTagsWarpData": [
     "tag_Cookable",
-    "\u6D77\u9C7C\u8089",
-    "\u53EF\u88AB\u71C3\u70E7"
+    "海鱼肉",
+    "可被燃烧"
   ],
   "CardTagsWarpType": 3,
   "CardType": 0,
@@ -112,7 +112,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u6DF1\u6D77\u9C7C\u8089",
+  "CardImageWarpData": "深海鱼肉",
   "CardImageWarpType": 3,
   "CardInteractions": [
     {
@@ -133,8 +133,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u814C\u5236",
-        "LocalizationKey": "",
+        "DefaultText": "腌制",
+        "LocalizationKey": "T-RJFTND74Wqdt5oLJNu7yOqJLZeg=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -607,8 +607,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u5236\u4F5C\u8BF1\u9975",
-        "LocalizationKey": "",
+        "DefaultText": "制作诱饵",
+        "LocalizationKey": "T-ru66cQDIbaGXhWvojRYnXrUbSag=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -1118,8 +1118,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u98DF\u7528",
-        "LocalizationKey": "",
+        "DefaultText": "食用",
+        "LocalizationKey": "T-/CTIPWxzNS43sBPJ2MPBHWGtsdM=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],

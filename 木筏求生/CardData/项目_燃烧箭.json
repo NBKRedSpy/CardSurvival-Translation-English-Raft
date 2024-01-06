@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u71C3\u70E7\u7BAD",
-    "LocalizationKey": "",
+    "DefaultText": "燃烧箭",
+    "LocalizationKey": "T-gQmiRpYL4Z54/hoxg1pacq7TRUk=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u706B\u7130\u4F24\u5BB3\uFF01",
-    "LocalizationKey": "",
+    "DefaultText": "火焰伤害！",
+    "LocalizationKey": "T-s93IJ2JHE5QuF6OyQaxYO4dbAyo=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -112,7 +112,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u71C3\u70E7\u7BAD",
+  "CardImageWarpData": "燃烧箭",
   "CardImageWarpType": 3,
   "CardInteractions": [
     {
@@ -133,8 +133,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u70B9\u71C3",
-        "LocalizationKey": "",
+        "DefaultText": "点燃",
+        "LocalizationKey": "T-74fS2RsuWMLN7rNfw1qT5dYbN6I=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -158,7 +158,7 @@
         "TriggerCardsWarpType": 3,
         "TriggerTagsWarpData": [
           "tag_FireSource",
-          "\u70B9\u706B\u5DE5\u5177"
+          "点火工具"
         ],
         "TriggerTagsWarpType": 3
       },

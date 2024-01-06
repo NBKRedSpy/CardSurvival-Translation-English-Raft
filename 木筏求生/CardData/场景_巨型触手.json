@@ -1,17 +1,17 @@
 {
   "CardName": {
-    "DefaultText": "\u5DE8\u578B\u89E6\u624B",
-    "LocalizationKey": "",
+    "DefaultText": "巨型触手",
+    "LocalizationKey": "T-SGICuo3ty0LZZYfmOkz0H/aMA90=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u67D0\u53EA\u6DF1\u6D77\u602A\u7269\u7684\u4E00\u53EA\u89E6\u624B\uFF01",
-    "LocalizationKey": "",
+    "DefaultText": "某只深海怪物的一只触手！",
+    "LocalizationKey": "T-X3qv7kYf91nk9VilKbw7CQKZaDY=",
     "ParentObjectID": ""
   },
   "CardTags": [],
   "CardTagsWarpData": [
-    "\u602A\u7269"
+    "怪物"
   ],
   "CardTagsWarpType": 3,
   "CardType": 2,
@@ -110,13 +110,13 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u5DE8\u578B\u89E6\u624B",
+  "CardImageWarpData": "巨型触手",
   "CardImageWarpType": 3,
   "CardInteractions": [
     {
       "ActionDescription": {
-        "DefaultText": "\u7528\u71E7\u77F3\u5200\u653B\u51FB\u5DE8\u578B\u89E6\u624B\u9020\u6210\u002B50~150.0\u4F24\u5BB3",
-        "LocalizationKey": "",
+        "DefaultText": "用燧石刀攻击巨型触手造成+50~150.0伤害",
+        "LocalizationKey": "T-dhvOuei0DBv5Q/nTb8EdpNbjKvM=",
         "ParentObjectID": ""
       },
       "ActionLog": {
@@ -131,8 +131,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u7528\u71E7\u77F3\u5200\u653B\u51FB",
-        "LocalizationKey": "",
+        "DefaultText": "用燧石刀攻击",
+        "LocalizationKey": "T-T+9+73htokfBTp5fFe5ZNy5vIpU=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -774,13 +774,13 @@
       "WorksBothWays": false,
       "ActionSoundsWarpType": 3,
       "ActionSoundsWarpData": [
-        "\u5200\u523A"
+        "刀刺"
       ]
     },
     {
       "ActionDescription": {
-        "DefaultText": "\u7528\u71E7\u77F3\u5200\u653B\u51FB\u5DE8\u578B\u89E6\u624B\u9020\u6210\u002B35~105.0\u4F24\u5BB3",
-        "LocalizationKey": "",
+        "DefaultText": "用燧石刀攻击巨型触手造成+35~105.0伤害",
+        "LocalizationKey": "T-zWe5LON7V4wWNbtpah/My+/D/6s=",
         "ParentObjectID": ""
       },
       "ActionLog": {
@@ -795,8 +795,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u7528\u71E7\u77F3\u5200\u653B\u51FB",
-        "LocalizationKey": "",
+        "DefaultText": "用燧石刀攻击",
+        "LocalizationKey": "T-T+9+73htokfBTp5fFe5ZNy5vIpU=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -1438,13 +1438,13 @@
       "WorksBothWays": false,
       "ActionSoundsWarpType": 3,
       "ActionSoundsWarpData": [
-        "\u5200\u523A"
+        "刀刺"
       ]
     },
     {
       "ActionDescription": {
-        "DefaultText": "\u7528\u5E9F\u91D1\u5C5E\u94F2\u653B\u51FB\u5DE8\u578B\u89E6\u624B\u9020\u6210\u002B50~150.0\u4F24\u5BB3",
-        "LocalizationKey": "",
+        "DefaultText": "用废金属铲攻击巨型触手造成+50~150.0伤害",
+        "LocalizationKey": "T-9Zq1KiR/O10BquaJDkGw5lwpWXs=",
         "ParentObjectID": ""
       },
       "ActionLog": {
@@ -1459,8 +1459,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u7528\u5E9F\u91D1\u5C5E\u94F2\u653B\u51FB",
-        "LocalizationKey": "",
+        "DefaultText": "用废金属铲攻击",
+        "LocalizationKey": "T-/UemckE5Or4osbgqUoWkwsLB+Gk=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -2102,13 +2102,13 @@
       "WorksBothWays": false,
       "ActionSoundsWarpType": 3,
       "ActionSoundsWarpData": [
-        "\u949D\u51FB"
+        "钝击"
       ]
     },
     {
       "ActionDescription": {
-        "DefaultText": "\u7528\u5E9F\u91D1\u5C5E\u94F2\u653B\u51FB\u5DE8\u578B\u89E6\u624B\u9020\u6210\u002B35~105.0\u4F24\u5BB3",
-        "LocalizationKey": "",
+        "DefaultText": "用废金属铲攻击巨型触手造成+35~105.0伤害",
+        "LocalizationKey": "T-+UoPfubPpZO9sWQmNdSwYvULTl4=",
         "ParentObjectID": ""
       },
       "ActionLog": {
@@ -2123,8 +2123,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u7528\u5E9F\u91D1\u5C5E\u94F2\u653B\u51FB",
-        "LocalizationKey": "",
+        "DefaultText": "用废金属铲攻击",
+        "LocalizationKey": "T-/UemckE5Or4osbgqUoWkwsLB+Gk=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -2766,13 +2766,13 @@
       "WorksBothWays": false,
       "ActionSoundsWarpType": 3,
       "ActionSoundsWarpData": [
-        "\u949D\u51FB"
+        "钝击"
       ]
     },
     {
       "ActionDescription": {
-        "DefaultText": "\u7528\u9AA8\u5200\u653B\u51FB\u5DE8\u578B\u89E6\u624B\u9020\u6210\u002B155~250.0\u4F24\u5BB3",
-        "LocalizationKey": "",
+        "DefaultText": "用骨刀攻击巨型触手造成+155~250.0伤害",
+        "LocalizationKey": "T-4E/v1ay3m06h7ZECf0+AKc4SxbY=",
         "ParentObjectID": ""
       },
       "ActionLog": {
@@ -2787,8 +2787,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u7528\u9AA8\u5200\u653B\u51FB",
-        "LocalizationKey": "",
+        "DefaultText": "用骨刀攻击",
+        "LocalizationKey": "T-1OVCDf+X5GrmSTnztGSQ4XXF6rE=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -3430,13 +3430,13 @@
       "WorksBothWays": false,
       "ActionSoundsWarpType": 3,
       "ActionSoundsWarpData": [
-        "\u5200\u523A"
+        "刀刺"
       ]
     },
     {
       "ActionDescription": {
-        "DefaultText": "\u7528\u9AA8\u5200\u653B\u51FB\u5DE8\u578B\u89E6\u624B\u9020\u6210\u002B108.5~175.0\u4F24\u5BB3",
-        "LocalizationKey": "",
+        "DefaultText": "用骨刀攻击巨型触手造成+108.5~175.0伤害",
+        "LocalizationKey": "T-gAnEChbs2gIkozl49YDjbXNJek0=",
         "ParentObjectID": ""
       },
       "ActionLog": {
@@ -3451,8 +3451,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u7528\u9AA8\u5200\u653B\u51FB",
-        "LocalizationKey": "",
+        "DefaultText": "用骨刀攻击",
+        "LocalizationKey": "T-1OVCDf+X5GrmSTnztGSQ4XXF6rE=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -4094,13 +4094,13 @@
       "WorksBothWays": false,
       "ActionSoundsWarpType": 3,
       "ActionSoundsWarpData": [
-        "\u5200\u523A"
+        "刀刺"
       ]
     },
     {
       "ActionDescription": {
-        "DefaultText": "\u7528\u5B89\u5168\u5200\u653B\u51FB\u5DE8\u578B\u89E6\u624B\u9020\u6210\u002B25~50.0\u4F24\u5BB3",
-        "LocalizationKey": "",
+        "DefaultText": "用安全刀攻击巨型触手造成+25~50.0伤害",
+        "LocalizationKey": "T-szhV9cAmB0X1j++O7S1rg33+2Vo=",
         "ParentObjectID": ""
       },
       "ActionLog": {
@@ -4115,8 +4115,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u7528\u5B89\u5168\u5200\u653B\u51FB",
-        "LocalizationKey": "",
+        "DefaultText": "用安全刀攻击",
+        "LocalizationKey": "T-IoY5kE+bnOb4iBYoW9Vbpb1m+G4=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -4758,13 +4758,13 @@
       "WorksBothWays": false,
       "ActionSoundsWarpType": 3,
       "ActionSoundsWarpData": [
-        "\u5200\u523A"
+        "刀刺"
       ]
     },
     {
       "ActionDescription": {
-        "DefaultText": "\u7528\u5B89\u5168\u5200\u653B\u51FB\u5DE8\u578B\u89E6\u624B\u9020\u6210\u002B17.5~35.0\u4F24\u5BB3",
-        "LocalizationKey": "",
+        "DefaultText": "用安全刀攻击巨型触手造成+17.5~35.0伤害",
+        "LocalizationKey": "T-AIk/ufCnJ0ongNs0n7h/d1bGdB4=",
         "ParentObjectID": ""
       },
       "ActionLog": {
@@ -4779,8 +4779,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u7528\u5B89\u5168\u5200\u653B\u51FB",
-        "LocalizationKey": "",
+        "DefaultText": "用安全刀攻击",
+        "LocalizationKey": "T-IoY5kE+bnOb4iBYoW9Vbpb1m+G4=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -5422,13 +5422,13 @@
       "WorksBothWays": false,
       "ActionSoundsWarpType": 3,
       "ActionSoundsWarpData": [
-        "\u5200\u523A"
+        "刀刺"
       ]
     },
     {
       "ActionDescription": {
-        "DefaultText": "\u7528\u91CE\u732A\u7259\u653B\u51FB\u5DE8\u578B\u89E6\u624B\u9020\u6210\u002B25~50.0\u4F24\u5BB3",
-        "LocalizationKey": "",
+        "DefaultText": "用野猪牙攻击巨型触手造成+25~50.0伤害",
+        "LocalizationKey": "T-0KTid4UmCqe8O4ThLUFrPiagilg=",
         "ParentObjectID": ""
       },
       "ActionLog": {
@@ -5443,8 +5443,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u7528\u91CE\u732A\u7259\u653B\u51FB",
-        "LocalizationKey": "",
+        "DefaultText": "用野猪牙攻击",
+        "LocalizationKey": "T-aQJ7cHCRZVTyZiLnIJa5w5vuQdQ=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -6086,13 +6086,13 @@
       "WorksBothWays": false,
       "ActionSoundsWarpType": 3,
       "ActionSoundsWarpData": [
-        "\u5200\u523A"
+        "刀刺"
       ]
     },
     {
       "ActionDescription": {
-        "DefaultText": "\u7528\u91CE\u732A\u7259\u653B\u51FB\u5DE8\u578B\u89E6\u624B\u9020\u6210\u002B17.5~35.0\u4F24\u5BB3",
-        "LocalizationKey": "",
+        "DefaultText": "用野猪牙攻击巨型触手造成+17.5~35.0伤害",
+        "LocalizationKey": "T-6NLYVc1ASQ4Pz8RyXc2VIebFEuI=",
         "ParentObjectID": ""
       },
       "ActionLog": {
@@ -6107,8 +6107,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u7528\u91CE\u732A\u7259\u653B\u51FB",
-        "LocalizationKey": "",
+        "DefaultText": "用野猪牙攻击",
+        "LocalizationKey": "T-aQJ7cHCRZVTyZiLnIJa5w5vuQdQ=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -6750,13 +6750,13 @@
       "WorksBothWays": false,
       "ActionSoundsWarpType": 3,
       "ActionSoundsWarpData": [
-        "\u5200\u523A"
+        "刀刺"
       ]
     },
     {
       "ActionDescription": {
-        "DefaultText": "\u7528\u6295\u77F3\u7D22\u653B\u51FB\u5DE8\u578B\u89E6\u624B\u9020\u6210\u002B225~75.0\u4F24\u5BB3",
-        "LocalizationKey": "",
+        "DefaultText": "用投石索攻击巨型触手造成+225~75.0伤害",
+        "LocalizationKey": "T-Q/X9DtWB2zf+852tz82oelXd47Y=",
         "ParentObjectID": ""
       },
       "ActionLog": {
@@ -6771,8 +6771,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u7528\u6295\u77F3\u7D22\u653B\u51FB",
-        "LocalizationKey": "",
+        "DefaultText": "用投石索攻击",
+        "LocalizationKey": "T-2+f8jwxbdF3Ic93f30ONc8dE31w=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -7414,13 +7414,13 @@
       "WorksBothWays": false,
       "ActionSoundsWarpType": 3,
       "ActionSoundsWarpData": [
-        "\u5F13"
+        "弓"
       ]
     },
     {
       "ActionDescription": {
-        "DefaultText": "\u7528\u6295\u77F3\u7D22\u653B\u51FB\u5DE8\u578B\u89E6\u624B\u9020\u6210\u002B157.5~52.5\u4F24\u5BB3",
-        "LocalizationKey": "",
+        "DefaultText": "用投石索攻击巨型触手造成+157.5~52.5伤害",
+        "LocalizationKey": "T-sJVwkAUx+UBgMJSY57xfUIoFMTI=",
         "ParentObjectID": ""
       },
       "ActionLog": {
@@ -7435,8 +7435,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u7528\u6295\u77F3\u7D22\u653B\u51FB",
-        "LocalizationKey": "",
+        "DefaultText": "用投石索攻击",
+        "LocalizationKey": "T-2+f8jwxbdF3Ic93f30ONc8dE31w=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -8078,13 +8078,13 @@
       "WorksBothWays": false,
       "ActionSoundsWarpType": 3,
       "ActionSoundsWarpData": [
-        "\u5F13"
+        "弓"
       ]
     },
     {
       "ActionDescription": {
-        "DefaultText": "\u7528\u706B\u628A\u653B\u51FB\u5DE8\u578B\u89E6\u624B\u9020\u6210\u002B25~75.0\u4F24\u5BB3",
-        "LocalizationKey": "",
+        "DefaultText": "用火把攻击巨型触手造成+25~75.0伤害",
+        "LocalizationKey": "T-a8sA/CIagfovEhX3IdNQqftgWjQ=",
         "ParentObjectID": ""
       },
       "ActionLog": {
@@ -8099,8 +8099,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u7528\u706B\u628A\u653B\u51FB",
-        "LocalizationKey": "",
+        "DefaultText": "用火把攻击",
+        "LocalizationKey": "T-FEg+lwWGmOxJtKtWEBoVfC1atl8=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -8742,13 +8742,13 @@
       "WorksBothWays": false,
       "ActionSoundsWarpType": 3,
       "ActionSoundsWarpData": [
-        "\u949D\u51FB"
+        "钝击"
       ]
     },
     {
       "ActionDescription": {
-        "DefaultText": "\u7528\u706B\u628A\u653B\u51FB\u5DE8\u578B\u89E6\u624B\u9020\u6210\u002B17.5~52.5\u4F24\u5BB3",
-        "LocalizationKey": "",
+        "DefaultText": "用火把攻击巨型触手造成+17.5~52.5伤害",
+        "LocalizationKey": "T-el3f1ASdS+DGkrnQvOaJUQGv5V8=",
         "ParentObjectID": ""
       },
       "ActionLog": {
@@ -8763,8 +8763,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u7528\u706B\u628A\u653B\u51FB",
-        "LocalizationKey": "",
+        "DefaultText": "用火把攻击",
+        "LocalizationKey": "T-FEg+lwWGmOxJtKtWEBoVfC1atl8=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -9406,13 +9406,13 @@
       "WorksBothWays": false,
       "ActionSoundsWarpType": 3,
       "ActionSoundsWarpData": [
-        "\u949D\u51FB"
+        "钝击"
       ]
     },
     {
       "ActionDescription": {
-        "DefaultText": "\u7528\u706B\u628A\uFF08\u70B9\u71C3\uFF09\u653B\u51FB\u5DE8\u578B\u89E6\u624B\u9020\u6210\u002B25~75.0\u4F24\u5BB3",
-        "LocalizationKey": "",
+        "DefaultText": "用火把（点燃）攻击巨型触手造成+25~75.0伤害",
+        "LocalizationKey": "T-Wmlg3PtnRAcnNitVod2YG4tGUXg=",
         "ParentObjectID": ""
       },
       "ActionLog": {
@@ -9427,8 +9427,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u7528\u706B\u628A\uFF08\u70B9\u71C3\uFF09\u653B\u51FB",
-        "LocalizationKey": "",
+        "DefaultText": "用火把（点燃）攻击",
+        "LocalizationKey": "T-7f4VWinxNlql13A6d518atJeBP4=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -10070,13 +10070,13 @@
       "WorksBothWays": false,
       "ActionSoundsWarpType": 3,
       "ActionSoundsWarpData": [
-        "\u949D\u51FB"
+        "钝击"
       ]
     },
     {
       "ActionDescription": {
-        "DefaultText": "\u7528\u706B\u628A\uFF08\u70B9\u71C3\uFF09\u653B\u51FB\u5DE8\u578B\u89E6\u624B\u9020\u6210\u002B17.5~52.5\u4F24\u5BB3",
-        "LocalizationKey": "",
+        "DefaultText": "用火把（点燃）攻击巨型触手造成+17.5~52.5伤害",
+        "LocalizationKey": "T-3oKi+y6F8bIhCaGP1TxyPUZ/Bps=",
         "ParentObjectID": ""
       },
       "ActionLog": {
@@ -10091,8 +10091,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u7528\u706B\u628A\uFF08\u70B9\u71C3\uFF09\u653B\u51FB",
-        "LocalizationKey": "",
+        "DefaultText": "用火把（点燃）攻击",
+        "LocalizationKey": "T-7f4VWinxNlql13A6d518atJeBP4=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -10734,13 +10734,13 @@
       "WorksBothWays": false,
       "ActionSoundsWarpType": 3,
       "ActionSoundsWarpData": [
-        "\u949D\u51FB"
+        "钝击"
       ]
     },
     {
       "ActionDescription": {
-        "DefaultText": "\u7528\u77F3\u65A7\u653B\u51FB\u5DE8\u578B\u89E6\u624B\u9020\u6210\u002B25~100.0\u4F24\u5BB3",
-        "LocalizationKey": "",
+        "DefaultText": "用石斧攻击巨型触手造成+25~100.0伤害",
+        "LocalizationKey": "T-UhPllP1DQT9FoaTMaGYIIhhZQqA=",
         "ParentObjectID": ""
       },
       "ActionLog": {
@@ -10755,8 +10755,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u7528\u77F3\u65A7\u653B\u51FB",
-        "LocalizationKey": "",
+        "DefaultText": "用石斧攻击",
+        "LocalizationKey": "T-9C7mQjAushqRmmdbcGBgMlt/8aM=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -11398,13 +11398,13 @@
       "WorksBothWays": false,
       "ActionSoundsWarpType": 3,
       "ActionSoundsWarpData": [
-        "\u949D\u51FB"
+        "钝击"
       ]
     },
     {
       "ActionDescription": {
-        "DefaultText": "\u7528\u77F3\u65A7\u653B\u51FB\u5DE8\u578B\u89E6\u624B\u9020\u6210\u002B17.5~70.0\u4F24\u5BB3",
-        "LocalizationKey": "",
+        "DefaultText": "用石斧攻击巨型触手造成+17.5~70.0伤害",
+        "LocalizationKey": "T-PPKpysH244s5IRoM3uIeaRGBc2U=",
         "ParentObjectID": ""
       },
       "ActionLog": {
@@ -11419,8 +11419,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u7528\u77F3\u65A7\u653B\u51FB",
-        "LocalizationKey": "",
+        "DefaultText": "用石斧攻击",
+        "LocalizationKey": "T-9C7mQjAushqRmmdbcGBgMlt/8aM=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -12062,13 +12062,13 @@
       "WorksBothWays": false,
       "ActionSoundsWarpType": 3,
       "ActionSoundsWarpData": [
-        "\u949D\u51FB"
+        "钝击"
       ]
     },
     {
       "ActionDescription": {
-        "DefaultText": "\u7528\u949D\u7684\u6C42\u751F\u65A7\u653B\u51FB\u5DE8\u578B\u89E6\u624B\u9020\u6210\u002B25~100.0\u4F24\u5BB3",
-        "LocalizationKey": "",
+        "DefaultText": "用钝的求生斧攻击巨型触手造成+25~100.0伤害",
+        "LocalizationKey": "T-GzaAVsF0UL5gQt5wspow2AS/lxo=",
         "ParentObjectID": ""
       },
       "ActionLog": {
@@ -12083,8 +12083,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u7528\u949D\u7684\u6C42\u751F\u65A7\u653B\u51FB",
-        "LocalizationKey": "",
+        "DefaultText": "用钝的求生斧攻击",
+        "LocalizationKey": "T-pDWV2+nUITSaIqozHJhDuuSJRUQ=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -12726,13 +12726,13 @@
       "WorksBothWays": false,
       "ActionSoundsWarpType": 3,
       "ActionSoundsWarpData": [
-        "\u949D\u51FB"
+        "钝击"
       ]
     },
     {
       "ActionDescription": {
-        "DefaultText": "\u7528\u949D\u7684\u6C42\u751F\u65A7\u653B\u51FB\u5DE8\u578B\u89E6\u624B\u9020\u6210\u002B17.5~70.0\u4F24\u5BB3",
-        "LocalizationKey": "",
+        "DefaultText": "用钝的求生斧攻击巨型触手造成+17.5~70.0伤害",
+        "LocalizationKey": "T-nSPSbhfTwtQvzWP87Agq/MwpAqc=",
         "ParentObjectID": ""
       },
       "ActionLog": {
@@ -12747,8 +12747,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u7528\u949D\u7684\u6C42\u751F\u65A7\u653B\u51FB",
-        "LocalizationKey": "",
+        "DefaultText": "用钝的求生斧攻击",
+        "LocalizationKey": "T-pDWV2+nUITSaIqozHJhDuuSJRUQ=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -13390,13 +13390,13 @@
       "WorksBothWays": false,
       "ActionSoundsWarpType": 3,
       "ActionSoundsWarpData": [
-        "\u949D\u51FB"
+        "钝击"
       ]
     },
     {
       "ActionDescription": {
-        "DefaultText": "\u7528\u6728\u94F2\u653B\u51FB\u5DE8\u578B\u89E6\u624B\u9020\u6210\u002B25~100.0\u4F24\u5BB3",
-        "LocalizationKey": "",
+        "DefaultText": "用木铲攻击巨型触手造成+25~100.0伤害",
+        "LocalizationKey": "T-QUZ+QzFG75zW2Yl/AQsunTFsHtc=",
         "ParentObjectID": ""
       },
       "ActionLog": {
@@ -13411,8 +13411,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u7528\u6728\u94F2\u653B\u51FB",
-        "LocalizationKey": "",
+        "DefaultText": "用木铲攻击",
+        "LocalizationKey": "T-ACAvLP7cwoVkw5+pBVBdpjuWh2E=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -14054,13 +14054,13 @@
       "WorksBothWays": false,
       "ActionSoundsWarpType": 3,
       "ActionSoundsWarpData": [
-        "\u949D\u51FB"
+        "钝击"
       ]
     },
     {
       "ActionDescription": {
-        "DefaultText": "\u7528\u6728\u94F2\u653B\u51FB\u5DE8\u578B\u89E6\u624B\u9020\u6210\u002B17.5~70.0\u4F24\u5BB3",
-        "LocalizationKey": "",
+        "DefaultText": "用木铲攻击巨型触手造成+17.5~70.0伤害",
+        "LocalizationKey": "T-4mkO/zaH49ixi2EHJ272QC6ja7Y=",
         "ParentObjectID": ""
       },
       "ActionLog": {
@@ -14075,8 +14075,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u7528\u6728\u94F2\u653B\u51FB",
-        "LocalizationKey": "",
+        "DefaultText": "用木铲攻击",
+        "LocalizationKey": "T-ACAvLP7cwoVkw5+pBVBdpjuWh2E=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -14718,13 +14718,13 @@
       "WorksBothWays": false,
       "ActionSoundsWarpType": 3,
       "ActionSoundsWarpData": [
-        "\u949D\u51FB"
+        "钝击"
       ]
     },
     {
       "ActionDescription": {
-        "DefaultText": "\u7528\u77F3\u5934\u653B\u51FB\u5DE8\u578B\u89E6\u624B\u9020\u6210\u002B25~100.0\u4F24\u5BB3",
-        "LocalizationKey": "",
+        "DefaultText": "用石头攻击巨型触手造成+25~100.0伤害",
+        "LocalizationKey": "T-va3B1wdK75CwqGRngAM9r2nIhvc=",
         "ParentObjectID": ""
       },
       "ActionLog": {
@@ -14739,8 +14739,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u7528\u77F3\u5934\u653B\u51FB",
-        "LocalizationKey": "",
+        "DefaultText": "用石头攻击",
+        "LocalizationKey": "T-4doJd/fQQqbWU05YoZxpkmISJ/g=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -15387,8 +15387,8 @@
     },
     {
       "ActionDescription": {
-        "DefaultText": "\u7528\u77F3\u5934\u653B\u51FB\u5DE8\u578B\u89E6\u624B\u9020\u6210\u002B17.5~70.0\u4F24\u5BB3",
-        "LocalizationKey": "",
+        "DefaultText": "用石头攻击巨型触手造成+17.5~70.0伤害",
+        "LocalizationKey": "T-n4zJO9izBGUxXUCvXL4reCPcp3o=",
         "ParentObjectID": ""
       },
       "ActionLog": {
@@ -15403,8 +15403,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u7528\u77F3\u5934\u653B\u51FB",
-        "LocalizationKey": "",
+        "DefaultText": "用石头攻击",
+        "LocalizationKey": "T-4doJd/fQQqbWU05YoZxpkmISJ/g=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -16051,8 +16051,8 @@
     },
     {
       "ActionDescription": {
-        "DefaultText": "\u7528\u94DC\u94F2\u653B\u51FB\u5DE8\u578B\u89E6\u624B\u9020\u6210\u002B50~125.0\u4F24\u5BB3",
-        "LocalizationKey": "",
+        "DefaultText": "用铜铲攻击巨型触手造成+50~125.0伤害",
+        "LocalizationKey": "T-ylKYkW8cdWW3LbSDkA8h/8ehY9g=",
         "ParentObjectID": ""
       },
       "ActionLog": {
@@ -16067,8 +16067,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u7528\u94DC\u94F2\u653B\u51FB",
-        "LocalizationKey": "",
+        "DefaultText": "用铜铲攻击",
+        "LocalizationKey": "T-ZABX+olq9AWZ+f1P0db/3r146u8=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -16710,13 +16710,13 @@
       "WorksBothWays": false,
       "ActionSoundsWarpType": 3,
       "ActionSoundsWarpData": [
-        "\u949D\u51FB"
+        "钝击"
       ]
     },
     {
       "ActionDescription": {
-        "DefaultText": "\u7528\u94DC\u94F2\u653B\u51FB\u5DE8\u578B\u89E6\u624B\u9020\u6210\u002B35~87.5\u4F24\u5BB3",
-        "LocalizationKey": "",
+        "DefaultText": "用铜铲攻击巨型触手造成+35~87.5伤害",
+        "LocalizationKey": "T-oz0h/nwMqHMlYD4vwQ8NUdx2bsM=",
         "ParentObjectID": ""
       },
       "ActionLog": {
@@ -16731,8 +16731,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u7528\u94DC\u94F2\u653B\u51FB",
-        "LocalizationKey": "",
+        "DefaultText": "用铜铲攻击",
+        "LocalizationKey": "T-ZABX+olq9AWZ+f1P0db/3r146u8=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -17374,13 +17374,13 @@
       "WorksBothWays": false,
       "ActionSoundsWarpType": 3,
       "ActionSoundsWarpData": [
-        "\u949D\u51FB"
+        "钝击"
       ]
     },
     {
       "ActionDescription": {
-        "DefaultText": "\u7528\u94DC\u65A7\u653B\u51FB\u5DE8\u578B\u89E6\u624B\u9020\u6210\u002B50~150.0\u4F24\u5BB3",
-        "LocalizationKey": "",
+        "DefaultText": "用铜斧攻击巨型触手造成+50~150.0伤害",
+        "LocalizationKey": "T-ZRzQh7m3sgjO/3ZGvs/Lb1RFlzQ=",
         "ParentObjectID": ""
       },
       "ActionLog": {
@@ -17395,8 +17395,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u7528\u94DC\u65A7\u653B\u51FB",
-        "LocalizationKey": "",
+        "DefaultText": "用铜斧攻击",
+        "LocalizationKey": "T-tzpUgdxdzGAUbOpyxMOUG5vQ43g=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -18038,13 +18038,13 @@
       "WorksBothWays": false,
       "ActionSoundsWarpType": 3,
       "ActionSoundsWarpData": [
-        "\u949D\u51FB"
+        "钝击"
       ]
     },
     {
       "ActionDescription": {
-        "DefaultText": "\u7528\u94DC\u65A7\u653B\u51FB\u5DE8\u578B\u89E6\u624B\u9020\u6210\u002B35~105.0\u4F24\u5BB3",
-        "LocalizationKey": "",
+        "DefaultText": "用铜斧攻击巨型触手造成+35~105.0伤害",
+        "LocalizationKey": "T-w6OzH+p1jZkIB804JgaK3xcMMCo=",
         "ParentObjectID": ""
       },
       "ActionLog": {
@@ -18059,8 +18059,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u7528\u94DC\u65A7\u653B\u51FB",
-        "LocalizationKey": "",
+        "DefaultText": "用铜斧攻击",
+        "LocalizationKey": "T-tzpUgdxdzGAUbOpyxMOUG5vQ43g=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -18702,13 +18702,13 @@
       "WorksBothWays": false,
       "ActionSoundsWarpType": 3,
       "ActionSoundsWarpData": [
-        "\u949D\u51FB"
+        "钝击"
       ]
     },
     {
       "ActionDescription": {
-        "DefaultText": "\u7528\u71E7\u77F3\u65A7\u653B\u51FB\u5DE8\u578B\u89E6\u624B\u9020\u6210\u002B50~150.0\u4F24\u5BB3",
-        "LocalizationKey": "",
+        "DefaultText": "用燧石斧攻击巨型触手造成+50~150.0伤害",
+        "LocalizationKey": "T-wtZKRU5nmkoqIQJKMV15lTmTezA=",
         "ParentObjectID": ""
       },
       "ActionLog": {
@@ -18723,8 +18723,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u7528\u71E7\u77F3\u65A7\u653B\u51FB",
-        "LocalizationKey": "",
+        "DefaultText": "用燧石斧攻击",
+        "LocalizationKey": "T-JgxPH62/csgASeMj7Dt8jkjCt5A=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -19366,13 +19366,13 @@
       "WorksBothWays": false,
       "ActionSoundsWarpType": 3,
       "ActionSoundsWarpData": [
-        "\u949D\u51FB"
+        "钝击"
       ]
     },
     {
       "ActionDescription": {
-        "DefaultText": "\u7528\u71E7\u77F3\u65A7\u653B\u51FB\u5DE8\u578B\u89E6\u624B\u9020\u6210\u002B35~105.0\u4F24\u5BB3",
-        "LocalizationKey": "",
+        "DefaultText": "用燧石斧攻击巨型触手造成+35~105.0伤害",
+        "LocalizationKey": "T-27W3w47H+izYgdmfqFF2w+S276A=",
         "ParentObjectID": ""
       },
       "ActionLog": {
@@ -19387,8 +19387,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u7528\u71E7\u77F3\u65A7\u653B\u51FB",
-        "LocalizationKey": "",
+        "DefaultText": "用燧石斧攻击",
+        "LocalizationKey": "T-JgxPH62/csgASeMj7Dt8jkjCt5A=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -20030,13 +20030,13 @@
       "WorksBothWays": false,
       "ActionSoundsWarpType": 3,
       "ActionSoundsWarpData": [
-        "\u949D\u51FB"
+        "钝击"
       ]
     },
     {
       "ActionDescription": {
-        "DefaultText": "\u7528\u5E9F\u91D1\u5C5E\u65A7\u653B\u51FB\u5DE8\u578B\u89E6\u624B\u9020\u6210\u002B150~250.0\u4F24\u5BB3",
-        "LocalizationKey": "",
+        "DefaultText": "用废金属斧攻击巨型触手造成+150~250.0伤害",
+        "LocalizationKey": "T-AdgBh+B+WeLNMPa8q+rH6QCEabk=",
         "ParentObjectID": ""
       },
       "ActionLog": {
@@ -20051,8 +20051,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u7528\u5E9F\u91D1\u5C5E\u65A7\u653B\u51FB",
-        "LocalizationKey": "",
+        "DefaultText": "用废金属斧攻击",
+        "LocalizationKey": "T-hYhhq3b37y9kEVlyAaRqMqYAq+g=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -20694,13 +20694,13 @@
       "WorksBothWays": false,
       "ActionSoundsWarpType": 3,
       "ActionSoundsWarpData": [
-        "\u949D\u51FB"
+        "钝击"
       ]
     },
     {
       "ActionDescription": {
-        "DefaultText": "\u7528\u5E9F\u91D1\u5C5E\u65A7\u653B\u51FB\u5DE8\u578B\u89E6\u624B\u9020\u6210\u002B105~175.0\u4F24\u5BB3",
-        "LocalizationKey": "",
+        "DefaultText": "用废金属斧攻击巨型触手造成+105~175.0伤害",
+        "LocalizationKey": "T-GpoREU80ELESCI5v+75ModFcNPw=",
         "ParentObjectID": ""
       },
       "ActionLog": {
@@ -20715,8 +20715,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u7528\u5E9F\u91D1\u5C5E\u65A7\u653B\u51FB",
-        "LocalizationKey": "",
+        "DefaultText": "用废金属斧攻击",
+        "LocalizationKey": "T-hYhhq3b37y9kEVlyAaRqMqYAq+g=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -21358,13 +21358,13 @@
       "WorksBothWays": false,
       "ActionSoundsWarpType": 3,
       "ActionSoundsWarpData": [
-        "\u949D\u51FB"
+        "钝击"
       ]
     },
     {
       "ActionDescription": {
-        "DefaultText": "\u7528\u6C42\u751F\u65A7\u653B\u51FB\u5DE8\u578B\u89E6\u624B\u9020\u6210\u002B150~250.0\u4F24\u5BB3",
-        "LocalizationKey": "",
+        "DefaultText": "用求生斧攻击巨型触手造成+150~250.0伤害",
+        "LocalizationKey": "T-pe3QHEbZvLPlbDY/Z0l1/PpLFMM=",
         "ParentObjectID": ""
       },
       "ActionLog": {
@@ -21379,8 +21379,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u7528\u6C42\u751F\u65A7\u653B\u51FB",
-        "LocalizationKey": "",
+        "DefaultText": "用求生斧攻击",
+        "LocalizationKey": "T-vPOy6GNst/D9jVD5hfLhenjK8JU=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -22022,13 +22022,13 @@
       "WorksBothWays": false,
       "ActionSoundsWarpType": 3,
       "ActionSoundsWarpData": [
-        "\u949D\u51FB"
+        "钝击"
       ]
     },
     {
       "ActionDescription": {
-        "DefaultText": "\u7528\u6C42\u751F\u65A7\u653B\u51FB\u5DE8\u578B\u89E6\u624B\u9020\u6210\u002B105~175.0\u4F24\u5BB3",
-        "LocalizationKey": "",
+        "DefaultText": "用求生斧攻击巨型触手造成+105~175.0伤害",
+        "LocalizationKey": "T-Jjmecz2LL9nqqBbyFM3FpuXw1u4=",
         "ParentObjectID": ""
       },
       "ActionLog": {
@@ -22043,8 +22043,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u7528\u6C42\u751F\u65A7\u653B\u51FB",
-        "LocalizationKey": "",
+        "DefaultText": "用求生斧攻击",
+        "LocalizationKey": "T-vPOy6GNst/D9jVD5hfLhenjK8JU=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -22686,13 +22686,13 @@
       "WorksBothWays": false,
       "ActionSoundsWarpType": 3,
       "ActionSoundsWarpData": [
-        "\u949D\u51FB"
+        "钝击"
       ]
     },
     {
       "ActionDescription": {
-        "DefaultText": "\u7528\u94DC\u5200\u653B\u51FB\u5DE8\u578B\u89E6\u624B\u9020\u6210\u002B450~550.0\u4F24\u5BB3",
-        "LocalizationKey": "",
+        "DefaultText": "用铜刀攻击巨型触手造成+450~550.0伤害",
+        "LocalizationKey": "T-cjXL5NeOqVUCKZPlK3dGLiUz3js=",
         "ParentObjectID": ""
       },
       "ActionLog": {
@@ -22707,8 +22707,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u7528\u94DC\u5200\u653B\u51FB",
-        "LocalizationKey": "",
+        "DefaultText": "用铜刀攻击",
+        "LocalizationKey": "T-wjjyg5wRAQ6PGbbb6OAWUKwjBbw=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -23350,13 +23350,13 @@
       "WorksBothWays": false,
       "ActionSoundsWarpType": 3,
       "ActionSoundsWarpData": [
-        "\u5200\u523A"
+        "刀刺"
       ]
     },
     {
       "ActionDescription": {
-        "DefaultText": "\u7528\u94DC\u5200\u653B\u51FB\u5DE8\u578B\u89E6\u624B\u9020\u6210\u002B315~385.0\u4F24\u5BB3",
-        "LocalizationKey": "",
+        "DefaultText": "用铜刀攻击巨型触手造成+315~385.0伤害",
+        "LocalizationKey": "T-kTWpfjT6O6Ur5UT3e0wbQnojpMk=",
         "ParentObjectID": ""
       },
       "ActionLog": {
@@ -23371,8 +23371,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u7528\u94DC\u5200\u653B\u51FB",
-        "LocalizationKey": "",
+        "DefaultText": "用铜刀攻击",
+        "LocalizationKey": "T-wjjyg5wRAQ6PGbbb6OAWUKwjBbw=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -24014,13 +24014,13 @@
       "WorksBothWays": false,
       "ActionSoundsWarpType": 3,
       "ActionSoundsWarpData": [
-        "\u5200\u523A"
+        "刀刺"
       ]
     },
     {
       "ActionDescription": {
-        "DefaultText": "\u7528\u7956\u7236\u7684\u5200\u653B\u51FB\u5DE8\u578B\u89E6\u624B\u9020\u6210\u002B450~550.0\u4F24\u5BB3",
-        "LocalizationKey": "",
+        "DefaultText": "用祖父的刀攻击巨型触手造成+450~550.0伤害",
+        "LocalizationKey": "T-uUKz/T/ZP8r3SMEhx4iT9vDWSDA=",
         "ParentObjectID": ""
       },
       "ActionLog": {
@@ -24035,8 +24035,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u7528\u7956\u7236\u7684\u5200\u653B\u51FB",
-        "LocalizationKey": "",
+        "DefaultText": "用祖父的刀攻击",
+        "LocalizationKey": "T-UOeEKpE9XwIeN+KC56HBQ3tKfs8=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -24678,13 +24678,13 @@
       "WorksBothWays": false,
       "ActionSoundsWarpType": 3,
       "ActionSoundsWarpData": [
-        "\u5200\u523A"
+        "刀刺"
       ]
     },
     {
       "ActionDescription": {
-        "DefaultText": "\u7528\u7956\u7236\u7684\u5200\u653B\u51FB\u5DE8\u578B\u89E6\u624B\u9020\u6210\u002B315~385.0\u4F24\u5BB3",
-        "LocalizationKey": "",
+        "DefaultText": "用祖父的刀攻击巨型触手造成+315~385.0伤害",
+        "LocalizationKey": "T-FyaGqiCnPVTfcXkNT1zbDKkWHac=",
         "ParentObjectID": ""
       },
       "ActionLog": {
@@ -24699,8 +24699,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u7528\u7956\u7236\u7684\u5200\u653B\u51FB",
-        "LocalizationKey": "",
+        "DefaultText": "用祖父的刀攻击",
+        "LocalizationKey": "T-UOeEKpE9XwIeN+KC56HBQ3tKfs8=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -25342,13 +25342,13 @@
       "WorksBothWays": false,
       "ActionSoundsWarpType": 3,
       "ActionSoundsWarpData": [
-        "\u5200\u523A"
+        "刀刺"
       ]
     },
     {
       "ActionDescription": {
-        "DefaultText": "\u7528\u5E9F\u91D1\u5C5E\u5200\u653B\u51FB\u5DE8\u578B\u89E6\u624B\u9020\u6210\u002B250~350.0\u4F24\u5BB3",
-        "LocalizationKey": "",
+        "DefaultText": "用废金属刀攻击巨型触手造成+250~350.0伤害",
+        "LocalizationKey": "T-aHeMVz4Nsdr/BB/QGy8Jxs54x6M=",
         "ParentObjectID": ""
       },
       "ActionLog": {
@@ -25363,8 +25363,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u7528\u5E9F\u91D1\u5C5E\u5200\u653B\u51FB",
-        "LocalizationKey": "",
+        "DefaultText": "用废金属刀攻击",
+        "LocalizationKey": "T-+MUKk53h1zWEkp11/OdkJfJC5Vw=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -26006,13 +26006,13 @@
       "WorksBothWays": false,
       "ActionSoundsWarpType": 3,
       "ActionSoundsWarpData": [
-        "\u5200\u523A"
+        "刀刺"
       ]
     },
     {
       "ActionDescription": {
-        "DefaultText": "\u7528\u5E9F\u91D1\u5C5E\u5200\u653B\u51FB\u5DE8\u578B\u89E6\u624B\u9020\u6210\u002B175~244.99999999999997\u4F24\u5BB3",
-        "LocalizationKey": "",
+        "DefaultText": "用废金属刀攻击巨型触手造成+175~244.99999999999997伤害",
+        "LocalizationKey": "T-jWwzp5QP30vHBwi4Jh/aQ9PUPuM=",
         "ParentObjectID": ""
       },
       "ActionLog": {
@@ -26027,8 +26027,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u7528\u5E9F\u91D1\u5C5E\u5200\u653B\u51FB",
-        "LocalizationKey": "",
+        "DefaultText": "用废金属刀攻击",
+        "LocalizationKey": "T-+MUKk53h1zWEkp11/OdkJfJC5Vw=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -26670,13 +26670,13 @@
       "WorksBothWays": false,
       "ActionSoundsWarpType": 3,
       "ActionSoundsWarpData": [
-        "\u5200\u523A"
+        "刀刺"
       ]
     },
     {
       "ActionDescription": {
-        "DefaultText": "\u7528\u9C7C\u53C9\u653B\u51FB\u5DE8\u578B\u89E6\u624B\u9020\u6210\u002B225~375.0\u4F24\u5BB3",
-        "LocalizationKey": "",
+        "DefaultText": "用鱼叉攻击巨型触手造成+225~375.0伤害",
+        "LocalizationKey": "T-BBNPIRd9RYOum4NFwk1XlC5wMx4=",
         "ParentObjectID": ""
       },
       "ActionLog": {
@@ -26691,8 +26691,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u7528\u9C7C\u53C9\u653B\u51FB",
-        "LocalizationKey": "",
+        "DefaultText": "用鱼叉攻击",
+        "LocalizationKey": "T-0jPAf8nRY9ZBnS/sFPXUt9/gRCE=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -27334,13 +27334,13 @@
       "WorksBothWays": false,
       "ActionSoundsWarpType": 3,
       "ActionSoundsWarpData": [
-        "\u5200\u523A"
+        "刀刺"
       ]
     },
     {
       "ActionDescription": {
-        "DefaultText": "\u7528\u9C7C\u53C9\u653B\u51FB\u5DE8\u578B\u89E6\u624B\u9020\u6210\u002B157.5~262.5\u4F24\u5BB3",
-        "LocalizationKey": "",
+        "DefaultText": "用鱼叉攻击巨型触手造成+157.5~262.5伤害",
+        "LocalizationKey": "T-ram8Sj7lECmE5p4t9qE+o8eX8M4=",
         "ParentObjectID": ""
       },
       "ActionLog": {
@@ -27355,8 +27355,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u7528\u9C7C\u53C9\u653B\u51FB",
-        "LocalizationKey": "",
+        "DefaultText": "用鱼叉攻击",
+        "LocalizationKey": "T-0jPAf8nRY9ZBnS/sFPXUt9/gRCE=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -27998,13 +27998,13 @@
       "WorksBothWays": false,
       "ActionSoundsWarpType": 3,
       "ActionSoundsWarpData": [
-        "\u5200\u523A"
+        "刀刺"
       ]
     },
     {
       "ActionDescription": {
-        "DefaultText": "\u7528\u7B80\u6613\u957F\u77DB\u653B\u51FB\u5DE8\u578B\u89E6\u624B\u9020\u6210\u002B125~325.0\u4F24\u5BB3",
-        "LocalizationKey": "",
+        "DefaultText": "用简易长矛攻击巨型触手造成+125~325.0伤害",
+        "LocalizationKey": "T-Rin/o7vIEx9zCHVLzUEuHZ2Ym5U=",
         "ParentObjectID": ""
       },
       "ActionLog": {
@@ -28019,8 +28019,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u7528\u7B80\u6613\u957F\u77DB\u653B\u51FB",
-        "LocalizationKey": "",
+        "DefaultText": "用简易长矛攻击",
+        "LocalizationKey": "T-sN3hx7X7iN+8cUfYOC0sup4UUZk=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -28662,13 +28662,13 @@
       "WorksBothWays": false,
       "ActionSoundsWarpType": 3,
       "ActionSoundsWarpData": [
-        "\u5200\u523A"
+        "刀刺"
       ]
     },
     {
       "ActionDescription": {
-        "DefaultText": "\u7528\u7B80\u6613\u957F\u77DB\u653B\u51FB\u5DE8\u578B\u89E6\u624B\u9020\u6210\u002B87.5~227.49999999999997\u4F24\u5BB3",
-        "LocalizationKey": "",
+        "DefaultText": "用简易长矛攻击巨型触手造成+87.5~227.49999999999997伤害",
+        "LocalizationKey": "T-5paQ2ut6p66Qd0mLNDEdOvQe+M0=",
         "ParentObjectID": ""
       },
       "ActionLog": {
@@ -28683,8 +28683,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u7528\u7B80\u6613\u957F\u77DB\u653B\u51FB",
-        "LocalizationKey": "",
+        "DefaultText": "用简易长矛攻击",
+        "LocalizationKey": "T-sN3hx7X7iN+8cUfYOC0sup4UUZk=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -29326,13 +29326,13 @@
       "WorksBothWays": false,
       "ActionSoundsWarpType": 3,
       "ActionSoundsWarpData": [
-        "\u5200\u523A"
+        "刀刺"
       ]
     },
     {
       "ActionDescription": {
-        "DefaultText": "\u7528\u4EEA\u5F0F\u5315\u9996\u653B\u51FB\u5DE8\u578B\u89E6\u624B\u9020\u6210\u002B75~150.0\u4F24\u5BB3",
-        "LocalizationKey": "",
+        "DefaultText": "用仪式匕首攻击巨型触手造成+75~150.0伤害",
+        "LocalizationKey": "T-e573SyH6zB/C3xaFF6s2ikwRIxU=",
         "ParentObjectID": ""
       },
       "ActionLog": {
@@ -29347,8 +29347,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u7528\u4EEA\u5F0F\u5315\u9996\u653B\u51FB",
-        "LocalizationKey": "",
+        "DefaultText": "用仪式匕首攻击",
+        "LocalizationKey": "T-Cne1tl53hgmsa1bHcvQtX7uuGXY=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -29990,13 +29990,13 @@
       "WorksBothWays": false,
       "ActionSoundsWarpType": 3,
       "ActionSoundsWarpData": [
-        "\u5200\u523A"
+        "刀刺"
       ]
     },
     {
       "ActionDescription": {
-        "DefaultText": "\u7528\u4EEA\u5F0F\u5315\u9996\u653B\u51FB\u5DE8\u578B\u89E6\u624B\u9020\u6210\u002B52.5~105.0\u4F24\u5BB3",
-        "LocalizationKey": "",
+        "DefaultText": "用仪式匕首攻击巨型触手造成+52.5~105.0伤害",
+        "LocalizationKey": "T-bcqgT3NXFuXyh4p2h/1eBYiDD2k=",
         "ParentObjectID": ""
       },
       "ActionLog": {
@@ -30011,8 +30011,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u7528\u4EEA\u5F0F\u5315\u9996\u653B\u51FB",
-        "LocalizationKey": "",
+        "DefaultText": "用仪式匕首攻击",
+        "LocalizationKey": "T-Cne1tl53hgmsa1bHcvQtX7uuGXY=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -30654,13 +30654,13 @@
       "WorksBothWays": false,
       "ActionSoundsWarpType": 3,
       "ActionSoundsWarpData": [
-        "\u5200\u523A"
+        "刀刺"
       ]
     },
     {
       "ActionDescription": {
-        "DefaultText": "\u7528\u9CA8\u9F7F\u68D2\u653B\u51FB\u5DE8\u578B\u89E6\u624B\u9020\u6210\u002B75~150.0\u4F24\u5BB3",
-        "LocalizationKey": "",
+        "DefaultText": "用鲨齿棒攻击巨型触手造成+75~150.0伤害",
+        "LocalizationKey": "T-5Zr/6HblZnBztSiiIcr9sV3FJBY=",
         "ParentObjectID": ""
       },
       "ActionLog": {
@@ -30675,8 +30675,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u7528\u9CA8\u9F7F\u68D2\u653B\u51FB",
-        "LocalizationKey": "",
+        "DefaultText": "用鲨齿棒攻击",
+        "LocalizationKey": "T-OG4AoQUFs7L3RHV5P1fG5bViJtQ=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -31318,13 +31318,13 @@
       "WorksBothWays": false,
       "ActionSoundsWarpType": 3,
       "ActionSoundsWarpData": [
-        "\u949D\u51FB"
+        "钝击"
       ]
     },
     {
       "ActionDescription": {
-        "DefaultText": "\u7528\u9CA8\u9F7F\u68D2\u653B\u51FB\u5DE8\u578B\u89E6\u624B\u9020\u6210\u002B52.5~105.0\u4F24\u5BB3",
-        "LocalizationKey": "",
+        "DefaultText": "用鲨齿棒攻击巨型触手造成+52.5~105.0伤害",
+        "LocalizationKey": "T-tc1oJtpukQCi/eD/n44Z4PQhJ/E=",
         "ParentObjectID": ""
       },
       "ActionLog": {
@@ -31339,8 +31339,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u7528\u9CA8\u9F7F\u68D2\u653B\u51FB",
-        "LocalizationKey": "",
+        "DefaultText": "用鲨齿棒攻击",
+        "LocalizationKey": "T-OG4AoQUFs7L3RHV5P1fG5bViJtQ=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -31982,13 +31982,13 @@
       "WorksBothWays": false,
       "ActionSoundsWarpType": 3,
       "ActionSoundsWarpData": [
-        "\u949D\u51FB"
+        "钝击"
       ]
     },
     {
       "ActionDescription": {
-        "DefaultText": "\u7528\u519B\u5200\u653B\u51FB\u5DE8\u578B\u89E6\u624B\u9020\u6210\u002B250~315.0\u4F24\u5BB3",
-        "LocalizationKey": "",
+        "DefaultText": "用军刀攻击巨型触手造成+250~315.0伤害",
+        "LocalizationKey": "T-1szoy6nCRr5qMXHzhD/S3yv/mjQ=",
         "ParentObjectID": ""
       },
       "ActionLog": {
@@ -32003,8 +32003,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u7528\u519B\u5200\u653B\u51FB",
-        "LocalizationKey": "",
+        "DefaultText": "用军刀攻击",
+        "LocalizationKey": "T-sf2BnVhjW2D/XpAAA+H9QZiM52s=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -32646,13 +32646,13 @@
       "WorksBothWays": false,
       "ActionSoundsWarpType": 3,
       "ActionSoundsWarpData": [
-        "\u5200\u523A"
+        "刀刺"
       ]
     },
     {
       "ActionDescription": {
-        "DefaultText": "\u7528\u519B\u5200\u653B\u51FB\u5DE8\u578B\u89E6\u624B\u9020\u6210\u002B175~220.5\u4F24\u5BB3",
-        "LocalizationKey": "",
+        "DefaultText": "用军刀攻击巨型触手造成+175~220.5伤害",
+        "LocalizationKey": "T-KMvgkgY8e9FFR0r3Pyrjf8Hmuhk=",
         "ParentObjectID": ""
       },
       "ActionLog": {
@@ -32667,8 +32667,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u7528\u519B\u5200\u653B\u51FB",
-        "LocalizationKey": "",
+        "DefaultText": "用军刀攻击",
+        "LocalizationKey": "T-sf2BnVhjW2D/XpAAA+H9QZiM52s=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -33310,13 +33310,13 @@
       "WorksBothWays": false,
       "ActionSoundsWarpType": 3,
       "ActionSoundsWarpData": [
-        "\u5200\u523A"
+        "刀刺"
       ]
     },
     {
       "ActionDescription": {
-        "DefaultText": "\u7528\u9ED1\u66DC\u77F3\u5200\u653B\u51FB\u5DE8\u578B\u89E6\u624B\u9020\u6210\u002B75~150.0\u4F24\u5BB3",
-        "LocalizationKey": "",
+        "DefaultText": "用黑曜石刀攻击巨型触手造成+75~150.0伤害",
+        "LocalizationKey": "T-A36OFSI14T7X9IZZhQ/L7xRVlOU=",
         "ParentObjectID": ""
       },
       "ActionLog": {
@@ -33331,8 +33331,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u7528\u9ED1\u66DC\u77F3\u5200\u653B\u51FB",
-        "LocalizationKey": "",
+        "DefaultText": "用黑曜石刀攻击",
+        "LocalizationKey": "T-/EA6KnVPvQ1X3mj85MbqPranYhY=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -33974,13 +33974,13 @@
       "WorksBothWays": false,
       "ActionSoundsWarpType": 3,
       "ActionSoundsWarpData": [
-        "\u5200\u523A"
+        "刀刺"
       ]
     },
     {
       "ActionDescription": {
-        "DefaultText": "\u7528\u9ED1\u66DC\u77F3\u5200\u653B\u51FB\u5DE8\u578B\u89E6\u624B\u9020\u6210\u002B52.5~105.0\u4F24\u5BB3",
-        "LocalizationKey": "",
+        "DefaultText": "用黑曜石刀攻击巨型触手造成+52.5~105.0伤害",
+        "LocalizationKey": "T-TvjqQ/TXSol0tXF4ZmQNIYJaYU4=",
         "ParentObjectID": ""
       },
       "ActionLog": {
@@ -33995,8 +33995,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u7528\u9ED1\u66DC\u77F3\u5200\u653B\u51FB",
-        "LocalizationKey": "",
+        "DefaultText": "用黑曜石刀攻击",
+        "LocalizationKey": "T-/EA6KnVPvQ1X3mj85MbqPranYhY=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -34638,13 +34638,13 @@
       "WorksBothWays": false,
       "ActionSoundsWarpType": 3,
       "ActionSoundsWarpData": [
-        "\u5200\u523A"
+        "刀刺"
       ]
     },
     {
       "ActionDescription": {
-        "DefaultText": "\u7528\u94DC\u957F\u77DB\u653B\u51FB\u5DE8\u578B\u89E6\u624B\u9020\u6210\u002B600~800.0\u4F24\u5BB3",
-        "LocalizationKey": "",
+        "DefaultText": "用铜长矛攻击巨型触手造成+600~800.0伤害",
+        "LocalizationKey": "T-G1ZjhNxxD/dO8DJOj4Bb9uzRnu4=",
         "ParentObjectID": ""
       },
       "ActionLog": {
@@ -34659,8 +34659,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u7528\u94DC\u957F\u77DB\u653B\u51FB",
-        "LocalizationKey": "",
+        "DefaultText": "用铜长矛攻击",
+        "LocalizationKey": "T-yu6waI55nXiUt6jwNmvk4oOLqDM=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -35302,13 +35302,13 @@
       "WorksBothWays": false,
       "ActionSoundsWarpType": 3,
       "ActionSoundsWarpData": [
-        "\u5200\u523A"
+        "刀刺"
       ]
     },
     {
       "ActionDescription": {
-        "DefaultText": "\u7528\u94DC\u957F\u77DB\u653B\u51FB\u5DE8\u578B\u89E6\u624B\u9020\u6210\u002B420~560.0\u4F24\u5BB3",
-        "LocalizationKey": "",
+        "DefaultText": "用铜长矛攻击巨型触手造成+420~560.0伤害",
+        "LocalizationKey": "T-BxBZitdt+xEAXYQ4Ly4GwDroy8U=",
         "ParentObjectID": ""
       },
       "ActionLog": {
@@ -35323,8 +35323,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u7528\u94DC\u957F\u77DB\u653B\u51FB",
-        "LocalizationKey": "",
+        "DefaultText": "用铜长矛攻击",
+        "LocalizationKey": "T-yu6waI55nXiUt6jwNmvk4oOLqDM=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -35966,13 +35966,13 @@
       "WorksBothWays": false,
       "ActionSoundsWarpType": 3,
       "ActionSoundsWarpData": [
-        "\u5200\u523A"
+        "刀刺"
       ]
     },
     {
       "ActionDescription": {
-        "DefaultText": "\u7528\u71E7\u77F3\u957F\u77DB\u653B\u51FB\u5DE8\u578B\u89E6\u624B\u9020\u6210\u002B250~350.0\u4F24\u5BB3",
-        "LocalizationKey": "",
+        "DefaultText": "用燧石长矛攻击巨型触手造成+250~350.0伤害",
+        "LocalizationKey": "T-qrr9ywhrMvpxgLvWIZIthG7YE5M=",
         "ParentObjectID": ""
       },
       "ActionLog": {
@@ -35987,8 +35987,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u7528\u71E7\u77F3\u957F\u77DB\u653B\u51FB",
-        "LocalizationKey": "",
+        "DefaultText": "用燧石长矛攻击",
+        "LocalizationKey": "T-jg/BPN1EXqElJ5v4J3SmKsIOspg=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -36630,13 +36630,13 @@
       "WorksBothWays": false,
       "ActionSoundsWarpType": 3,
       "ActionSoundsWarpData": [
-        "\u5200\u523A"
+        "刀刺"
       ]
     },
     {
       "ActionDescription": {
-        "DefaultText": "\u7528\u71E7\u77F3\u957F\u77DB\u653B\u51FB\u5DE8\u578B\u89E6\u624B\u9020\u6210\u002B175~244.99999999999997\u4F24\u5BB3",
-        "LocalizationKey": "",
+        "DefaultText": "用燧石长矛攻击巨型触手造成+175~244.99999999999997伤害",
+        "LocalizationKey": "T-kwe+rPrdz2pxF94KE5NGtXjAb24=",
         "ParentObjectID": ""
       },
       "ActionLog": {
@@ -36651,8 +36651,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u7528\u71E7\u77F3\u957F\u77DB\u653B\u51FB",
-        "LocalizationKey": "",
+        "DefaultText": "用燧石长矛攻击",
+        "LocalizationKey": "T-jg/BPN1EXqElJ5v4J3SmKsIOspg=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -37294,13 +37294,13 @@
       "WorksBothWays": false,
       "ActionSoundsWarpType": 3,
       "ActionSoundsWarpData": [
-        "\u5200\u523A"
+        "刀刺"
       ]
     },
     {
       "ActionDescription": {
-        "DefaultText": "\u7528\u5E9F\u91D1\u5C5E\u957F\u77DB\u653B\u51FB\u5DE8\u578B\u89E6\u624B\u9020\u6210\u002B350~500.0\u4F24\u5BB3",
-        "LocalizationKey": "",
+        "DefaultText": "用废金属长矛攻击巨型触手造成+350~500.0伤害",
+        "LocalizationKey": "T-TICF8Iu6pQR5vFGd849QrGHKK/M=",
         "ParentObjectID": ""
       },
       "ActionLog": {
@@ -37315,8 +37315,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u7528\u5E9F\u91D1\u5C5E\u957F\u77DB\u653B\u51FB",
-        "LocalizationKey": "",
+        "DefaultText": "用废金属长矛攻击",
+        "LocalizationKey": "T-SOjzMLl35atgdfiF1oUpVqARqJ8=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -37958,13 +37958,13 @@
       "WorksBothWays": false,
       "ActionSoundsWarpType": 3,
       "ActionSoundsWarpData": [
-        "\u5200\u523A"
+        "刀刺"
       ]
     },
     {
       "ActionDescription": {
-        "DefaultText": "\u7528\u5E9F\u91D1\u5C5E\u957F\u77DB\u653B\u51FB\u5DE8\u578B\u89E6\u624B\u9020\u6210\u002B245~350.0\u4F24\u5BB3",
-        "LocalizationKey": "",
+        "DefaultText": "用废金属长矛攻击巨型触手造成+245~350.0伤害",
+        "LocalizationKey": "T-TYs2mqI81QMCisAd+zBW7XHBZZQ=",
         "ParentObjectID": ""
       },
       "ActionLog": {
@@ -37979,8 +37979,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u7528\u5E9F\u91D1\u5C5E\u957F\u77DB\u653B\u51FB",
-        "LocalizationKey": "",
+        "DefaultText": "用废金属长矛攻击",
+        "LocalizationKey": "T-SOjzMLl35atgdfiF1oUpVqARqJ8=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -38622,13 +38622,13 @@
       "WorksBothWays": false,
       "ActionSoundsWarpType": 3,
       "ActionSoundsWarpData": [
-        "\u5200\u523A"
+        "刀刺"
       ]
     },
     {
       "ActionDescription": {
-        "DefaultText": "\u7528\u9C7C\u9556\u653B\u51FB\u5DE8\u578B\u89E6\u624B\u9020\u6210\u002B250~325.0\u4F24\u5BB3",
-        "LocalizationKey": "",
+        "DefaultText": "用鱼镖攻击巨型触手造成+250~325.0伤害",
+        "LocalizationKey": "T-R5Gy/mSFjlKBzPOpR91pueyplwE=",
         "ParentObjectID": ""
       },
       "ActionLog": {
@@ -38643,8 +38643,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u7528\u9C7C\u9556\u653B\u51FB",
-        "LocalizationKey": "",
+        "DefaultText": "用鱼镖攻击",
+        "LocalizationKey": "T-zzxImGE/9cosqsFMZJt6zTeNZgQ=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -39286,13 +39286,13 @@
       "WorksBothWays": false,
       "ActionSoundsWarpType": 3,
       "ActionSoundsWarpData": [
-        "\u5200\u523A"
+        "刀刺"
       ]
     },
     {
       "ActionDescription": {
-        "DefaultText": "\u7528\u9C7C\u9556\u653B\u51FB\u5DE8\u578B\u89E6\u624B\u9020\u6210\u002B175~227.49999999999997\u4F24\u5BB3",
-        "LocalizationKey": "",
+        "DefaultText": "用鱼镖攻击巨型触手造成+175~227.49999999999997伤害",
+        "LocalizationKey": "T-97qPrTNC8KYsvg5nnXLDZcAfneI=",
         "ParentObjectID": ""
       },
       "ActionLog": {
@@ -39307,8 +39307,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u7528\u9C7C\u9556\u653B\u51FB",
-        "LocalizationKey": "",
+        "DefaultText": "用鱼镖攻击",
+        "LocalizationKey": "T-zzxImGE/9cosqsFMZJt6zTeNZgQ=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -39950,13 +39950,13 @@
       "WorksBothWays": false,
       "ActionSoundsWarpType": 3,
       "ActionSoundsWarpData": [
-        "\u5200\u523A"
+        "刀刺"
       ]
     },
     {
       "ActionDescription": {
-        "DefaultText": "\u7528\u9ED1\u66DC\u77F3\u957F\u77DB\u653B\u51FB\u5DE8\u578B\u89E6\u624B\u9020\u6210\u002B175~200.0\u4F24\u5BB3",
-        "LocalizationKey": "",
+        "DefaultText": "用黑曜石长矛攻击巨型触手造成+175~200.0伤害",
+        "LocalizationKey": "T-9aB7OpEoEWjHRue254pzl9CWiTQ=",
         "ParentObjectID": ""
       },
       "ActionLog": {
@@ -39971,8 +39971,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u7528\u9ED1\u66DC\u77F3\u957F\u77DB\u653B\u51FB",
-        "LocalizationKey": "",
+        "DefaultText": "用黑曜石长矛攻击",
+        "LocalizationKey": "T-O1xzvFl5tkHJlR9t00S6MA0vaT8=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -40614,13 +40614,13 @@
       "WorksBothWays": false,
       "ActionSoundsWarpType": 3,
       "ActionSoundsWarpData": [
-        "\u5200\u523A"
+        "刀刺"
       ]
     },
     {
       "ActionDescription": {
-        "DefaultText": "\u7528\u9ED1\u66DC\u77F3\u957F\u77DB\u653B\u51FB\u5DE8\u578B\u89E6\u624B\u9020\u6210\u002B122.5~140.0\u4F24\u5BB3",
-        "LocalizationKey": "",
+        "DefaultText": "用黑曜石长矛攻击巨型触手造成+122.5~140.0伤害",
+        "LocalizationKey": "T-lnWCAqQ0Id5VVy5Gk8WsvavsYMk=",
         "ParentObjectID": ""
       },
       "ActionLog": {
@@ -40635,8 +40635,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u7528\u9ED1\u66DC\u77F3\u957F\u77DB\u653B\u51FB",
-        "LocalizationKey": "",
+        "DefaultText": "用黑曜石长矛攻击",
+        "LocalizationKey": "T-O1xzvFl5tkHJlR9t00S6MA0vaT8=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -41278,13 +41278,13 @@
       "WorksBothWays": false,
       "ActionSoundsWarpType": 3,
       "ActionSoundsWarpData": [
-        "\u5200\u523A"
+        "刀刺"
       ]
     },
     {
       "ActionDescription": {
-        "DefaultText": "\u7528\u67AA\u653B\u51FB\u5DE8\u578B\u89E6\u624B\u9020\u6210\u002B350~500.0\u4F24\u5BB3",
-        "LocalizationKey": "",
+        "DefaultText": "用枪攻击巨型触手造成+350~500.0伤害",
+        "LocalizationKey": "T-KimP2SkBX7pa5YGIiM6kO0Emd+w=",
         "ParentObjectID": ""
       },
       "ActionLog": {
@@ -41299,8 +41299,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u7528\u67AA\u653B\u51FB",
-        "LocalizationKey": "",
+        "DefaultText": "用枪攻击",
+        "LocalizationKey": "T-C/QwXhGobN/yhoI4I3p252iAswk=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -41942,13 +41942,13 @@
       "WorksBothWays": false,
       "ActionSoundsWarpType": 3,
       "ActionSoundsWarpData": [
-        "\u624B\u67AA"
+        "手枪"
       ]
     },
     {
       "ActionDescription": {
-        "DefaultText": "\u7528\u67AA\u653B\u51FB\u5DE8\u578B\u89E6\u624B\u9020\u6210\u002B245~350.0\u4F24\u5BB3",
-        "LocalizationKey": "",
+        "DefaultText": "用枪攻击巨型触手造成+245~350.0伤害",
+        "LocalizationKey": "T-Czr21Fiy8NMWE/LsJwhpN8tOV44=",
         "ParentObjectID": ""
       },
       "ActionLog": {
@@ -41963,8 +41963,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u7528\u67AA\u653B\u51FB",
-        "LocalizationKey": "",
+        "DefaultText": "用枪攻击",
+        "LocalizationKey": "T-C/QwXhGobN/yhoI4I3p252iAswk=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -42606,13 +42606,13 @@
       "WorksBothWays": false,
       "ActionSoundsWarpType": 3,
       "ActionSoundsWarpData": [
-        "\u624B\u67AA"
+        "手枪"
       ]
     },
     {
       "ActionDescription": {
-        "DefaultText": "\u7528\u5F39\u5F13\u653B\u51FB\u5DE8\u578B\u89E6\u624B\u9020\u6210\u002B475~675.0\u4F24\u5BB3",
-        "LocalizationKey": "",
+        "DefaultText": "用弹弓攻击巨型触手造成+475~675.0伤害",
+        "LocalizationKey": "T-6Ae8jFju0c2S2wBw/tCB532rNj0=",
         "ParentObjectID": ""
       },
       "ActionLog": {
@@ -42627,8 +42627,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u7528\u5F39\u5F13\u653B\u51FB",
-        "LocalizationKey": "",
+        "DefaultText": "用弹弓攻击",
+        "LocalizationKey": "T-oQUcr0eBmOxmhxMyUe8QTaXk5h0=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -43275,8 +43275,8 @@
     },
     {
       "ActionDescription": {
-        "DefaultText": "\u7528\u5F39\u5F13\u653B\u51FB\u5DE8\u578B\u89E6\u624B\u9020\u6210\u002B332.5~472.49999999999994\u4F24\u5BB3",
-        "LocalizationKey": "",
+        "DefaultText": "用弹弓攻击巨型触手造成+332.5~472.49999999999994伤害",
+        "LocalizationKey": "T-Yi6Mj/DaUVL48HS5CPRMrBoem+s=",
         "ParentObjectID": ""
       },
       "ActionLog": {
@@ -43291,8 +43291,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u7528\u5F39\u5F13\u653B\u51FB",
-        "LocalizationKey": "",
+        "DefaultText": "用弹弓攻击",
+        "LocalizationKey": "T-oQUcr0eBmOxmhxMyUe8QTaXk5h0=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -43939,8 +43939,8 @@
     },
     {
       "ActionDescription": {
-        "DefaultText": "\u7528\u88C5\u7740\u9ED1\u66DC\u77F3\u70AE\u5F39\u7684\u53D1\u5C04\u5668\u653B\u51FB\u5DE8\u578B\u89E6\u624B\u9020\u6210\u002B950~1050.0\u4F24\u5BB3",
-        "LocalizationKey": "",
+        "DefaultText": "用装着黑曜石炮弹的发射器攻击巨型触手造成+950~1050.0伤害",
+        "LocalizationKey": "T-XAlON1pMwrfMgD6JFUP5Y3gpKSM=",
         "ParentObjectID": ""
       },
       "ActionLog": {
@@ -43955,8 +43955,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u7528\u88C5\u7740\u9ED1\u66DC\u77F3\u70AE\u5F39\u7684\u53D1\u5C04\u5668\u653B\u51FB",
-        "LocalizationKey": "",
+        "DefaultText": "用装着黑曜石炮弹的发射器攻击",
+        "LocalizationKey": "T-x2s7MH1bXoG0gzOjbBsSN1urtps=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -44003,7 +44003,7 @@
           "AffectedTags": [],
           "NOTAffectedThings": [],
           "AffectedTagsWarpData": [
-            "\u602A\u7269"
+            "怪物"
           ],
           "AffectedTagsWarpType": 3,
           "AppliesTo": 0,
@@ -44691,13 +44691,13 @@
       "WorksBothWays": false,
       "ActionSoundsWarpType": 3,
       "ActionSoundsWarpData": [
-        "\u70AE"
+        "炮"
       ]
     },
     {
       "ActionDescription": {
-        "DefaultText": "\u7528\u88C5\u7740\u9ED1\u66DC\u77F3\u70AE\u5F39\u7684\u53D1\u5C04\u5668\u653B\u51FB\u5DE8\u578B\u89E6\u624B\u9020\u6210\u002B665~735.0\u4F24\u5BB3",
-        "LocalizationKey": "",
+        "DefaultText": "用装着黑曜石炮弹的发射器攻击巨型触手造成+665~735.0伤害",
+        "LocalizationKey": "T-gMW5RYiLX6pArjyOao/6Lsw2/W4=",
         "ParentObjectID": ""
       },
       "ActionLog": {
@@ -44712,8 +44712,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u7528\u88C5\u7740\u9ED1\u66DC\u77F3\u70AE\u5F39\u7684\u53D1\u5C04\u5668\u653B\u51FB",
-        "LocalizationKey": "",
+        "DefaultText": "用装着黑曜石炮弹的发射器攻击",
+        "LocalizationKey": "T-x2s7MH1bXoG0gzOjbBsSN1urtps=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -44760,7 +44760,7 @@
           "AffectedTags": [],
           "NOTAffectedThings": [],
           "AffectedTagsWarpData": [
-            "\u602A\u7269"
+            "怪物"
           ],
           "AffectedTagsWarpType": 3,
           "AppliesTo": 0,
@@ -45448,13 +45448,13 @@
       "WorksBothWays": false,
       "ActionSoundsWarpType": 3,
       "ActionSoundsWarpData": [
-        "\u70AE"
+        "炮"
       ]
     },
     {
       "ActionDescription": {
-        "DefaultText": "\u7528\u88C5\u7740\u6930\u5B50\u70AE\u5F39\u7684\u53D1\u5C04\u5668\u653B\u51FB\u5DE8\u578B\u89E6\u624B\u9020\u6210\u002B850~950.0\u4F24\u5BB3",
-        "LocalizationKey": "",
+        "DefaultText": "用装着椰子炮弹的发射器攻击巨型触手造成+850~950.0伤害",
+        "LocalizationKey": "T-kSjxnkvUMKgPXMCc9LMurSrRMLE=",
         "ParentObjectID": ""
       },
       "ActionLog": {
@@ -45469,8 +45469,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u7528\u88C5\u7740\u6930\u5B50\u70AE\u5F39\u7684\u53D1\u5C04\u5668\u653B\u51FB",
-        "LocalizationKey": "",
+        "DefaultText": "用装着椰子炮弹的发射器攻击",
+        "LocalizationKey": "T-Rv41jjHX0heEzHbUOKxWl5Yh730=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -45517,7 +45517,7 @@
           "AffectedTags": [],
           "NOTAffectedThings": [],
           "AffectedTagsWarpData": [
-            "\u602A\u7269"
+            "怪物"
           ],
           "AffectedTagsWarpType": 3,
           "AppliesTo": 0,
@@ -46205,13 +46205,13 @@
       "WorksBothWays": false,
       "ActionSoundsWarpType": 3,
       "ActionSoundsWarpData": [
-        "\u70AE"
+        "炮"
       ]
     },
     {
       "ActionDescription": {
-        "DefaultText": "\u7528\u88C5\u7740\u6930\u5B50\u70AE\u5F39\u7684\u53D1\u5C04\u5668\u653B\u51FB\u5DE8\u578B\u89E6\u624B\u9020\u6210\u002B595~665.0\u4F24\u5BB3",
-        "LocalizationKey": "",
+        "DefaultText": "用装着椰子炮弹的发射器攻击巨型触手造成+595~665.0伤害",
+        "LocalizationKey": "T-2h8rgs71HnAWIMbsFZLlpyxDCN0=",
         "ParentObjectID": ""
       },
       "ActionLog": {
@@ -46226,8 +46226,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u7528\u88C5\u7740\u6930\u5B50\u70AE\u5F39\u7684\u53D1\u5C04\u5668\u653B\u51FB",
-        "LocalizationKey": "",
+        "DefaultText": "用装着椰子炮弹的发射器攻击",
+        "LocalizationKey": "T-Rv41jjHX0heEzHbUOKxWl5Yh730=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -46274,7 +46274,7 @@
           "AffectedTags": [],
           "NOTAffectedThings": [],
           "AffectedTagsWarpData": [
-            "\u602A\u7269"
+            "怪物"
           ],
           "AffectedTagsWarpType": 3,
           "AppliesTo": 0,
@@ -46962,13 +46962,13 @@
       "WorksBothWays": false,
       "ActionSoundsWarpType": 3,
       "ActionSoundsWarpData": [
-        "\u70AE"
+        "炮"
       ]
     },
     {
       "ActionDescription": {
-        "DefaultText": "\u7528\u9489\u67AA\u653B\u51FB\u5DE8\u578B\u89E6\u624B\u9020\u6210\u002B800~800.0\u4F24\u5BB3",
-        "LocalizationKey": "",
+        "DefaultText": "用钉枪攻击巨型触手造成+800~800.0伤害",
+        "LocalizationKey": "T-c0HI+wlRyc3p2juDExqSjy3cS5E=",
         "ParentObjectID": ""
       },
       "ActionLog": {
@@ -46983,8 +46983,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u7528\u9489\u67AA\u653B\u51FB",
-        "LocalizationKey": "",
+        "DefaultText": "用钉枪攻击",
+        "LocalizationKey": "T-qjA5Ls7Jo6NS3SxLOTsgJrZMIvI=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -47626,13 +47626,13 @@
       "WorksBothWays": false,
       "ActionSoundsWarpType": 3,
       "ActionSoundsWarpData": [
-        "\u9489\u67AA"
+        "钉枪"
       ]
     },
     {
       "ActionDescription": {
-        "DefaultText": "\u7528\u9489\u67AA\u653B\u51FB\u5DE8\u578B\u89E6\u624B\u9020\u6210\u002B560~560.0\u4F24\u5BB3",
-        "LocalizationKey": "",
+        "DefaultText": "用钉枪攻击巨型触手造成+560~560.0伤害",
+        "LocalizationKey": "T-3CHA4LxM7YmKYaqu4oq8YChdMP0=",
         "ParentObjectID": ""
       },
       "ActionLog": {
@@ -47647,8 +47647,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u7528\u9489\u67AA\u653B\u51FB",
-        "LocalizationKey": "",
+        "DefaultText": "用钉枪攻击",
+        "LocalizationKey": "T-qjA5Ls7Jo6NS3SxLOTsgJrZMIvI=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -48290,13 +48290,13 @@
       "WorksBothWays": false,
       "ActionSoundsWarpType": 3,
       "ActionSoundsWarpData": [
-        "\u9489\u67AA"
+        "钉枪"
       ]
     },
     {
       "ActionDescription": {
-        "DefaultText": "\u7528\u7535\u51FB\u67AA\u653B\u51FB\u5DE8\u578B\u89E6\u624B\u9020\u6210\u002B1200~1200.0\u4F24\u5BB3",
-        "LocalizationKey": "",
+        "DefaultText": "用电击枪攻击巨型触手造成+1200~1200.0伤害",
+        "LocalizationKey": "T-9e/B1y/I9yRwfwEn623E88aQ2aI=",
         "ParentObjectID": ""
       },
       "ActionLog": {
@@ -48311,8 +48311,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u7528\u7535\u51FB\u67AA\u653B\u51FB",
-        "LocalizationKey": "",
+        "DefaultText": "用电击枪攻击",
+        "LocalizationKey": "T-doXj7JshYsTY4IgREmfFUzaWdfc=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -48359,7 +48359,7 @@
           "AffectedTags": [],
           "NOTAffectedThings": [],
           "AffectedTagsWarpData": [
-            "\u602A\u7269"
+            "怪物"
           ],
           "AffectedTagsWarpType": 3,
           "AppliesTo": 0,
@@ -49047,13 +49047,13 @@
       "WorksBothWays": false,
       "ActionSoundsWarpType": 3,
       "ActionSoundsWarpData": [
-        "\u7535\u51FB\u67AA"
+        "电击枪"
       ]
     },
     {
       "ActionDescription": {
-        "DefaultText": "\u7528\u7535\u51FB\u67AA\u653B\u51FB\u5DE8\u578B\u89E6\u624B\u9020\u6210\u002B840~840.0\u4F24\u5BB3",
-        "LocalizationKey": "",
+        "DefaultText": "用电击枪攻击巨型触手造成+840~840.0伤害",
+        "LocalizationKey": "T-KyyuMgUQwHhVsJOSMLKRXn+CMuA=",
         "ParentObjectID": ""
       },
       "ActionLog": {
@@ -49068,8 +49068,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u7528\u7535\u51FB\u67AA\u653B\u51FB",
-        "LocalizationKey": "",
+        "DefaultText": "用电击枪攻击",
+        "LocalizationKey": "T-doXj7JshYsTY4IgREmfFUzaWdfc=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -49116,7 +49116,7 @@
           "AffectedTags": [],
           "NOTAffectedThings": [],
           "AffectedTagsWarpData": [
-            "\u602A\u7269"
+            "怪物"
           ],
           "AffectedTagsWarpType": 3,
           "AppliesTo": 0,
@@ -49804,13 +49804,13 @@
       "WorksBothWays": false,
       "ActionSoundsWarpType": 3,
       "ActionSoundsWarpData": [
-        "\u7535\u51FB\u67AA"
+        "电击枪"
       ]
     },
     {
       "ActionDescription": {
-        "DefaultText": "\u7528\u4E09\u53C9\u621F\u653B\u51FB\u5DE8\u578B\u89E6\u624B\u9020\u6210\u002B800~800.0\u4F24\u5BB3",
-        "LocalizationKey": "",
+        "DefaultText": "用三叉戟攻击巨型触手造成+800~800.0伤害",
+        "LocalizationKey": "T-r0ZvLrK1nXxPUc2L3ABmHIdU+iM=",
         "ParentObjectID": ""
       },
       "ActionLog": {
@@ -49825,8 +49825,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u7528\u4E09\u53C9\u621F\u653B\u51FB",
-        "LocalizationKey": "",
+        "DefaultText": "用三叉戟攻击",
+        "LocalizationKey": "T-7sG0deHBxERVHrv/qb5rppeg1HY=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -50468,13 +50468,13 @@
       "WorksBothWays": false,
       "ActionSoundsWarpType": 3,
       "ActionSoundsWarpData": [
-        "\u5251"
+        "剑"
       ]
     },
     {
       "ActionDescription": {
-        "DefaultText": "\u7528\u4E09\u53C9\u621F\u653B\u51FB\u5DE8\u578B\u89E6\u624B\u9020\u6210\u002B560~560.0\u4F24\u5BB3",
-        "LocalizationKey": "",
+        "DefaultText": "用三叉戟攻击巨型触手造成+560~560.0伤害",
+        "LocalizationKey": "T-/F+z2otFcRd3TUSHIWQOMFcVdeU=",
         "ParentObjectID": ""
       },
       "ActionLog": {
@@ -50489,8 +50489,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u7528\u4E09\u53C9\u621F\u653B\u51FB",
-        "LocalizationKey": "",
+        "DefaultText": "用三叉戟攻击",
+        "LocalizationKey": "T-7sG0deHBxERVHrv/qb5rppeg1HY=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -51132,13 +51132,13 @@
       "WorksBothWays": false,
       "ActionSoundsWarpType": 3,
       "ActionSoundsWarpData": [
-        "\u5251"
+        "剑"
       ]
     },
     {
       "ActionDescription": {
-        "DefaultText": "\u7528\u4E09\u53C9\u621F\uFF08\u5145\u80FD\uFF09\u653B\u51FB\u5DE8\u578B\u89E6\u624B\u9020\u6210\u002B1000~1200.0\u4F24\u5BB3",
-        "LocalizationKey": "",
+        "DefaultText": "用三叉戟（充能）攻击巨型触手造成+1000~1200.0伤害",
+        "LocalizationKey": "T-dwLdxUQkLoidiZCxm5z0tJc4OYM=",
         "ParentObjectID": ""
       },
       "ActionLog": {
@@ -51153,8 +51153,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u7528\u4E09\u53C9\u621F\uFF08\u5145\u80FD\uFF09\u653B\u51FB",
-        "LocalizationKey": "",
+        "DefaultText": "用三叉戟（充能）攻击",
+        "LocalizationKey": "T-xnKShS8qhyItX0LS8+HrQarE5oA=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -51201,7 +51201,7 @@
           "AffectedTags": [],
           "NOTAffectedThings": [],
           "AffectedTagsWarpData": [
-            "\u602A\u7269"
+            "怪物"
           ],
           "AffectedTagsWarpType": 3,
           "AppliesTo": 0,
@@ -51889,13 +51889,13 @@
       "WorksBothWays": false,
       "ActionSoundsWarpType": 3,
       "ActionSoundsWarpData": [
-        "\u5251"
+        "剑"
       ]
     },
     {
       "ActionDescription": {
-        "DefaultText": "\u7528\u4E09\u53C9\u621F\uFF08\u5145\u80FD\uFF09\u653B\u51FB\u5DE8\u578B\u89E6\u624B\u9020\u6210\u002B700~840.0\u4F24\u5BB3",
-        "LocalizationKey": "",
+        "DefaultText": "用三叉戟（充能）攻击巨型触手造成+700~840.0伤害",
+        "LocalizationKey": "T-tpVBGDrVm4Pk5XW2HQNyqNURRGc=",
         "ParentObjectID": ""
       },
       "ActionLog": {
@@ -51910,8 +51910,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u7528\u4E09\u53C9\u621F\uFF08\u5145\u80FD\uFF09\u653B\u51FB",
-        "LocalizationKey": "",
+        "DefaultText": "用三叉戟（充能）攻击",
+        "LocalizationKey": "T-xnKShS8qhyItX0LS8+HrQarE5oA=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -51958,7 +51958,7 @@
           "AffectedTags": [],
           "NOTAffectedThings": [],
           "AffectedTagsWarpData": [
-            "\u602A\u7269"
+            "怪物"
           ],
           "AffectedTagsWarpType": 3,
           "AppliesTo": 0,
@@ -52646,13 +52646,13 @@
       "WorksBothWays": false,
       "ActionSoundsWarpType": 3,
       "ActionSoundsWarpData": [
-        "\u5251"
+        "剑"
       ]
     },
     {
       "ActionDescription": {
-        "DefaultText": "\u7528\u7B80\u6613\u7684\u5F13\u548C\u7B80\u6613\u7BAD\u77E2\u653B\u51FB\u5DE8\u578B\u89E6\u624B\u9020\u6210\u002B300~450.0\u4F24\u5BB3",
-        "LocalizationKey": "",
+        "DefaultText": "用简易的弓和简易箭矢攻击巨型触手造成+300~450.0伤害",
+        "LocalizationKey": "T-Vkf/6+wzcVscDNqqMt4BcpsdSvc=",
         "ParentObjectID": ""
       },
       "ActionLog": {
@@ -52667,8 +52667,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u7528\u7B80\u6613\u7684\u5F13\u653B\u51FB",
-        "LocalizationKey": "",
+        "DefaultText": "用简易的弓攻击",
+        "LocalizationKey": "T-I4uJvCEYh4ej9TaHmL/FTszDPnY=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -53416,13 +53416,13 @@
       "WorksBothWays": false,
       "ActionSoundsWarpType": 3,
       "ActionSoundsWarpData": [
-        "\u5F13"
+        "弓"
       ]
     },
     {
       "ActionDescription": {
-        "DefaultText": "\u7528\u7B80\u6613\u7684\u5F13\u548C\u7B80\u6613\u7BAD\u77E2\u653B\u51FB\u5DE8\u578B\u89E6\u624B\u9020\u6210\u002B210~315.0\u4F24\u5BB3",
-        "LocalizationKey": "",
+        "DefaultText": "用简易的弓和简易箭矢攻击巨型触手造成+210~315.0伤害",
+        "LocalizationKey": "T-z/YBOCDLt6ODU/vu1eh7qCz44P8=",
         "ParentObjectID": ""
       },
       "ActionLog": {
@@ -53437,8 +53437,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u7528\u7B80\u6613\u7684\u5F13\u653B\u51FB",
-        "LocalizationKey": "",
+        "DefaultText": "用简易的弓攻击",
+        "LocalizationKey": "T-I4uJvCEYh4ej9TaHmL/FTszDPnY=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -54186,13 +54186,13 @@
       "WorksBothWays": false,
       "ActionSoundsWarpType": 3,
       "ActionSoundsWarpData": [
-        "\u5F13"
+        "弓"
       ]
     },
     {
       "ActionDescription": {
-        "DefaultText": "\u7528\u7B80\u6613\u7684\u5F13\u548C\u9AA8\u5236\u7BAD\u77E2\u653B\u51FB\u5DE8\u578B\u89E6\u624B\u9020\u6210\u002B400~500.0\u4F24\u5BB3",
-        "LocalizationKey": "",
+        "DefaultText": "用简易的弓和骨制箭矢攻击巨型触手造成+400~500.0伤害",
+        "LocalizationKey": "T-aXgEGPO0QXuT/B1+ttbDd35foP0=",
         "ParentObjectID": ""
       },
       "ActionLog": {
@@ -54207,8 +54207,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u7528\u7B80\u6613\u7684\u5F13\u653B\u51FB",
-        "LocalizationKey": "",
+        "DefaultText": "用简易的弓攻击",
+        "LocalizationKey": "T-I4uJvCEYh4ej9TaHmL/FTszDPnY=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -54956,13 +54956,13 @@
       "WorksBothWays": false,
       "ActionSoundsWarpType": 3,
       "ActionSoundsWarpData": [
-        "\u5F13"
+        "弓"
       ]
     },
     {
       "ActionDescription": {
-        "DefaultText": "\u7528\u7B80\u6613\u7684\u5F13\u548C\u9AA8\u5236\u7BAD\u77E2\u653B\u51FB\u5DE8\u578B\u89E6\u624B\u9020\u6210\u002B280~350.0\u4F24\u5BB3",
-        "LocalizationKey": "",
+        "DefaultText": "用简易的弓和骨制箭矢攻击巨型触手造成+280~350.0伤害",
+        "LocalizationKey": "T-2VMnb3llvwQOqWV9SSpyvQthMqI=",
         "ParentObjectID": ""
       },
       "ActionLog": {
@@ -54977,8 +54977,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u7528\u7B80\u6613\u7684\u5F13\u653B\u51FB",
-        "LocalizationKey": "",
+        "DefaultText": "用简易的弓攻击",
+        "LocalizationKey": "T-I4uJvCEYh4ej9TaHmL/FTszDPnY=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -55726,13 +55726,13 @@
       "WorksBothWays": false,
       "ActionSoundsWarpType": 3,
       "ActionSoundsWarpData": [
-        "\u5F13"
+        "弓"
       ]
     },
     {
       "ActionDescription": {
-        "DefaultText": "\u7528\u7B80\u6613\u7684\u5F13\u548C\u71E7\u77F3\u7BAD\u77E2\u653B\u51FB\u5DE8\u578B\u89E6\u624B\u9020\u6210\u002B300~400.0\u4F24\u5BB3",
-        "LocalizationKey": "",
+        "DefaultText": "用简易的弓和燧石箭矢攻击巨型触手造成+300~400.0伤害",
+        "LocalizationKey": "T-OrTTAvewGtR6w5i5/8SlzYGJnjI=",
         "ParentObjectID": ""
       },
       "ActionLog": {
@@ -55747,8 +55747,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u7528\u7B80\u6613\u7684\u5F13\u653B\u51FB",
-        "LocalizationKey": "",
+        "DefaultText": "用简易的弓攻击",
+        "LocalizationKey": "T-I4uJvCEYh4ej9TaHmL/FTszDPnY=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -56496,13 +56496,13 @@
       "WorksBothWays": false,
       "ActionSoundsWarpType": 3,
       "ActionSoundsWarpData": [
-        "\u5F13"
+        "弓"
       ]
     },
     {
       "ActionDescription": {
-        "DefaultText": "\u7528\u7B80\u6613\u7684\u5F13\u548C\u71E7\u77F3\u7BAD\u77E2\u653B\u51FB\u5DE8\u578B\u89E6\u624B\u9020\u6210\u002B210~280.0\u4F24\u5BB3",
-        "LocalizationKey": "",
+        "DefaultText": "用简易的弓和燧石箭矢攻击巨型触手造成+210~280.0伤害",
+        "LocalizationKey": "T-ijMGY8SyBrMAWaiubpdugEk9YUg=",
         "ParentObjectID": ""
       },
       "ActionLog": {
@@ -56517,8 +56517,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u7528\u7B80\u6613\u7684\u5F13\u653B\u51FB",
-        "LocalizationKey": "",
+        "DefaultText": "用简易的弓攻击",
+        "LocalizationKey": "T-I4uJvCEYh4ej9TaHmL/FTszDPnY=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -57266,13 +57266,13 @@
       "WorksBothWays": false,
       "ActionSoundsWarpType": 3,
       "ActionSoundsWarpData": [
-        "\u5F13"
+        "弓"
       ]
     },
     {
       "ActionDescription": {
-        "DefaultText": "\u7528\u590D\u5408\u5F13\u548C\u7B80\u6613\u7BAD\u77E2\u653B\u51FB\u5DE8\u578B\u89E6\u624B\u9020\u6210\u002B400~600.0\u4F24\u5BB3",
-        "LocalizationKey": "",
+        "DefaultText": "用复合弓和简易箭矢攻击巨型触手造成+400~600.0伤害",
+        "LocalizationKey": "T-mpDjY/Gb3RJGam95ZmL0l5l2C+Q=",
         "ParentObjectID": ""
       },
       "ActionLog": {
@@ -57287,8 +57287,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u7528\u590D\u5408\u5F13\u653B\u51FB",
-        "LocalizationKey": "",
+        "DefaultText": "用复合弓攻击",
+        "LocalizationKey": "T-AdR6ZNhJU83vwQ9TUIMnvQQ3ioc=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -58036,13 +58036,13 @@
       "WorksBothWays": false,
       "ActionSoundsWarpType": 3,
       "ActionSoundsWarpData": [
-        "\u5F13"
+        "弓"
       ]
     },
     {
       "ActionDescription": {
-        "DefaultText": "\u7528\u590D\u5408\u5F13\u548C\u7B80\u6613\u7BAD\u77E2\u653B\u51FB\u5DE8\u578B\u89E6\u624B\u9020\u6210\u002B280~420.0\u4F24\u5BB3",
-        "LocalizationKey": "",
+        "DefaultText": "用复合弓和简易箭矢攻击巨型触手造成+280~420.0伤害",
+        "LocalizationKey": "T-ujVhhsIQTC1ZH0OQBVfAXYujAn4=",
         "ParentObjectID": ""
       },
       "ActionLog": {
@@ -58057,8 +58057,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u7528\u590D\u5408\u5F13\u653B\u51FB",
-        "LocalizationKey": "",
+        "DefaultText": "用复合弓攻击",
+        "LocalizationKey": "T-AdR6ZNhJU83vwQ9TUIMnvQQ3ioc=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -58806,13 +58806,13 @@
       "WorksBothWays": false,
       "ActionSoundsWarpType": 3,
       "ActionSoundsWarpData": [
-        "\u5F13"
+        "弓"
       ]
     },
     {
       "ActionDescription": {
-        "DefaultText": "\u7528\u590D\u5408\u5F13\u548C\u9AA8\u5236\u7BAD\u77E2\u653B\u51FB\u5DE8\u578B\u89E6\u624B\u9020\u6210\u002B500~650.0\u4F24\u5BB3",
-        "LocalizationKey": "",
+        "DefaultText": "用复合弓和骨制箭矢攻击巨型触手造成+500~650.0伤害",
+        "LocalizationKey": "T-A9p//Ovf7AcCXAuA7LAadsBjS6M=",
         "ParentObjectID": ""
       },
       "ActionLog": {
@@ -58827,8 +58827,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u7528\u590D\u5408\u5F13\u653B\u51FB",
-        "LocalizationKey": "",
+        "DefaultText": "用复合弓攻击",
+        "LocalizationKey": "T-AdR6ZNhJU83vwQ9TUIMnvQQ3ioc=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -59576,13 +59576,13 @@
       "WorksBothWays": false,
       "ActionSoundsWarpType": 3,
       "ActionSoundsWarpData": [
-        "\u5F13"
+        "弓"
       ]
     },
     {
       "ActionDescription": {
-        "DefaultText": "\u7528\u590D\u5408\u5F13\u548C\u9AA8\u5236\u7BAD\u77E2\u653B\u51FB\u5DE8\u578B\u89E6\u624B\u9020\u6210\u002B350~454.99999999999994\u4F24\u5BB3",
-        "LocalizationKey": "",
+        "DefaultText": "用复合弓和骨制箭矢攻击巨型触手造成+350~454.99999999999994伤害",
+        "LocalizationKey": "T-9ZOTaaoZGCm6zW/lW35/npPvPdo=",
         "ParentObjectID": ""
       },
       "ActionLog": {
@@ -59597,8 +59597,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u7528\u590D\u5408\u5F13\u653B\u51FB",
-        "LocalizationKey": "",
+        "DefaultText": "用复合弓攻击",
+        "LocalizationKey": "T-AdR6ZNhJU83vwQ9TUIMnvQQ3ioc=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -60346,13 +60346,13 @@
       "WorksBothWays": false,
       "ActionSoundsWarpType": 3,
       "ActionSoundsWarpData": [
-        "\u5F13"
+        "弓"
       ]
     },
     {
       "ActionDescription": {
-        "DefaultText": "\u7528\u590D\u5408\u5F13\u548C\u71E7\u77F3\u7BAD\u77E2\u653B\u51FB\u5DE8\u578B\u89E6\u624B\u9020\u6210\u002B400~550.0\u4F24\u5BB3",
-        "LocalizationKey": "",
+        "DefaultText": "用复合弓和燧石箭矢攻击巨型触手造成+400~550.0伤害",
+        "LocalizationKey": "T-rM6Ma2WPIibBflwj1YzdOTMSrqM=",
         "ParentObjectID": ""
       },
       "ActionLog": {
@@ -60367,8 +60367,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u7528\u590D\u5408\u5F13\u653B\u51FB",
-        "LocalizationKey": "",
+        "DefaultText": "用复合弓攻击",
+        "LocalizationKey": "T-AdR6ZNhJU83vwQ9TUIMnvQQ3ioc=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -61116,13 +61116,13 @@
       "WorksBothWays": false,
       "ActionSoundsWarpType": 3,
       "ActionSoundsWarpData": [
-        "\u5F13"
+        "弓"
       ]
     },
     {
       "ActionDescription": {
-        "DefaultText": "\u7528\u590D\u5408\u5F13\u548C\u71E7\u77F3\u7BAD\u77E2\u653B\u51FB\u5DE8\u578B\u89E6\u624B\u9020\u6210\u002B280~385.0\u4F24\u5BB3",
-        "LocalizationKey": "",
+        "DefaultText": "用复合弓和燧石箭矢攻击巨型触手造成+280~385.0伤害",
+        "LocalizationKey": "T-HZF/wpW2J/hbNPrS+catsBMjLuI=",
         "ParentObjectID": ""
       },
       "ActionLog": {
@@ -61137,8 +61137,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u7528\u590D\u5408\u5F13\u653B\u51FB",
-        "LocalizationKey": "",
+        "DefaultText": "用复合弓攻击",
+        "LocalizationKey": "T-AdR6ZNhJU83vwQ9TUIMnvQQ3ioc=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -61886,7 +61886,7 @@
       "WorksBothWays": false,
       "ActionSoundsWarpType": 3,
       "ActionSoundsWarpData": [
-        "\u5F13"
+        "弓"
       ]
     },
     {
@@ -61907,8 +61907,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u6295\u63B7",
-        "LocalizationKey": "",
+        "DefaultText": "投掷",
+        "LocalizationKey": "T-FUemMSgdb8iihvCMjwUWjbnfwrs=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -61955,7 +61955,7 @@
           "AffectedTags": [],
           "NOTAffectedThings": [],
           "AffectedTagsWarpData": [
-            "\u602A\u7269"
+            "怪物"
           ],
           "AffectedTagsWarpType": 3,
           "AppliesTo": 0,
@@ -62453,8 +62453,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u6295\u63B7",
-        "LocalizationKey": "",
+        "DefaultText": "投掷",
+        "LocalizationKey": "T-FUemMSgdb8iihvCMjwUWjbnfwrs=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -62501,7 +62501,7 @@
           "AffectedTags": [],
           "NOTAffectedThings": [],
           "AffectedTagsWarpData": [
-            "\u602A\u7269"
+            "怪物"
           ],
           "AffectedTagsWarpType": 3,
           "AppliesTo": 0,
@@ -62999,8 +62999,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u6295\u63B7",
-        "LocalizationKey": "",
+        "DefaultText": "投掷",
+        "LocalizationKey": "T-FUemMSgdb8iihvCMjwUWjbnfwrs=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -63047,7 +63047,7 @@
           "AffectedTags": [],
           "NOTAffectedThings": [],
           "AffectedTagsWarpData": [
-            "\u602A\u7269"
+            "怪物"
           ],
           "AffectedTagsWarpType": 3,
           "AppliesTo": 0,
@@ -63545,8 +63545,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u6295\u63B7",
-        "LocalizationKey": "",
+        "DefaultText": "投掷",
+        "LocalizationKey": "T-FUemMSgdb8iihvCMjwUWjbnfwrs=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -63593,7 +63593,7 @@
           "AffectedTags": [],
           "NOTAffectedThings": [],
           "AffectedTagsWarpData": [
-            "\u602A\u7269"
+            "怪物"
           ],
           "AffectedTagsWarpType": 3,
           "AppliesTo": 0,
@@ -64091,8 +64091,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u6295\u63B7",
-        "LocalizationKey": "",
+        "DefaultText": "投掷",
+        "LocalizationKey": "T-FUemMSgdb8iihvCMjwUWjbnfwrs=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -64139,7 +64139,7 @@
           "AffectedTags": [],
           "NOTAffectedThings": [],
           "AffectedTagsWarpData": [
-            "\u602A\u7269"
+            "怪物"
           ],
           "AffectedTagsWarpType": 3,
           "AppliesTo": 0,
@@ -64603,7 +64603,7 @@
       "WorksBothWays": false,
       "ActionSoundsWarpType": 3,
       "ActionSoundsWarpData": [
-        "\u73BB\u7483\u7206\u70B8"
+        "玻璃爆炸"
       ]
     },
     {
@@ -64624,8 +64624,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u6295\u63B7",
-        "LocalizationKey": "",
+        "DefaultText": "投掷",
+        "LocalizationKey": "T-FUemMSgdb8iihvCMjwUWjbnfwrs=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -64672,7 +64672,7 @@
           "AffectedTags": [],
           "NOTAffectedThings": [],
           "AffectedTagsWarpData": [
-            "\u602A\u7269"
+            "怪物"
           ],
           "AffectedTagsWarpType": 3,
           "AppliesTo": 0,
@@ -65136,7 +65136,7 @@
       "WorksBothWays": false,
       "ActionSoundsWarpType": 3,
       "ActionSoundsWarpData": [
-        "\u73BB\u7483\u7206\u70B8"
+        "玻璃爆炸"
       ]
     },
     {
@@ -65157,8 +65157,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u6295\u63B7",
-        "LocalizationKey": "",
+        "DefaultText": "投掷",
+        "LocalizationKey": "T-FUemMSgdb8iihvCMjwUWjbnfwrs=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -65205,7 +65205,7 @@
           "AffectedTags": [],
           "NOTAffectedThings": [],
           "AffectedTagsWarpData": [
-            "\u602A\u7269"
+            "怪物"
           ],
           "AffectedTagsWarpType": 3,
           "AppliesTo": 0,
@@ -65669,7 +65669,7 @@
       "WorksBothWays": false,
       "ActionSoundsWarpType": 3,
       "ActionSoundsWarpData": [
-        "\u73BB\u7483\u7206\u70B8"
+        "玻璃爆炸"
       ]
     },
     {
@@ -65690,8 +65690,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u6295\u63B7",
-        "LocalizationKey": "",
+        "DefaultText": "投掷",
+        "LocalizationKey": "T-FUemMSgdb8iihvCMjwUWjbnfwrs=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -65738,7 +65738,7 @@
           "AffectedTags": [],
           "NOTAffectedThings": [],
           "AffectedTagsWarpData": [
-            "\u602A\u7269"
+            "怪物"
           ],
           "AffectedTagsWarpType": 3,
           "AppliesTo": 0,
@@ -66202,7 +66202,7 @@
       "WorksBothWays": false,
       "ActionSoundsWarpType": 3,
       "ActionSoundsWarpData": [
-        "\u73BB\u7483\u7206\u70B8"
+        "玻璃爆炸"
       ]
     },
     {
@@ -66223,8 +66223,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u6295\u63B7",
-        "LocalizationKey": "",
+        "DefaultText": "投掷",
+        "LocalizationKey": "T-FUemMSgdb8iihvCMjwUWjbnfwrs=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -66663,8 +66663,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u6295\u63B7",
-        "LocalizationKey": "",
+        "DefaultText": "投掷",
+        "LocalizationKey": "T-FUemMSgdb8iihvCMjwUWjbnfwrs=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -67146,8 +67146,8 @@
   "DismantleActions": [
     {
       "ActionDescription": {
-        "DefaultText": "\u7528\u71E7\u77F3\u5200\u653B\u51FB\u5DE8\u578B\u89E6\u624B\u9020\u6210\u002B50~150.0\u4F24\u5BB3",
-        "LocalizationKey": "",
+        "DefaultText": "用燧石刀攻击巨型触手造成+50~150.0伤害",
+        "LocalizationKey": "T-dhvOuei0DBv5Q/nTb8EdpNbjKvM=",
         "ParentObjectID": ""
       },
       "ActionLog": {
@@ -67162,8 +67162,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u7528\u71E7\u77F3\u5200\u653B\u51FB",
-        "LocalizationKey": "",
+        "DefaultText": "用燧石刀攻击",
+        "LocalizationKey": "T-T+9+73htokfBTp5fFe5ZNy5vIpU=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -67776,13 +67776,13 @@
       "VisibilityWithInventory": 0,
       "ActionSoundsWarpType": 3,
       "ActionSoundsWarpData": [
-        "\u5200\u523A"
+        "刀刺"
       ]
     },
     {
       "ActionDescription": {
-        "DefaultText": "\u7528\u71E7\u77F3\u5200\u653B\u51FB\u5DE8\u578B\u89E6\u624B\u9020\u6210\u002B35~105.0\u4F24\u5BB3",
-        "LocalizationKey": "",
+        "DefaultText": "用燧石刀攻击巨型触手造成+35~105.0伤害",
+        "LocalizationKey": "T-zWe5LON7V4wWNbtpah/My+/D/6s=",
         "ParentObjectID": ""
       },
       "ActionLog": {
@@ -67797,8 +67797,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u7528\u71E7\u77F3\u5200\u653B\u51FB",
-        "LocalizationKey": "",
+        "DefaultText": "用燧石刀攻击",
+        "LocalizationKey": "T-T+9+73htokfBTp5fFe5ZNy5vIpU=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -68411,13 +68411,13 @@
       "VisibilityWithInventory": 0,
       "ActionSoundsWarpType": 3,
       "ActionSoundsWarpData": [
-        "\u5200\u523A"
+        "刀刺"
       ]
     },
     {
       "ActionDescription": {
-        "DefaultText": "\u7528\u5E9F\u91D1\u5C5E\u94F2\u653B\u51FB\u5DE8\u578B\u89E6\u624B\u9020\u6210\u002B50~150.0\u4F24\u5BB3",
-        "LocalizationKey": "",
+        "DefaultText": "用废金属铲攻击巨型触手造成+50~150.0伤害",
+        "LocalizationKey": "T-9Zq1KiR/O10BquaJDkGw5lwpWXs=",
         "ParentObjectID": ""
       },
       "ActionLog": {
@@ -68432,8 +68432,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u7528\u5E9F\u91D1\u5C5E\u94F2\u653B\u51FB",
-        "LocalizationKey": "",
+        "DefaultText": "用废金属铲攻击",
+        "LocalizationKey": "T-/UemckE5Or4osbgqUoWkwsLB+Gk=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -69046,13 +69046,13 @@
       "VisibilityWithInventory": 0,
       "ActionSoundsWarpType": 3,
       "ActionSoundsWarpData": [
-        "\u949D\u51FB"
+        "钝击"
       ]
     },
     {
       "ActionDescription": {
-        "DefaultText": "\u7528\u5E9F\u91D1\u5C5E\u94F2\u653B\u51FB\u5DE8\u578B\u89E6\u624B\u9020\u6210\u002B35~105.0\u4F24\u5BB3",
-        "LocalizationKey": "",
+        "DefaultText": "用废金属铲攻击巨型触手造成+35~105.0伤害",
+        "LocalizationKey": "T-+UoPfubPpZO9sWQmNdSwYvULTl4=",
         "ParentObjectID": ""
       },
       "ActionLog": {
@@ -69067,8 +69067,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u7528\u5E9F\u91D1\u5C5E\u94F2\u653B\u51FB",
-        "LocalizationKey": "",
+        "DefaultText": "用废金属铲攻击",
+        "LocalizationKey": "T-/UemckE5Or4osbgqUoWkwsLB+Gk=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -69681,13 +69681,13 @@
       "VisibilityWithInventory": 0,
       "ActionSoundsWarpType": 3,
       "ActionSoundsWarpData": [
-        "\u949D\u51FB"
+        "钝击"
       ]
     },
     {
       "ActionDescription": {
-        "DefaultText": "\u7528\u9AA8\u5200\u653B\u51FB\u5DE8\u578B\u89E6\u624B\u9020\u6210\u002B155~250.0\u4F24\u5BB3",
-        "LocalizationKey": "",
+        "DefaultText": "用骨刀攻击巨型触手造成+155~250.0伤害",
+        "LocalizationKey": "T-4E/v1ay3m06h7ZECf0+AKc4SxbY=",
         "ParentObjectID": ""
       },
       "ActionLog": {
@@ -69702,8 +69702,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u7528\u9AA8\u5200\u653B\u51FB",
-        "LocalizationKey": "",
+        "DefaultText": "用骨刀攻击",
+        "LocalizationKey": "T-1OVCDf+X5GrmSTnztGSQ4XXF6rE=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -70316,13 +70316,13 @@
       "VisibilityWithInventory": 0,
       "ActionSoundsWarpType": 3,
       "ActionSoundsWarpData": [
-        "\u5200\u523A"
+        "刀刺"
       ]
     },
     {
       "ActionDescription": {
-        "DefaultText": "\u7528\u9AA8\u5200\u653B\u51FB\u5DE8\u578B\u89E6\u624B\u9020\u6210\u002B108.5~175.0\u4F24\u5BB3",
-        "LocalizationKey": "",
+        "DefaultText": "用骨刀攻击巨型触手造成+108.5~175.0伤害",
+        "LocalizationKey": "T-gAnEChbs2gIkozl49YDjbXNJek0=",
         "ParentObjectID": ""
       },
       "ActionLog": {
@@ -70337,8 +70337,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u7528\u9AA8\u5200\u653B\u51FB",
-        "LocalizationKey": "",
+        "DefaultText": "用骨刀攻击",
+        "LocalizationKey": "T-1OVCDf+X5GrmSTnztGSQ4XXF6rE=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -70951,13 +70951,13 @@
       "VisibilityWithInventory": 0,
       "ActionSoundsWarpType": 3,
       "ActionSoundsWarpData": [
-        "\u5200\u523A"
+        "刀刺"
       ]
     },
     {
       "ActionDescription": {
-        "DefaultText": "\u7528\u5B89\u5168\u5200\u653B\u51FB\u5DE8\u578B\u89E6\u624B\u9020\u6210\u002B25~50.0\u4F24\u5BB3",
-        "LocalizationKey": "",
+        "DefaultText": "用安全刀攻击巨型触手造成+25~50.0伤害",
+        "LocalizationKey": "T-szhV9cAmB0X1j++O7S1rg33+2Vo=",
         "ParentObjectID": ""
       },
       "ActionLog": {
@@ -70972,8 +70972,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u7528\u5B89\u5168\u5200\u653B\u51FB",
-        "LocalizationKey": "",
+        "DefaultText": "用安全刀攻击",
+        "LocalizationKey": "T-IoY5kE+bnOb4iBYoW9Vbpb1m+G4=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -71586,13 +71586,13 @@
       "VisibilityWithInventory": 0,
       "ActionSoundsWarpType": 3,
       "ActionSoundsWarpData": [
-        "\u5200\u523A"
+        "刀刺"
       ]
     },
     {
       "ActionDescription": {
-        "DefaultText": "\u7528\u5B89\u5168\u5200\u653B\u51FB\u5DE8\u578B\u89E6\u624B\u9020\u6210\u002B17.5~35.0\u4F24\u5BB3",
-        "LocalizationKey": "",
+        "DefaultText": "用安全刀攻击巨型触手造成+17.5~35.0伤害",
+        "LocalizationKey": "T-AIk/ufCnJ0ongNs0n7h/d1bGdB4=",
         "ParentObjectID": ""
       },
       "ActionLog": {
@@ -71607,8 +71607,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u7528\u5B89\u5168\u5200\u653B\u51FB",
-        "LocalizationKey": "",
+        "DefaultText": "用安全刀攻击",
+        "LocalizationKey": "T-IoY5kE+bnOb4iBYoW9Vbpb1m+G4=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -72221,13 +72221,13 @@
       "VisibilityWithInventory": 0,
       "ActionSoundsWarpType": 3,
       "ActionSoundsWarpData": [
-        "\u5200\u523A"
+        "刀刺"
       ]
     },
     {
       "ActionDescription": {
-        "DefaultText": "\u7528\u91CE\u732A\u7259\u653B\u51FB\u5DE8\u578B\u89E6\u624B\u9020\u6210\u002B25~50.0\u4F24\u5BB3",
-        "LocalizationKey": "",
+        "DefaultText": "用野猪牙攻击巨型触手造成+25~50.0伤害",
+        "LocalizationKey": "T-0KTid4UmCqe8O4ThLUFrPiagilg=",
         "ParentObjectID": ""
       },
       "ActionLog": {
@@ -72242,8 +72242,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u7528\u91CE\u732A\u7259\u653B\u51FB",
-        "LocalizationKey": "",
+        "DefaultText": "用野猪牙攻击",
+        "LocalizationKey": "T-aQJ7cHCRZVTyZiLnIJa5w5vuQdQ=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -72856,13 +72856,13 @@
       "VisibilityWithInventory": 0,
       "ActionSoundsWarpType": 3,
       "ActionSoundsWarpData": [
-        "\u5200\u523A"
+        "刀刺"
       ]
     },
     {
       "ActionDescription": {
-        "DefaultText": "\u7528\u91CE\u732A\u7259\u653B\u51FB\u5DE8\u578B\u89E6\u624B\u9020\u6210\u002B17.5~35.0\u4F24\u5BB3",
-        "LocalizationKey": "",
+        "DefaultText": "用野猪牙攻击巨型触手造成+17.5~35.0伤害",
+        "LocalizationKey": "T-6NLYVc1ASQ4Pz8RyXc2VIebFEuI=",
         "ParentObjectID": ""
       },
       "ActionLog": {
@@ -72877,8 +72877,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u7528\u91CE\u732A\u7259\u653B\u51FB",
-        "LocalizationKey": "",
+        "DefaultText": "用野猪牙攻击",
+        "LocalizationKey": "T-aQJ7cHCRZVTyZiLnIJa5w5vuQdQ=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -73491,13 +73491,13 @@
       "VisibilityWithInventory": 0,
       "ActionSoundsWarpType": 3,
       "ActionSoundsWarpData": [
-        "\u5200\u523A"
+        "刀刺"
       ]
     },
     {
       "ActionDescription": {
-        "DefaultText": "\u7528\u6295\u77F3\u7D22\u653B\u51FB\u5DE8\u578B\u89E6\u624B\u9020\u6210\u002B225~75.0\u4F24\u5BB3",
-        "LocalizationKey": "",
+        "DefaultText": "用投石索攻击巨型触手造成+225~75.0伤害",
+        "LocalizationKey": "T-Q/X9DtWB2zf+852tz82oelXd47Y=",
         "ParentObjectID": ""
       },
       "ActionLog": {
@@ -73512,8 +73512,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u7528\u6295\u77F3\u7D22\u653B\u51FB",
-        "LocalizationKey": "",
+        "DefaultText": "用投石索攻击",
+        "LocalizationKey": "T-2+f8jwxbdF3Ic93f30ONc8dE31w=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -74126,13 +74126,13 @@
       "VisibilityWithInventory": 0,
       "ActionSoundsWarpType": 3,
       "ActionSoundsWarpData": [
-        "\u5F13"
+        "弓"
       ]
     },
     {
       "ActionDescription": {
-        "DefaultText": "\u7528\u6295\u77F3\u7D22\u653B\u51FB\u5DE8\u578B\u89E6\u624B\u9020\u6210\u002B157.5~52.5\u4F24\u5BB3",
-        "LocalizationKey": "",
+        "DefaultText": "用投石索攻击巨型触手造成+157.5~52.5伤害",
+        "LocalizationKey": "T-sJVwkAUx+UBgMJSY57xfUIoFMTI=",
         "ParentObjectID": ""
       },
       "ActionLog": {
@@ -74147,8 +74147,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u7528\u6295\u77F3\u7D22\u653B\u51FB",
-        "LocalizationKey": "",
+        "DefaultText": "用投石索攻击",
+        "LocalizationKey": "T-2+f8jwxbdF3Ic93f30ONc8dE31w=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -74761,13 +74761,13 @@
       "VisibilityWithInventory": 0,
       "ActionSoundsWarpType": 3,
       "ActionSoundsWarpData": [
-        "\u5F13"
+        "弓"
       ]
     },
     {
       "ActionDescription": {
-        "DefaultText": "\u7528\u706B\u628A\u653B\u51FB\u5DE8\u578B\u89E6\u624B\u9020\u6210\u002B25~75.0\u4F24\u5BB3",
-        "LocalizationKey": "",
+        "DefaultText": "用火把攻击巨型触手造成+25~75.0伤害",
+        "LocalizationKey": "T-a8sA/CIagfovEhX3IdNQqftgWjQ=",
         "ParentObjectID": ""
       },
       "ActionLog": {
@@ -74782,8 +74782,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u7528\u706B\u628A\u653B\u51FB",
-        "LocalizationKey": "",
+        "DefaultText": "用火把攻击",
+        "LocalizationKey": "T-FEg+lwWGmOxJtKtWEBoVfC1atl8=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -75396,13 +75396,13 @@
       "VisibilityWithInventory": 0,
       "ActionSoundsWarpType": 3,
       "ActionSoundsWarpData": [
-        "\u949D\u51FB"
+        "钝击"
       ]
     },
     {
       "ActionDescription": {
-        "DefaultText": "\u7528\u706B\u628A\u653B\u51FB\u5DE8\u578B\u89E6\u624B\u9020\u6210\u002B17.5~52.5\u4F24\u5BB3",
-        "LocalizationKey": "",
+        "DefaultText": "用火把攻击巨型触手造成+17.5~52.5伤害",
+        "LocalizationKey": "T-el3f1ASdS+DGkrnQvOaJUQGv5V8=",
         "ParentObjectID": ""
       },
       "ActionLog": {
@@ -75417,8 +75417,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u7528\u706B\u628A\u653B\u51FB",
-        "LocalizationKey": "",
+        "DefaultText": "用火把攻击",
+        "LocalizationKey": "T-FEg+lwWGmOxJtKtWEBoVfC1atl8=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -76031,13 +76031,13 @@
       "VisibilityWithInventory": 0,
       "ActionSoundsWarpType": 3,
       "ActionSoundsWarpData": [
-        "\u949D\u51FB"
+        "钝击"
       ]
     },
     {
       "ActionDescription": {
-        "DefaultText": "\u7528\u706B\u628A\uFF08\u70B9\u71C3\uFF09\u653B\u51FB\u5DE8\u578B\u89E6\u624B\u9020\u6210\u002B25~75.0\u4F24\u5BB3",
-        "LocalizationKey": "",
+        "DefaultText": "用火把（点燃）攻击巨型触手造成+25~75.0伤害",
+        "LocalizationKey": "T-Wmlg3PtnRAcnNitVod2YG4tGUXg=",
         "ParentObjectID": ""
       },
       "ActionLog": {
@@ -76052,8 +76052,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u7528\u706B\u628A\uFF08\u70B9\u71C3\uFF09\u653B\u51FB",
-        "LocalizationKey": "",
+        "DefaultText": "用火把（点燃）攻击",
+        "LocalizationKey": "T-7f4VWinxNlql13A6d518atJeBP4=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -76666,13 +76666,13 @@
       "VisibilityWithInventory": 0,
       "ActionSoundsWarpType": 3,
       "ActionSoundsWarpData": [
-        "\u949D\u51FB"
+        "钝击"
       ]
     },
     {
       "ActionDescription": {
-        "DefaultText": "\u7528\u706B\u628A\uFF08\u70B9\u71C3\uFF09\u653B\u51FB\u5DE8\u578B\u89E6\u624B\u9020\u6210\u002B17.5~52.5\u4F24\u5BB3",
-        "LocalizationKey": "",
+        "DefaultText": "用火把（点燃）攻击巨型触手造成+17.5~52.5伤害",
+        "LocalizationKey": "T-3oKi+y6F8bIhCaGP1TxyPUZ/Bps=",
         "ParentObjectID": ""
       },
       "ActionLog": {
@@ -76687,8 +76687,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u7528\u706B\u628A\uFF08\u70B9\u71C3\uFF09\u653B\u51FB",
-        "LocalizationKey": "",
+        "DefaultText": "用火把（点燃）攻击",
+        "LocalizationKey": "T-7f4VWinxNlql13A6d518atJeBP4=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -77301,13 +77301,13 @@
       "VisibilityWithInventory": 0,
       "ActionSoundsWarpType": 3,
       "ActionSoundsWarpData": [
-        "\u949D\u51FB"
+        "钝击"
       ]
     },
     {
       "ActionDescription": {
-        "DefaultText": "\u7528\u77F3\u65A7\u653B\u51FB\u5DE8\u578B\u89E6\u624B\u9020\u6210\u002B25~100.0\u4F24\u5BB3",
-        "LocalizationKey": "",
+        "DefaultText": "用石斧攻击巨型触手造成+25~100.0伤害",
+        "LocalizationKey": "T-UhPllP1DQT9FoaTMaGYIIhhZQqA=",
         "ParentObjectID": ""
       },
       "ActionLog": {
@@ -77322,8 +77322,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u7528\u77F3\u65A7\u653B\u51FB",
-        "LocalizationKey": "",
+        "DefaultText": "用石斧攻击",
+        "LocalizationKey": "T-9C7mQjAushqRmmdbcGBgMlt/8aM=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -77936,13 +77936,13 @@
       "VisibilityWithInventory": 0,
       "ActionSoundsWarpType": 3,
       "ActionSoundsWarpData": [
-        "\u949D\u51FB"
+        "钝击"
       ]
     },
     {
       "ActionDescription": {
-        "DefaultText": "\u7528\u77F3\u65A7\u653B\u51FB\u5DE8\u578B\u89E6\u624B\u9020\u6210\u002B17.5~70.0\u4F24\u5BB3",
-        "LocalizationKey": "",
+        "DefaultText": "用石斧攻击巨型触手造成+17.5~70.0伤害",
+        "LocalizationKey": "T-PPKpysH244s5IRoM3uIeaRGBc2U=",
         "ParentObjectID": ""
       },
       "ActionLog": {
@@ -77957,8 +77957,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u7528\u77F3\u65A7\u653B\u51FB",
-        "LocalizationKey": "",
+        "DefaultText": "用石斧攻击",
+        "LocalizationKey": "T-9C7mQjAushqRmmdbcGBgMlt/8aM=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -78571,13 +78571,13 @@
       "VisibilityWithInventory": 0,
       "ActionSoundsWarpType": 3,
       "ActionSoundsWarpData": [
-        "\u949D\u51FB"
+        "钝击"
       ]
     },
     {
       "ActionDescription": {
-        "DefaultText": "\u7528\u949D\u7684\u6C42\u751F\u65A7\u653B\u51FB\u5DE8\u578B\u89E6\u624B\u9020\u6210\u002B25~100.0\u4F24\u5BB3",
-        "LocalizationKey": "",
+        "DefaultText": "用钝的求生斧攻击巨型触手造成+25~100.0伤害",
+        "LocalizationKey": "T-GzaAVsF0UL5gQt5wspow2AS/lxo=",
         "ParentObjectID": ""
       },
       "ActionLog": {
@@ -78592,8 +78592,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u7528\u949D\u7684\u6C42\u751F\u65A7\u653B\u51FB",
-        "LocalizationKey": "",
+        "DefaultText": "用钝的求生斧攻击",
+        "LocalizationKey": "T-pDWV2+nUITSaIqozHJhDuuSJRUQ=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -79206,13 +79206,13 @@
       "VisibilityWithInventory": 0,
       "ActionSoundsWarpType": 3,
       "ActionSoundsWarpData": [
-        "\u949D\u51FB"
+        "钝击"
       ]
     },
     {
       "ActionDescription": {
-        "DefaultText": "\u7528\u949D\u7684\u6C42\u751F\u65A7\u653B\u51FB\u5DE8\u578B\u89E6\u624B\u9020\u6210\u002B17.5~70.0\u4F24\u5BB3",
-        "LocalizationKey": "",
+        "DefaultText": "用钝的求生斧攻击巨型触手造成+17.5~70.0伤害",
+        "LocalizationKey": "T-nSPSbhfTwtQvzWP87Agq/MwpAqc=",
         "ParentObjectID": ""
       },
       "ActionLog": {
@@ -79227,8 +79227,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u7528\u949D\u7684\u6C42\u751F\u65A7\u653B\u51FB",
-        "LocalizationKey": "",
+        "DefaultText": "用钝的求生斧攻击",
+        "LocalizationKey": "T-pDWV2+nUITSaIqozHJhDuuSJRUQ=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -79841,13 +79841,13 @@
       "VisibilityWithInventory": 0,
       "ActionSoundsWarpType": 3,
       "ActionSoundsWarpData": [
-        "\u949D\u51FB"
+        "钝击"
       ]
     },
     {
       "ActionDescription": {
-        "DefaultText": "\u7528\u6728\u94F2\u653B\u51FB\u5DE8\u578B\u89E6\u624B\u9020\u6210\u002B25~100.0\u4F24\u5BB3",
-        "LocalizationKey": "",
+        "DefaultText": "用木铲攻击巨型触手造成+25~100.0伤害",
+        "LocalizationKey": "T-QUZ+QzFG75zW2Yl/AQsunTFsHtc=",
         "ParentObjectID": ""
       },
       "ActionLog": {
@@ -79862,8 +79862,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u7528\u6728\u94F2\u653B\u51FB",
-        "LocalizationKey": "",
+        "DefaultText": "用木铲攻击",
+        "LocalizationKey": "T-ACAvLP7cwoVkw5+pBVBdpjuWh2E=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -80476,13 +80476,13 @@
       "VisibilityWithInventory": 0,
       "ActionSoundsWarpType": 3,
       "ActionSoundsWarpData": [
-        "\u949D\u51FB"
+        "钝击"
       ]
     },
     {
       "ActionDescription": {
-        "DefaultText": "\u7528\u6728\u94F2\u653B\u51FB\u5DE8\u578B\u89E6\u624B\u9020\u6210\u002B17.5~70.0\u4F24\u5BB3",
-        "LocalizationKey": "",
+        "DefaultText": "用木铲攻击巨型触手造成+17.5~70.0伤害",
+        "LocalizationKey": "T-4mkO/zaH49ixi2EHJ272QC6ja7Y=",
         "ParentObjectID": ""
       },
       "ActionLog": {
@@ -80497,8 +80497,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u7528\u6728\u94F2\u653B\u51FB",
-        "LocalizationKey": "",
+        "DefaultText": "用木铲攻击",
+        "LocalizationKey": "T-ACAvLP7cwoVkw5+pBVBdpjuWh2E=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -81111,13 +81111,13 @@
       "VisibilityWithInventory": 0,
       "ActionSoundsWarpType": 3,
       "ActionSoundsWarpData": [
-        "\u949D\u51FB"
+        "钝击"
       ]
     },
     {
       "ActionDescription": {
-        "DefaultText": "\u7528\u77F3\u5934\u653B\u51FB\u5DE8\u578B\u89E6\u624B\u9020\u6210\u002B25~100.0\u4F24\u5BB3",
-        "LocalizationKey": "",
+        "DefaultText": "用石头攻击巨型触手造成+25~100.0伤害",
+        "LocalizationKey": "T-va3B1wdK75CwqGRngAM9r2nIhvc=",
         "ParentObjectID": ""
       },
       "ActionLog": {
@@ -81132,8 +81132,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u7528\u77F3\u5934\u653B\u51FB",
-        "LocalizationKey": "",
+        "DefaultText": "用石头攻击",
+        "LocalizationKey": "T-4doJd/fQQqbWU05YoZxpkmISJ/g=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -81751,8 +81751,8 @@
     },
     {
       "ActionDescription": {
-        "DefaultText": "\u7528\u77F3\u5934\u653B\u51FB\u5DE8\u578B\u89E6\u624B\u9020\u6210\u002B17.5~70.0\u4F24\u5BB3",
-        "LocalizationKey": "",
+        "DefaultText": "用石头攻击巨型触手造成+17.5~70.0伤害",
+        "LocalizationKey": "T-n4zJO9izBGUxXUCvXL4reCPcp3o=",
         "ParentObjectID": ""
       },
       "ActionLog": {
@@ -81767,8 +81767,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u7528\u77F3\u5934\u653B\u51FB",
-        "LocalizationKey": "",
+        "DefaultText": "用石头攻击",
+        "LocalizationKey": "T-4doJd/fQQqbWU05YoZxpkmISJ/g=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -82386,8 +82386,8 @@
     },
     {
       "ActionDescription": {
-        "DefaultText": "\u7528\u94DC\u94F2\u653B\u51FB\u5DE8\u578B\u89E6\u624B\u9020\u6210\u002B50~125.0\u4F24\u5BB3",
-        "LocalizationKey": "",
+        "DefaultText": "用铜铲攻击巨型触手造成+50~125.0伤害",
+        "LocalizationKey": "T-ylKYkW8cdWW3LbSDkA8h/8ehY9g=",
         "ParentObjectID": ""
       },
       "ActionLog": {
@@ -82402,8 +82402,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u7528\u94DC\u94F2\u653B\u51FB",
-        "LocalizationKey": "",
+        "DefaultText": "用铜铲攻击",
+        "LocalizationKey": "T-ZABX+olq9AWZ+f1P0db/3r146u8=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -83016,13 +83016,13 @@
       "VisibilityWithInventory": 0,
       "ActionSoundsWarpType": 3,
       "ActionSoundsWarpData": [
-        "\u949D\u51FB"
+        "钝击"
       ]
     },
     {
       "ActionDescription": {
-        "DefaultText": "\u7528\u94DC\u94F2\u653B\u51FB\u5DE8\u578B\u89E6\u624B\u9020\u6210\u002B35~87.5\u4F24\u5BB3",
-        "LocalizationKey": "",
+        "DefaultText": "用铜铲攻击巨型触手造成+35~87.5伤害",
+        "LocalizationKey": "T-oz0h/nwMqHMlYD4vwQ8NUdx2bsM=",
         "ParentObjectID": ""
       },
       "ActionLog": {
@@ -83037,8 +83037,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u7528\u94DC\u94F2\u653B\u51FB",
-        "LocalizationKey": "",
+        "DefaultText": "用铜铲攻击",
+        "LocalizationKey": "T-ZABX+olq9AWZ+f1P0db/3r146u8=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -83651,13 +83651,13 @@
       "VisibilityWithInventory": 0,
       "ActionSoundsWarpType": 3,
       "ActionSoundsWarpData": [
-        "\u949D\u51FB"
+        "钝击"
       ]
     },
     {
       "ActionDescription": {
-        "DefaultText": "\u7528\u94DC\u65A7\u653B\u51FB\u5DE8\u578B\u89E6\u624B\u9020\u6210\u002B50~150.0\u4F24\u5BB3",
-        "LocalizationKey": "",
+        "DefaultText": "用铜斧攻击巨型触手造成+50~150.0伤害",
+        "LocalizationKey": "T-ZRzQh7m3sgjO/3ZGvs/Lb1RFlzQ=",
         "ParentObjectID": ""
       },
       "ActionLog": {
@@ -83672,8 +83672,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u7528\u94DC\u65A7\u653B\u51FB",
-        "LocalizationKey": "",
+        "DefaultText": "用铜斧攻击",
+        "LocalizationKey": "T-tzpUgdxdzGAUbOpyxMOUG5vQ43g=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -84286,13 +84286,13 @@
       "VisibilityWithInventory": 0,
       "ActionSoundsWarpType": 3,
       "ActionSoundsWarpData": [
-        "\u949D\u51FB"
+        "钝击"
       ]
     },
     {
       "ActionDescription": {
-        "DefaultText": "\u7528\u94DC\u65A7\u653B\u51FB\u5DE8\u578B\u89E6\u624B\u9020\u6210\u002B35~105.0\u4F24\u5BB3",
-        "LocalizationKey": "",
+        "DefaultText": "用铜斧攻击巨型触手造成+35~105.0伤害",
+        "LocalizationKey": "T-w6OzH+p1jZkIB804JgaK3xcMMCo=",
         "ParentObjectID": ""
       },
       "ActionLog": {
@@ -84307,8 +84307,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u7528\u94DC\u65A7\u653B\u51FB",
-        "LocalizationKey": "",
+        "DefaultText": "用铜斧攻击",
+        "LocalizationKey": "T-tzpUgdxdzGAUbOpyxMOUG5vQ43g=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -84921,13 +84921,13 @@
       "VisibilityWithInventory": 0,
       "ActionSoundsWarpType": 3,
       "ActionSoundsWarpData": [
-        "\u949D\u51FB"
+        "钝击"
       ]
     },
     {
       "ActionDescription": {
-        "DefaultText": "\u7528\u71E7\u77F3\u65A7\u653B\u51FB\u5DE8\u578B\u89E6\u624B\u9020\u6210\u002B50~150.0\u4F24\u5BB3",
-        "LocalizationKey": "",
+        "DefaultText": "用燧石斧攻击巨型触手造成+50~150.0伤害",
+        "LocalizationKey": "T-wtZKRU5nmkoqIQJKMV15lTmTezA=",
         "ParentObjectID": ""
       },
       "ActionLog": {
@@ -84942,8 +84942,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u7528\u71E7\u77F3\u65A7\u653B\u51FB",
-        "LocalizationKey": "",
+        "DefaultText": "用燧石斧攻击",
+        "LocalizationKey": "T-JgxPH62/csgASeMj7Dt8jkjCt5A=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -85556,13 +85556,13 @@
       "VisibilityWithInventory": 0,
       "ActionSoundsWarpType": 3,
       "ActionSoundsWarpData": [
-        "\u949D\u51FB"
+        "钝击"
       ]
     },
     {
       "ActionDescription": {
-        "DefaultText": "\u7528\u71E7\u77F3\u65A7\u653B\u51FB\u5DE8\u578B\u89E6\u624B\u9020\u6210\u002B35~105.0\u4F24\u5BB3",
-        "LocalizationKey": "",
+        "DefaultText": "用燧石斧攻击巨型触手造成+35~105.0伤害",
+        "LocalizationKey": "T-27W3w47H+izYgdmfqFF2w+S276A=",
         "ParentObjectID": ""
       },
       "ActionLog": {
@@ -85577,8 +85577,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u7528\u71E7\u77F3\u65A7\u653B\u51FB",
-        "LocalizationKey": "",
+        "DefaultText": "用燧石斧攻击",
+        "LocalizationKey": "T-JgxPH62/csgASeMj7Dt8jkjCt5A=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -86191,13 +86191,13 @@
       "VisibilityWithInventory": 0,
       "ActionSoundsWarpType": 3,
       "ActionSoundsWarpData": [
-        "\u949D\u51FB"
+        "钝击"
       ]
     },
     {
       "ActionDescription": {
-        "DefaultText": "\u7528\u5E9F\u91D1\u5C5E\u65A7\u653B\u51FB\u5DE8\u578B\u89E6\u624B\u9020\u6210\u002B150~250.0\u4F24\u5BB3",
-        "LocalizationKey": "",
+        "DefaultText": "用废金属斧攻击巨型触手造成+150~250.0伤害",
+        "LocalizationKey": "T-AdgBh+B+WeLNMPa8q+rH6QCEabk=",
         "ParentObjectID": ""
       },
       "ActionLog": {
@@ -86212,8 +86212,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u7528\u5E9F\u91D1\u5C5E\u65A7\u653B\u51FB",
-        "LocalizationKey": "",
+        "DefaultText": "用废金属斧攻击",
+        "LocalizationKey": "T-hYhhq3b37y9kEVlyAaRqMqYAq+g=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -86826,13 +86826,13 @@
       "VisibilityWithInventory": 0,
       "ActionSoundsWarpType": 3,
       "ActionSoundsWarpData": [
-        "\u949D\u51FB"
+        "钝击"
       ]
     },
     {
       "ActionDescription": {
-        "DefaultText": "\u7528\u5E9F\u91D1\u5C5E\u65A7\u653B\u51FB\u5DE8\u578B\u89E6\u624B\u9020\u6210\u002B105~175.0\u4F24\u5BB3",
-        "LocalizationKey": "",
+        "DefaultText": "用废金属斧攻击巨型触手造成+105~175.0伤害",
+        "LocalizationKey": "T-GpoREU80ELESCI5v+75ModFcNPw=",
         "ParentObjectID": ""
       },
       "ActionLog": {
@@ -86847,8 +86847,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u7528\u5E9F\u91D1\u5C5E\u65A7\u653B\u51FB",
-        "LocalizationKey": "",
+        "DefaultText": "用废金属斧攻击",
+        "LocalizationKey": "T-hYhhq3b37y9kEVlyAaRqMqYAq+g=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -87461,13 +87461,13 @@
       "VisibilityWithInventory": 0,
       "ActionSoundsWarpType": 3,
       "ActionSoundsWarpData": [
-        "\u949D\u51FB"
+        "钝击"
       ]
     },
     {
       "ActionDescription": {
-        "DefaultText": "\u7528\u6C42\u751F\u65A7\u653B\u51FB\u5DE8\u578B\u89E6\u624B\u9020\u6210\u002B150~250.0\u4F24\u5BB3",
-        "LocalizationKey": "",
+        "DefaultText": "用求生斧攻击巨型触手造成+150~250.0伤害",
+        "LocalizationKey": "T-pe3QHEbZvLPlbDY/Z0l1/PpLFMM=",
         "ParentObjectID": ""
       },
       "ActionLog": {
@@ -87482,8 +87482,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u7528\u6C42\u751F\u65A7\u653B\u51FB",
-        "LocalizationKey": "",
+        "DefaultText": "用求生斧攻击",
+        "LocalizationKey": "T-vPOy6GNst/D9jVD5hfLhenjK8JU=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -88096,13 +88096,13 @@
       "VisibilityWithInventory": 0,
       "ActionSoundsWarpType": 3,
       "ActionSoundsWarpData": [
-        "\u949D\u51FB"
+        "钝击"
       ]
     },
     {
       "ActionDescription": {
-        "DefaultText": "\u7528\u6C42\u751F\u65A7\u653B\u51FB\u5DE8\u578B\u89E6\u624B\u9020\u6210\u002B105~175.0\u4F24\u5BB3",
-        "LocalizationKey": "",
+        "DefaultText": "用求生斧攻击巨型触手造成+105~175.0伤害",
+        "LocalizationKey": "T-Jjmecz2LL9nqqBbyFM3FpuXw1u4=",
         "ParentObjectID": ""
       },
       "ActionLog": {
@@ -88117,8 +88117,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u7528\u6C42\u751F\u65A7\u653B\u51FB",
-        "LocalizationKey": "",
+        "DefaultText": "用求生斧攻击",
+        "LocalizationKey": "T-vPOy6GNst/D9jVD5hfLhenjK8JU=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -88731,13 +88731,13 @@
       "VisibilityWithInventory": 0,
       "ActionSoundsWarpType": 3,
       "ActionSoundsWarpData": [
-        "\u949D\u51FB"
+        "钝击"
       ]
     },
     {
       "ActionDescription": {
-        "DefaultText": "\u7528\u94DC\u5200\u653B\u51FB\u5DE8\u578B\u89E6\u624B\u9020\u6210\u002B450~550.0\u4F24\u5BB3",
-        "LocalizationKey": "",
+        "DefaultText": "用铜刀攻击巨型触手造成+450~550.0伤害",
+        "LocalizationKey": "T-cjXL5NeOqVUCKZPlK3dGLiUz3js=",
         "ParentObjectID": ""
       },
       "ActionLog": {
@@ -88752,8 +88752,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u7528\u94DC\u5200\u653B\u51FB",
-        "LocalizationKey": "",
+        "DefaultText": "用铜刀攻击",
+        "LocalizationKey": "T-wjjyg5wRAQ6PGbbb6OAWUKwjBbw=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -89366,13 +89366,13 @@
       "VisibilityWithInventory": 0,
       "ActionSoundsWarpType": 3,
       "ActionSoundsWarpData": [
-        "\u5200\u523A"
+        "刀刺"
       ]
     },
     {
       "ActionDescription": {
-        "DefaultText": "\u7528\u94DC\u5200\u653B\u51FB\u5DE8\u578B\u89E6\u624B\u9020\u6210\u002B315~385.0\u4F24\u5BB3",
-        "LocalizationKey": "",
+        "DefaultText": "用铜刀攻击巨型触手造成+315~385.0伤害",
+        "LocalizationKey": "T-kTWpfjT6O6Ur5UT3e0wbQnojpMk=",
         "ParentObjectID": ""
       },
       "ActionLog": {
@@ -89387,8 +89387,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u7528\u94DC\u5200\u653B\u51FB",
-        "LocalizationKey": "",
+        "DefaultText": "用铜刀攻击",
+        "LocalizationKey": "T-wjjyg5wRAQ6PGbbb6OAWUKwjBbw=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -90001,13 +90001,13 @@
       "VisibilityWithInventory": 0,
       "ActionSoundsWarpType": 3,
       "ActionSoundsWarpData": [
-        "\u5200\u523A"
+        "刀刺"
       ]
     },
     {
       "ActionDescription": {
-        "DefaultText": "\u7528\u7956\u7236\u7684\u5200\u653B\u51FB\u5DE8\u578B\u89E6\u624B\u9020\u6210\u002B450~550.0\u4F24\u5BB3",
-        "LocalizationKey": "",
+        "DefaultText": "用祖父的刀攻击巨型触手造成+450~550.0伤害",
+        "LocalizationKey": "T-uUKz/T/ZP8r3SMEhx4iT9vDWSDA=",
         "ParentObjectID": ""
       },
       "ActionLog": {
@@ -90022,8 +90022,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u7528\u7956\u7236\u7684\u5200\u653B\u51FB",
-        "LocalizationKey": "",
+        "DefaultText": "用祖父的刀攻击",
+        "LocalizationKey": "T-UOeEKpE9XwIeN+KC56HBQ3tKfs8=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -90636,13 +90636,13 @@
       "VisibilityWithInventory": 0,
       "ActionSoundsWarpType": 3,
       "ActionSoundsWarpData": [
-        "\u5200\u523A"
+        "刀刺"
       ]
     },
     {
       "ActionDescription": {
-        "DefaultText": "\u7528\u7956\u7236\u7684\u5200\u653B\u51FB\u5DE8\u578B\u89E6\u624B\u9020\u6210\u002B315~385.0\u4F24\u5BB3",
-        "LocalizationKey": "",
+        "DefaultText": "用祖父的刀攻击巨型触手造成+315~385.0伤害",
+        "LocalizationKey": "T-FyaGqiCnPVTfcXkNT1zbDKkWHac=",
         "ParentObjectID": ""
       },
       "ActionLog": {
@@ -90657,8 +90657,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u7528\u7956\u7236\u7684\u5200\u653B\u51FB",
-        "LocalizationKey": "",
+        "DefaultText": "用祖父的刀攻击",
+        "LocalizationKey": "T-UOeEKpE9XwIeN+KC56HBQ3tKfs8=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -91271,13 +91271,13 @@
       "VisibilityWithInventory": 0,
       "ActionSoundsWarpType": 3,
       "ActionSoundsWarpData": [
-        "\u5200\u523A"
+        "刀刺"
       ]
     },
     {
       "ActionDescription": {
-        "DefaultText": "\u7528\u5E9F\u91D1\u5C5E\u5200\u653B\u51FB\u5DE8\u578B\u89E6\u624B\u9020\u6210\u002B250~350.0\u4F24\u5BB3",
-        "LocalizationKey": "",
+        "DefaultText": "用废金属刀攻击巨型触手造成+250~350.0伤害",
+        "LocalizationKey": "T-aHeMVz4Nsdr/BB/QGy8Jxs54x6M=",
         "ParentObjectID": ""
       },
       "ActionLog": {
@@ -91292,8 +91292,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u7528\u5E9F\u91D1\u5C5E\u5200\u653B\u51FB",
-        "LocalizationKey": "",
+        "DefaultText": "用废金属刀攻击",
+        "LocalizationKey": "T-+MUKk53h1zWEkp11/OdkJfJC5Vw=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -91906,13 +91906,13 @@
       "VisibilityWithInventory": 0,
       "ActionSoundsWarpType": 3,
       "ActionSoundsWarpData": [
-        "\u5200\u523A"
+        "刀刺"
       ]
     },
     {
       "ActionDescription": {
-        "DefaultText": "\u7528\u5E9F\u91D1\u5C5E\u5200\u653B\u51FB\u5DE8\u578B\u89E6\u624B\u9020\u6210\u002B175~244.99999999999997\u4F24\u5BB3",
-        "LocalizationKey": "",
+        "DefaultText": "用废金属刀攻击巨型触手造成+175~244.99999999999997伤害",
+        "LocalizationKey": "T-jWwzp5QP30vHBwi4Jh/aQ9PUPuM=",
         "ParentObjectID": ""
       },
       "ActionLog": {
@@ -91927,8 +91927,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u7528\u5E9F\u91D1\u5C5E\u5200\u653B\u51FB",
-        "LocalizationKey": "",
+        "DefaultText": "用废金属刀攻击",
+        "LocalizationKey": "T-+MUKk53h1zWEkp11/OdkJfJC5Vw=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -92541,13 +92541,13 @@
       "VisibilityWithInventory": 0,
       "ActionSoundsWarpType": 3,
       "ActionSoundsWarpData": [
-        "\u5200\u523A"
+        "刀刺"
       ]
     },
     {
       "ActionDescription": {
-        "DefaultText": "\u7528\u9C7C\u53C9\u653B\u51FB\u5DE8\u578B\u89E6\u624B\u9020\u6210\u002B225~375.0\u4F24\u5BB3",
-        "LocalizationKey": "",
+        "DefaultText": "用鱼叉攻击巨型触手造成+225~375.0伤害",
+        "LocalizationKey": "T-BBNPIRd9RYOum4NFwk1XlC5wMx4=",
         "ParentObjectID": ""
       },
       "ActionLog": {
@@ -92562,8 +92562,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u7528\u9C7C\u53C9\u653B\u51FB",
-        "LocalizationKey": "",
+        "DefaultText": "用鱼叉攻击",
+        "LocalizationKey": "T-0jPAf8nRY9ZBnS/sFPXUt9/gRCE=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -93176,13 +93176,13 @@
       "VisibilityWithInventory": 0,
       "ActionSoundsWarpType": 3,
       "ActionSoundsWarpData": [
-        "\u5200\u523A"
+        "刀刺"
       ]
     },
     {
       "ActionDescription": {
-        "DefaultText": "\u7528\u9C7C\u53C9\u653B\u51FB\u5DE8\u578B\u89E6\u624B\u9020\u6210\u002B157.5~262.5\u4F24\u5BB3",
-        "LocalizationKey": "",
+        "DefaultText": "用鱼叉攻击巨型触手造成+157.5~262.5伤害",
+        "LocalizationKey": "T-ram8Sj7lECmE5p4t9qE+o8eX8M4=",
         "ParentObjectID": ""
       },
       "ActionLog": {
@@ -93197,8 +93197,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u7528\u9C7C\u53C9\u653B\u51FB",
-        "LocalizationKey": "",
+        "DefaultText": "用鱼叉攻击",
+        "LocalizationKey": "T-0jPAf8nRY9ZBnS/sFPXUt9/gRCE=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -93811,13 +93811,13 @@
       "VisibilityWithInventory": 0,
       "ActionSoundsWarpType": 3,
       "ActionSoundsWarpData": [
-        "\u5200\u523A"
+        "刀刺"
       ]
     },
     {
       "ActionDescription": {
-        "DefaultText": "\u7528\u7B80\u6613\u957F\u77DB\u653B\u51FB\u5DE8\u578B\u89E6\u624B\u9020\u6210\u002B125~325.0\u4F24\u5BB3",
-        "LocalizationKey": "",
+        "DefaultText": "用简易长矛攻击巨型触手造成+125~325.0伤害",
+        "LocalizationKey": "T-Rin/o7vIEx9zCHVLzUEuHZ2Ym5U=",
         "ParentObjectID": ""
       },
       "ActionLog": {
@@ -93832,8 +93832,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u7528\u7B80\u6613\u957F\u77DB\u653B\u51FB",
-        "LocalizationKey": "",
+        "DefaultText": "用简易长矛攻击",
+        "LocalizationKey": "T-sN3hx7X7iN+8cUfYOC0sup4UUZk=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -94466,13 +94466,13 @@
       "VisibilityWithInventory": 0,
       "ActionSoundsWarpType": 3,
       "ActionSoundsWarpData": [
-        "\u5200\u523A"
+        "刀刺"
       ]
     },
     {
       "ActionDescription": {
-        "DefaultText": "\u7528\u7B80\u6613\u957F\u77DB\u653B\u51FB\u5DE8\u578B\u89E6\u624B\u9020\u6210\u002B87.5~227.49999999999997\u4F24\u5BB3",
-        "LocalizationKey": "",
+        "DefaultText": "用简易长矛攻击巨型触手造成+87.5~227.49999999999997伤害",
+        "LocalizationKey": "T-5paQ2ut6p66Qd0mLNDEdOvQe+M0=",
         "ParentObjectID": ""
       },
       "ActionLog": {
@@ -94487,8 +94487,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u7528\u7B80\u6613\u957F\u77DB\u653B\u51FB",
-        "LocalizationKey": "",
+        "DefaultText": "用简易长矛攻击",
+        "LocalizationKey": "T-sN3hx7X7iN+8cUfYOC0sup4UUZk=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -95121,13 +95121,13 @@
       "VisibilityWithInventory": 0,
       "ActionSoundsWarpType": 3,
       "ActionSoundsWarpData": [
-        "\u5200\u523A"
+        "刀刺"
       ]
     },
     {
       "ActionDescription": {
-        "DefaultText": "\u7528\u4EEA\u5F0F\u5315\u9996\u653B\u51FB\u5DE8\u578B\u89E6\u624B\u9020\u6210\u002B75~150.0\u4F24\u5BB3",
-        "LocalizationKey": "",
+        "DefaultText": "用仪式匕首攻击巨型触手造成+75~150.0伤害",
+        "LocalizationKey": "T-e573SyH6zB/C3xaFF6s2ikwRIxU=",
         "ParentObjectID": ""
       },
       "ActionLog": {
@@ -95142,8 +95142,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u7528\u4EEA\u5F0F\u5315\u9996\u653B\u51FB",
-        "LocalizationKey": "",
+        "DefaultText": "用仪式匕首攻击",
+        "LocalizationKey": "T-Cne1tl53hgmsa1bHcvQtX7uuGXY=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -95756,13 +95756,13 @@
       "VisibilityWithInventory": 0,
       "ActionSoundsWarpType": 3,
       "ActionSoundsWarpData": [
-        "\u5200\u523A"
+        "刀刺"
       ]
     },
     {
       "ActionDescription": {
-        "DefaultText": "\u7528\u4EEA\u5F0F\u5315\u9996\u653B\u51FB\u5DE8\u578B\u89E6\u624B\u9020\u6210\u002B52.5~105.0\u4F24\u5BB3",
-        "LocalizationKey": "",
+        "DefaultText": "用仪式匕首攻击巨型触手造成+52.5~105.0伤害",
+        "LocalizationKey": "T-bcqgT3NXFuXyh4p2h/1eBYiDD2k=",
         "ParentObjectID": ""
       },
       "ActionLog": {
@@ -95777,8 +95777,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u7528\u4EEA\u5F0F\u5315\u9996\u653B\u51FB",
-        "LocalizationKey": "",
+        "DefaultText": "用仪式匕首攻击",
+        "LocalizationKey": "T-Cne1tl53hgmsa1bHcvQtX7uuGXY=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -96391,13 +96391,13 @@
       "VisibilityWithInventory": 0,
       "ActionSoundsWarpType": 3,
       "ActionSoundsWarpData": [
-        "\u5200\u523A"
+        "刀刺"
       ]
     },
     {
       "ActionDescription": {
-        "DefaultText": "\u7528\u9CA8\u9F7F\u68D2\u653B\u51FB\u5DE8\u578B\u89E6\u624B\u9020\u6210\u002B75~150.0\u4F24\u5BB3",
-        "LocalizationKey": "",
+        "DefaultText": "用鲨齿棒攻击巨型触手造成+75~150.0伤害",
+        "LocalizationKey": "T-5Zr/6HblZnBztSiiIcr9sV3FJBY=",
         "ParentObjectID": ""
       },
       "ActionLog": {
@@ -96412,8 +96412,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u7528\u9CA8\u9F7F\u68D2\u653B\u51FB",
-        "LocalizationKey": "",
+        "DefaultText": "用鲨齿棒攻击",
+        "LocalizationKey": "T-OG4AoQUFs7L3RHV5P1fG5bViJtQ=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -97026,13 +97026,13 @@
       "VisibilityWithInventory": 0,
       "ActionSoundsWarpType": 3,
       "ActionSoundsWarpData": [
-        "\u949D\u51FB"
+        "钝击"
       ]
     },
     {
       "ActionDescription": {
-        "DefaultText": "\u7528\u9CA8\u9F7F\u68D2\u653B\u51FB\u5DE8\u578B\u89E6\u624B\u9020\u6210\u002B52.5~105.0\u4F24\u5BB3",
-        "LocalizationKey": "",
+        "DefaultText": "用鲨齿棒攻击巨型触手造成+52.5~105.0伤害",
+        "LocalizationKey": "T-tc1oJtpukQCi/eD/n44Z4PQhJ/E=",
         "ParentObjectID": ""
       },
       "ActionLog": {
@@ -97047,8 +97047,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u7528\u9CA8\u9F7F\u68D2\u653B\u51FB",
-        "LocalizationKey": "",
+        "DefaultText": "用鲨齿棒攻击",
+        "LocalizationKey": "T-OG4AoQUFs7L3RHV5P1fG5bViJtQ=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -97661,13 +97661,13 @@
       "VisibilityWithInventory": 0,
       "ActionSoundsWarpType": 3,
       "ActionSoundsWarpData": [
-        "\u949D\u51FB"
+        "钝击"
       ]
     },
     {
       "ActionDescription": {
-        "DefaultText": "\u7528\u519B\u5200\u653B\u51FB\u5DE8\u578B\u89E6\u624B\u9020\u6210\u002B250~315.0\u4F24\u5BB3",
-        "LocalizationKey": "",
+        "DefaultText": "用军刀攻击巨型触手造成+250~315.0伤害",
+        "LocalizationKey": "T-1szoy6nCRr5qMXHzhD/S3yv/mjQ=",
         "ParentObjectID": ""
       },
       "ActionLog": {
@@ -97682,8 +97682,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u7528\u519B\u5200\u653B\u51FB",
-        "LocalizationKey": "",
+        "DefaultText": "用军刀攻击",
+        "LocalizationKey": "T-sf2BnVhjW2D/XpAAA+H9QZiM52s=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -98296,13 +98296,13 @@
       "VisibilityWithInventory": 0,
       "ActionSoundsWarpType": 3,
       "ActionSoundsWarpData": [
-        "\u5200\u523A"
+        "刀刺"
       ]
     },
     {
       "ActionDescription": {
-        "DefaultText": "\u7528\u519B\u5200\u653B\u51FB\u5DE8\u578B\u89E6\u624B\u9020\u6210\u002B175~220.5\u4F24\u5BB3",
-        "LocalizationKey": "",
+        "DefaultText": "用军刀攻击巨型触手造成+175~220.5伤害",
+        "LocalizationKey": "T-KMvgkgY8e9FFR0r3Pyrjf8Hmuhk=",
         "ParentObjectID": ""
       },
       "ActionLog": {
@@ -98317,8 +98317,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u7528\u519B\u5200\u653B\u51FB",
-        "LocalizationKey": "",
+        "DefaultText": "用军刀攻击",
+        "LocalizationKey": "T-sf2BnVhjW2D/XpAAA+H9QZiM52s=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -98931,13 +98931,13 @@
       "VisibilityWithInventory": 0,
       "ActionSoundsWarpType": 3,
       "ActionSoundsWarpData": [
-        "\u5200\u523A"
+        "刀刺"
       ]
     },
     {
       "ActionDescription": {
-        "DefaultText": "\u7528\u9ED1\u66DC\u77F3\u5200\u653B\u51FB\u5DE8\u578B\u89E6\u624B\u9020\u6210\u002B75~150.0\u4F24\u5BB3",
-        "LocalizationKey": "",
+        "DefaultText": "用黑曜石刀攻击巨型触手造成+75~150.0伤害",
+        "LocalizationKey": "T-A36OFSI14T7X9IZZhQ/L7xRVlOU=",
         "ParentObjectID": ""
       },
       "ActionLog": {
@@ -98952,8 +98952,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u7528\u9ED1\u66DC\u77F3\u5200\u653B\u51FB",
-        "LocalizationKey": "",
+        "DefaultText": "用黑曜石刀攻击",
+        "LocalizationKey": "T-/EA6KnVPvQ1X3mj85MbqPranYhY=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -99566,13 +99566,13 @@
       "VisibilityWithInventory": 0,
       "ActionSoundsWarpType": 3,
       "ActionSoundsWarpData": [
-        "\u5200\u523A"
+        "刀刺"
       ]
     },
     {
       "ActionDescription": {
-        "DefaultText": "\u7528\u9ED1\u66DC\u77F3\u5200\u653B\u51FB\u5DE8\u578B\u89E6\u624B\u9020\u6210\u002B52.5~105.0\u4F24\u5BB3",
-        "LocalizationKey": "",
+        "DefaultText": "用黑曜石刀攻击巨型触手造成+52.5~105.0伤害",
+        "LocalizationKey": "T-TvjqQ/TXSol0tXF4ZmQNIYJaYU4=",
         "ParentObjectID": ""
       },
       "ActionLog": {
@@ -99587,8 +99587,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u7528\u9ED1\u66DC\u77F3\u5200\u653B\u51FB",
-        "LocalizationKey": "",
+        "DefaultText": "用黑曜石刀攻击",
+        "LocalizationKey": "T-/EA6KnVPvQ1X3mj85MbqPranYhY=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -100201,13 +100201,13 @@
       "VisibilityWithInventory": 0,
       "ActionSoundsWarpType": 3,
       "ActionSoundsWarpData": [
-        "\u5200\u523A"
+        "刀刺"
       ]
     },
     {
       "ActionDescription": {
-        "DefaultText": "\u7528\u94DC\u957F\u77DB\u653B\u51FB\u5DE8\u578B\u89E6\u624B\u9020\u6210\u002B600~800.0\u4F24\u5BB3",
-        "LocalizationKey": "",
+        "DefaultText": "用铜长矛攻击巨型触手造成+600~800.0伤害",
+        "LocalizationKey": "T-G1ZjhNxxD/dO8DJOj4Bb9uzRnu4=",
         "ParentObjectID": ""
       },
       "ActionLog": {
@@ -100222,8 +100222,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u7528\u94DC\u957F\u77DB\u653B\u51FB",
-        "LocalizationKey": "",
+        "DefaultText": "用铜长矛攻击",
+        "LocalizationKey": "T-yu6waI55nXiUt6jwNmvk4oOLqDM=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -100856,13 +100856,13 @@
       "VisibilityWithInventory": 0,
       "ActionSoundsWarpType": 3,
       "ActionSoundsWarpData": [
-        "\u5200\u523A"
+        "刀刺"
       ]
     },
     {
       "ActionDescription": {
-        "DefaultText": "\u7528\u94DC\u957F\u77DB\u653B\u51FB\u5DE8\u578B\u89E6\u624B\u9020\u6210\u002B420~560.0\u4F24\u5BB3",
-        "LocalizationKey": "",
+        "DefaultText": "用铜长矛攻击巨型触手造成+420~560.0伤害",
+        "LocalizationKey": "T-BxBZitdt+xEAXYQ4Ly4GwDroy8U=",
         "ParentObjectID": ""
       },
       "ActionLog": {
@@ -100877,8 +100877,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u7528\u94DC\u957F\u77DB\u653B\u51FB",
-        "LocalizationKey": "",
+        "DefaultText": "用铜长矛攻击",
+        "LocalizationKey": "T-yu6waI55nXiUt6jwNmvk4oOLqDM=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -101511,13 +101511,13 @@
       "VisibilityWithInventory": 0,
       "ActionSoundsWarpType": 3,
       "ActionSoundsWarpData": [
-        "\u5200\u523A"
+        "刀刺"
       ]
     },
     {
       "ActionDescription": {
-        "DefaultText": "\u7528\u71E7\u77F3\u957F\u77DB\u653B\u51FB\u5DE8\u578B\u89E6\u624B\u9020\u6210\u002B250~350.0\u4F24\u5BB3",
-        "LocalizationKey": "",
+        "DefaultText": "用燧石长矛攻击巨型触手造成+250~350.0伤害",
+        "LocalizationKey": "T-qrr9ywhrMvpxgLvWIZIthG7YE5M=",
         "ParentObjectID": ""
       },
       "ActionLog": {
@@ -101532,8 +101532,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u7528\u71E7\u77F3\u957F\u77DB\u653B\u51FB",
-        "LocalizationKey": "",
+        "DefaultText": "用燧石长矛攻击",
+        "LocalizationKey": "T-jg/BPN1EXqElJ5v4J3SmKsIOspg=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -102166,13 +102166,13 @@
       "VisibilityWithInventory": 0,
       "ActionSoundsWarpType": 3,
       "ActionSoundsWarpData": [
-        "\u5200\u523A"
+        "刀刺"
       ]
     },
     {
       "ActionDescription": {
-        "DefaultText": "\u7528\u71E7\u77F3\u957F\u77DB\u653B\u51FB\u5DE8\u578B\u89E6\u624B\u9020\u6210\u002B175~244.99999999999997\u4F24\u5BB3",
-        "LocalizationKey": "",
+        "DefaultText": "用燧石长矛攻击巨型触手造成+175~244.99999999999997伤害",
+        "LocalizationKey": "T-kwe+rPrdz2pxF94KE5NGtXjAb24=",
         "ParentObjectID": ""
       },
       "ActionLog": {
@@ -102187,8 +102187,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u7528\u71E7\u77F3\u957F\u77DB\u653B\u51FB",
-        "LocalizationKey": "",
+        "DefaultText": "用燧石长矛攻击",
+        "LocalizationKey": "T-jg/BPN1EXqElJ5v4J3SmKsIOspg=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -102821,13 +102821,13 @@
       "VisibilityWithInventory": 0,
       "ActionSoundsWarpType": 3,
       "ActionSoundsWarpData": [
-        "\u5200\u523A"
+        "刀刺"
       ]
     },
     {
       "ActionDescription": {
-        "DefaultText": "\u7528\u5E9F\u91D1\u5C5E\u957F\u77DB\u653B\u51FB\u5DE8\u578B\u89E6\u624B\u9020\u6210\u002B350~500.0\u4F24\u5BB3",
-        "LocalizationKey": "",
+        "DefaultText": "用废金属长矛攻击巨型触手造成+350~500.0伤害",
+        "LocalizationKey": "T-TICF8Iu6pQR5vFGd849QrGHKK/M=",
         "ParentObjectID": ""
       },
       "ActionLog": {
@@ -102842,8 +102842,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u7528\u5E9F\u91D1\u5C5E\u957F\u77DB\u653B\u51FB",
-        "LocalizationKey": "",
+        "DefaultText": "用废金属长矛攻击",
+        "LocalizationKey": "T-SOjzMLl35atgdfiF1oUpVqARqJ8=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -103476,13 +103476,13 @@
       "VisibilityWithInventory": 0,
       "ActionSoundsWarpType": 3,
       "ActionSoundsWarpData": [
-        "\u5200\u523A"
+        "刀刺"
       ]
     },
     {
       "ActionDescription": {
-        "DefaultText": "\u7528\u5E9F\u91D1\u5C5E\u957F\u77DB\u653B\u51FB\u5DE8\u578B\u89E6\u624B\u9020\u6210\u002B245~350.0\u4F24\u5BB3",
-        "LocalizationKey": "",
+        "DefaultText": "用废金属长矛攻击巨型触手造成+245~350.0伤害",
+        "LocalizationKey": "T-TYs2mqI81QMCisAd+zBW7XHBZZQ=",
         "ParentObjectID": ""
       },
       "ActionLog": {
@@ -103497,8 +103497,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u7528\u5E9F\u91D1\u5C5E\u957F\u77DB\u653B\u51FB",
-        "LocalizationKey": "",
+        "DefaultText": "用废金属长矛攻击",
+        "LocalizationKey": "T-SOjzMLl35atgdfiF1oUpVqARqJ8=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -104131,13 +104131,13 @@
       "VisibilityWithInventory": 0,
       "ActionSoundsWarpType": 3,
       "ActionSoundsWarpData": [
-        "\u5200\u523A"
+        "刀刺"
       ]
     },
     {
       "ActionDescription": {
-        "DefaultText": "\u7528\u9C7C\u9556\u653B\u51FB\u5DE8\u578B\u89E6\u624B\u9020\u6210\u002B250~325.0\u4F24\u5BB3",
-        "LocalizationKey": "",
+        "DefaultText": "用鱼镖攻击巨型触手造成+250~325.0伤害",
+        "LocalizationKey": "T-R5Gy/mSFjlKBzPOpR91pueyplwE=",
         "ParentObjectID": ""
       },
       "ActionLog": {
@@ -104152,8 +104152,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u7528\u9C7C\u9556\u653B\u51FB",
-        "LocalizationKey": "",
+        "DefaultText": "用鱼镖攻击",
+        "LocalizationKey": "T-zzxImGE/9cosqsFMZJt6zTeNZgQ=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -104766,13 +104766,13 @@
       "VisibilityWithInventory": 0,
       "ActionSoundsWarpType": 3,
       "ActionSoundsWarpData": [
-        "\u5200\u523A"
+        "刀刺"
       ]
     },
     {
       "ActionDescription": {
-        "DefaultText": "\u7528\u9C7C\u9556\u653B\u51FB\u5DE8\u578B\u89E6\u624B\u9020\u6210\u002B175~227.49999999999997\u4F24\u5BB3",
-        "LocalizationKey": "",
+        "DefaultText": "用鱼镖攻击巨型触手造成+175~227.49999999999997伤害",
+        "LocalizationKey": "T-97qPrTNC8KYsvg5nnXLDZcAfneI=",
         "ParentObjectID": ""
       },
       "ActionLog": {
@@ -104787,8 +104787,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u7528\u9C7C\u9556\u653B\u51FB",
-        "LocalizationKey": "",
+        "DefaultText": "用鱼镖攻击",
+        "LocalizationKey": "T-zzxImGE/9cosqsFMZJt6zTeNZgQ=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -105401,13 +105401,13 @@
       "VisibilityWithInventory": 0,
       "ActionSoundsWarpType": 3,
       "ActionSoundsWarpData": [
-        "\u5200\u523A"
+        "刀刺"
       ]
     },
     {
       "ActionDescription": {
-        "DefaultText": "\u7528\u9ED1\u66DC\u77F3\u957F\u77DB\u653B\u51FB\u5DE8\u578B\u89E6\u624B\u9020\u6210\u002B175~200.0\u4F24\u5BB3",
-        "LocalizationKey": "",
+        "DefaultText": "用黑曜石长矛攻击巨型触手造成+175~200.0伤害",
+        "LocalizationKey": "T-9aB7OpEoEWjHRue254pzl9CWiTQ=",
         "ParentObjectID": ""
       },
       "ActionLog": {
@@ -105422,8 +105422,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u7528\u9ED1\u66DC\u77F3\u957F\u77DB\u653B\u51FB",
-        "LocalizationKey": "",
+        "DefaultText": "用黑曜石长矛攻击",
+        "LocalizationKey": "T-O1xzvFl5tkHJlR9t00S6MA0vaT8=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -106056,13 +106056,13 @@
       "VisibilityWithInventory": 0,
       "ActionSoundsWarpType": 3,
       "ActionSoundsWarpData": [
-        "\u5200\u523A"
+        "刀刺"
       ]
     },
     {
       "ActionDescription": {
-        "DefaultText": "\u7528\u9ED1\u66DC\u77F3\u957F\u77DB\u653B\u51FB\u5DE8\u578B\u89E6\u624B\u9020\u6210\u002B122.5~140.0\u4F24\u5BB3",
-        "LocalizationKey": "",
+        "DefaultText": "用黑曜石长矛攻击巨型触手造成+122.5~140.0伤害",
+        "LocalizationKey": "T-lnWCAqQ0Id5VVy5Gk8WsvavsYMk=",
         "ParentObjectID": ""
       },
       "ActionLog": {
@@ -106077,8 +106077,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u7528\u9ED1\u66DC\u77F3\u957F\u77DB\u653B\u51FB",
-        "LocalizationKey": "",
+        "DefaultText": "用黑曜石长矛攻击",
+        "LocalizationKey": "T-O1xzvFl5tkHJlR9t00S6MA0vaT8=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -106711,13 +106711,13 @@
       "VisibilityWithInventory": 0,
       "ActionSoundsWarpType": 3,
       "ActionSoundsWarpData": [
-        "\u5200\u523A"
+        "刀刺"
       ]
     },
     {
       "ActionDescription": {
-        "DefaultText": "\u7528\u67AA\u653B\u51FB\u5DE8\u578B\u89E6\u624B\u9020\u6210\u002B350~500.0\u4F24\u5BB3",
-        "LocalizationKey": "",
+        "DefaultText": "用枪攻击巨型触手造成+350~500.0伤害",
+        "LocalizationKey": "T-KimP2SkBX7pa5YGIiM6kO0Emd+w=",
         "ParentObjectID": ""
       },
       "ActionLog": {
@@ -106732,8 +106732,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u7528\u67AA\u653B\u51FB",
-        "LocalizationKey": "",
+        "DefaultText": "用枪攻击",
+        "LocalizationKey": "T-C/QwXhGobN/yhoI4I3p252iAswk=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -107366,13 +107366,13 @@
       "VisibilityWithInventory": 0,
       "ActionSoundsWarpType": 3,
       "ActionSoundsWarpData": [
-        "\u624B\u67AA"
+        "手枪"
       ]
     },
     {
       "ActionDescription": {
-        "DefaultText": "\u7528\u67AA\u653B\u51FB\u5DE8\u578B\u89E6\u624B\u9020\u6210\u002B245~350.0\u4F24\u5BB3",
-        "LocalizationKey": "",
+        "DefaultText": "用枪攻击巨型触手造成+245~350.0伤害",
+        "LocalizationKey": "T-Czr21Fiy8NMWE/LsJwhpN8tOV44=",
         "ParentObjectID": ""
       },
       "ActionLog": {
@@ -107387,8 +107387,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u7528\u67AA\u653B\u51FB",
-        "LocalizationKey": "",
+        "DefaultText": "用枪攻击",
+        "LocalizationKey": "T-C/QwXhGobN/yhoI4I3p252iAswk=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -108021,13 +108021,13 @@
       "VisibilityWithInventory": 0,
       "ActionSoundsWarpType": 3,
       "ActionSoundsWarpData": [
-        "\u624B\u67AA"
+        "手枪"
       ]
     },
     {
       "ActionDescription": {
-        "DefaultText": "\u7528\u5F39\u5F13\u653B\u51FB\u5DE8\u578B\u89E6\u624B\u9020\u6210\u002B475~675.0\u4F24\u5BB3",
-        "LocalizationKey": "",
+        "DefaultText": "用弹弓攻击巨型触手造成+475~675.0伤害",
+        "LocalizationKey": "T-6Ae8jFju0c2S2wBw/tCB532rNj0=",
         "ParentObjectID": ""
       },
       "ActionLog": {
@@ -108042,8 +108042,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u7528\u5F39\u5F13\u653B\u51FB",
-        "LocalizationKey": "",
+        "DefaultText": "用弹弓攻击",
+        "LocalizationKey": "T-oQUcr0eBmOxmhxMyUe8QTaXk5h0=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -108681,8 +108681,8 @@
     },
     {
       "ActionDescription": {
-        "DefaultText": "\u7528\u5F39\u5F13\u653B\u51FB\u5DE8\u578B\u89E6\u624B\u9020\u6210\u002B332.5~472.49999999999994\u4F24\u5BB3",
-        "LocalizationKey": "",
+        "DefaultText": "用弹弓攻击巨型触手造成+332.5~472.49999999999994伤害",
+        "LocalizationKey": "T-Yi6Mj/DaUVL48HS5CPRMrBoem+s=",
         "ParentObjectID": ""
       },
       "ActionLog": {
@@ -108697,8 +108697,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u7528\u5F39\u5F13\u653B\u51FB",
-        "LocalizationKey": "",
+        "DefaultText": "用弹弓攻击",
+        "LocalizationKey": "T-oQUcr0eBmOxmhxMyUe8QTaXk5h0=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -109336,8 +109336,8 @@
     },
     {
       "ActionDescription": {
-        "DefaultText": "\u7528\u88C5\u7740\u9ED1\u66DC\u77F3\u70AE\u5F39\u7684\u53D1\u5C04\u5668\u653B\u51FB\u5DE8\u578B\u89E6\u624B\u9020\u6210\u002B950~1050.0\u4F24\u5BB3",
-        "LocalizationKey": "",
+        "DefaultText": "用装着黑曜石炮弹的发射器攻击巨型触手造成+950~1050.0伤害",
+        "LocalizationKey": "T-XAlON1pMwrfMgD6JFUP5Y3gpKSM=",
         "ParentObjectID": ""
       },
       "ActionLog": {
@@ -109352,8 +109352,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u7528\u88C5\u7740\u9ED1\u66DC\u77F3\u70AE\u5F39\u7684\u53D1\u5C04\u5668\u653B\u51FB",
-        "LocalizationKey": "",
+        "DefaultText": "用装着黑曜石炮弹的发射器攻击",
+        "LocalizationKey": "T-x2s7MH1bXoG0gzOjbBsSN1urtps=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -109476,7 +109476,7 @@
           "AffectedTags": [],
           "NOTAffectedThings": [],
           "AffectedTagsWarpData": [
-            "\u602A\u7269"
+            "怪物"
           ],
           "AffectedTagsWarpType": 3,
           "AppliesTo": 0,
@@ -110058,13 +110058,13 @@
       "VisibilityWithInventory": 0,
       "ActionSoundsWarpType": 3,
       "ActionSoundsWarpData": [
-        "\u70AE"
+        "炮"
       ]
     },
     {
       "ActionDescription": {
-        "DefaultText": "\u7528\u88C5\u7740\u9ED1\u66DC\u77F3\u70AE\u5F39\u7684\u53D1\u5C04\u5668\u653B\u51FB\u5DE8\u578B\u89E6\u624B\u9020\u6210\u002B665~735.0\u4F24\u5BB3",
-        "LocalizationKey": "",
+        "DefaultText": "用装着黑曜石炮弹的发射器攻击巨型触手造成+665~735.0伤害",
+        "LocalizationKey": "T-gMW5RYiLX6pArjyOao/6Lsw2/W4=",
         "ParentObjectID": ""
       },
       "ActionLog": {
@@ -110079,8 +110079,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u7528\u88C5\u7740\u9ED1\u66DC\u77F3\u70AE\u5F39\u7684\u53D1\u5C04\u5668\u653B\u51FB",
-        "LocalizationKey": "",
+        "DefaultText": "用装着黑曜石炮弹的发射器攻击",
+        "LocalizationKey": "T-x2s7MH1bXoG0gzOjbBsSN1urtps=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -110203,7 +110203,7 @@
           "AffectedTags": [],
           "NOTAffectedThings": [],
           "AffectedTagsWarpData": [
-            "\u602A\u7269"
+            "怪物"
           ],
           "AffectedTagsWarpType": 3,
           "AppliesTo": 0,
@@ -110785,13 +110785,13 @@
       "VisibilityWithInventory": 0,
       "ActionSoundsWarpType": 3,
       "ActionSoundsWarpData": [
-        "\u70AE"
+        "炮"
       ]
     },
     {
       "ActionDescription": {
-        "DefaultText": "\u7528\u88C5\u7740\u6930\u5B50\u70AE\u5F39\u7684\u53D1\u5C04\u5668\u653B\u51FB\u5DE8\u578B\u89E6\u624B\u9020\u6210\u002B850~950.0\u4F24\u5BB3",
-        "LocalizationKey": "",
+        "DefaultText": "用装着椰子炮弹的发射器攻击巨型触手造成+850~950.0伤害",
+        "LocalizationKey": "T-kSjxnkvUMKgPXMCc9LMurSrRMLE=",
         "ParentObjectID": ""
       },
       "ActionLog": {
@@ -110806,8 +110806,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u7528\u88C5\u7740\u6930\u5B50\u70AE\u5F39\u7684\u53D1\u5C04\u5668\u653B\u51FB",
-        "LocalizationKey": "",
+        "DefaultText": "用装着椰子炮弹的发射器攻击",
+        "LocalizationKey": "T-Rv41jjHX0heEzHbUOKxWl5Yh730=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -110930,7 +110930,7 @@
           "AffectedTags": [],
           "NOTAffectedThings": [],
           "AffectedTagsWarpData": [
-            "\u602A\u7269"
+            "怪物"
           ],
           "AffectedTagsWarpType": 3,
           "AppliesTo": 0,
@@ -111512,13 +111512,13 @@
       "VisibilityWithInventory": 0,
       "ActionSoundsWarpType": 3,
       "ActionSoundsWarpData": [
-        "\u70AE"
+        "炮"
       ]
     },
     {
       "ActionDescription": {
-        "DefaultText": "\u7528\u88C5\u7740\u6930\u5B50\u70AE\u5F39\u7684\u53D1\u5C04\u5668\u653B\u51FB\u5DE8\u578B\u89E6\u624B\u9020\u6210\u002B595~665.0\u4F24\u5BB3",
-        "LocalizationKey": "",
+        "DefaultText": "用装着椰子炮弹的发射器攻击巨型触手造成+595~665.0伤害",
+        "LocalizationKey": "T-2h8rgs71HnAWIMbsFZLlpyxDCN0=",
         "ParentObjectID": ""
       },
       "ActionLog": {
@@ -111533,8 +111533,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u7528\u88C5\u7740\u6930\u5B50\u70AE\u5F39\u7684\u53D1\u5C04\u5668\u653B\u51FB",
-        "LocalizationKey": "",
+        "DefaultText": "用装着椰子炮弹的发射器攻击",
+        "LocalizationKey": "T-Rv41jjHX0heEzHbUOKxWl5Yh730=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -111657,7 +111657,7 @@
           "AffectedTags": [],
           "NOTAffectedThings": [],
           "AffectedTagsWarpData": [
-            "\u602A\u7269"
+            "怪物"
           ],
           "AffectedTagsWarpType": 3,
           "AppliesTo": 0,
@@ -112239,13 +112239,13 @@
       "VisibilityWithInventory": 0,
       "ActionSoundsWarpType": 3,
       "ActionSoundsWarpData": [
-        "\u70AE"
+        "炮"
       ]
     },
     {
       "ActionDescription": {
-        "DefaultText": "\u7528\u9489\u67AA\u653B\u51FB\u5DE8\u578B\u89E6\u624B\u9020\u6210\u002B800~800.0\u4F24\u5BB3",
-        "LocalizationKey": "",
+        "DefaultText": "用钉枪攻击巨型触手造成+800~800.0伤害",
+        "LocalizationKey": "T-c0HI+wlRyc3p2juDExqSjy3cS5E=",
         "ParentObjectID": ""
       },
       "ActionLog": {
@@ -112260,8 +112260,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u7528\u9489\u67AA\u653B\u51FB",
-        "LocalizationKey": "",
+        "DefaultText": "用钉枪攻击",
+        "LocalizationKey": "T-qjA5Ls7Jo6NS3SxLOTsgJrZMIvI=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -112894,13 +112894,13 @@
       "VisibilityWithInventory": 0,
       "ActionSoundsWarpType": 3,
       "ActionSoundsWarpData": [
-        "\u9489\u67AA"
+        "钉枪"
       ]
     },
     {
       "ActionDescription": {
-        "DefaultText": "\u7528\u9489\u67AA\u653B\u51FB\u5DE8\u578B\u89E6\u624B\u9020\u6210\u002B560~560.0\u4F24\u5BB3",
-        "LocalizationKey": "",
+        "DefaultText": "用钉枪攻击巨型触手造成+560~560.0伤害",
+        "LocalizationKey": "T-3CHA4LxM7YmKYaqu4oq8YChdMP0=",
         "ParentObjectID": ""
       },
       "ActionLog": {
@@ -112915,8 +112915,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u7528\u9489\u67AA\u653B\u51FB",
-        "LocalizationKey": "",
+        "DefaultText": "用钉枪攻击",
+        "LocalizationKey": "T-qjA5Ls7Jo6NS3SxLOTsgJrZMIvI=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -113549,13 +113549,13 @@
       "VisibilityWithInventory": 0,
       "ActionSoundsWarpType": 3,
       "ActionSoundsWarpData": [
-        "\u9489\u67AA"
+        "钉枪"
       ]
     },
     {
       "ActionDescription": {
-        "DefaultText": "\u7528\u7535\u51FB\u67AA\u653B\u51FB\u5DE8\u578B\u89E6\u624B\u9020\u6210\u002B1200~1200.0\u4F24\u5BB3",
-        "LocalizationKey": "",
+        "DefaultText": "用电击枪攻击巨型触手造成+1200~1200.0伤害",
+        "LocalizationKey": "T-9e/B1y/I9yRwfwEn623E88aQ2aI=",
         "ParentObjectID": ""
       },
       "ActionLog": {
@@ -113570,8 +113570,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u7528\u7535\u51FB\u67AA\u653B\u51FB",
-        "LocalizationKey": "",
+        "DefaultText": "用电击枪攻击",
+        "LocalizationKey": "T-doXj7JshYsTY4IgREmfFUzaWdfc=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -113694,7 +113694,7 @@
           "AffectedTags": [],
           "NOTAffectedThings": [],
           "AffectedTagsWarpData": [
-            "\u602A\u7269"
+            "怪物"
           ],
           "AffectedTagsWarpType": 3,
           "AppliesTo": 0,
@@ -114296,13 +114296,13 @@
       "VisibilityWithInventory": 0,
       "ActionSoundsWarpType": 3,
       "ActionSoundsWarpData": [
-        "\u7535\u51FB\u67AA"
+        "电击枪"
       ]
     },
     {
       "ActionDescription": {
-        "DefaultText": "\u7528\u7535\u51FB\u67AA\u653B\u51FB\u5DE8\u578B\u89E6\u624B\u9020\u6210\u002B840~840.0\u4F24\u5BB3",
-        "LocalizationKey": "",
+        "DefaultText": "用电击枪攻击巨型触手造成+840~840.0伤害",
+        "LocalizationKey": "T-KyyuMgUQwHhVsJOSMLKRXn+CMuA=",
         "ParentObjectID": ""
       },
       "ActionLog": {
@@ -114317,8 +114317,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u7528\u7535\u51FB\u67AA\u653B\u51FB",
-        "LocalizationKey": "",
+        "DefaultText": "用电击枪攻击",
+        "LocalizationKey": "T-doXj7JshYsTY4IgREmfFUzaWdfc=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -114441,7 +114441,7 @@
           "AffectedTags": [],
           "NOTAffectedThings": [],
           "AffectedTagsWarpData": [
-            "\u602A\u7269"
+            "怪物"
           ],
           "AffectedTagsWarpType": 3,
           "AppliesTo": 0,
@@ -115043,13 +115043,13 @@
       "VisibilityWithInventory": 0,
       "ActionSoundsWarpType": 3,
       "ActionSoundsWarpData": [
-        "\u7535\u51FB\u67AA"
+        "电击枪"
       ]
     },
     {
       "ActionDescription": {
-        "DefaultText": "\u7528\u4E09\u53C9\u621F\u653B\u51FB\u5DE8\u578B\u89E6\u624B\u9020\u6210\u002B800~800.0\u4F24\u5BB3",
-        "LocalizationKey": "",
+        "DefaultText": "用三叉戟攻击巨型触手造成+800~800.0伤害",
+        "LocalizationKey": "T-r0ZvLrK1nXxPUc2L3ABmHIdU+iM=",
         "ParentObjectID": ""
       },
       "ActionLog": {
@@ -115064,8 +115064,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u7528\u4E09\u53C9\u621F\u653B\u51FB",
-        "LocalizationKey": "",
+        "DefaultText": "用三叉戟攻击",
+        "LocalizationKey": "T-7sG0deHBxERVHrv/qb5rppeg1HY=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -115678,13 +115678,13 @@
       "VisibilityWithInventory": 0,
       "ActionSoundsWarpType": 3,
       "ActionSoundsWarpData": [
-        "\u5251"
+        "剑"
       ]
     },
     {
       "ActionDescription": {
-        "DefaultText": "\u7528\u4E09\u53C9\u621F\u653B\u51FB\u5DE8\u578B\u89E6\u624B\u9020\u6210\u002B560~560.0\u4F24\u5BB3",
-        "LocalizationKey": "",
+        "DefaultText": "用三叉戟攻击巨型触手造成+560~560.0伤害",
+        "LocalizationKey": "T-/F+z2otFcRd3TUSHIWQOMFcVdeU=",
         "ParentObjectID": ""
       },
       "ActionLog": {
@@ -115699,8 +115699,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u7528\u4E09\u53C9\u621F\u653B\u51FB",
-        "LocalizationKey": "",
+        "DefaultText": "用三叉戟攻击",
+        "LocalizationKey": "T-7sG0deHBxERVHrv/qb5rppeg1HY=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -116313,13 +116313,13 @@
       "VisibilityWithInventory": 0,
       "ActionSoundsWarpType": 3,
       "ActionSoundsWarpData": [
-        "\u5251"
+        "剑"
       ]
     },
     {
       "ActionDescription": {
-        "DefaultText": "\u7528\u4E09\u53C9\u621F\uFF08\u5145\u80FD\uFF09\u653B\u51FB\u5DE8\u578B\u89E6\u624B\u9020\u6210\u002B1000~1200.0\u4F24\u5BB3",
-        "LocalizationKey": "",
+        "DefaultText": "用三叉戟（充能）攻击巨型触手造成+1000~1200.0伤害",
+        "LocalizationKey": "T-dwLdxUQkLoidiZCxm5z0tJc4OYM=",
         "ParentObjectID": ""
       },
       "ActionLog": {
@@ -116334,8 +116334,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u7528\u4E09\u53C9\u621F\uFF08\u5145\u80FD\uFF09\u653B\u51FB",
-        "LocalizationKey": "",
+        "DefaultText": "用三叉戟（充能）攻击",
+        "LocalizationKey": "T-xnKShS8qhyItX0LS8+HrQarE5oA=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -116458,7 +116458,7 @@
           "AffectedTags": [],
           "NOTAffectedThings": [],
           "AffectedTagsWarpData": [
-            "\u602A\u7269"
+            "怪物"
           ],
           "AffectedTagsWarpType": 3,
           "AppliesTo": 0,
@@ -117040,13 +117040,13 @@
       "VisibilityWithInventory": 0,
       "ActionSoundsWarpType": 3,
       "ActionSoundsWarpData": [
-        "\u5251"
+        "剑"
       ]
     },
     {
       "ActionDescription": {
-        "DefaultText": "\u7528\u4E09\u53C9\u621F\uFF08\u5145\u80FD\uFF09\u653B\u51FB\u5DE8\u578B\u89E6\u624B\u9020\u6210\u002B700~840.0\u4F24\u5BB3",
-        "LocalizationKey": "",
+        "DefaultText": "用三叉戟（充能）攻击巨型触手造成+700~840.0伤害",
+        "LocalizationKey": "T-tpVBGDrVm4Pk5XW2HQNyqNURRGc=",
         "ParentObjectID": ""
       },
       "ActionLog": {
@@ -117061,8 +117061,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u7528\u4E09\u53C9\u621F\uFF08\u5145\u80FD\uFF09\u653B\u51FB",
-        "LocalizationKey": "",
+        "DefaultText": "用三叉戟（充能）攻击",
+        "LocalizationKey": "T-xnKShS8qhyItX0LS8+HrQarE5oA=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -117185,7 +117185,7 @@
           "AffectedTags": [],
           "NOTAffectedThings": [],
           "AffectedTagsWarpData": [
-            "\u602A\u7269"
+            "怪物"
           ],
           "AffectedTagsWarpType": 3,
           "AppliesTo": 0,
@@ -117767,13 +117767,13 @@
       "VisibilityWithInventory": 0,
       "ActionSoundsWarpType": 3,
       "ActionSoundsWarpData": [
-        "\u5251"
+        "剑"
       ]
     },
     {
       "ActionDescription": {
-        "DefaultText": "\u7528\u7B80\u6613\u7684\u5F13\u548C\u7B80\u6613\u7BAD\u77E2\u653B\u51FB\u5DE8\u578B\u89E6\u624B\u9020\u6210\u002B300~450.0\u4F24\u5BB3",
-        "LocalizationKey": "",
+        "DefaultText": "用简易的弓和简易箭矢攻击巨型触手造成+300~450.0伤害",
+        "LocalizationKey": "T-Vkf/6+wzcVscDNqqMt4BcpsdSvc=",
         "ParentObjectID": ""
       },
       "ActionLog": {
@@ -117788,8 +117788,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u7528\u7B80\u6613\u7684\u5F13\u653B\u51FB",
-        "LocalizationKey": "",
+        "DefaultText": "用简易的弓攻击",
+        "LocalizationKey": "T-I4uJvCEYh4ej9TaHmL/FTszDPnY=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -118526,13 +118526,13 @@
       "VisibilityWithInventory": 0,
       "ActionSoundsWarpType": 3,
       "ActionSoundsWarpData": [
-        "\u5F13"
+        "弓"
       ]
     },
     {
       "ActionDescription": {
-        "DefaultText": "\u7528\u7B80\u6613\u7684\u5F13\u548C\u7B80\u6613\u7BAD\u77E2\u653B\u51FB\u5DE8\u578B\u89E6\u624B\u9020\u6210\u002B210~315.0\u4F24\u5BB3",
-        "LocalizationKey": "",
+        "DefaultText": "用简易的弓和简易箭矢攻击巨型触手造成+210~315.0伤害",
+        "LocalizationKey": "T-z/YBOCDLt6ODU/vu1eh7qCz44P8=",
         "ParentObjectID": ""
       },
       "ActionLog": {
@@ -118547,8 +118547,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u7528\u7B80\u6613\u7684\u5F13\u653B\u51FB",
-        "LocalizationKey": "",
+        "DefaultText": "用简易的弓攻击",
+        "LocalizationKey": "T-I4uJvCEYh4ej9TaHmL/FTszDPnY=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -119285,13 +119285,13 @@
       "VisibilityWithInventory": 0,
       "ActionSoundsWarpType": 3,
       "ActionSoundsWarpData": [
-        "\u5F13"
+        "弓"
       ]
     },
     {
       "ActionDescription": {
-        "DefaultText": "\u7528\u7B80\u6613\u7684\u5F13\u548C\u9AA8\u5236\u7BAD\u77E2\u653B\u51FB\u5DE8\u578B\u89E6\u624B\u9020\u6210\u002B400~500.0\u4F24\u5BB3",
-        "LocalizationKey": "",
+        "DefaultText": "用简易的弓和骨制箭矢攻击巨型触手造成+400~500.0伤害",
+        "LocalizationKey": "T-aXgEGPO0QXuT/B1+ttbDd35foP0=",
         "ParentObjectID": ""
       },
       "ActionLog": {
@@ -119306,8 +119306,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u7528\u7B80\u6613\u7684\u5F13\u653B\u51FB",
-        "LocalizationKey": "",
+        "DefaultText": "用简易的弓攻击",
+        "LocalizationKey": "T-I4uJvCEYh4ej9TaHmL/FTszDPnY=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -120044,13 +120044,13 @@
       "VisibilityWithInventory": 0,
       "ActionSoundsWarpType": 3,
       "ActionSoundsWarpData": [
-        "\u5F13"
+        "弓"
       ]
     },
     {
       "ActionDescription": {
-        "DefaultText": "\u7528\u7B80\u6613\u7684\u5F13\u548C\u9AA8\u5236\u7BAD\u77E2\u653B\u51FB\u5DE8\u578B\u89E6\u624B\u9020\u6210\u002B280~350.0\u4F24\u5BB3",
-        "LocalizationKey": "",
+        "DefaultText": "用简易的弓和骨制箭矢攻击巨型触手造成+280~350.0伤害",
+        "LocalizationKey": "T-2VMnb3llvwQOqWV9SSpyvQthMqI=",
         "ParentObjectID": ""
       },
       "ActionLog": {
@@ -120065,8 +120065,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u7528\u7B80\u6613\u7684\u5F13\u653B\u51FB",
-        "LocalizationKey": "",
+        "DefaultText": "用简易的弓攻击",
+        "LocalizationKey": "T-I4uJvCEYh4ej9TaHmL/FTszDPnY=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -120803,13 +120803,13 @@
       "VisibilityWithInventory": 0,
       "ActionSoundsWarpType": 3,
       "ActionSoundsWarpData": [
-        "\u5F13"
+        "弓"
       ]
     },
     {
       "ActionDescription": {
-        "DefaultText": "\u7528\u7B80\u6613\u7684\u5F13\u548C\u71E7\u77F3\u7BAD\u77E2\u653B\u51FB\u5DE8\u578B\u89E6\u624B\u9020\u6210\u002B300~400.0\u4F24\u5BB3",
-        "LocalizationKey": "",
+        "DefaultText": "用简易的弓和燧石箭矢攻击巨型触手造成+300~400.0伤害",
+        "LocalizationKey": "T-OrTTAvewGtR6w5i5/8SlzYGJnjI=",
         "ParentObjectID": ""
       },
       "ActionLog": {
@@ -120824,8 +120824,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u7528\u7B80\u6613\u7684\u5F13\u653B\u51FB",
-        "LocalizationKey": "",
+        "DefaultText": "用简易的弓攻击",
+        "LocalizationKey": "T-I4uJvCEYh4ej9TaHmL/FTszDPnY=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -121562,13 +121562,13 @@
       "VisibilityWithInventory": 0,
       "ActionSoundsWarpType": 3,
       "ActionSoundsWarpData": [
-        "\u5F13"
+        "弓"
       ]
     },
     {
       "ActionDescription": {
-        "DefaultText": "\u7528\u7B80\u6613\u7684\u5F13\u548C\u71E7\u77F3\u7BAD\u77E2\u653B\u51FB\u5DE8\u578B\u89E6\u624B\u9020\u6210\u002B210~280.0\u4F24\u5BB3",
-        "LocalizationKey": "",
+        "DefaultText": "用简易的弓和燧石箭矢攻击巨型触手造成+210~280.0伤害",
+        "LocalizationKey": "T-ijMGY8SyBrMAWaiubpdugEk9YUg=",
         "ParentObjectID": ""
       },
       "ActionLog": {
@@ -121583,8 +121583,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u7528\u7B80\u6613\u7684\u5F13\u653B\u51FB",
-        "LocalizationKey": "",
+        "DefaultText": "用简易的弓攻击",
+        "LocalizationKey": "T-I4uJvCEYh4ej9TaHmL/FTszDPnY=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -122321,13 +122321,13 @@
       "VisibilityWithInventory": 0,
       "ActionSoundsWarpType": 3,
       "ActionSoundsWarpData": [
-        "\u5F13"
+        "弓"
       ]
     },
     {
       "ActionDescription": {
-        "DefaultText": "\u7528\u590D\u5408\u5F13\u548C\u7B80\u6613\u7BAD\u77E2\u653B\u51FB\u5DE8\u578B\u89E6\u624B\u9020\u6210\u002B400~600.0\u4F24\u5BB3",
-        "LocalizationKey": "",
+        "DefaultText": "用复合弓和简易箭矢攻击巨型触手造成+400~600.0伤害",
+        "LocalizationKey": "T-mpDjY/Gb3RJGam95ZmL0l5l2C+Q=",
         "ParentObjectID": ""
       },
       "ActionLog": {
@@ -122342,8 +122342,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u7528\u590D\u5408\u5F13\u653B\u51FB",
-        "LocalizationKey": "",
+        "DefaultText": "用复合弓攻击",
+        "LocalizationKey": "T-AdR6ZNhJU83vwQ9TUIMnvQQ3ioc=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -123080,13 +123080,13 @@
       "VisibilityWithInventory": 0,
       "ActionSoundsWarpType": 3,
       "ActionSoundsWarpData": [
-        "\u5F13"
+        "弓"
       ]
     },
     {
       "ActionDescription": {
-        "DefaultText": "\u7528\u590D\u5408\u5F13\u548C\u7B80\u6613\u7BAD\u77E2\u653B\u51FB\u5DE8\u578B\u89E6\u624B\u9020\u6210\u002B280~420.0\u4F24\u5BB3",
-        "LocalizationKey": "",
+        "DefaultText": "用复合弓和简易箭矢攻击巨型触手造成+280~420.0伤害",
+        "LocalizationKey": "T-ujVhhsIQTC1ZH0OQBVfAXYujAn4=",
         "ParentObjectID": ""
       },
       "ActionLog": {
@@ -123101,8 +123101,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u7528\u590D\u5408\u5F13\u653B\u51FB",
-        "LocalizationKey": "",
+        "DefaultText": "用复合弓攻击",
+        "LocalizationKey": "T-AdR6ZNhJU83vwQ9TUIMnvQQ3ioc=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -123839,13 +123839,13 @@
       "VisibilityWithInventory": 0,
       "ActionSoundsWarpType": 3,
       "ActionSoundsWarpData": [
-        "\u5F13"
+        "弓"
       ]
     },
     {
       "ActionDescription": {
-        "DefaultText": "\u7528\u590D\u5408\u5F13\u548C\u9AA8\u5236\u7BAD\u77E2\u653B\u51FB\u5DE8\u578B\u89E6\u624B\u9020\u6210\u002B500~650.0\u4F24\u5BB3",
-        "LocalizationKey": "",
+        "DefaultText": "用复合弓和骨制箭矢攻击巨型触手造成+500~650.0伤害",
+        "LocalizationKey": "T-A9p//Ovf7AcCXAuA7LAadsBjS6M=",
         "ParentObjectID": ""
       },
       "ActionLog": {
@@ -123860,8 +123860,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u7528\u590D\u5408\u5F13\u653B\u51FB",
-        "LocalizationKey": "",
+        "DefaultText": "用复合弓攻击",
+        "LocalizationKey": "T-AdR6ZNhJU83vwQ9TUIMnvQQ3ioc=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -124598,13 +124598,13 @@
       "VisibilityWithInventory": 0,
       "ActionSoundsWarpType": 3,
       "ActionSoundsWarpData": [
-        "\u5F13"
+        "弓"
       ]
     },
     {
       "ActionDescription": {
-        "DefaultText": "\u7528\u590D\u5408\u5F13\u548C\u9AA8\u5236\u7BAD\u77E2\u653B\u51FB\u5DE8\u578B\u89E6\u624B\u9020\u6210\u002B350~454.99999999999994\u4F24\u5BB3",
-        "LocalizationKey": "",
+        "DefaultText": "用复合弓和骨制箭矢攻击巨型触手造成+350~454.99999999999994伤害",
+        "LocalizationKey": "T-9ZOTaaoZGCm6zW/lW35/npPvPdo=",
         "ParentObjectID": ""
       },
       "ActionLog": {
@@ -124619,8 +124619,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u7528\u590D\u5408\u5F13\u653B\u51FB",
-        "LocalizationKey": "",
+        "DefaultText": "用复合弓攻击",
+        "LocalizationKey": "T-AdR6ZNhJU83vwQ9TUIMnvQQ3ioc=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -125357,13 +125357,13 @@
       "VisibilityWithInventory": 0,
       "ActionSoundsWarpType": 3,
       "ActionSoundsWarpData": [
-        "\u5F13"
+        "弓"
       ]
     },
     {
       "ActionDescription": {
-        "DefaultText": "\u7528\u590D\u5408\u5F13\u548C\u71E7\u77F3\u7BAD\u77E2\u653B\u51FB\u5DE8\u578B\u89E6\u624B\u9020\u6210\u002B400~550.0\u4F24\u5BB3",
-        "LocalizationKey": "",
+        "DefaultText": "用复合弓和燧石箭矢攻击巨型触手造成+400~550.0伤害",
+        "LocalizationKey": "T-rM6Ma2WPIibBflwj1YzdOTMSrqM=",
         "ParentObjectID": ""
       },
       "ActionLog": {
@@ -125378,8 +125378,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u7528\u590D\u5408\u5F13\u653B\u51FB",
-        "LocalizationKey": "",
+        "DefaultText": "用复合弓攻击",
+        "LocalizationKey": "T-AdR6ZNhJU83vwQ9TUIMnvQQ3ioc=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -126116,13 +126116,13 @@
       "VisibilityWithInventory": 0,
       "ActionSoundsWarpType": 3,
       "ActionSoundsWarpData": [
-        "\u5F13"
+        "弓"
       ]
     },
     {
       "ActionDescription": {
-        "DefaultText": "\u7528\u590D\u5408\u5F13\u548C\u71E7\u77F3\u7BAD\u77E2\u653B\u51FB\u5DE8\u578B\u89E6\u624B\u9020\u6210\u002B280~385.0\u4F24\u5BB3",
-        "LocalizationKey": "",
+        "DefaultText": "用复合弓和燧石箭矢攻击巨型触手造成+280~385.0伤害",
+        "LocalizationKey": "T-HZF/wpW2J/hbNPrS+catsBMjLuI=",
         "ParentObjectID": ""
       },
       "ActionLog": {
@@ -126137,8 +126137,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u7528\u590D\u5408\u5F13\u653B\u51FB",
-        "LocalizationKey": "",
+        "DefaultText": "用复合弓攻击",
+        "LocalizationKey": "T-AdR6ZNhJU83vwQ9TUIMnvQQ3ioc=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -126875,7 +126875,7 @@
       "VisibilityWithInventory": 0,
       "ActionSoundsWarpType": 3,
       "ActionSoundsWarpData": [
-        "\u5F13"
+        "弓"
       ]
     }
   ],
@@ -126896,8 +126896,8 @@
   "FuelCapacity": {
     "Active": true,
     "CardStatName": {
-      "DefaultText": "\u51B0\u51BB",
-      "LocalizationKey": "",
+      "DefaultText": "冰冻",
+      "LocalizationKey": "T-lf4e3ennypsKFf/G0NjGMymotHo=",
       "ParentObjectID": ""
     },
     "ExtraRateWhenEquipped": 0.0,
@@ -127323,7 +127323,7 @@
     "ShowPopupOnZero": false,
     "TextDisplay": 2,
     "OverrideIconWarpType": 3,
-    "OverrideIconWarpData": "\u51B0"
+    "OverrideIconWarpData": "冰"
   },
   "InHandWhenEquipped": false,
   "InstancedEnvironment": false,
@@ -127454,7 +127454,7 @@
         "Active": false,
         "FloatValue": 0.0
       },
-      "EffectName": "\u71C3\u70E7",
+      "EffectName": "燃烧",
       "EffectStacksWithRequiredCards": false,
       "FuelRateModifier": {
         "Active": false,
@@ -127598,7 +127598,7 @@
         "Active": false,
         "FloatValue": 0.0
       },
-      "EffectName": "\u4F11\u517B\u751F\u606F",
+      "EffectName": "休养生息",
       "EffectStacksWithRequiredCards": false,
       "FuelRateModifier": {
         "Active": false,
@@ -127736,7 +127736,7 @@
         "Active": true,
         "FloatValue": -0.75
       },
-      "EffectName": "\u552F\u4E00\u4EBA\u7C7B",
+      "EffectName": "唯一人类",
       "EffectStacksWithRequiredCards": false,
       "FuelRateModifier": {
         "Active": false,
@@ -127860,7 +127860,7 @@
         "Active": false,
         "FloatValue": 0.0
       },
-      "EffectName": "\u592A\u9633\u98CE\u66B4",
+      "EffectName": "太阳风暴",
       "EffectStacksWithRequiredCards": false,
       "FuelRateModifier": {
         "Active": false,
@@ -127984,7 +127984,7 @@
         "Active": false,
         "FloatValue": 0.0
       },
-      "EffectName": "\u81EA\u7136\u7184\u706D",
+      "EffectName": "自然熄灭",
       "EffectStacksWithRequiredCards": false,
       "FuelRateModifier": {
         "Active": false,
@@ -128093,7 +128093,7 @@
         "Active": false,
         "FloatValue": 0.0
       },
-      "EffectName": "\u71C3\u70E7\u878D\u5316",
+      "EffectName": "燃烧融化",
       "EffectStacksWithRequiredCards": false,
       "FuelRateModifier": {
         "Active": true,
@@ -128217,7 +128217,7 @@
         "Active": true,
         "FloatValue": 1.0
       },
-      "EffectName": "\u540C\u7C7B\u6C14\u5473",
+      "EffectName": "同类气味",
       "EffectStacksWithRequiredCards": false,
       "FuelRateModifier": {
         "Active": false,
@@ -128326,7 +128326,7 @@
         "Active": true,
         "FloatValue": -1.0
       },
-      "EffectName": "\u653B\u51FB\u95F4\u9694",
+      "EffectName": "攻击间隔",
       "EffectStacksWithRequiredCards": false,
       "FuelRateModifier": {
         "Active": false,
@@ -128399,8 +128399,8 @@
   "Progress": {
     "Active": true,
     "CardStatName": {
-      "DefaultText": "\u653B\u51FB\u95F4\u9694",
-      "LocalizationKey": "",
+      "DefaultText": "攻击间隔",
+      "LocalizationKey": "T-eSmTw1ZqfTmFyNE+3xC+nhctoTM=",
       "ParentObjectID": ""
     },
     "ExtraRateWhenEquipped": 0.0,
@@ -129329,15 +129329,15 @@
     "ShowPopupOnZero": false,
     "TextDisplay": 2,
     "OverrideIconWarpType": 3,
-    "OverrideIconWarpData": "\u884C\u52A8\u56DE\u5408"
+    "OverrideIconWarpData": "行动回合"
   },
   "RemotePassiveEffects": [],
   "SpawningBlockedBy": [],
   "SpecialDurability1": {
     "Active": true,
     "CardStatName": {
-      "DefaultText": "\u71C3\u70E7",
-      "LocalizationKey": "",
+      "DefaultText": "燃烧",
+      "LocalizationKey": "T-Qp/YaGep4X7d0hU1hb35M0bDFSA=",
       "ParentObjectID": ""
     },
     "ExtraRateWhenEquipped": 0.0,
@@ -129763,13 +129763,13 @@
     "ShowPopupOnZero": false,
     "TextDisplay": 2,
     "OverrideIconWarpType": 3,
-    "OverrideIconWarpData": "\u706B"
+    "OverrideIconWarpData": "火"
   },
   "SpecialDurability2": {
     "Active": true,
     "CardStatName": {
-      "DefaultText": "\u7206\u70B8",
-      "LocalizationKey": "",
+      "DefaultText": "爆炸",
+      "LocalizationKey": "T-78HNbOhE9AEl1o3MveqPoDyWBvQ=",
       "ParentObjectID": ""
     },
     "ExtraRateWhenEquipped": 0.0,
@@ -130200,8 +130200,8 @@
   "SpecialDurability3": {
     "Active": true,
     "CardStatName": {
-      "DefaultText": "\u653B\u51FB\u5145\u80FD",
-      "LocalizationKey": "",
+      "DefaultText": "攻击充能",
+      "LocalizationKey": "T-CnwwloTU1SR3nslyv9Wi4lcFk2A=",
       "ParentObjectID": ""
     },
     "ExtraRateWhenEquipped": 0.0,
@@ -130627,7 +130627,7 @@
     "ShowPopupOnZero": false,
     "TextDisplay": 2,
     "OverrideIconWarpType": 3,
-    "OverrideIconWarpData": "\u8010\u529B"
+    "OverrideIconWarpData": "耐力"
   },
   "SpecialDurability4": {
     "Active": false,
@@ -131505,8 +131505,8 @@
   "UsageDurability": {
     "Active": true,
     "CardStatName": {
-      "DefaultText": "\u8840\u91CF",
-      "LocalizationKey": "",
+      "DefaultText": "血量",
+      "LocalizationKey": "T-wmnyBpa3A/5rnAIcPr9vHqvEya8=",
       "ParentObjectID": ""
     },
     "ExtraRateWhenEquipped": 0.0,
@@ -131721,8 +131721,8 @@
     "OnFullNotification": 0,
     "OnZero": {
       "ActionDescription": {
-        "DefaultText": "\u5DE8\u578B\u89E6\u624B\u6B7B\u4EA1",
-        "LocalizationKey": "",
+        "DefaultText": "巨型触手死亡",
+        "LocalizationKey": "T-9wBPk7bkUgx5lbpk+0lXQaL/+3s=",
         "ParentObjectID": ""
       },
       "ActionLog": {
@@ -132500,7 +132500,7 @@
     "ShowPopupOnZero": false,
     "TextDisplay": 2,
     "OverrideIconWarpType": 3,
-    "OverrideIconWarpData": "\u751F\u547D\u503C"
+    "OverrideIconWarpData": "生命值"
   },
   "VisualEffects": [],
   "WeatherEffects": {
@@ -132608,7 +132608,7 @@
   "WeaponReach": 0.0,
   "WhenCreatedSounds": [],
   "WhenCreatedSoundsWarpData": [
-    "\u89E6\u624B"
+    "触手"
   ],
   "WhenCreatedSoundsWarpType": 3
 }

@@ -23,7 +23,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "DefaultStatusIconWarpData": "\u8D25\u8840\u75C7",
+  "DefaultStatusIconWarpData": "败血症",
   "DefaultStatusIconWarpType": 3,
   "DefaultStatusName": {
     "DefaultText": "",
@@ -31,8 +31,8 @@
     "ParentObjectID": ""
   },
   "Description": {
-    "DefaultText": "\u4F60\u7684\u8EAB\u4F53\u5F00\u59CB\u6E83\u8D25",
-    "LocalizationKey": "",
+    "DefaultText": "你的身体开始溃败",
+    "LocalizationKey": "T-iSATJdiWMxbTdZEx4KiJlCN5oAQ=",
     "ParentObjectID": ""
   },
   "FeedbackInfo": {
@@ -48,8 +48,8 @@
     "StepValue": 1.0
   },
   "GameName": {
-    "DefaultText": "\u8D25\u8840\u75C7\u8FDB\u5EA6",
-    "LocalizationKey": "",
+    "DefaultText": "败血症进度",
+    "LocalizationKey": "T-17O0n1eG1NGOWShdCjimVGKegI8=",
     "ParentObjectID": ""
   },
   "InvertedDirection": false,
@@ -88,8 +88,8 @@
       "AlertSounds": [],
       "ConfidenceModifier": 0.0,
       "Description": {
-        "DefaultText": "\u4F60\u7684\u8EAB\u4F53\u5F00\u59CB\u6E83\u8D25",
-        "LocalizationKey": "",
+        "DefaultText": "你的身体开始溃败",
+        "LocalizationKey": "T-iSATJdiWMxbTdZEx4KiJlCN5oAQ=",
         "ParentObjectID": ""
       },
       "EffectsOnActions": [],
@@ -172,8 +172,8 @@
         }
       ],
       "GameName": {
-        "DefaultText": "\u4F4E\u8D25\u8840\u75C7",
-        "LocalizationKey": "",
+        "DefaultText": "低败血症",
+        "LocalizationKey": "T-GmUSG/1z9x3XOjZ8ulnMzoKpZ4Y=",
         "ParentObjectID": ""
       },
       "GameOver": false,
@@ -181,7 +181,7 @@
         "m_FileID": 0,
         "m_PathID": 0
       },
-      "IconWarpData": "\u8D25\u8840\u75C7",
+      "IconWarpData": "败血症",
       "IconWarpType": 3,
       "NotifyPlayer": 1,
       "PreventingActionMessage": {
@@ -214,8 +214,8 @@
       "AlertSounds": [],
       "ConfidenceModifier": 0.0,
       "Description": {
-        "DefaultText": "\u4F60\u7684\u8EAB\u4F53\u5F00\u59CB\u6E83\u8D25",
-        "LocalizationKey": "",
+        "DefaultText": "你的身体开始溃败",
+        "LocalizationKey": "T-iSATJdiWMxbTdZEx4KiJlCN5oAQ=",
         "ParentObjectID": ""
       },
       "EffectsOnActions": [],
@@ -317,8 +317,8 @@
         }
       ],
       "GameName": {
-        "DefaultText": "\u4E2D\u8D25\u8840\u75C7",
-        "LocalizationKey": "",
+        "DefaultText": "中败血症",
+        "LocalizationKey": "T-nNSfSfXRwwgMjCpCTCDNj/D4uzM=",
         "ParentObjectID": ""
       },
       "GameOver": false,
@@ -326,7 +326,7 @@
         "m_FileID": 0,
         "m_PathID": 0
       },
-      "IconWarpData": "\u8D25\u8840\u75C7",
+      "IconWarpData": "败血症",
       "IconWarpType": 3,
       "NotifyPlayer": 1,
       "PreventingActionMessage": {
@@ -359,8 +359,8 @@
       "AlertSounds": [],
       "ConfidenceModifier": 0.0,
       "Description": {
-        "DefaultText": "\u4F60\u7684\u8EAB\u4F53\u5F00\u59CB\u6E83\u8D25",
-        "LocalizationKey": "",
+        "DefaultText": "你的身体开始溃败",
+        "LocalizationKey": "T-iSATJdiWMxbTdZEx4KiJlCN5oAQ=",
         "ParentObjectID": ""
       },
       "EffectsOnActions": [],
@@ -462,8 +462,8 @@
         }
       ],
       "GameName": {
-        "DefaultText": "\u9AD8\u8D25\u8840\u75C7",
-        "LocalizationKey": "",
+        "DefaultText": "高败血症",
+        "LocalizationKey": "T-TtZu8ZqZjSFlJzhYqLeXWmoZkvM=",
         "ParentObjectID": ""
       },
       "GameOver": false,
@@ -471,7 +471,7 @@
         "m_FileID": 0,
         "m_PathID": 0
       },
-      "IconWarpData": "\u8D25\u8840\u75C7",
+      "IconWarpData": "败血症",
       "IconWarpType": 3,
       "NotifyPlayer": 1,
       "PreventingActionMessage": {

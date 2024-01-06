@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u9EC4\u6CB9\u7117\u9F99\u867E",
-    "LocalizationKey": "",
+    "DefaultText": "黄油焗龙虾",
+    "LocalizationKey": "T-74aitzJC90KXu7FlVRcPHHfXeMc=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u5B8C\u7F8E~",
-    "LocalizationKey": "",
+    "DefaultText": "完美~",
+    "LocalizationKey": "T-Yd3mwHgPFwL5caBFFNlD/eXEm9g=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -111,7 +111,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u9EC4\u6CB9\u7117\u9F99\u867E",
+  "CardImageWarpData": "黄油焗龙虾",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],
@@ -190,8 +190,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u98DF\u7528",
-        "LocalizationKey": "",
+        "DefaultText": "食用",
+        "LocalizationKey": "T-/CTIPWxzNS43sBPJ2MPBHWGtsdM=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],

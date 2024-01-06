@@ -23,7 +23,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "DefaultStatusIconWarpData": "\u6DF1\u6D77\u4E2D\u5FC3\u8BA1\u6570\u5668",
+  "DefaultStatusIconWarpData": "深海中心计数器",
   "DefaultStatusIconWarpType": 3,
   "DefaultStatusName": {
     "DefaultText": "",
@@ -48,8 +48,8 @@
     "StepValue": 1.0
   },
   "GameName": {
-    "DefaultText": "\u6DF1\u6D77\u4E2D\u5FC3\u8BA1\u6570\u5668",
-    "LocalizationKey": "",
+    "DefaultText": "深海中心计数器",
+    "LocalizationKey": "T-Lm6rKg/r5HTYO8MQlvEoAHDCBbE=",
     "ParentObjectID": ""
   },
   "InvertedDirection": false,

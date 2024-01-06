@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u4ED9\u4EBA\u638C",
-    "LocalizationKey": "",
+    "DefaultText": "仙人掌",
+    "LocalizationKey": "T-YgpEhVG2uGwpKaAzoAc5uvG0YwU=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u5C0F\u5FC3\u88AB\u624E\uFF01",
-    "LocalizationKey": "",
+    "DefaultText": "小心被扎！",
+    "LocalizationKey": "T-+tCLjvwFofFHVYjqZ92FNm/qR6M=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -108,7 +108,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u4ED9\u4EBA\u638C",
+  "CardImageWarpData": "仙人掌",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],
@@ -187,8 +187,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u91C7\u96C6",
-        "LocalizationKey": "",
+        "DefaultText": "采集",
+        "LocalizationKey": "T-w/iTPXejkCBAmfWt+88lBK1bQ3k=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],

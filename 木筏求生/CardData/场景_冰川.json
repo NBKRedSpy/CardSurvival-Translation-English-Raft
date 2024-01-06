@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u51B0\u5DDD",
-    "LocalizationKey": "",
+    "DefaultText": "冰川",
+    "LocalizationKey": "T-8nCP57ANx2ga/+mTm0MW6ZdXCkA=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u5BD2\u51B7~",
-    "LocalizationKey": "",
+    "DefaultText": "寒冷~",
+    "LocalizationKey": "T-CnGA4qLL9Zq9Hj5yku6yDmJSfiE=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -108,7 +108,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u51B0\u5DDD",
+  "CardImageWarpData": "冰川",
   "CardImageWarpType": 3,
   "CardInteractions": [
     {
@@ -129,8 +129,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u91C7\u51B0",
-        "LocalizationKey": "",
+        "DefaultText": "采冰",
+        "LocalizationKey": "T-9+NTbN1s9uEOlmRdwPDoPz4aEtU=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -623,8 +623,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u8F70\u9686\uFF01",
-        "LocalizationKey": "",
+        "DefaultText": "轰隆！",
+        "LocalizationKey": "T-k52YJR5XrDUIh4ObKEnk1VpPsno=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -1061,8 +1061,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u8F70\u9686\uFF01",
-        "LocalizationKey": "",
+        "DefaultText": "轰隆！",
+        "LocalizationKey": "T-k52YJR5XrDUIh4ObKEnk1VpPsno=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],

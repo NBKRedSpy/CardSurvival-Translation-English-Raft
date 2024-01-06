@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u8840\u5305",
-    "LocalizationKey": "",
+    "DefaultText": "血包",
+    "LocalizationKey": "T-fUYI9Hw9g5XELdVykkJh1gKTp0I=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u6CBB\u6108\u5F00\u653E\u6027\u4F24\u53E3\u7684\u795E\u5668(\u5305\u62EC\u5DF2\u7F1D\u5408\u7684\u6495\u88C2\u4F24)",
-    "LocalizationKey": "",
+    "DefaultText": "治愈开放性伤口的神器(包括已缝合的撕裂伤)",
+    "LocalizationKey": "T-0aTVzqiO7+LRYczkQ2rOaFIBJXc=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -108,7 +108,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u8840\u5305",
+  "CardImageWarpData": "血包",
   "CardImageWarpType": 3,
   "CardInteractions": [
     {
@@ -129,8 +129,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u6D82\u62B9",
-        "LocalizationKey": "",
+        "DefaultText": "涂抹",
+        "LocalizationKey": "T-1QKi0UtNarv6J/ig3avIVkqHA5g=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],

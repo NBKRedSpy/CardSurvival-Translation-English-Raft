@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u6A58\u5B50\u6811",
-    "LocalizationKey": "",
+    "DefaultText": "橘子树",
+    "LocalizationKey": "T-uJSOpo9hNHV00FlAPYZcVh/hV6U=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u6211\u80FD\u5728\u4E0A\u9762\u91C7\u96C6\u6A58\u5B50\u3002",
-    "LocalizationKey": "",
+    "DefaultText": "我能在上面采集橘子。",
+    "LocalizationKey": "T-BQphq7fB2/CzaE5HzCScXjcwnOk=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -108,7 +108,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u6A58\u5B50\u6811",
+  "CardImageWarpData": "橘子树",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],
@@ -187,8 +187,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u91C7\u96C6",
-        "LocalizationKey": "",
+        "DefaultText": "采集",
+        "LocalizationKey": "T-w/iTPXejkCBAmfWt+88lBK1bQ3k=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -501,8 +501,8 @@
   "FuelCapacity": {
     "Active": true,
     "CardStatName": {
-      "DefaultText": "\u6A58\u5B50 \u6210\u719F\u5EA6",
-      "LocalizationKey": "",
+      "DefaultText": "橘子 成熟度",
+      "LocalizationKey": "T-hPlW6BhsvAcrmL8/c85TsbWdy7o=",
       "ParentObjectID": ""
     },
     "ExtraRateWhenEquipped": 0.0,
@@ -513,8 +513,8 @@
     "MaxValue": 768.0,
     "OnFull": {
       "ActionDescription": {
-        "DefaultText": "\u6811\u4E0A\u53C8\u957F\u51FA\u4E86\u6A58\u5B50\uFF01",
-        "LocalizationKey": "",
+        "DefaultText": "树上又长出了橘子！",
+        "LocalizationKey": "T-Z/G93KjBJEdlAkgWu+31qKz7xzo=",
         "ParentObjectID": ""
       },
       "ActionLog": {

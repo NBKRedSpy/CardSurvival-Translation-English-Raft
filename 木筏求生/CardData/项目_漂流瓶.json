@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u6F02\u6D41\u74F6",
-    "LocalizationKey": "",
+    "DefaultText": "漂流瓶",
+    "LocalizationKey": "T-mE1wWovk1+tunpPudU+mqK+VNJw=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u91CC\u9762\u88C5\u7740\u85CF\u5B9D\u56FE\uFF01",
-    "LocalizationKey": "",
+    "DefaultText": "里面装着藏宝图！",
+    "LocalizationKey": "T-AxOOkHTArsQzMW1MAu7kiShJRHI=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -108,7 +108,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u6F02\u6D41\u74F6",
+  "CardImageWarpData": "漂流瓶",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],
@@ -187,8 +187,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u53D6\u51FA\u85CF\u5B9D\u56FE",
-        "LocalizationKey": "",
+        "DefaultText": "取出藏宝图",
+        "LocalizationKey": "T-2NBqtxw9FjQOpeN/GlUjGA9YYCU=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],

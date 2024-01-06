@@ -20,11 +20,11 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "TabIconWarpData": "\u6D77\u9C7C\u8089",
+  "TabIconWarpData": "海鱼肉",
   "TabIconWarpType": 3,
   "TabName": {
-    "DefaultText": "\u6D77\u9C7C\u8089",
-    "LocalizationKey": "",
+    "DefaultText": "海鱼肉",
+    "LocalizationKey": "T-+TVCGuEoiLKkccAcu9soNYpc6rU=",
     "ParentObjectID": ""
   }
 }

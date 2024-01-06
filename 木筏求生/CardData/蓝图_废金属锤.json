@@ -1,7 +1,7 @@
 {
   "CardName": {
-    "DefaultText": "\u5E9F\u91D1\u5C5E\u9524",
-    "LocalizationKey": "",
+    "DefaultText": "废金属锤",
+    "LocalizationKey": "T-54AEiJSwywCKYx6IgevNerz5IFs=",
     "ParentObjectID": ""
   },
   "CardDescription": {
@@ -580,7 +580,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u5E9F\u91D1\u5C5E\u9524",
+  "CardImageWarpData": "废金属锤",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [
@@ -3761,8 +3761,8 @@
   "UniqueID": "fb8f3409df0618cef546825b77acdcb6",
   "UniqueOnBoard": false,
   "UnlockConditionsDesc": {
-    "DefaultText": "\u9700\u8981\u91D1\u5C5E\u5E9F\u6599",
-    "LocalizationKey": "",
+    "DefaultText": "需要金属废料",
+    "LocalizationKey": "T-XhH2Pjfjj8wBrFt0uRerIIbAtw4=",
     "ParentObjectID": ""
   },
   "UsageDurability": {

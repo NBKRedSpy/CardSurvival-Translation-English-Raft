@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u6D77\u4E0A\u706B\u5C71\uFF08\u73AF\u5883\uFF09",
-    "LocalizationKey": "",
+    "DefaultText": "海上火山（环境）",
+    "LocalizationKey": "T-lEpFBARqwOhPy/rIsUfUIFoy1H4=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u8FD9\u91CC\u7684\u7A7A\u6C14\u6709\u6BD2\uFF0C\u6211\u5E94\u8BE5\u8C28\u614E\u884C\u4E8B\u3002",
-    "LocalizationKey": "",
+    "DefaultText": "这里的空气有毒，我应该谨慎行事。",
+    "LocalizationKey": "T-9RRWY2oBfeaYsCOHbDo5YI8TL00=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -118,7 +118,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u6D77\u4E0A\u706B\u5C71",
+  "CardImageWarpData": "海上火山",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],

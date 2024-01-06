@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u6D77\u795E\u7684\u5A01\u6151",
-    "LocalizationKey": "",
+    "DefaultText": "海神的威慑",
+    "LocalizationKey": "T-8norw11gCMHlXL4tcqIVDVLSuA0=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u6D77\u795E\u8FD8\u628A\u602A\u7269\u5413\u8DD1\u4E86",
-    "LocalizationKey": "",
+    "DefaultText": "海神还把怪物吓跑了",
+    "LocalizationKey": "T-FiR0iVsFK5SbuTIKBPQm06HQwb4=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -108,7 +108,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u6D77\u795E\u7684\u5A01\u6151",
+  "CardImageWarpData": "海神的威慑",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],
@@ -187,8 +187,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u7EE7\u7EED",
-        "LocalizationKey": "",
+        "DefaultText": "继续",
+        "LocalizationKey": "T-H8GvxcVe2MDMKPmXFbU8rOTDcig=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -219,7 +219,7 @@
           "AffectedTags": [],
           "NOTAffectedThings": [],
           "AffectedTagsWarpData": [
-            "\u602A\u7269"
+            "怪物"
           ],
           "AffectedTagsWarpType": 3,
           "AppliesTo": 0,
@@ -4121,7 +4121,7 @@
   "WeaponReach": 0.0,
   "WhenCreatedSounds": [],
   "WhenCreatedSoundsWarpData": [
-    "\u5956\u52B1"
+    "奖励"
   ],
   "WhenCreatedSoundsWarpType": 3
 }

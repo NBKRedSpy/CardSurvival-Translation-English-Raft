@@ -23,7 +23,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "DefaultStatusIconWarpData": "\u6D77\u795E\u96D5\u50CF\u6570\u91CF",
+  "DefaultStatusIconWarpData": "海神雕像数量",
   "DefaultStatusIconWarpType": 3,
   "DefaultStatusName": {
     "DefaultText": "",
@@ -48,8 +48,8 @@
     "StepValue": 1.0
   },
   "GameName": {
-    "DefaultText": "\u6D77\u795E\u96D5\u50CF\u6570\u91CF",
-    "LocalizationKey": "",
+    "DefaultText": "海神雕像数量",
+    "LocalizationKey": "T-N3lvAhYqGYfGAjaEgKrdNyyqLLM=",
     "ParentObjectID": ""
   },
   "InvertedDirection": false,

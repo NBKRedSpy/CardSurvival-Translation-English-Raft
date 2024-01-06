@@ -1,7 +1,7 @@
 {
   "CardName": {
-    "DefaultText": "\u5C0F\u77F3\u5B50",
-    "LocalizationKey": "",
+    "DefaultText": "小石子",
+    "LocalizationKey": "T-Ofa0loclvCoHG2YGt6YNbdBjyLI=",
     "ParentObjectID": ""
   },
   "CardDescription": {
@@ -256,7 +256,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u5C0F\u77F3\u5B50",
+  "CardImageWarpData": "小石子",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [
@@ -3437,8 +3437,8 @@
   "UniqueID": "e3e62b2041b70ff979dce99965b63036",
   "UniqueOnBoard": false,
   "UnlockConditionsDesc": {
-    "DefaultText": "\u9700\u8981\u77F3\u5934",
-    "LocalizationKey": "",
+    "DefaultText": "需要石头",
+    "LocalizationKey": "T-AYCh9lfSjK3ctuVkTk9m392GFF4=",
     "ParentObjectID": ""
   },
   "UsageDurability": {

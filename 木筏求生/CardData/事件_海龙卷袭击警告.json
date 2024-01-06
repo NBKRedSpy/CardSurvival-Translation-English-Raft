@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u6D77\u9F99\u5377\u88AD\u51FB\u8B66\u544A",
-    "LocalizationKey": "",
+    "DefaultText": "海龙卷袭击警告",
+    "LocalizationKey": "T-TsdQf0jDyyh4ydMVd6eupfB5x1c=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u6D77\u9F99\u5377\u88AD\u51FB\u5373\u5C06\u6765\u4E34\u3002",
-    "LocalizationKey": "",
+    "DefaultText": "海龙卷袭击即将来临。",
+    "LocalizationKey": "T-ue5fhw1yueQfZWnahT2FzfvRJLU=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -108,7 +108,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u6D77\u9F99\u5377\u88AD\u51FB\u8B66\u544A",
+  "CardImageWarpData": "海龙卷袭击警告",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],
@@ -187,8 +187,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u7EE7\u7EED",
-        "LocalizationKey": "",
+        "DefaultText": "继续",
+        "LocalizationKey": "T-H8GvxcVe2MDMKPmXFbU8rOTDcig=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],

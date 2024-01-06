@@ -1,7 +1,7 @@
 {
   "CardName": {
-    "DefaultText": "\u70B8\u9C7C\u85AF\u6761",
-    "LocalizationKey": "",
+    "DefaultText": "炸鱼薯条",
+    "LocalizationKey": "T-CsaQBEwgm/Zz7GZPbN1bzaefmtE=",
     "ParentObjectID": ""
   },
   "CardDescription": {
@@ -481,7 +481,7 @@
           "Special4": 0,
           "Spoilage": 0,
           "Usage": 0,
-          "RequiredTabGroupWarpData": "\u6D77\u9C7C\u8089",
+          "RequiredTabGroupWarpData": "海鱼肉",
           "RequiredTabGroupWarpType": 3
         }
       ]
@@ -3749,8 +3749,8 @@
   "UniqueID": "447be0e01696cc8a9fc82e677b7b4de2",
   "UniqueOnBoard": false,
   "UnlockConditionsDesc": {
-    "DefaultText": "\u9700\u8981\u70F9\u996A\u6280\u80FD",
-    "LocalizationKey": "",
+    "DefaultText": "需要烹饪技能",
+    "LocalizationKey": "T-EgA5E52q8KRc36YNt9kA5NSWtdU=",
     "ParentObjectID": ""
   },
   "UsageDurability": {

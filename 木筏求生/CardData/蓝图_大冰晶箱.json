@@ -1,7 +1,7 @@
 {
   "CardName": {
-    "DefaultText": "\u5927\u51B0\u6676\u7BB1",
-    "LocalizationKey": "",
+    "DefaultText": "大冰晶箱",
+    "LocalizationKey": "T-II+xMDb8aHxPe+IF3KM+r2JThHQ=",
     "ParentObjectID": ""
   },
   "CardDescription": {
@@ -484,7 +484,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u5927\u51B0\u6676\u7BB1",
+  "CardImageWarpData": "大冰晶箱",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [
@@ -3665,8 +3665,8 @@
   "UniqueID": "52a71050533a63c395f9b49734201c98",
   "UniqueOnBoard": false,
   "UnlockConditionsDesc": {
-    "DefaultText": "\u9700\u8981\u51B0\u6676\u7BB1",
-    "LocalizationKey": "",
+    "DefaultText": "需要冰晶箱",
+    "LocalizationKey": "T-yfEi4UHeJ/5iYj9Gdp6QdqKfG6c=",
     "ParentObjectID": ""
   },
   "UsageDurability": {

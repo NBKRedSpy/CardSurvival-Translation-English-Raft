@@ -1,7 +1,7 @@
 {
   "CardName": {
-    "DefaultText": "\u6930\u5B50\u70AE\u53D1\u5C04\u5668",
-    "LocalizationKey": "",
+    "DefaultText": "椰子炮发射器",
+    "LocalizationKey": "T-x5MLyoxKQSjwFLQcFwfpxppV82A=",
     "ParentObjectID": ""
   },
   "CardDescription": {
@@ -477,7 +477,7 @@
           "Special4": 0,
           "Spoilage": 0,
           "Usage": 0,
-          "RequiredTabGroupWarpData": "\u94C1\u9524\u5B50",
+          "RequiredTabGroupWarpData": "铁锤子",
           "RequiredTabGroupWarpType": 3
         },
         {
@@ -675,7 +675,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u6930\u5B50\u70AE\u53D1\u5C04\u5668",
+  "CardImageWarpData": "椰子炮发射器",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [
@@ -3856,8 +3856,8 @@
   "UniqueID": "7d1f18ebd86100a15b7653776dcc1bb4",
   "UniqueOnBoard": false,
   "UnlockConditionsDesc": {
-    "DefaultText": "\u9700\u8981\u94C1\u677F",
-    "LocalizationKey": "",
+    "DefaultText": "需要铁板",
+    "LocalizationKey": "T-7lIRC4ZXFswmm4rtIw4VYg9TBvc=",
     "ParentObjectID": ""
   },
   "UsageDurability": {

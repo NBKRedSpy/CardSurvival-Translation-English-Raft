@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u7535\u51FB\u67AA",
-    "LocalizationKey": "",
+    "DefaultText": "电击枪",
+    "LocalizationKey": "T-X3BY7hkxQnX50kfqlQD00YOzreo=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u8FDE\u9501\u53CD\u5E94\uFF01",
-    "LocalizationKey": "",
+    "DefaultText": "连锁反应！",
+    "LocalizationKey": "T-5cSqwEWgQUXOa7Es65MXg6VExeM=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -108,7 +108,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u7535\u51FB\u67AA",
+  "CardImageWarpData": "电击枪",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],
@@ -3814,6 +3814,6 @@
   "WeaponReach": 0.0,
   "EquipmentTagsWarpType": 3,
   "EquipmentTagsWarpData": [
-    "\u6B66\u5668"
+    "武器"
   ]
 }

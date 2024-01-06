@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u852C\u83DC\u6C99\u62C9",
-    "LocalizationKey": "",
+    "DefaultText": "蔬菜沙拉",
+    "LocalizationKey": "T-LGrnrn/h6EH4Y3l8Y2FT8gF+yhs=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u8FD9\u4E2A\u770B\u8D77\u6765\u5F88\u5065\u5EB7\uFF01",
-    "LocalizationKey": "",
+    "DefaultText": "这个看起来很健康！",
+    "LocalizationKey": "T-29BRoSgh9hfrr9e3QL7wCN3UzUo=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -286,7 +286,7 @@
           "Special4": 0,
           "Spoilage": 0,
           "Usage": 0,
-          "RequiredTabGroupWarpData": "\u852C\u83DC",
+          "RequiredTabGroupWarpData": "蔬菜",
           "RequiredTabGroupWarpType": 3
         },
         {
@@ -470,7 +470,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u852C\u83DC\u6C99\u62C9",
+  "CardImageWarpData": "蔬菜沙拉",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],
@@ -3654,8 +3654,8 @@
   "UniqueID": "6975fb8981d78627be4de9109658c0d8",
   "UniqueOnBoard": false,
   "UnlockConditionsDesc": {
-    "DefaultText": "\u9700\u8981\u70F9\u996A\u6280\u80FD",
-    "LocalizationKey": "",
+    "DefaultText": "需要烹饪技能",
+    "LocalizationKey": "T-EgA5E52q8KRc36YNt9kA5NSWtdU=",
     "ParentObjectID": ""
   },
   "UsageDurability": {

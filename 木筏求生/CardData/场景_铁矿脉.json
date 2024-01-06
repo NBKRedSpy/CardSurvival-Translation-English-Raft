@@ -1,7 +1,7 @@
 {
   "CardName": {
-    "DefaultText": "\u94C1\u77FF\u8109",
-    "LocalizationKey": "",
+    "DefaultText": "铁矿脉",
+    "LocalizationKey": "T-6JGg/FMwi4HP76WAEI+n7GarsEk=",
     "ParentObjectID": ""
   },
   "CardDescription": {
@@ -108,7 +108,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u94C1\u77FF\u8109",
+  "CardImageWarpData": "铁矿脉",
   "CardImageWarpType": 3,
   "CardInteractions": [
     {
@@ -129,8 +129,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u91C7\u77FF",
-        "LocalizationKey": "",
+        "DefaultText": "采矿",
+        "LocalizationKey": "T-0PP0VT0KCvx8QBpRXmvC68BRYnM=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -623,8 +623,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u8F70\u9686\uFF01",
-        "LocalizationKey": "",
+        "DefaultText": "轰隆！",
+        "LocalizationKey": "T-k52YJR5XrDUIh4ObKEnk1VpPsno=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -1061,8 +1061,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u8F70\u9686\uFF01",
-        "LocalizationKey": "",
+        "DefaultText": "轰隆！",
+        "LocalizationKey": "T-k52YJR5XrDUIh4ObKEnk1VpPsno=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -5078,7 +5078,7 @@
     "ShowPopupOnZero": false,
     "TextDisplay": 0,
     "OverrideIconWarpType": 3,
-    "OverrideIconWarpData": "\u94C1\u77FF\u8109"
+    "OverrideIconWarpData": "铁矿脉"
   },
   "VisualEffects": [],
   "WeatherEffects": {

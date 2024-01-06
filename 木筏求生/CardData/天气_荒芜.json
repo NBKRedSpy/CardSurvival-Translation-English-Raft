@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u8352\u829C",
-    "LocalizationKey": "",
+    "DefaultText": "荒芜",
+    "LocalizationKey": "T-6x10SqGPt/ZUFiwiWh6YARXYL8k=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u4F60\u611F\u89C9\u5341\u5206\u7684\u4E0D\u5BF9\u52B2",
-    "LocalizationKey": "",
+    "DefaultText": "你感觉十分的不对劲",
+    "LocalizationKey": "T-Rj+VYfQMVyy02HZ6eDjZBjsCQRE=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -114,7 +114,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u8352\u829C",
+  "CardImageWarpData": "荒芜",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],

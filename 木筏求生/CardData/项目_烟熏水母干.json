@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u70DF\u718F\u6C34\u6BCD\u5E72",
-    "LocalizationKey": "",
+    "DefaultText": "烟熏水母干",
+    "LocalizationKey": "T-vu+8aWNUFNpiRIogTKqJIOiuVfY=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u4E0D\u597D\u5403\u4F46\u662F\u8010\u50A8\u5B58\u7684\u6C34\u6BCD\u5E72",
-    "LocalizationKey": "",
+    "DefaultText": "不好吃但是耐储存的水母干",
+    "LocalizationKey": "T-owHAJoCtThcHaRi0SDxbsTA1Kpc=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -114,7 +114,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u70DF\u718F\u6C34\u6BCD\u5E72",
+  "CardImageWarpData": "烟熏水母干",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],
@@ -193,8 +193,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u5403",
-        "LocalizationKey": "",
+        "DefaultText": "吃",
+        "LocalizationKey": "T-oQ1NWmPmbe/kxl/bNf8nZSkCwvg=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],

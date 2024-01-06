@@ -1,7 +1,7 @@
 {
   "CardName": {
-    "DefaultText": "\u94A9\u7D22",
-    "LocalizationKey": "",
+    "DefaultText": "钩索",
+    "LocalizationKey": "T-17wdOqdEFGkAdSGr5U8IAcBSYJo=",
     "ParentObjectID": ""
   },
   "CardDescription": {
@@ -389,7 +389,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u94A9\u7D22",
+  "CardImageWarpData": "钩索",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [
@@ -3570,8 +3570,8 @@
   "UniqueID": "954bfb29f43fb8bfa649fc1dfd375174",
   "UniqueOnBoard": false,
   "UnlockConditionsDesc": {
-    "DefaultText": "\u9700\u8981\u91D1\u5C5E\u5E9F\u6599",
-    "LocalizationKey": "",
+    "DefaultText": "需要金属废料",
+    "LocalizationKey": "T-XhH2Pjfjj8wBrFt0uRerIIbAtw4=",
     "ParentObjectID": ""
   },
   "UsageDurability": {

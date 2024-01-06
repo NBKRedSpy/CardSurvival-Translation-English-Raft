@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u70ED\u53EF\u53EF",
-    "LocalizationKey": "",
+    "DefaultText": "热可可",
+    "LocalizationKey": "T-QYDerVWVfDtvNnY3GWdIsc/m5ak=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u4E00\u676F\u70ED\u53EF\u53EF",
-    "LocalizationKey": "",
+    "DefaultText": "一杯热可可",
+    "LocalizationKey": "T-MTO0Eaidid+BfghhdExDOsDYDDg=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -108,7 +108,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u70ED\u53EF\u53EF",
+  "CardImageWarpData": "热可可",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],
@@ -187,8 +187,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u559D",
-        "LocalizationKey": "",
+        "DefaultText": "喝",
+        "LocalizationKey": "T-mYLFztGa7MR3eYQxvsuzRaYu/cA=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -1081,7 +1081,7 @@
         "Active": false,
         "FloatValue": 0.0
       },
-      "EffectName": "\u655E\u53E3\u5BB9\u5668",
+      "EffectName": "敞口容器",
       "EffectStacksWithRequiredCards": false,
       "FuelRateModifier": {
         "Active": false,

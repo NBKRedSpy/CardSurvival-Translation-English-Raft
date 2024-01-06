@@ -23,7 +23,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "DefaultStatusIconWarpData": "\u5E06\u6570\u91CF",
+  "DefaultStatusIconWarpData": "帆数量",
   "DefaultStatusIconWarpType": 3,
   "DefaultStatusName": {
     "DefaultText": "",
@@ -48,8 +48,8 @@
     "StepValue": 1.0
   },
   "GameName": {
-    "DefaultText": "\u5E06\u6570\u91CF",
-    "LocalizationKey": "",
+    "DefaultText": "帆数量",
+    "LocalizationKey": "T-8h4Q/E2e/DR96LGnBBzlYGERuzU=",
     "ParentObjectID": ""
   },
   "InvertedDirection": false,

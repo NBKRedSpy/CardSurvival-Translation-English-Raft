@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u9489\u5B50\u7EC4",
-    "LocalizationKey": "",
+    "DefaultText": "钉子组",
+    "LocalizationKey": "T-6NA8Y2il84le0NFiGWLrUJRcy14=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u4E13\u95E8\u7528\u6765\u5FEB\u901F\u586B\u88C5\u9489\u67AA",
-    "LocalizationKey": "",
+    "DefaultText": "专门用来快速填装钉枪",
+    "LocalizationKey": "T-raaPhBVRQteEktqVC5asfr101ic=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -108,7 +108,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u9489\u5B50\u7EC4",
+  "CardImageWarpData": "钉子组",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],

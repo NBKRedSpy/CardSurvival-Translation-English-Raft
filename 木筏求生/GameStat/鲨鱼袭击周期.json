@@ -23,7 +23,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "DefaultStatusIconWarpData": "\u9CA8\u9C7C\u88AD\u51FB\u5468\u671F",
+  "DefaultStatusIconWarpData": "鲨鱼袭击周期",
   "DefaultStatusIconWarpType": 3,
   "DefaultStatusName": {
     "DefaultText": "",
@@ -48,8 +48,8 @@
     "StepValue": 1.0
   },
   "GameName": {
-    "DefaultText": "\u9CA8\u9C7C\u88AD\u51FB\u5468\u671F",
-    "LocalizationKey": "",
+    "DefaultText": "鲨鱼袭击周期",
+    "LocalizationKey": "T-a93jcRM3ZfYDZwv8/r8TwPe9OR8=",
     "ParentObjectID": ""
   },
   "InvertedDirection": false,

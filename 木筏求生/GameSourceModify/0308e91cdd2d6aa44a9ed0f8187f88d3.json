@@ -18,8 +18,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u79CD\u690D\u571F\u8C46",
-        "LocalizationKey": "",
+        "DefaultText": "种植土豆",
+        "LocalizationKey": "T-hG8tFwo6Y3Pmk4Xyy7cld48hBtM=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -390,8 +390,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u79CD\u690D\u5377\u5FC3\u83DC",
-        "LocalizationKey": "",
+        "DefaultText": "种植卷心菜",
+        "LocalizationKey": "T-PrOV1gqIV0I6rBWCY0xFeKF3xLM=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -761,8 +761,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u79CD\u690D\u6A58\u5B50\u6811",
-        "LocalizationKey": "",
+        "DefaultText": "种植橘子树",
+        "LocalizationKey": "T-xYMkGip/u2kEm+6vpFIuufKtc7E=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -1132,8 +1132,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u79CD\u690D\u53EF\u53EF\u6811",
-        "LocalizationKey": "",
+        "DefaultText": "种植可可树",
+        "LocalizationKey": "T-/USJcwNWmKUPrpLd6XN6FItb8ik=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -1503,8 +1503,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u79CD\u690D\u4ED9\u4EBA\u638C",
-        "LocalizationKey": "",
+        "DefaultText": "种植仙人掌",
+        "LocalizationKey": "T-GXjP158RfjJNiJBFPQfuBxlSDlY=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -1874,8 +1874,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u79CD\u690D\u80E1\u841D\u535C",
-        "LocalizationKey": "",
+        "DefaultText": "种植胡萝卜",
+        "LocalizationKey": "T-2OcORXeAjIICdKokqKXAGscdSME=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],

@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u6930\u5B50\u70AE\u53D1\u5C04\u5668",
-    "LocalizationKey": "",
+    "DefaultText": "椰子炮发射器",
+    "LocalizationKey": "T-x5MLyoxKQSjwFLQcFwfpxppV82A=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u70ED\u6B66\u5668\u6765\u88AD\uFF01",
-    "LocalizationKey": "",
+    "DefaultText": "热武器来袭！",
+    "LocalizationKey": "T-9u0IS30poHvpZYbvXoQOUFC1Mc4=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -108,7 +108,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u6930\u5B50\u70AE\u53D1\u5C04\u5668",
+  "CardImageWarpData": "椰子炮发射器",
   "CardImageWarpType": 3,
   "CardInteractions": [
     {
@@ -129,8 +129,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u88C5\u70AE\u5F39",
-        "LocalizationKey": "",
+        "DefaultText": "装炮弹",
+        "LocalizationKey": "T-3k1p94dPeUgSRwRum5yFDIjHeCM=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -483,8 +483,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u88C5\u70AE\u5F39",
-        "LocalizationKey": "",
+        "DefaultText": "装炮弹",
+        "LocalizationKey": "T-3k1p94dPeUgSRwRum5yFDIjHeCM=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -4522,6 +4522,6 @@
   "WeaponReach": 0.0,
   "EquipmentTagsWarpType": 3,
   "EquipmentTagsWarpData": [
-    "\u6B66\u5668"
+    "武器"
   ]
 }

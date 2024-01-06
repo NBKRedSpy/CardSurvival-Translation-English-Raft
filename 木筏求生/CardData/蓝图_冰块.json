@@ -1,7 +1,7 @@
 {
   "CardName": {
-    "DefaultText": "\u51B0\u5757",
-    "LocalizationKey": "",
+    "DefaultText": "冰块",
+    "LocalizationKey": "T-3krRlBtlYJPVmqomJMeDA982s2k=",
     "ParentObjectID": ""
   },
   "CardDescription": {
@@ -486,7 +486,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u51B0\u5757",
+  "CardImageWarpData": "冰块",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],
@@ -3670,8 +3670,8 @@
   "UniqueID": "8793a2ed7984cd280d1bf6faa65c087c",
   "UniqueOnBoard": false,
   "UnlockConditionsDesc": {
-    "DefaultText": "\u9700\u8981\u70F9\u996A\u6280\u80FD",
-    "LocalizationKey": "",
+    "DefaultText": "需要烹饪技能",
+    "LocalizationKey": "T-EgA5E52q8KRc36YNt9kA5NSWtdU=",
     "ParentObjectID": ""
   },
   "UsageDurability": {

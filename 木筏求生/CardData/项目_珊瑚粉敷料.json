@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u73CA\u745A\u7C89\u6577\u6599",
-    "LocalizationKey": "",
+    "DefaultText": "珊瑚粉敷料",
+    "LocalizationKey": "T-mBkTiGfA5nsKaIYFxYVbtH1apFE=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u6D77\u6D0B\u5F3A\u529B\u6577\u6599",
-    "LocalizationKey": "",
+    "DefaultText": "海洋强力敷料",
+    "LocalizationKey": "T-7TAbB+CwUQ4e05rB22ooVFOgh8s=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -112,7 +112,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u73CA\u745A\u7C89\u6577\u6599",
+  "CardImageWarpData": "珊瑚粉敷料",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],
@@ -191,8 +191,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u53BB\u9664\u73CA\u745A\u7C89",
-        "LocalizationKey": "",
+        "DefaultText": "去除珊瑚粉",
+        "LocalizationKey": "T-SRXGmRoSa0FZnhzH4+Tkdg5PFVE=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],

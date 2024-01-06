@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u9CA8\u9C7C\u76AE\u5E06",
-    "LocalizationKey": "",
+    "DefaultText": "鲨鱼皮帆",
+    "LocalizationKey": "T-05TIKMVgd+M1jBlaAl9my4/U8z0=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u66F4\u5FEB\u7684\u822A\u884C\u3002",
-    "LocalizationKey": "",
+    "DefaultText": "更快的航行。",
+    "LocalizationKey": "T-W1yp9hubrkhqeYLGE7f6e9JDdz4=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -108,7 +108,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u9CA8\u9C7C\u76AE\u5E06",
+  "CardImageWarpData": "鲨鱼皮帆",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],
@@ -187,8 +187,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u6536\u5E06",
-        "LocalizationKey": "",
+        "DefaultText": "收帆",
+        "LocalizationKey": "T-V1gwSdz88+qxCtmH99mQfh0L9u4=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -3774,8 +3774,8 @@
     "OnFullNotification": 0,
     "OnZero": {
       "ActionDescription": {
-        "DefaultText": "\u8239\u5E06\u574F\u4E86\u3002",
-        "LocalizationKey": "",
+        "DefaultText": "船帆坏了。",
+        "LocalizationKey": "T-praRudw8C4VfW7w/cg57G5hjDoc=",
         "ParentObjectID": ""
       },
       "ActionLog": {

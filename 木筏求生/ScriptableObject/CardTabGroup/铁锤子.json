@@ -15,11 +15,11 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "TabIconWarpData": "\u94C1\u9524\u5B50",
+  "TabIconWarpData": "铁锤子",
   "TabIconWarpType": 3,
   "TabName": {
-    "DefaultText": "\u94C1\u9524\u5B50",
-    "LocalizationKey": "",
+    "DefaultText": "铁锤子",
+    "LocalizationKey": "T-rMt4wtI5ZGVOkF9l2r3uwM4oDrY=",
     "ParentObjectID": ""
   }
 }

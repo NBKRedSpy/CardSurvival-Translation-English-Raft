@@ -1,7 +1,7 @@
 {
   "CardName": {
-    "DefaultText": "\u6F02\u6D6E\u7269\u6536\u96C6\u7F51",
-    "LocalizationKey": "",
+    "DefaultText": "漂浮物收集网",
+    "LocalizationKey": "T-RsPjebRYQc3XD6zGAvEA3yO4enY=",
     "ParentObjectID": ""
   },
   "CardDescription": {
@@ -484,7 +484,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u6F02\u6D6E\u7269\u6536\u96C6\u7F51",
+  "CardImageWarpData": "漂浮物收集网",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [
@@ -3665,8 +3665,8 @@
   "UniqueID": "3eabe1946d0ecea615bab350ecd039ec",
   "UniqueOnBoard": false,
   "UnlockConditionsDesc": {
-    "DefaultText": "\u9700\u8981\u957F\u6728\u68CD",
-    "LocalizationKey": "",
+    "DefaultText": "需要长木棍",
+    "LocalizationKey": "T-040ozmcXoE/hVaCej2wfrKzApAg=",
     "ParentObjectID": ""
   },
   "UsageDurability": {

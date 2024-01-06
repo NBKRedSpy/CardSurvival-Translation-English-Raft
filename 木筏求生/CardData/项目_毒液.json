@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u6BD2\u6DB2",
-    "LocalizationKey": "",
+    "DefaultText": "毒液",
+    "LocalizationKey": "T-TpCkvIiWbQk30j0sw5e/2ZJabGE=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u522B\u8214\uFF01",
-    "LocalizationKey": "",
+    "DefaultText": "别舔！",
+    "LocalizationKey": "T-j+x/RU0v9DMdKe/PFGJI2DuZHck=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -108,7 +108,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u6BD2\u6DB2",
+  "CardImageWarpData": "毒液",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],

@@ -23,7 +23,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "DefaultStatusIconWarpData": "\u9632\u5FA1",
+  "DefaultStatusIconWarpData": "防御",
   "DefaultStatusIconWarpType": 3,
   "DefaultStatusName": {
     "DefaultText": "",
@@ -48,8 +48,8 @@
     "StepValue": 1.0
   },
   "GameName": {
-    "DefaultText": "\u9632\u5FA1",
-    "LocalizationKey": "",
+    "DefaultText": "防御",
+    "LocalizationKey": "T-ICnmEskN9I0XjwVYY6/mZQ/OydA=",
     "ParentObjectID": ""
   },
   "InvertedDirection": false,

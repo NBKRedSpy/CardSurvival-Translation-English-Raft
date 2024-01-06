@@ -1,7 +1,7 @@
 {
   "CardName": {
-    "DefaultText": "\u79CD\u690D\u76C6",
-    "LocalizationKey": "",
+    "DefaultText": "种植盆",
+    "LocalizationKey": "T-N5gjk1nj4ddQ2eErZs/08GRiK4E=",
     "ParentObjectID": ""
   },
   "CardDescription": {
@@ -477,7 +477,7 @@
           "Special4": 0,
           "Spoilage": 0,
           "Usage": 0,
-          "RequiredTabGroupWarpData": "\u94C1\u9524\u5B50",
+          "RequiredTabGroupWarpData": "铁锤子",
           "RequiredTabGroupWarpType": 3
         }
       ]
@@ -580,7 +580,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u79CD\u690D\u76C6",
+  "CardImageWarpData": "种植盆",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [
@@ -3761,8 +3761,8 @@
   "UniqueID": "2cd8b2f4be2d8e7334993bffe90291d7",
   "UniqueOnBoard": false,
   "UnlockConditionsDesc": {
-    "DefaultText": "\u9700\u8981\u9489\u5B50",
-    "LocalizationKey": "",
+    "DefaultText": "需要钉子",
+    "LocalizationKey": "T-wdoRzxz1uOOcDxlOVLP7dekcEvQ=",
     "ParentObjectID": ""
   },
   "UsageDurability": {

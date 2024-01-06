@@ -1,17 +1,17 @@
 {
   "CardName": {
-    "DefaultText": "\u94C1\u76FE",
-    "LocalizationKey": "",
+    "DefaultText": "铁盾",
+    "LocalizationKey": "T-nDNmLVNJHZ0gduArwQ6870CZYfE=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u7A0D\u5FAE\u6297\u6253\u4E86\u4E00\u4E9B",
-    "LocalizationKey": "",
+    "DefaultText": "稍微抗打了一些",
+    "LocalizationKey": "T-5Cmw7aj5wkSHy2K+h+woJ5S57bQ=",
     "ParentObjectID": ""
   },
   "CardTags": [],
   "CardTagsWarpData": [
-    "\u9632\u5177",
+    "防具",
     "tag_Hammer",
     "tag_Heavy",
     "tag_Pretty"
@@ -113,7 +113,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u94C1\u76FE",
+  "CardImageWarpData": "铁盾",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],
@@ -3539,8 +3539,8 @@
     "OnFullNotification": 0,
     "OnZero": {
       "ActionDescription": {
-        "DefaultText": "\u94C1\u76FE\u724C\u7528\u5B8C\u4E86\uFF01",
-        "LocalizationKey": "",
+        "DefaultText": "铁盾牌用完了！",
+        "LocalizationKey": "T-UytqnI7GHM/5fagwKvuv4FS6WLQ=",
         "ParentObjectID": ""
       },
       "ActionLog": {

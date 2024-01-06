@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u672A\u70E7\u5236\u7684\u6BD2\u6DB2\u74F6",
-    "LocalizationKey": "",
+    "DefaultText": "未烧制的毒液瓶",
+    "LocalizationKey": "T-1tQT0z/8NXzPqL+f23nm15G0fS8=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u7A91\u7089\u5C31\u53EF\u4EE5\u4E86",
-    "LocalizationKey": "",
+    "DefaultText": "窑炉就可以了",
+    "LocalizationKey": "T-/4V188t1OtUCMMSjVES75aiHIkA=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -108,7 +108,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u672A\u70E7\u5236\u7684\u6BD2\u6DB2\u74F6",
+  "CardImageWarpData": "未烧制的毒液瓶",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],

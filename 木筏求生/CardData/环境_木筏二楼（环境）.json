@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u6728\u7B4F\u4E8C\u697C",
-    "LocalizationKey": "",
+    "DefaultText": "木筏二楼",
+    "LocalizationKey": "T-FbW693ev5RcChRwyKFB2/+lpy9A=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u4F60\u80FD\u906E\u98CE\u907F\u96E8\u770B\u5230\u66F4\u8FDC\u7684\u5730\u65B9\u4E86\uFF01",
-    "LocalizationKey": "",
+    "DefaultText": "你能遮风避雨看到更远的地方了！",
+    "LocalizationKey": "T-mO/WinSHRTkPA2JhOCaasb2Zzvc=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -108,7 +108,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u6728\u7B4F\u4E8C\u697C",
+  "CardImageWarpData": "木筏二楼",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],

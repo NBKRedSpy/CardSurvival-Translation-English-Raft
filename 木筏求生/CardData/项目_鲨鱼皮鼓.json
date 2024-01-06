@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u9CA8\u9C7C\u76AE\u9F13",
-    "LocalizationKey": "",
+    "DefaultText": "鲨鱼皮鼓",
+    "LocalizationKey": "T-rBa1jLSbtdTW5ZXB05CX4nj5NyE=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u8BA9\u9B42\u7075\u4EEC\u542C\u5230\u4F60\u7684\u53EC\u5524\u3002",
-    "LocalizationKey": "",
+    "DefaultText": "让魂灵们听到你的召唤。",
+    "LocalizationKey": "T-JDiTQOess7LMe+uF2paXkMkaIvA=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -110,7 +110,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u9CA8\u9C7C\u76AE\u9F13",
+  "CardImageWarpData": "鲨鱼皮鼓",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],
@@ -189,8 +189,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u7EC3\u4E60",
-        "LocalizationKey": "",
+        "DefaultText": "练习",
+        "LocalizationKey": "T-W38hu/5dCufkeQh0VZ/keGoh1GU=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -508,8 +508,8 @@
     },
     {
       "ActionDescription": {
-        "DefaultText": "\u8FF7\u5931\u5728\u9F13\u70B9\u4E2D\u3002",
-        "LocalizationKey": "",
+        "DefaultText": "迷失在鼓点中。",
+        "LocalizationKey": "T-4RxoxkLdtPe12oIpYp1BtY6Zx1E=",
         "ParentObjectID": ""
       },
       "ActionLog": {
@@ -524,8 +524,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u8DC3\u52A8\u7684\u8282\u594F",
-        "LocalizationKey": "",
+        "DefaultText": "跃动的节奏",
+        "LocalizationKey": "T-loE7J6bRu4oET/59v/D1RBEGJb8=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -858,8 +858,8 @@
     },
     {
       "ActionDescription": {
-        "DefaultText": "\u4EBA\u9F13\u5408\u4E00\uFF01",
-        "LocalizationKey": "",
+        "DefaultText": "人鼓合一！",
+        "LocalizationKey": "T-SSnAfRubFivcyB1roxKsRW1io5A=",
         "ParentObjectID": ""
       },
       "ActionLog": {
@@ -874,8 +874,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u6FC0\u6602\u7684\u8282\u594F",
-        "LocalizationKey": "",
+        "DefaultText": "激昂的节奏",
+        "LocalizationKey": "T-DYU1VZ3bvZP5r7VZpLHfj9IlicA=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -1208,8 +1208,8 @@
     },
     {
       "ActionDescription": {
-        "DefaultText": "\u4EBA\u9F13\u5408\u4E00\uFF01",
-        "LocalizationKey": "",
+        "DefaultText": "人鼓合一！",
+        "LocalizationKey": "T-SSnAfRubFivcyB1roxKsRW1io5A=",
         "ParentObjectID": ""
       },
       "ActionLog": {
@@ -1224,8 +1224,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u5165\u8FF7\u51FB\u9F13",
-        "LocalizationKey": "",
+        "DefaultText": "入迷击鼓",
+        "LocalizationKey": "T-+lLVotE27yEE85KqdJeDWFT4iyE=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],

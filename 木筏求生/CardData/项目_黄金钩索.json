@@ -1,17 +1,17 @@
 {
   "CardName": {
-    "DefaultText": "\u9EC4\u91D1\u94A9\u7D22",
-    "LocalizationKey": "",
+    "DefaultText": "黄金钩索",
+    "LocalizationKey": "T-l+dwbVN4cgg4x33+6qQkXQ9vA28=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u6C38\u8FDC\u4E0D\u4F1A\u574F\uFF01",
-    "LocalizationKey": "",
+    "DefaultText": "永远不会坏！",
+    "LocalizationKey": "T-wXWQhiZwNAaYuu1z1lI4SJeLx10=",
     "ParentObjectID": ""
   },
   "CardTags": [],
   "CardTagsWarpData": [
-    "\u94A9\u7D22"
+    "钩索"
   ],
   "CardTagsWarpType": 3,
   "CardType": 0,
@@ -110,7 +110,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u9EC4\u91D1\u94A9\u7D22",
+  "CardImageWarpData": "黄金钩索",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],

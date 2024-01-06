@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u864E\u9CB8\u8BF1\u9975",
-    "LocalizationKey": "",
+    "DefaultText": "虎鲸诱饵",
+    "LocalizationKey": "T-xc+qCV6CgNjxJ8qg3WqOGijt6+Y=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u53EC\u5524\u864E\u9CB8\uFF01",
-    "LocalizationKey": "",
+    "DefaultText": "召唤虎鲸！",
+    "LocalizationKey": "T-YlZfIXsIaheH8yCm6x0ybI3e4Us=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -108,7 +108,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u864E\u9CB8\u8BF1\u9975",
+  "CardImageWarpData": "虎鲸诱饵",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],

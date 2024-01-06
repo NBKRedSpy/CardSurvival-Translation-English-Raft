@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u6E29\u5BA4",
-    "LocalizationKey": "",
+    "DefaultText": "温室",
+    "LocalizationKey": "T-i1eSDOwFI5zYLSKXfCq8YTbD5dI=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u4E00\u4E2A\u6E29\u5BA4\u80FD\u591F\u52A0\u901F\u519C\u7530\u751F\u957F",
-    "LocalizationKey": "",
+    "DefaultText": "一个温室能够加速农田生长",
+    "LocalizationKey": "T-ZTtS5+paDgktYXogFjvuJLSUwZk=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -110,7 +110,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u6E29\u5BA4",
+  "CardImageWarpData": "温室",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],

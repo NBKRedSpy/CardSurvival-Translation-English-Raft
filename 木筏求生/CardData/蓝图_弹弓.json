@@ -1,7 +1,7 @@
 {
   "CardName": {
-    "DefaultText": "\u5F39\u5F13",
-    "LocalizationKey": "",
+    "DefaultText": "弹弓",
+    "LocalizationKey": "T-vRUYDFGER7W2JfYFcMd99qoQIsY=",
     "ParentObjectID": ""
   },
   "CardDescription": {
@@ -484,7 +484,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u5F39\u5F13",
+  "CardImageWarpData": "弹弓",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [
@@ -3665,8 +3665,8 @@
   "UniqueID": "022ce9f95f0685fb39a029bad3bc9118",
   "UniqueOnBoard": false,
   "UnlockConditionsDesc": {
-    "DefaultText": "\u9700\u8981\u7EC6\u7EBF",
-    "LocalizationKey": "",
+    "DefaultText": "需要细线",
+    "LocalizationKey": "T-ANGcU3n0hT7CMEDsJ6CqGC7YbdE=",
     "ParentObjectID": ""
   },
   "UsageDurability": {

@@ -23,7 +23,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "DefaultStatusIconWarpData": "\u4E2D\u6D77\u8FB9\u7F18\u4E2D\u4ECB\u8BA1\u6570\u5668",
+  "DefaultStatusIconWarpData": "中海边缘中介计数器",
   "DefaultStatusIconWarpType": 3,
   "DefaultStatusName": {
     "DefaultText": "",
@@ -48,8 +48,8 @@
     "StepValue": 1.0
   },
   "GameName": {
-    "DefaultText": "\u4E2D\u6D77\u8FB9\u7F18\u4E2D\u4ECB\u8BA1\u6570\u5668",
-    "LocalizationKey": "",
+    "DefaultText": "中海边缘中介计数器",
+    "LocalizationKey": "T-bEimWAcg7UvIcXAIIX2kCCvkg0M=",
     "ParentObjectID": ""
   },
   "InvertedDirection": false,
@@ -115,8 +115,8 @@
         }
       ],
       "GameName": {
-        "DefaultText": "\u4E2D\u6D77\u8FB9\u7F18\u4E2D\u4ECB\u8BA1\u6570\u5668\u7684\u7B2C1\u9636\u6BB5",
-        "LocalizationKey": "",
+        "DefaultText": "中海边缘中介计数器的第1阶段",
+        "LocalizationKey": "T-PbDmw6t6Dj6/1LhLMkv9gP5aD64=",
         "ParentObjectID": ""
       },
       "GameOver": false,
@@ -124,7 +124,7 @@
         "m_FileID": 0,
         "m_PathID": 0
       },
-      "IconWarpData": "\u4E2D\u6D77\u8FB9\u7F18\u4E2D\u4ECB\u8BA1\u6570\u5668",
+      "IconWarpData": "中海边缘中介计数器",
       "IconWarpType": 3,
       "NotifyPlayer": 1,
       "PreventingActionMessage": {

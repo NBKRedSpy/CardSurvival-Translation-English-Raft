@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u5973\u4EC6\u88C5",
-    "LocalizationKey": "",
+    "DefaultText": "女仆装",
+    "LocalizationKey": "T-fFr+yFqHkRxv97+H8aw8rgqbXrg=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u8981\u7A7F\u8FD9\u4E2A\u5417\uFF01",
-    "LocalizationKey": "",
+    "DefaultText": "要穿这个吗！",
+    "LocalizationKey": "T-kMZYq/YvRqOv1RLkJBT+zCLXdb0=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -112,7 +112,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u5973\u4EC6\u88C5",
+  "CardImageWarpData": "女仆装",
   "CardImageWarpType": 3,
   "CardInteractions": [
     {
@@ -133,8 +133,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u4FEE\u590D",
-        "LocalizationKey": "",
+        "DefaultText": "修复",
+        "LocalizationKey": "T-WQJTr0jMwjxIfGj+MO7AMZ0zO1k=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -545,8 +545,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u6495\u5F00\u5E03\u6599",
-        "LocalizationKey": "",
+        "DefaultText": "撕开布料",
+        "LocalizationKey": "T-iWpp4acpy5tOPkxKYpiv1GWlvdg=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],

@@ -23,7 +23,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "DefaultStatusIconWarpData": "\u8352\u829C",
+  "DefaultStatusIconWarpData": "荒芜",
   "DefaultStatusIconWarpType": 3,
   "DefaultStatusName": {
     "DefaultText": "",
@@ -31,8 +31,8 @@
     "ParentObjectID": ""
   },
   "Description": {
-    "DefaultText": "\u9632\u6B62\u5929\u6C14\u88AB\u9876\u6389\u602A\u7269\u65E0\u6CD5\u5237\u65B0\u7684\u95EE\u9898",
-    "LocalizationKey": "",
+    "DefaultText": "防止天气被顶掉怪物无法刷新的问题",
+    "LocalizationKey": "T-DEgtw8cXzPC7PlVbE4yRLjPHQW0=",
     "ParentObjectID": ""
   },
   "FeedbackInfo": {
@@ -48,8 +48,8 @@
     "StepValue": 1.0
   },
   "GameName": {
-    "DefaultText": "\u8352\u829C",
-    "LocalizationKey": "",
+    "DefaultText": "荒芜",
+    "LocalizationKey": "T-6x10SqGPt/ZUFiwiWh6YARXYL8k=",
     "ParentObjectID": ""
   },
   "InvertedDirection": false,
@@ -88,15 +88,15 @@
       "AlertSounds": [],
       "ConfidenceModifier": 0.0,
       "Description": {
-        "DefaultText": "\u9632\u6B62\u5929\u6C14\u88AB\u9876\u6389\u602A\u7269\u65E0\u6CD5\u5237\u65B0\u7684\u95EE\u9898",
-        "LocalizationKey": "",
+        "DefaultText": "防止天气被顶掉怪物无法刷新的问题",
+        "LocalizationKey": "T-DEgtw8cXzPC7PlVbE4yRLjPHQW0=",
         "ParentObjectID": ""
       },
       "EffectsOnActions": [],
       "EffectsOnStats": [],
       "GameName": {
-        "DefaultText": "\u8352\u829C",
-        "LocalizationKey": "",
+        "DefaultText": "荒芜",
+        "LocalizationKey": "T-6x10SqGPt/ZUFiwiWh6YARXYL8k=",
         "ParentObjectID": ""
       },
       "GameOver": false,
@@ -104,7 +104,7 @@
         "m_FileID": 0,
         "m_PathID": 0
       },
-      "IconWarpData": "\u8352\u829C",
+      "IconWarpData": "荒芜",
       "IconWarpType": 3,
       "NotifyPlayer": 1,
       "PreventingActionMessage": {

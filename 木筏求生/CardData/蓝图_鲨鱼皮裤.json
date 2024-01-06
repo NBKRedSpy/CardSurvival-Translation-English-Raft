@@ -1,7 +1,7 @@
 {
   "CardName": {
-    "DefaultText": "\u9CA8\u9C7C\u76AE\u88E4",
-    "LocalizationKey": "",
+    "DefaultText": "鲨鱼皮裤",
+    "LocalizationKey": "T-AY7ASFUSccQA24HXaDYM8OMj03s=",
     "ParentObjectID": ""
   },
   "CardDescription": {
@@ -485,7 +485,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u9CA8\u9C7C\u76AE\u88E4",
+  "CardImageWarpData": "鲨鱼皮裤",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],
@@ -3669,8 +3669,8 @@
   "UniqueID": "9f587f436b018f8e74dbf1115248ec87",
   "UniqueOnBoard": false,
   "UnlockConditionsDesc": {
-    "DefaultText": "\u9700\u8981\u7EBA\u7EC7\u6280\u80FD",
-    "LocalizationKey": "",
+    "DefaultText": "需要纺织技能",
+    "LocalizationKey": "T-gu5smweblc8msBSzMNfVw+nXfSs=",
     "ParentObjectID": ""
   },
   "UsageDurability": {

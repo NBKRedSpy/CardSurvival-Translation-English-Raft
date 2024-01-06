@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u9690\u8EAB\u96F7\u8FBE",
-    "LocalizationKey": "",
+    "DefaultText": "隐身雷达",
+    "LocalizationKey": "T-2BswcBN4sdXxkEN5c0mpCyEcVoY=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u9700\u8981\u7535\u6C60\uFF0C\u5F00\u542F\u65F6\u8BA9\u4F60\u514D\u53D7\u6D77\u6D0B\u751F\u7269\u7684\u4FB5\u6270",
-    "LocalizationKey": "",
+    "DefaultText": "需要电池，开启时让你免受海洋生物的侵扰",
+    "LocalizationKey": "T-3v1Ggs7i7L4n28vAv20oNLWlWYI=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -108,7 +108,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u9690\u8EAB\u96F7\u8FBE",
+  "CardImageWarpData": "隐身雷达",
   "CardImageWarpType": 3,
   "CardInteractions": [
     {
@@ -129,8 +129,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u8865\u5145",
-        "LocalizationKey": "",
+        "DefaultText": "补充",
+        "LocalizationKey": "T-Wwv9YvS7Qc6uWCUoyV3VuWQKtQE=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -541,8 +541,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u5F00\u542F",
-        "LocalizationKey": "",
+        "DefaultText": "开启",
+        "LocalizationKey": "T-JWeDt9TqDsbzB52yv4h31mpeWME=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],

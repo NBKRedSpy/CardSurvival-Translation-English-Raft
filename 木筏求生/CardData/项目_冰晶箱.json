@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u51B0\u6676\u7BB1",
-    "LocalizationKey": "",
+    "DefaultText": "冰晶箱",
+    "LocalizationKey": "T-L4nw27UTtf1g+/fH4TfAWwgwz4I=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u5F3A\u5316\u540E\u7684\u7BB1\u5B50\u51B0\u51BB\u4E86\u91CC\u9762\u7684\u751F\u547D",
-    "LocalizationKey": "",
+    "DefaultText": "强化后的箱子冰冻了里面的生命",
+    "LocalizationKey": "T-NDfSXIwr4hiMurBFPc7eTWj+u2k=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -108,7 +108,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u51B0\u6676\u7BB1",
+  "CardImageWarpData": "冰晶箱",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],
@@ -187,8 +187,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u653E\u7F6E",
-        "LocalizationKey": "",
+        "DefaultText": "放置",
+        "LocalizationKey": "T-+HwHw+LXnXl+/7FwS13hN4Wklsw=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -452,7 +452,7 @@
         "Active": false,
         "FloatValue": 0.0
       },
-      "EffectName": "\u4FDD\u9C9C",
+      "EffectName": "保鲜",
       "EffectStacksWithRequiredCards": false,
       "FuelRateModifier": {
         "Active": false,

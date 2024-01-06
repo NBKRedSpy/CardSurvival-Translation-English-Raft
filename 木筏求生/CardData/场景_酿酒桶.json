@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u917F\u9152\u6876",
-    "LocalizationKey": "",
+    "DefaultText": "酿酒桶",
+    "LocalizationKey": "T-xRUhPsNXO+oloisiH2fZxSYwssk=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u6211\u5E94\u8BE5\u653E\u571F\u8C46\u8FDB\u53BB",
-    "LocalizationKey": "",
+    "DefaultText": "我应该放土豆进去",
+    "LocalizationKey": "T-Id8vO6/BpBx4U1GSEUmsiFKGdL8=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -108,7 +108,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u917F\u9152\u6876",
+  "CardImageWarpData": "酿酒桶",
   "CardImageWarpType": 3,
   "CardInteractions": [
     {
@@ -129,8 +129,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u5012\u5165",
-        "LocalizationKey": "",
+        "DefaultText": "倒入",
+        "LocalizationKey": "T-5nk2vAzl/pmAnibAmP10JI/lb6g=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -375,8 +375,8 @@
       "RequiredReceivingContainerTag": [],
       "RequiredReceivingDurabilities": {
         "FailMessage": {
-          "DefaultText": "\u5DF2\u7ECF\u6EE1\u4E86",
-          "LocalizationKey": "",
+          "DefaultText": "已经满了",
+          "LocalizationKey": "T-roNzw8p4EB2kYLZeKb9LxJQSzBQ=",
           "ParentObjectID": ""
         },
         "HideActionIfNotMet": false,
@@ -472,8 +472,8 @@
   "ContentWeightReduction": 0.0,
   "CookingConditions": {
     "CookingPausedNotification": {
-      "DefaultText": "\u9700\u8981\u571F\u8C46\uFF01",
-      "LocalizationKey": "",
+      "DefaultText": "需要土豆！",
+      "LocalizationKey": "T-4Wp9J7Egpe1WK0NbUo/Y/3IKEPk=",
       "ParentObjectID": ""
     },
     "CookingPausedSound": {
@@ -502,8 +502,8 @@
   "CookingRecipes": [
     {
       "ActionName": {
-        "DefaultText": "\u9152\u7CBE",
-        "LocalizationKey": "",
+        "DefaultText": "酒精",
+        "LocalizationKey": "T-3PvmgaOg38DqGYwHZJYL7p25Q/Y=",
         "ParentObjectID": ""
       },
       "CannotCookText": {
@@ -577,8 +577,8 @@
         "m_PathID": 0
       },
       "CustomCookingText": {
-        "DefaultText": "{0}\u540E\u5B8C\u6210",
-        "LocalizationKey": "",
+        "DefaultText": "{0}后完成",
+        "LocalizationKey": "T-FOYYcobPVk187e3WMWVcuwy9UOs=",
         "ParentObjectID": ""
       },
       "CustomNotification": {
@@ -778,8 +778,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u62C6\u5378",
-        "LocalizationKey": "",
+        "DefaultText": "拆卸",
+        "LocalizationKey": "T-JfVe9ZcrjfjKM7EvUw5NHEbVwYw=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -2070,8 +2070,8 @@
   "SpecialDurability1": {
     "Active": true,
     "CardStatName": {
-      "DefaultText": "\u571F\u8C46",
-      "LocalizationKey": "",
+      "DefaultText": "土豆",
+      "LocalizationKey": "T-1BbrOEiJXXTZU2qmKDCZHTgTCRs=",
       "ParentObjectID": ""
     },
     "ExtraRateWhenEquipped": 0.0,

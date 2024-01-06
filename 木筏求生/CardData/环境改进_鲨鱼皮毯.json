@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u9CA8\u9C7C\u76AE\u6BEF",
-    "LocalizationKey": "",
+    "DefaultText": "鲨鱼皮毯",
+    "LocalizationKey": "T-J0Axz6px9BdBaJFAiac/EcxPZHA=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u7CBE\u81F4\u53C8\u8212\u670D\u3002",
-    "LocalizationKey": "",
+    "DefaultText": "精致又舒服。",
+    "LocalizationKey": "T-K1WWcUD2PBSMwWDhUc3OI5+qawY=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -704,7 +704,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u9CA8\u9C7C\u76AE\u6BEF",
+  "CardImageWarpData": "鲨鱼皮毯",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [

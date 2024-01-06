@@ -2,13 +2,13 @@
   "Actions": [
     {
       "ActionName": {
-        "DefaultText": "\u89E6\u53D1",
-        "LocalizationKey": "",
+        "DefaultText": "触发",
+        "LocalizationKey": "T-J+zPl4UL+UPnVtbGOOtvzo3MudM=",
         "ParentObjectID": ""
       },
       "ActionDescription": {
-        "DefaultText": "\u6BCF\u65E5\u60CA\u559C",
-        "LocalizationKey": "",
+        "DefaultText": "每日惊喜",
+        "LocalizationKey": "T-icLteAmUfyFUw24I6D1VTCUYJXk=",
         "ParentObjectID": ""
       },
       "RepeatOptions": 2,

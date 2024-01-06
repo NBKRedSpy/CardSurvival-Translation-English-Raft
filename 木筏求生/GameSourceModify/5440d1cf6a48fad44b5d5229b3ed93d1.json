@@ -18,8 +18,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u6DFB\u5165\u7164\u77FF",
-        "LocalizationKey": "",
+        "DefaultText": "添入煤矿",
+        "LocalizationKey": "T-T4/2EVK6rOfxJK84Hi1LZ+T4pOI=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -355,7 +355,7 @@
   "InventoryFilterWarpType": 5,
   "InventoryFilterWarpData": {
     "AcceptedTagsWarpData": [
-      "\u53EF\u70E7\u5236\u7684"
+      "可烧制的"
     ],
     "AcceptedTagsWarpType": 6
   }

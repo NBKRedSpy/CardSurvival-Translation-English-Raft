@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u6728\u7BB1",
-    "LocalizationKey": "",
+    "DefaultText": "木箱",
+    "LocalizationKey": "T-OBO/Q+gqnMNQ8zb9vGRqlCvYTTk=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u6211\u53EF\u4EE5\u628A\u7269\u54C1\u50A8\u5B58\u5728\u91CC\u9762\u3002",
-    "LocalizationKey": "",
+    "DefaultText": "我可以把物品储存在里面。",
+    "LocalizationKey": "T-0Z2KPQFBwgdAd/X2vz+AqOPTRvQ=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -112,7 +112,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u6728\u7BB1",
+  "CardImageWarpData": "木箱",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],
@@ -191,8 +191,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u653E\u7F6E",
-        "LocalizationKey": "",
+        "DefaultText": "放置",
+        "LocalizationKey": "T-+HwHw+LXnXl+/7FwS13hN4Wklsw=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],

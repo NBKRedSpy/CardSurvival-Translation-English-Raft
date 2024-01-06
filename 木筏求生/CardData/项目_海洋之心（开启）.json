@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u6D77\u6D0B\u4E4B\u5FC3\uFF08\u5F00\u542F\uFF09",
-    "LocalizationKey": "",
+    "DefaultText": "海洋之心（开启）",
+    "LocalizationKey": "T-OWC+1y89h7kQmZUdxWMu/GwnjI0=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u52A0\u901F\u4F60\u4F24\u53E3\u7684\u6062\u590D",
-    "LocalizationKey": "",
+    "DefaultText": "加速你伤口的恢复",
+    "LocalizationKey": "T-87e2SJHj0ojslKvLCaoNehQW6oc=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -113,7 +113,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u6D77\u6D0B\u4E4B\u5FC3\uFF08\u5F00\u542F\uFF09",
+  "CardImageWarpData": "海洋之心（开启）",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],
@@ -192,8 +192,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u5173\u95ED",
-        "LocalizationKey": "",
+        "DefaultText": "关闭",
+        "LocalizationKey": "T-bBS9f2+eVORgJNNd/ixFSMmjgh0=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -1860,7 +1860,7 @@
           "Active": false,
           "FloatValue": 0.0
         },
-        "EffectName": "\u6D77\u6D0B\u529B\u91CF",
+        "EffectName": "海洋力量",
         "EffectStacksWithRequiredCards": false,
         "FuelRateModifier": {
           "Active": false,

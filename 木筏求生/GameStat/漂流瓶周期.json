@@ -23,7 +23,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "DefaultStatusIconWarpData": "\u6F02\u6D41\u74F6\u5468\u671F",
+  "DefaultStatusIconWarpData": "漂流瓶周期",
   "DefaultStatusIconWarpType": 3,
   "DefaultStatusName": {
     "DefaultText": "",
@@ -48,8 +48,8 @@
     "StepValue": 1.0
   },
   "GameName": {
-    "DefaultText": "\u6F02\u6D41\u74F6\u5468\u671F",
-    "LocalizationKey": "",
+    "DefaultText": "漂流瓶周期",
+    "LocalizationKey": "T-4RCSiYaxKksPAGFf0jxyNJTaUh4=",
     "ParentObjectID": ""
   },
   "InvertedDirection": false,

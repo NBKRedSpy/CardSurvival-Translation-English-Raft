@@ -1,7 +1,7 @@
 {
   "CardName": {
-    "DefaultText": "\u7B80\u6613\u951A",
-    "LocalizationKey": "",
+    "DefaultText": "简易锚",
+    "LocalizationKey": "T-hqTbpyqxX3pIxm3AxKnPYIiEoow=",
     "ParentObjectID": ""
   },
   "CardDescription": {
@@ -389,7 +389,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u7B80\u6613\u951A",
+  "CardImageWarpData": "简易锚",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [
@@ -3570,8 +3570,8 @@
   "UniqueID": "8cc6406aed4453bd6bbe8fbf3d87c911",
   "UniqueOnBoard": false,
   "UnlockConditionsDesc": {
-    "DefaultText": "\u9700\u8981\u77F3\u5934",
-    "LocalizationKey": "",
+    "DefaultText": "需要石头",
+    "LocalizationKey": "T-AYCh9lfSjK3ctuVkTk9m392GFF4=",
     "ParentObjectID": ""
   },
   "UsageDurability": {

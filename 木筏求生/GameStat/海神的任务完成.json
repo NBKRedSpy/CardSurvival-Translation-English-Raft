@@ -23,7 +23,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "DefaultStatusIconWarpData": "\u6D77\u795E\u7684\u4EFB\u52A1\u5B8C\u6210",
+  "DefaultStatusIconWarpData": "海神的任务完成",
   "DefaultStatusIconWarpType": 3,
   "DefaultStatusName": {
     "DefaultText": "",
@@ -48,8 +48,8 @@
     "StepValue": 1.0
   },
   "GameName": {
-    "DefaultText": "\u6D77\u795E\u7684\u4EFB\u52A1\u5B8C\u6210",
-    "LocalizationKey": "",
+    "DefaultText": "海神的任务完成",
+    "LocalizationKey": "T-KgTWmQKxxwsnN7yxTdtsgRs1zdA=",
     "ParentObjectID": ""
   },
   "InvertedDirection": false,

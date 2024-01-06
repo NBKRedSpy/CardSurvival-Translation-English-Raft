@@ -1,7 +1,7 @@
 {
   "CardName": {
-    "DefaultText": "\u6D77\u6D0B\u76C6",
-    "LocalizationKey": "",
+    "DefaultText": "海洋盆",
+    "LocalizationKey": "T-TH28YHNNqiJUKdBtYUkp/QNJ/pE=",
     "ParentObjectID": ""
   },
   "CardDescription": {
@@ -572,7 +572,7 @@
           "Special4": 0,
           "Spoilage": 0,
           "Usage": 0,
-          "RequiredTabGroupWarpData": "\u94C1\u9524\u5B50",
+          "RequiredTabGroupWarpData": "铁锤子",
           "RequiredTabGroupWarpType": 3
         }
       ]
@@ -675,7 +675,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u6D77\u6D0B\u76C6",
+  "CardImageWarpData": "海洋盆",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [
@@ -3856,8 +3856,8 @@
   "UniqueID": "236d114fb287c8f0361aa405efc20b70",
   "UniqueOnBoard": false,
   "UnlockConditionsDesc": {
-    "DefaultText": "\u9700\u8981\u6728\u677F",
-    "LocalizationKey": "",
+    "DefaultText": "需要木板",
+    "LocalizationKey": "T-lAeKt+vyIyd7W+j8iC2OfOhlzhs=",
     "ParentObjectID": ""
   },
   "UsageDurability": {

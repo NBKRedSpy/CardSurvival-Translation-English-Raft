@@ -1,18 +1,18 @@
 {
   "CardName": {
-    "DefaultText": "\u51B0\u5757",
-    "LocalizationKey": "",
+    "DefaultText": "冰块",
+    "LocalizationKey": "T-3krRlBtlYJPVmqomJMeDA982s2k=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u51B7\u51B7\u7684~",
-    "LocalizationKey": "",
+    "DefaultText": "冷冷的~",
+    "LocalizationKey": "T-sQB22H/xTnZ6pZWJ4sAgNLkJ2SM=",
     "ParentObjectID": ""
   },
   "CardTags": [],
   "CardTagsWarpData": [
     "tag_Cookable",
-    "\u53EF\u88AB\u71C3\u70E7"
+    "可被燃烧"
   ],
   "CardTagsWarpType": 3,
   "CardType": 0,
@@ -111,7 +111,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u51B0\u5757",
+  "CardImageWarpData": "冰块",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],
@@ -190,8 +190,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u98DF\u7528",
-        "LocalizationKey": "",
+        "DefaultText": "食用",
+        "LocalizationKey": "T-/CTIPWxzNS43sBPJ2MPBHWGtsdM=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],

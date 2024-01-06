@@ -23,7 +23,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "DefaultStatusIconWarpData": "\u7EF4\u751F\u7D20",
+  "DefaultStatusIconWarpData": "维生素",
   "DefaultStatusIconWarpType": 3,
   "DefaultStatusName": {
     "DefaultText": "",
@@ -31,8 +31,8 @@
     "ParentObjectID": ""
   },
   "Description": {
-    "DefaultText": "\u957F\u671F\u51FA\u6D77\u5FC5\u987B\u7684\u8425\u517B\u5143\u7D20",
-    "LocalizationKey": "",
+    "DefaultText": "长期出海必须的营养元素",
+    "LocalizationKey": "T-if06Mg/PkqTmDhe25YAGbxvJa1s=",
     "ParentObjectID": ""
   },
   "FeedbackInfo": {
@@ -48,8 +48,8 @@
     "StepValue": 1.0
   },
   "GameName": {
-    "DefaultText": "\u7EF4\u751F\u7D20\u6548\u679C",
-    "LocalizationKey": "",
+    "DefaultText": "维生素效果",
+    "LocalizationKey": "T-wwLhmy9vTQvEeFiPuHzzw5rsP/g=",
     "ParentObjectID": ""
   },
   "InvertedDirection": false,
@@ -88,8 +88,8 @@
       "AlertSounds": [],
       "ConfidenceModifier": 0.0,
       "Description": {
-        "DefaultText": "\u957F\u671F\u51FA\u6D77\u5FC5\u987B\u7684\u8425\u517B\u5143\u7D20",
-        "LocalizationKey": "",
+        "DefaultText": "长期出海必须的营养元素",
+        "LocalizationKey": "T-if06Mg/PkqTmDhe25YAGbxvJa1s=",
         "ParentObjectID": ""
       },
       "EffectsOnActions": [],
@@ -134,8 +134,8 @@
         }
       ],
       "GameName": {
-        "DefaultText": "\u4E2D\u7B49\u7EF4\u751F\u7D20\u6548\u679C",
-        "LocalizationKey": "",
+        "DefaultText": "中等维生素效果",
+        "LocalizationKey": "T-Bv6NreeK7wlkXebas8P6+ix7urs=",
         "ParentObjectID": ""
       },
       "GameOver": false,
@@ -143,7 +143,7 @@
         "m_FileID": 0,
         "m_PathID": 0
       },
-      "IconWarpData": "\u7EF4\u751F\u7D20",
+      "IconWarpData": "维生素",
       "IconWarpType": 3,
       "NotifyPlayer": 1,
       "PreventingActionMessage": {
@@ -176,8 +176,8 @@
       "AlertSounds": [],
       "ConfidenceModifier": 0.0,
       "Description": {
-        "DefaultText": "\u957F\u671F\u51FA\u6D77\u5FC5\u987B\u7684\u8425\u517B\u5143\u7D20",
-        "LocalizationKey": "",
+        "DefaultText": "长期出海必须的营养元素",
+        "LocalizationKey": "T-if06Mg/PkqTmDhe25YAGbxvJa1s=",
         "ParentObjectID": ""
       },
       "EffectsOnActions": [],
@@ -222,8 +222,8 @@
         }
       ],
       "GameName": {
-        "DefaultText": "\u9AD8\u7EF4\u751F\u7D20\u6548\u679C",
-        "LocalizationKey": "",
+        "DefaultText": "高维生素效果",
+        "LocalizationKey": "T-qeTBr6/qbLsvFkLwG6hELan70qk=",
         "ParentObjectID": ""
       },
       "GameOver": false,
@@ -231,7 +231,7 @@
         "m_FileID": 0,
         "m_PathID": 0
       },
-      "IconWarpData": "\u7EF4\u751F\u7D20",
+      "IconWarpData": "维生素",
       "IconWarpType": 3,
       "NotifyPlayer": 1,
       "PreventingActionMessage": {

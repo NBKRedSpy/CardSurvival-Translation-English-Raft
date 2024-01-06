@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u80E1\u841D\u535C\u79CD\u5B50",
-    "LocalizationKey": "",
+    "DefaultText": "胡萝卜种子",
+    "LocalizationKey": "T-KBqamOv6s77JphNCVQ0GM4ZruCs=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u8FD9\u53EF\u4EE5\u5403\uFF1F",
-    "LocalizationKey": "",
+    "DefaultText": "这可以吃？",
+    "LocalizationKey": "T-tQOye79u42CleJUY8PqfcJu5Qlk=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -112,7 +112,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u80E1\u841D\u535C\u79CD\u5B50",
+  "CardImageWarpData": "胡萝卜种子",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],
@@ -191,8 +191,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u98DF\u7528",
-        "LocalizationKey": "",
+        "DefaultText": "食用",
+        "LocalizationKey": "T-/CTIPWxzNS43sBPJ2MPBHWGtsdM=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],

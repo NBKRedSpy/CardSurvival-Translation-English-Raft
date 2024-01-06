@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u4E00\u888B\u94F6\u86C7\u5E01",
-    "LocalizationKey": "",
+    "DefaultText": "一袋银蛇币",
+    "LocalizationKey": "T-yU3ZYd1k9GCbStcVHVYUIgw+aMg=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u4F60\u518D\u4E5F\u4E0D\u7528\u4E00\u4E2A\u4E00\u4E2A\u7684\u4E70\u4E1C\u897F\u4E86",
-    "LocalizationKey": "",
+    "DefaultText": "你再也不用一个一个的买东西了",
+    "LocalizationKey": "T-Lie7nOaBZsGdnsJ2LjHUvfNSyGQ=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -108,7 +108,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u4E00\u888B\u94F6\u86C7\u5E01",
+  "CardImageWarpData": "一袋银蛇币",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],
@@ -187,8 +187,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u53D6\u51FA",
-        "LocalizationKey": "",
+        "DefaultText": "取出",
+        "LocalizationKey": "T-RP17PBwgqpkbjhMjr8i0/Rgedmg=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],

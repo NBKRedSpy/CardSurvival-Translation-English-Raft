@@ -1,7 +1,7 @@
 {
   "CardName": {
-    "DefaultText": "\u98CE\u5411\u6807",
-    "LocalizationKey": "",
+    "DefaultText": "风向标",
+    "LocalizationKey": "T-OJ3+rK/fZjVoT1NYl8NfkDk86o4=",
     "ParentObjectID": ""
   },
   "CardDescription": {
@@ -676,7 +676,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u98CE\u5411\u6807",
+  "CardImageWarpData": "风向标",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [
@@ -3857,8 +3857,8 @@
   "UniqueID": "3d9979729c34407d2a66ea5c6be4f1c4",
   "UniqueOnBoard": false,
   "UnlockConditionsDesc": {
-    "DefaultText": "\u9700\u8981\u5E03",
-    "LocalizationKey": "",
+    "DefaultText": "需要布",
+    "LocalizationKey": "T-rfem6U04CoZJxSdM0WfSD8YbasU=",
     "ParentObjectID": ""
   },
   "UsageDurability": {

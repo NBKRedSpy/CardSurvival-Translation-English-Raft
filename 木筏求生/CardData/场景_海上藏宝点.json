@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u6D77\u4E0A\u85CF\u5B9D\u70B9",
-    "LocalizationKey": "",
+    "DefaultText": "海上藏宝点",
+    "LocalizationKey": "T-E+eyG+tMp0zLOOitDzbaqimsJ3Q=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u6211\u8981\u9493\u51FA\u5B9D\u85CF\uFF01",
-    "LocalizationKey": "",
+    "DefaultText": "我要钓出宝藏！",
+    "LocalizationKey": "T-XePfsgkjrDeu2Vk4r4bfOEgvtOo=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -108,7 +108,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u6D77\u4E0A\u85CF\u5B9D\u70B9",
+  "CardImageWarpData": "海上藏宝点",
   "CardImageWarpType": 3,
   "CardInteractions": [
     {
@@ -129,8 +129,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u9493\u9C7C",
-        "LocalizationKey": "",
+        "DefaultText": "钓鱼",
+        "LocalizationKey": "T-gSSDAZdytObj+vpAGocTYJGfyE4=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -621,8 +621,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u9493\u9C7C",
-        "LocalizationKey": "",
+        "DefaultText": "钓鱼",
+        "LocalizationKey": "T-gSSDAZdytObj+vpAGocTYJGfyE4=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -1113,8 +1113,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u9493\u9C7C",
-        "LocalizationKey": "",
+        "DefaultText": "钓鱼",
+        "LocalizationKey": "T-gSSDAZdytObj+vpAGocTYJGfyE4=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],

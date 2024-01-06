@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u6D77\u9E25\u9E1F\u98DF",
-    "LocalizationKey": "",
+    "DefaultText": "海鸥鸟食",
+    "LocalizationKey": "T-U6DV9BhFL2V6upEqea+Sab0kPJQ=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u6D77\u9E25\u9972\u6599\uFF0C\u9002\u5408\u7528\u6765\u586B\u5145\u5582\u98DF\u5668\u3002",
-    "LocalizationKey": "",
+    "DefaultText": "海鸥饲料，适合用来填充喂食器。",
+    "LocalizationKey": "T-wIzfxSDnyC10RA6Hf1fP2E6p6+Y=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -3437,8 +3437,8 @@
   "UniqueID": "4e392ceba042ea705d81377142fb5e85",
   "UniqueOnBoard": false,
   "UnlockConditionsDesc": {
-    "DefaultText": "\u9700\u8981\u6D77\u9E25\u5582\u98DF\u5668",
-    "LocalizationKey": "",
+    "DefaultText": "需要海鸥喂食器",
+    "LocalizationKey": "T-F6L0xxCjxQgmVTB51XrCJR1YV50=",
     "ParentObjectID": ""
   },
   "UsageDurability": {

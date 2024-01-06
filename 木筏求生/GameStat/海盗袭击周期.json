@@ -23,7 +23,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "DefaultStatusIconWarpData": "\u6D77\u76D7\u88AD\u51FB\u5468\u671F",
+  "DefaultStatusIconWarpData": "海盗袭击周期",
   "DefaultStatusIconWarpType": 3,
   "DefaultStatusName": {
     "DefaultText": "",
@@ -48,8 +48,8 @@
     "StepValue": 1.0
   },
   "GameName": {
-    "DefaultText": "\u6D77\u76D7\u88AD\u51FB\u5468\u671F",
-    "LocalizationKey": "",
+    "DefaultText": "海盗袭击周期",
+    "LocalizationKey": "T-ROYqDSNJIyVQqYq/sA7df+IXGs4=",
     "ParentObjectID": ""
   },
   "InvertedDirection": false,

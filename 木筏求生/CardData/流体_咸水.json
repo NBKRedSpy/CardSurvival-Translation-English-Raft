@@ -1,17 +1,17 @@
 {
   "CardName": {
-    "DefaultText": "\u54B8\u6C34",
-    "LocalizationKey": "",
+    "DefaultText": "咸水",
+    "LocalizationKey": "T-ZiG+hqHhZCHngb/9pQtbry0Vqvc=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u8FD8\u662F\u4E0D\u80FD\u591A\u559D\u3002",
-    "LocalizationKey": "",
+    "DefaultText": "还是不能多喝。",
+    "LocalizationKey": "T-CQcgknfW4sxAGXmor8YfIkkxXFg=",
     "ParentObjectID": ""
   },
   "CardTags": [],
   "CardTagsWarpData": [
-    "\u54B8\u6C34"
+    "咸水"
   ],
   "CardTagsWarpType": 3,
   "CardType": 9,
@@ -110,7 +110,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u54B8\u6C34",
+  "CardImageWarpData": "咸水",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],
@@ -189,8 +189,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u996E\u7528",
-        "LocalizationKey": "",
+        "DefaultText": "饮用",
+        "LocalizationKey": "T-dZh6limxWBhNJc+0VQstnCG2Q5I=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -447,8 +447,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u6D17\u4E2A\u6FA1",
-        "LocalizationKey": "",
+        "DefaultText": "洗个澡",
+        "LocalizationKey": "T-XHayfKwch1ne2InFQT3Fnu8/iL4=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],

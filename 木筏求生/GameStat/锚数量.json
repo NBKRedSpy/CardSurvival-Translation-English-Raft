@@ -23,7 +23,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "DefaultStatusIconWarpData": "\u951A\u6570\u91CF",
+  "DefaultStatusIconWarpData": "锚数量",
   "DefaultStatusIconWarpType": 3,
   "DefaultStatusName": {
     "DefaultText": "",
@@ -48,8 +48,8 @@
     "StepValue": 1.0
   },
   "GameName": {
-    "DefaultText": "\u951A\u6570\u91CF",
-    "LocalizationKey": "",
+    "DefaultText": "锚数量",
+    "LocalizationKey": "T-CzvXfa0ha/L5w7P4gzUWVDmujQo=",
     "ParentObjectID": ""
   },
   "InvertedDirection": false,

@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u9EC4\u91D1\u9A6C",
-    "LocalizationKey": "",
+    "DefaultText": "黄金马",
+    "LocalizationKey": "T-H/kHrOk0LWUFeJmDeqVuwXd79e0=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u5B83\u5F70\u663E\u7740\u4F60\u7684\u5BCC\u6709",
-    "LocalizationKey": "",
+    "DefaultText": "它彰显着你的富有",
+    "LocalizationKey": "T-uCRZukbjYcKIuffZViuUHPLeRaY=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -110,7 +110,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u9EC4\u91D1\u9A6C",
+  "CardImageWarpData": "黄金马",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],

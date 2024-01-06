@@ -1,7 +1,7 @@
 {
   "CardName": {
-    "DefaultText": "\u4E00\u56E2\u5E9F\u94C1",
-    "LocalizationKey": "",
+    "DefaultText": "一团废铁",
+    "LocalizationKey": "T-5I1oo7kIbMskkShVs1YS9s5sQic=",
     "ParentObjectID": ""
   },
   "CardDescription": {
@@ -352,7 +352,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u4E00\u56E2\u5E9F\u94C1",
+  "CardImageWarpData": "一团废铁",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],
@@ -3536,8 +3536,8 @@
   "UniqueID": "56b19c267ae6eccd57b490f59bbb89ec",
   "UniqueOnBoard": false,
   "UnlockConditionsDesc": {
-    "DefaultText": "\u9700\u8981\u91D1\u5DE5\u6280\u80FD",
-    "LocalizationKey": "",
+    "DefaultText": "需要金工技能",
+    "LocalizationKey": "T-x6GaXWvaS65PS1lLE6ixux0fA3c=",
     "ParentObjectID": ""
   },
   "UsageDurability": {

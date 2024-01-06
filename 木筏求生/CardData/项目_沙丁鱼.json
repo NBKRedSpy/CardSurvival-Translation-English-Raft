@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u6C99\u4E01\u9C7C",
-    "LocalizationKey": "",
+    "DefaultText": "沙丁鱼",
+    "LocalizationKey": "T-munMmoHRlP/wcoV8cph6W3aFrpM=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u6700\u5E38\u89C1\u7684\u6DF1\u6D77\u9C7C",
-    "LocalizationKey": "",
+    "DefaultText": "最常见的深海鱼",
+    "LocalizationKey": "T-5gSAwImp+7D6UUrRe2Kml7aydog=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -114,7 +114,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u6C99\u4E01\u9C7C",
+  "CardImageWarpData": "沙丁鱼",
   "CardImageWarpType": 3,
   "CardInteractions": [
     {
@@ -135,8 +135,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u5256\u5F00",
-        "LocalizationKey": "",
+        "DefaultText": "剖开",
+        "LocalizationKey": "T-cGTC5eo1/7Hw8nfdzC8p4TDGyjA=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],

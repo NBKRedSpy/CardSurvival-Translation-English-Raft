@@ -1,19 +1,19 @@
 {
   "CardName": {
-    "DefaultText": "\u6728\u7532",
-    "LocalizationKey": "",
+    "DefaultText": "木甲",
+    "LocalizationKey": "T-5rCQvH64kb25b2GWGCEXS1IsCU0=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u7B80\u964B\u7684\u80F8\u90E8\u9632\u5177",
-    "LocalizationKey": "",
+    "DefaultText": "简陋的胸部防具",
+    "LocalizationKey": "T-BOEJrVY7Q9Ob9Os3oqTNvq6X838=",
     "ParentObjectID": ""
   },
   "CardTags": [],
   "CardTagsWarpData": [
     "tag_Ears",
     "tag_InnerLegs",
-    "\u9632\u5177"
+    "防具"
   ],
   "CardTagsWarpType": 3,
   "CardType": 0,
@@ -112,7 +112,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u6728\u7532",
+  "CardImageWarpData": "木甲",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],

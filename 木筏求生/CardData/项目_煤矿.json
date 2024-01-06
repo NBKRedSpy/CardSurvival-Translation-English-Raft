@@ -1,17 +1,17 @@
 {
   "CardName": {
-    "DefaultText": "\u7164\u77FF",
-    "LocalizationKey": "",
+    "DefaultText": "煤矿",
+    "LocalizationKey": "T-kcNDRVw7zLd7mum4YWw6SJMTlVE=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u66F4\u8010\u7528\u7684\u71C3\u6599",
-    "LocalizationKey": "",
+    "DefaultText": "更耐用的燃料",
+    "LocalizationKey": "T-OjiF/9dx+P5lwt1bss4E2Wlw6Fw=",
     "ParentObjectID": ""
   },
   "CardTags": [],
   "CardTagsWarpData": [
-    "\u53EF\u88AB\u71C3\u70E7"
+    "可被燃烧"
   ],
   "CardTagsWarpType": 3,
   "CardType": 0,
@@ -110,7 +110,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u7164\u77FF",
+  "CardImageWarpData": "煤矿",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],

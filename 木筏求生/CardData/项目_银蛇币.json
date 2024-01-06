@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u94F6\u86C7\u5E01",
-    "LocalizationKey": "",
+    "DefaultText": "银蛇币",
+    "LocalizationKey": "T-MtLZq//iihYKFvHZOx2N1a6OJZU=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u53E4\u4EE3\u6D77\u4E0A\u7684\u901A\u7528\u8D27\u5E01",
-    "LocalizationKey": "",
+    "DefaultText": "古代海上的通用货币",
+    "LocalizationKey": "T-Yh9Kn1voXfKnyfC7eV9n1A7/Bo8=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -108,7 +108,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u94F6\u86C7\u5E01",
+  "CardImageWarpData": "银蛇币",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],

@@ -23,7 +23,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "DefaultStatusIconWarpData": "\u6F02\u6D6E\u6811\u53F6\u6570\u91CF",
+  "DefaultStatusIconWarpData": "漂浮树叶数量",
   "DefaultStatusIconWarpType": 3,
   "DefaultStatusName": {
     "DefaultText": "",
@@ -48,8 +48,8 @@
     "StepValue": 1.0
   },
   "GameName": {
-    "DefaultText": "\u6F02\u6D6E\u6811\u53F6\u6570\u91CF",
-    "LocalizationKey": "",
+    "DefaultText": "漂浮树叶数量",
+    "LocalizationKey": "T-TH2/0MBTKgy7SGB69I6emnxDzIY=",
     "ParentObjectID": ""
   },
   "InvertedDirection": false,

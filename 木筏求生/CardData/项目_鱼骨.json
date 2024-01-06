@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u9C7C\u9AA8",
-    "LocalizationKey": "",
+    "DefaultText": "鱼骨",
+    "LocalizationKey": "T-gt6AhP/441qPoOTw2Q2A4UwXmY8=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u5C0F\u800C\u950B\u5229\u7684\u9AA8\u5934",
-    "LocalizationKey": "",
+    "DefaultText": "小而锋利的骨头",
+    "LocalizationKey": "T-XccZBwLjXCK2EJFHDuroEJj9EQQ=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -108,7 +108,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u9C7C\u9AA8",
+  "CardImageWarpData": "鱼骨",
   "CardImageWarpType": 3,
   "CardInteractions": [
     {
@@ -129,8 +129,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u7814\u78E8",
-        "LocalizationKey": "",
+        "DefaultText": "研磨",
+        "LocalizationKey": "T-xmwAZ90e3VV8Sa/RWeFSKEMcLiE=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -539,8 +539,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u5236\u4F5C\u94A9",
-        "LocalizationKey": "",
+        "DefaultText": "制作钩",
+        "LocalizationKey": "T-at4GTVj8eDUmtjEzyJ2R654YoKY=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -792,8 +792,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u5236\u4F5C\u9488",
-        "LocalizationKey": "",
+        "DefaultText": "制作针",
+        "LocalizationKey": "T-hExkH+mpPKGCeh9GzcfzRiMKgPc=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],

@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u9CA8\u9C7C\u88AD\u51FB",
-    "LocalizationKey": "",
+    "DefaultText": "鲨鱼袭击",
+    "LocalizationKey": "T-Bo90PTN71MiUaajGYlsf3LQLPXw=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u9CA8\u9C7C\u5543\u54AC\u4E86\u4F60\u7684\u6728\u7B4F\u3002",
-    "LocalizationKey": "",
+    "DefaultText": "鲨鱼啃咬了你的木筏。",
+    "LocalizationKey": "T-AcSNRnB6NMdPvtBBkaQDLuM5agQ=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -108,7 +108,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u9CA8\u9C7C\u88AD\u51FB",
+  "CardImageWarpData": "鲨鱼袭击",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],
@@ -187,8 +187,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u7EE7\u7EED",
-        "LocalizationKey": "",
+        "DefaultText": "继续",
+        "LocalizationKey": "T-H8GvxcVe2MDMKPmXFbU8rOTDcig=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -4048,7 +4048,7 @@
   "WeaponReach": 0.0,
   "WhenCreatedSounds": [],
   "WhenCreatedSoundsWarpData": [
-    "\u9CA8\u9C7C\u88AD\u51FB"
+    "鲨鱼袭击"
   ],
   "WhenCreatedSoundsWarpType": 3
 }

@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u6D77\u8C5A\u4F19\u4F34",
-    "LocalizationKey": "",
+    "DefaultText": "海豚伙伴",
+    "LocalizationKey": "T-w4NOKaEUxM2clvQ8oP40j5UhvGE=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u4E00\u4E2A\u6D77\u4E0A\u7684\u5FE0\u8BDA\u4F19\u4F34",
-    "LocalizationKey": "",
+    "DefaultText": "一个海上的忠诚伙伴",
+    "LocalizationKey": "T-CMpsZomzf/QthbLvK9rfq+EQL8I=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -108,7 +108,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u6D77\u8C5A\u4F19\u4F34",
+  "CardImageWarpData": "海豚伙伴",
   "CardImageWarpType": 3,
   "CardInteractions": [
     {
@@ -129,8 +129,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u5582\u98DF",
-        "LocalizationKey": "",
+        "DefaultText": "喂食",
+        "LocalizationKey": "T-WbzdULC8F33lZk95fgyebhdrV0o=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -611,8 +611,8 @@
       "RequiredReceivingContainerTag": [],
       "RequiredReceivingDurabilities": {
         "FailMessage": {
-          "DefaultText": "\u4E0D\u997F",
-          "LocalizationKey": "",
+          "DefaultText": "不饿",
+          "LocalizationKey": "T-VmiRss+uLQ8iqsDOR6o5sdQRy/8=",
           "ParentObjectID": ""
         },
         "HideActionIfNotMet": false,
@@ -715,8 +715,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u5582\u98DF",
-        "LocalizationKey": "",
+        "DefaultText": "喂食",
+        "LocalizationKey": "T-WbzdULC8F33lZk95fgyebhdrV0o=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -1202,8 +1202,8 @@
       "RequiredReceivingContainerTag": [],
       "RequiredReceivingDurabilities": {
         "FailMessage": {
-          "DefaultText": "\u4E0D\u997F",
-          "LocalizationKey": "",
+          "DefaultText": "不饿",
+          "LocalizationKey": "T-VmiRss+uLQ8iqsDOR6o5sdQRy/8=",
           "ParentObjectID": ""
         },
         "HideActionIfNotMet": false,
@@ -1365,8 +1365,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u73A9\u800D",
-        "LocalizationKey": "",
+        "DefaultText": "玩耍",
+        "LocalizationKey": "T-ghCNgnzUpbaXUq5dkApGPw47mZk=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -2213,7 +2213,7 @@
         "Active": true,
         "FloatValue": 10.0
       },
-      "EffectName": "\u5403\u9971\u559D\u8DB3",
+      "EffectName": "吃饱喝足",
       "EffectStacksWithRequiredCards": false,
       "FuelRateModifier": {
         "Active": false,
@@ -2286,8 +2286,8 @@
   "Progress": {
     "Active": true,
     "CardStatName": {
-      "DefaultText": "\u5FC3\u60C5",
-      "LocalizationKey": "",
+      "DefaultText": "心情",
+      "LocalizationKey": "T-MA7ljiTP1MgbfX7FTzjdzUgj6Zw=",
       "ParentObjectID": ""
     },
     "ExtraRateWhenEquipped": 0.0,
@@ -2805,8 +2805,8 @@
   "SpecialDurability1": {
     "Active": true,
     "CardStatName": {
-      "DefaultText": "\u793C\u7269\u65F6\u95F4",
-      "LocalizationKey": "",
+      "DefaultText": "礼物时间",
+      "LocalizationKey": "T-YThOo42JEcSE7uOEFtt8UAGrVXk=",
       "ParentObjectID": ""
     },
     "ExtraRateWhenEquipped": 0.0,
@@ -4180,8 +4180,8 @@
   "SpecialDurability4": {
     "Active": true,
     "CardStatName": {
-      "DefaultText": "\u73CD\u73E0",
-      "LocalizationKey": "",
+      "DefaultText": "珍珠",
+      "LocalizationKey": "T-hpQjx9sNDdxs5jpxYUjtU1pLhxo=",
       "ParentObjectID": ""
     },
     "ExtraRateWhenEquipped": 0.0,
@@ -4696,8 +4696,8 @@
   "SpoilageTime": {
     "Active": true,
     "CardStatName": {
-      "DefaultText": "\u9965\u997F",
-      "LocalizationKey": "",
+      "DefaultText": "饥饿",
+      "LocalizationKey": "T-2SASeWGGAhqt6P1kGjxkLoyJ9Hc=",
       "ParentObjectID": ""
     },
     "ExtraRateWhenEquipped": 0.0,
@@ -5777,7 +5777,7 @@
   "WeaponReach": 0.0,
   "WhenCreatedSounds": [],
   "WhenCreatedSoundsWarpData": [
-    "\u6D77\u8C5A\u4F19\u4F34"
+    "海豚伙伴"
   ],
   "WhenCreatedSoundsWarpType": 3
 }

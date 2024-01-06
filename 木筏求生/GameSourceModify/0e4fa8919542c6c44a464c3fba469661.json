@@ -18,8 +18,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u6DFB\u5165\u7164\u77FF",
-        "LocalizationKey": "",
+        "DefaultText": "添入煤矿",
+        "LocalizationKey": "T-T4/2EVK6rOfxJK84Hi1LZ+T4pOI=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -356,7 +356,7 @@
     {
       "ActionName": {
         "DefaultText": "cook_0",
-        "LocalizationKey": "",
+        "LocalizationKey": "T-HyuXeRpPG23pTV2oSEpC9zryOF0=",
         "ParentObjectID": ""
       },
       "CannotCookText": {
@@ -485,8 +485,8 @@
         "m_PathID": 0
       },
       "CustomCookingText": {
-        "DefaultText": "{0}\u540E\u5B8C\u6210",
-        "LocalizationKey": "",
+        "DefaultText": "{0}后完成",
+        "LocalizationKey": "T-FOYYcobPVk187e3WMWVcuwy9UOs=",
         "ParentObjectID": ""
       },
       "CustomNotification": {
@@ -585,7 +585,7 @@
     {
       "ActionName": {
         "DefaultText": "cook_1",
-        "LocalizationKey": "",
+        "LocalizationKey": "T-k+hwhCELn4qsLvacUL5yPsFurLI=",
         "ParentObjectID": ""
       },
       "CannotCookText": {
@@ -714,8 +714,8 @@
         "m_PathID": 0
       },
       "CustomCookingText": {
-        "DefaultText": "{0}\u540E\u5B8C\u6210",
-        "LocalizationKey": "",
+        "DefaultText": "{0}后完成",
+        "LocalizationKey": "T-FOYYcobPVk187e3WMWVcuwy9UOs=",
         "ParentObjectID": ""
       },
       "CustomNotification": {
@@ -814,7 +814,7 @@
     {
       "ActionName": {
         "DefaultText": "cook_2",
-        "LocalizationKey": "",
+        "LocalizationKey": "T-9TCV/qFF6HRCHKuvq2qdp9fimkY=",
         "ParentObjectID": ""
       },
       "CannotCookText": {
@@ -943,8 +943,8 @@
         "m_PathID": 0
       },
       "CustomCookingText": {
-        "DefaultText": "{0}\u540E\u5B8C\u6210",
-        "LocalizationKey": "",
+        "DefaultText": "{0}后完成",
+        "LocalizationKey": "T-FOYYcobPVk187e3WMWVcuwy9UOs=",
         "ParentObjectID": ""
       },
       "CustomNotification": {

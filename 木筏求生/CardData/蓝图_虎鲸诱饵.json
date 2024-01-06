@@ -1,7 +1,7 @@
 {
   "CardName": {
-    "DefaultText": "\u864E\u9CB8\u8BF1\u9975",
-    "LocalizationKey": "",
+    "DefaultText": "虎鲸诱饵",
+    "LocalizationKey": "T-xc+qCV6CgNjxJ8qg3WqOGijt6+Y=",
     "ParentObjectID": ""
   },
   "CardDescription": {
@@ -484,7 +484,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u864E\u9CB8\u8BF1\u9975",
+  "CardImageWarpData": "虎鲸诱饵",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [
@@ -3665,8 +3665,8 @@
   "UniqueID": "03adf574b80691c679c72ac75f2102e7",
   "UniqueOnBoard": false,
   "UnlockConditionsDesc": {
-    "DefaultText": "\u9700\u8981\u5851\u6599\u74F6",
-    "LocalizationKey": "",
+    "DefaultText": "需要塑料瓶",
+    "LocalizationKey": "T-Ywrc/SdwmThyGODuMlmVVuwaFZA=",
     "ParentObjectID": ""
   },
   "UsageDurability": {

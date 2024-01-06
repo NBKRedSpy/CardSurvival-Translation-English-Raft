@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u6D77\u6D0B\u76C6",
-    "LocalizationKey": "",
+    "DefaultText": "海洋盆",
+    "LocalizationKey": "T-TH28YHNNqiJUKdBtYUkp/QNJ/pE=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u4E00\u6B21\u79CD\u690D\u6C38\u8FDC\u6536\u83B7\uFF01(\u53EF\u6536\u96C6\u80A5\u6C34)",
-    "LocalizationKey": "",
+    "DefaultText": "一次种植永远收获！(可收集肥水)",
+    "LocalizationKey": "T-P19ywjBxNPefuTjcOzkhEfw+4rc=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -108,7 +108,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u6D77\u6D0B\u76C6",
+  "CardImageWarpData": "海洋盆",
   "CardImageWarpType": 3,
   "CardInteractions": [
     {
@@ -129,8 +129,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u6D47\u6C34",
-        "LocalizationKey": "",
+        "DefaultText": "浇水",
+        "LocalizationKey": "T-rzFxFQtk1OXoXkuuSz98l6+X5b8=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -375,8 +375,8 @@
       "RequiredReceivingContainerTag": [],
       "RequiredReceivingDurabilities": {
         "FailMessage": {
-          "DefaultText": "\u5DF2\u7ECF\u6EE1\u4E86",
-          "LocalizationKey": "",
+          "DefaultText": "已经满了",
+          "LocalizationKey": "T-roNzw8p4EB2kYLZeKb9LxJQSzBQ=",
           "ParentObjectID": ""
         },
         "HideActionIfNotMet": false,
@@ -479,8 +479,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u65BD\u80A5",
-        "LocalizationKey": "",
+        "DefaultText": "施肥",
+        "LocalizationKey": "T-fqVW2HFJzPlH4T6bJiswaHp992E=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -829,8 +829,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u65BD\u80A5",
-        "LocalizationKey": "",
+        "DefaultText": "施肥",
+        "LocalizationKey": "T-fqVW2HFJzPlH4T6bJiswaHp992E=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -1172,8 +1172,8 @@
   "ContentWeightReduction": 0.0,
   "CookingConditions": {
     "CookingPausedNotification": {
-      "DefaultText": "\u9700\u8981\u76D0\u6C34\uFF01",
-      "LocalizationKey": "",
+      "DefaultText": "需要盐水！",
+      "LocalizationKey": "T-81wlduNlmk9cDyorg0mx2xC04DA=",
       "ParentObjectID": ""
     },
     "CookingPausedSound": {
@@ -1202,8 +1202,8 @@
   "CookingRecipes": [
     {
       "ActionName": {
-        "DefaultText": "\u51C0\u6C34",
-        "LocalizationKey": "",
+        "DefaultText": "净水",
+        "LocalizationKey": "T-DyXJ3bxkQneOCOOKJGa/Cggkroo=",
         "ParentObjectID": ""
       },
       "CannotCookText": {
@@ -1277,8 +1277,8 @@
         "m_PathID": 0
       },
       "CustomCookingText": {
-        "DefaultText": "{0}\u540E\u5B8C\u6210",
-        "LocalizationKey": "",
+        "DefaultText": "{0}后完成",
+        "LocalizationKey": "T-FOYYcobPVk187e3WMWVcuwy9UOs=",
         "ParentObjectID": ""
       },
       "CustomNotification": {
@@ -1478,8 +1478,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u6458\u53D6",
-        "LocalizationKey": "",
+        "DefaultText": "摘取",
+        "LocalizationKey": "T-Q06KUwMNqzxxRzC+ZO9u3CFXxqQ=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -1688,8 +1688,8 @@
       "RequiredReceivingContainerTag": [],
       "RequiredReceivingDurabilities": {
         "FailMessage": {
-          "DefaultText": "\u672A\u6210\u719F",
-          "LocalizationKey": "",
+          "DefaultText": "未成熟",
+          "LocalizationKey": "T-tjQza5MFOmMRfjuoE/rQ4W/Iw2g=",
           "ParentObjectID": ""
         },
         "HideActionIfNotMet": false,
@@ -1827,8 +1827,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u642C\u8D70",
-        "LocalizationKey": "",
+        "DefaultText": "搬走",
+        "LocalizationKey": "T-DOpL2mBkHjmaeRi18Z0PdBDux68=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -2043,8 +2043,8 @@
   "FuelCapacity": {
     "Active": true,
     "CardStatName": {
-      "DefaultText": "\u6C34\u5206",
-      "LocalizationKey": "",
+      "DefaultText": "水分",
+      "LocalizationKey": "T-XXJYimzjmTRCjc8yXuQxB2SMNxg=",
       "ParentObjectID": ""
     },
     "ExtraRateWhenEquipped": 0.0,
@@ -2259,8 +2259,8 @@
     "OnFullNotification": 0,
     "OnZero": {
       "ActionDescription": {
-        "DefaultText": "\u73CA\u745A\u548C\u6D77\u85FB\u5E72\u6B7B\u4E86\uFF01",
-        "LocalizationKey": "",
+        "DefaultText": "珊瑚和海藻干死了！",
+        "LocalizationKey": "T-+m94SlNBSz8zcYJ1mkpIZoLTioI=",
         "ParentObjectID": ""
       },
       "ActionLog": {
@@ -2734,7 +2734,7 @@
         "Active": false,
         "FloatValue": 0.0
       },
-      "EffectName": "\u4E0B\u96E8",
+      "EffectName": "下雨",
       "EffectStacksWithRequiredCards": false,
       "FuelRateModifier": {
         "Active": true,
@@ -2843,7 +2843,7 @@
         "Active": true,
         "FloatValue": 1.5
       },
-      "EffectName": "\u80A5\u6599",
+      "EffectName": "肥料",
       "EffectStacksWithRequiredCards": false,
       "FuelRateModifier": {
         "Active": false,
@@ -2896,8 +2896,8 @@
   "Progress": {
     "Active": true,
     "CardStatName": {
-      "DefaultText": "\u5B8C\u6210\u5EA6",
-      "LocalizationKey": "",
+      "DefaultText": "完成度",
+      "LocalizationKey": "T-T77faJw2tydivM1ff9qQDZjjkSk=",
       "ParentObjectID": ""
     },
     "ExtraRateWhenEquipped": 0.0,
@@ -3328,8 +3328,8 @@
   "SpecialDurability1": {
     "Active": true,
     "CardStatName": {
-      "DefaultText": "\u76D0\u6C34",
-      "LocalizationKey": "",
+      "DefaultText": "盐水",
+      "LocalizationKey": "T-VTjqGGyBNWuobgNQ9KQHgej5K5s=",
       "ParentObjectID": ""
     },
     "ExtraRateWhenEquipped": 0.0,
@@ -5051,8 +5051,8 @@
   "SpoilageTime": {
     "Active": true,
     "CardStatName": {
-      "DefaultText": "\u80A5\u529B",
-      "LocalizationKey": "",
+      "DefaultText": "肥力",
+      "LocalizationKey": "T-ZB/zI6aEK2wE1RCVaG+gDAojvgI=",
       "ParentObjectID": ""
     },
     "ExtraRateWhenEquipped": 0.0,

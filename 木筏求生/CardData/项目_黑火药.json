@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u9ED1\u706B\u836F",
-    "LocalizationKey": "",
+    "DefaultText": "黑火药",
+    "LocalizationKey": "T-+kjY3AatFMwW3IRfsCBDmRbtcaM=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u5A01\u529B\u4E0D\u4FD7",
-    "LocalizationKey": "",
+    "DefaultText": "威力不俗",
+    "LocalizationKey": "T-Ow67Y/K3gi1A2z74CmuzweBOKtA=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -108,7 +108,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u9ED1\u706B\u836F",
+  "CardImageWarpData": "黑火药",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],

@@ -1,7 +1,7 @@
 {
   "CardName": {
-    "DefaultText": "\u7C97\u7CD9\u76AE\u88E4",
-    "LocalizationKey": "",
+    "DefaultText": "粗糙皮裤",
+    "LocalizationKey": "T-TsyaqpXbBBWkQpcd4gCYV6CWtXU=",
     "ParentObjectID": ""
   },
   "CardDescription": {
@@ -485,7 +485,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u7C97\u7CD9\u76AE\u88E4",
+  "CardImageWarpData": "粗糙皮裤",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [
@@ -3666,8 +3666,8 @@
   "UniqueID": "fece9e09bb906be54e3b30e2fbb94b14",
   "UniqueOnBoard": false,
   "UnlockConditionsDesc": {
-    "DefaultText": "\u9700\u8981\u7EC6\u7EBF",
-    "LocalizationKey": "",
+    "DefaultText": "需要细线",
+    "LocalizationKey": "T-ANGcU3n0hT7CMEDsJ6CqGC7YbdE=",
     "ParentObjectID": ""
   },
   "UsageDurability": {

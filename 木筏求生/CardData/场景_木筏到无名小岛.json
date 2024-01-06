@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u7740\u9646\u5C0F\u5C9B",
-    "LocalizationKey": "",
+    "DefaultText": "着陆小岛",
+    "LocalizationKey": "T-CAmyeyLSRX/iAktb+QsQICXcWqw=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u524D\u5F80\u5C0F\u5C9B",
-    "LocalizationKey": "",
+    "DefaultText": "前往小岛",
+    "LocalizationKey": "T-osUrkHmSveA7SE6LSw/4L7aKkJM=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -108,7 +108,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u7740\u9646\u5C0F\u5C9B",
+  "CardImageWarpData": "着陆小岛",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],
@@ -187,8 +187,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u524D\u5F80",
-        "LocalizationKey": "",
+        "DefaultText": "前往",
+        "LocalizationKey": "T-I5JtYUaM5gqjt7WyL+xsaNA49jY=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],

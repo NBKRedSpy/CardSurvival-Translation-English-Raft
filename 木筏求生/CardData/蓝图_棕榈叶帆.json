@@ -1,7 +1,7 @@
 {
   "CardName": {
-    "DefaultText": "\u68D5\u6988\u53F6\u5E06",
-    "LocalizationKey": "",
+    "DefaultText": "棕榈叶帆",
+    "LocalizationKey": "T-3oaT+J5n7Xlxez8/xRwo2mlLlV8=",
     "ParentObjectID": ""
   },
   "CardDescription": {
@@ -594,7 +594,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u68D5\u6988\u53F6\u5E06",
+  "CardImageWarpData": "棕榈叶帆",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [
@@ -3775,8 +3775,8 @@
   "UniqueID": "d6982f71b9b90a09819a8dc91b2593bc",
   "UniqueOnBoard": false,
   "UnlockConditionsDesc": {
-    "DefaultText": "\u9700\u8981\u68D5\u6988\u53F6",
-    "LocalizationKey": "",
+    "DefaultText": "需要棕榈叶",
+    "LocalizationKey": "T-nKDppMI7gceUbNTq36a8Mqdfqlc=",
     "ParentObjectID": ""
   },
   "UsageDurability": {

@@ -1,7 +1,7 @@
 {
   "CardName": {
-    "DefaultText": "\u917F\u9152\u6876",
-    "LocalizationKey": "",
+    "DefaultText": "酿酒桶",
+    "LocalizationKey": "T-xRUhPsNXO+oloisiH2fZxSYwssk=",
     "ParentObjectID": ""
   },
   "CardDescription": {
@@ -477,7 +477,7 @@
           "Special4": 0,
           "Spoilage": 0,
           "Usage": 0,
-          "RequiredTabGroupWarpData": "\u94C1\u9524\u5B50",
+          "RequiredTabGroupWarpData": "铁锤子",
           "RequiredTabGroupWarpType": 3
         }
       ]
@@ -580,7 +580,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u917F\u9152\u6876",
+  "CardImageWarpData": "酿酒桶",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [
@@ -3761,8 +3761,8 @@
   "UniqueID": "f2e145039bbd220530a2b3f919370e3e",
   "UniqueOnBoard": false,
   "UnlockConditionsDesc": {
-    "DefaultText": "\u9700\u8981\u9489\u5B50",
-    "LocalizationKey": "",
+    "DefaultText": "需要钉子",
+    "LocalizationKey": "T-wdoRzxz1uOOcDxlOVLP7dekcEvQ=",
     "ParentObjectID": ""
   },
   "UsageDurability": {

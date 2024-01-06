@@ -1,7 +1,7 @@
 {
   "CardName": {
-    "DefaultText": "\u9ED1\u706B\u836F",
-    "LocalizationKey": "",
+    "DefaultText": "黑火药",
+    "LocalizationKey": "T-+kjY3AatFMwW3IRfsCBDmRbtcaM=",
     "ParentObjectID": ""
   },
   "CardDescription": {
@@ -580,7 +580,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u9ED1\u706B\u836F",
+  "CardImageWarpData": "黑火药",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],
@@ -3764,8 +3764,8 @@
   "UniqueID": "05e958ebca23f90bb0364066eaa8f980",
   "UniqueOnBoard": false,
   "UnlockConditionsDesc": {
-    "DefaultText": "\u9700\u8981\u5236\u4F5C\u6280\u80FD",
-    "LocalizationKey": "",
+    "DefaultText": "需要制作技能",
+    "LocalizationKey": "T-Lq3m8c/AmUxfBG5ismhI9bcgNJk=",
     "ParentObjectID": ""
   },
   "UsageDurability": {

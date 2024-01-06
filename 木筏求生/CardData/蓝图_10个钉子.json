@@ -1,7 +1,7 @@
 {
   "CardName": {
-    "DefaultText": "10\u4E2A\u9489\u5B50",
-    "LocalizationKey": "",
+    "DefaultText": "10个钉子",
+    "LocalizationKey": "T-2qnpqvoWeilXMPV93Dsumwsc5sk=",
     "ParentObjectID": ""
   },
   "CardDescription": {
@@ -383,7 +383,7 @@
           "Special4": 0,
           "Spoilage": 0,
           "Usage": 0,
-          "RequiredTabGroupWarpData": "\u94C1\u9524\u5B50",
+          "RequiredTabGroupWarpData": "铁锤子",
           "RequiredTabGroupWarpType": 3
         }
       ]
@@ -448,7 +448,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u9489\u5B50",
+  "CardImageWarpData": "钉子",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [
@@ -3629,8 +3629,8 @@
   "UniqueID": "6b31d5c4fdda5f1492f3c04b31e1a845",
   "UniqueOnBoard": false,
   "UnlockConditionsDesc": {
-    "DefaultText": "\u9700\u8981\u94C1",
-    "LocalizationKey": "",
+    "DefaultText": "需要铁",
+    "LocalizationKey": "T-0KrxwV7U9fqPFyvBCou27Kahz7U=",
     "ParentObjectID": ""
   },
   "UsageDurability": {

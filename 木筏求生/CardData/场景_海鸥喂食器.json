@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u6D77\u9E25\u5582\u98DF\u5668",
-    "LocalizationKey": "",
+    "DefaultText": "海鸥喂食器",
+    "LocalizationKey": "T-qlalPElicqq9lsxS0aN41kQxVIk=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u7ED9\u6D77\u9E25\u4EEC\u63D0\u4F9B\u7A33\u5B9A\u7684\u98DF\u7269",
-    "LocalizationKey": "",
+    "DefaultText": "给海鸥们提供稳定的食物",
+    "LocalizationKey": "T-hs8G8dC9JJqB/Kn9W8DxCgshidY=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -108,7 +108,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u6D77\u9E25\u5582\u98DF\u5668",
+  "CardImageWarpData": "海鸥喂食器",
   "CardImageWarpType": 3,
   "CardInteractions": [
     {
@@ -129,8 +129,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u6DFB\u5165",
-        "LocalizationKey": "",
+        "DefaultText": "添入",
+        "LocalizationKey": "T-ZXLY4Zellclkc/YohfFfJhdyOnk=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -385,8 +385,8 @@
       "RequiredReceivingContainerTag": [],
       "RequiredReceivingDurabilities": {
         "FailMessage": {
-          "DefaultText": "\u4E0D\u9700\u8981\u6DFB\u52A0\u4E86",
-          "LocalizationKey": "",
+          "DefaultText": "不需要添加了",
+          "LocalizationKey": "T-1j729Gm+SzQkSbtP8iOcmFiAct8=",
           "ParentObjectID": ""
         },
         "HideActionIfNotMet": false,
@@ -489,8 +489,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u6DFB\u5165",
-        "LocalizationKey": "",
+        "DefaultText": "添入",
+        "LocalizationKey": "T-ZXLY4Zellclkc/YohfFfJhdyOnk=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -735,8 +735,8 @@
       "RequiredReceivingContainerTag": [],
       "RequiredReceivingDurabilities": {
         "FailMessage": {
-          "DefaultText": "\u4E0D\u9700\u8981\u6DFB\u52A0\u4E86",
-          "LocalizationKey": "",
+          "DefaultText": "不需要添加了",
+          "LocalizationKey": "T-1j729Gm+SzQkSbtP8iOcmFiAct8=",
           "ParentObjectID": ""
         },
         "HideActionIfNotMet": false,
@@ -1453,7 +1453,7 @@
         "Active": false,
         "FloatValue": 0.0
       },
-      "EffectName": "\u5B58\u5728\u98DF\u7269",
+      "EffectName": "存在食物",
       "EffectStacksWithRequiredCards": false,
       "FuelRateModifier": {
         "Active": false,
@@ -3679,8 +3679,8 @@
   "SpoilageTime": {
     "Active": true,
     "CardStatName": {
-      "DefaultText": "\u98DF\u7269",
-      "LocalizationKey": "",
+      "DefaultText": "食物",
+      "LocalizationKey": "T-gYN3MVW84PLS0lHjW3oPIja7+ms=",
       "ParentObjectID": ""
     },
     "ExtraRateWhenEquipped": 0.0,

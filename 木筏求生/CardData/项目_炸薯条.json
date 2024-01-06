@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u70B8\u85AF\u6761",
-    "LocalizationKey": "",
+    "DefaultText": "炸薯条",
+    "LocalizationKey": "T-EwtskACVQ3iH7G6QORGgSvuChnU=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u7F8E\u5473\uFF01",
-    "LocalizationKey": "",
+    "DefaultText": "美味！",
+    "LocalizationKey": "T-uTkzEGfQjO47T1xpaDx41uUoTEo=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -111,7 +111,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u70B8\u85AF\u6761",
+  "CardImageWarpData": "炸薯条",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],
@@ -190,8 +190,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u98DF\u7528",
-        "LocalizationKey": "",
+        "DefaultText": "食用",
+        "LocalizationKey": "T-/CTIPWxzNS43sBPJ2MPBHWGtsdM=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],

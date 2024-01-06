@@ -1,7 +1,7 @@
 {
   "CardName": {
-    "DefaultText": "\u69BB\u69BB\u7C73",
-    "LocalizationKey": "",
+    "DefaultText": "榻榻米",
+    "LocalizationKey": "T-xPScGrNkGTLqqeeR/BYhC6YLImA=",
     "ParentObjectID": ""
   },
   "CardDescription": {
@@ -382,7 +382,7 @@
           "Special4": 0,
           "Spoilage": 0,
           "Usage": 0,
-          "RequiredTabGroupWarpData": "\u94C1\u9524\u5B50",
+          "RequiredTabGroupWarpData": "铁锤子",
           "RequiredTabGroupWarpType": 3
         },
         {
@@ -1245,7 +1245,7 @@
           "Special4": 0,
           "Spoilage": 0,
           "Usage": 0,
-          "RequiredTabGroupWarpData": "\u94C1\u9524\u5B50",
+          "RequiredTabGroupWarpData": "铁锤子",
           "RequiredTabGroupWarpType": 3
         },
         {
@@ -1935,7 +1935,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u69BB\u69BB\u7C73",
+  "CardImageWarpData": "榻榻米",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],
@@ -5119,8 +5119,8 @@
   "UniqueID": "a33b40a67ac84929f4783858ecec3ba6",
   "UniqueOnBoard": false,
   "UnlockConditionsDesc": {
-    "DefaultText": "\u9700\u8981\u6728\u5DE5\u6280\u80FD",
-    "LocalizationKey": "",
+    "DefaultText": "需要木工技能",
+    "LocalizationKey": "T-+q0bgUcieUCR9HwPoUQpOL0x4mA=",
     "ParentObjectID": ""
   },
   "UsageDurability": {

@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u5783\u573E\u6876",
-    "LocalizationKey": "",
+    "DefaultText": "垃圾桶",
+    "LocalizationKey": "T-zwvtRznggPKBiyxFzoTNJALLodo=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u7528\u6765\u5904\u7406\u591A\u4F59\u7684\u5783\u573E",
-    "LocalizationKey": "",
+    "DefaultText": "用来处理多余的垃圾",
+    "LocalizationKey": "T-Ab1/OjvsKAxtMOp6ZOH5noYPXgM=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -108,7 +108,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u5783\u573E\u6876",
+  "CardImageWarpData": "垃圾桶",
   "CardImageWarpType": 3,
   "CardInteractions": [
     {
@@ -129,8 +129,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u6254\u5783\u573E",
-        "LocalizationKey": "",
+        "DefaultText": "扔垃圾",
+        "LocalizationKey": "T-C64YTpJEMCFn464D4145U1bx5Ug=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -477,7 +477,7 @@
       "WorksBothWays": false,
       "ActionSoundsWarpType": 3,
       "ActionSoundsWarpData": [
-        "\u6254\u5783\u573E"
+        "扔垃圾"
       ]
     }
   ],
@@ -557,8 +557,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u642C\u8D70",
-        "LocalizationKey": "",
+        "DefaultText": "搬走",
+        "LocalizationKey": "T-DOpL2mBkHjmaeRi18Z0PdBDux68=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],

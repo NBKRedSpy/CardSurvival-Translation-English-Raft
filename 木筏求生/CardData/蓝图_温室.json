@@ -1,7 +1,7 @@
 {
   "CardName": {
-    "DefaultText": "\u6E29\u5BA4",
-    "LocalizationKey": "",
+    "DefaultText": "温室",
+    "LocalizationKey": "T-i1eSDOwFI5zYLSKXfCq8YTbD5dI=",
     "ParentObjectID": ""
   },
   "CardDescription": {
@@ -498,7 +498,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u6E29\u5BA4",
+  "CardImageWarpData": "温室",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [
@@ -3679,8 +3679,8 @@
   "UniqueID": "d163b6f5adfa893bf3e6177eaea15a82",
   "UniqueOnBoard": false,
   "UnlockConditionsDesc": {
-    "DefaultText": "\u9700\u8981\u5851\u6599\u5E03",
-    "LocalizationKey": "",
+    "DefaultText": "需要塑料布",
+    "LocalizationKey": "T-8muSE3p/WCRiG+uX8jxBhB0j8Jc=",
     "ParentObjectID": ""
   },
   "UsageDurability": {

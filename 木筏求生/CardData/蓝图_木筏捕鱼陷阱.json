@@ -1,7 +1,7 @@
 {
   "CardName": {
-    "DefaultText": "\u6728\u7B4F\u6355\u9C7C\u9677\u9631",
-    "LocalizationKey": "",
+    "DefaultText": "木筏捕鱼陷阱",
+    "LocalizationKey": "T-k3LcUcMbomsutJYNd9Myj21Wnjs=",
     "ParentObjectID": ""
   },
   "CardDescription": {
@@ -3570,8 +3570,8 @@
   "UniqueID": "2b2ae1a7e03aaf6d2480d348caa5d330",
   "UniqueOnBoard": false,
   "UnlockConditionsDesc": {
-    "DefaultText": "\u9700\u8981\u5C0F\u6811\u679D",
-    "LocalizationKey": "",
+    "DefaultText": "需要小树枝",
+    "LocalizationKey": "T-NJvc7EhW3s1JHw7S2aRgXtJ2t+c=",
     "ParentObjectID": ""
   },
   "UsageDurability": {

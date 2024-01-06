@@ -1,7 +1,7 @@
 {
   "CardName": {
-    "DefaultText": "\u6930\u5B50\u70AE\u5F39",
-    "LocalizationKey": "",
+    "DefaultText": "椰子炮弹",
+    "LocalizationKey": "T-k6NTFmU9xMmdHyaMwiJw8Gc19SA=",
     "ParentObjectID": ""
   },
   "CardDescription": {
@@ -770,7 +770,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u6930\u5B50\u70AE\u5F39",
+  "CardImageWarpData": "椰子炮弹",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [
@@ -3951,8 +3951,8 @@
   "UniqueID": "a6f945d358d8e5d9a32c894d8256aa5e",
   "UniqueOnBoard": false,
   "UnlockConditionsDesc": {
-    "DefaultText": "\u9700\u8981\u9ED1\u706B\u836F",
-    "LocalizationKey": "",
+    "DefaultText": "需要黑火药",
+    "LocalizationKey": "T-I0VOs64YCo2ub1MlsNhgKnW5lLw=",
     "ParentObjectID": ""
   },
   "UsageDurability": {

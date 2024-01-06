@@ -1,12 +1,12 @@
 {
   "CardName": {
-    "DefaultText": "\u89E3\u6BD2\u836F\u5242",
-    "LocalizationKey": "",
+    "DefaultText": "解毒药剂",
+    "LocalizationKey": "T-wcDTTjXKPCF3UFBwWxdZE09xlP8=",
     "ParentObjectID": ""
   },
   "CardDescription": {
-    "DefaultText": "\u4E0D\u597D\u559D",
-    "LocalizationKey": "",
+    "DefaultText": "不好喝",
+    "LocalizationKey": "T-6DRRdMM8B/ZYmtt2o/gR0Qduu40=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -110,7 +110,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u89E3\u6BD2\u836F\u5242",
+  "CardImageWarpData": "解毒药剂",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [],
@@ -189,8 +189,8 @@
         }
       },
       "ActionName": {
-        "DefaultText": "\u98DF\u7528",
-        "LocalizationKey": "",
+        "DefaultText": "食用",
+        "LocalizationKey": "T-/CTIPWxzNS43sBPJ2MPBHWGtsdM=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],

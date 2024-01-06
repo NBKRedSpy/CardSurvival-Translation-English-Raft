@@ -1,7 +1,7 @@
 {
   "CardName": {
-    "DefaultText": "\u9AA8\u5934",
-    "LocalizationKey": "",
+    "DefaultText": "骨头",
+    "LocalizationKey": "T-izaCWqOU1cNHHWIiq91TanPpr4E=",
     "ParentObjectID": ""
   },
   "CardDescription": {
@@ -256,7 +256,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "CardImageWarpData": "\u9AA8\u5934",
+  "CardImageWarpData": "骨头",
   "CardImageWarpType": 3,
   "CardInteractions": [],
   "CardsOnBoard": [
@@ -3437,8 +3437,8 @@
   "UniqueID": "8d711ac227840644a71937137243a15d",
   "UniqueOnBoard": false,
   "UnlockConditionsDesc": {
-    "DefaultText": "\u9700\u8981\u9C7C\u9AA8",
-    "LocalizationKey": "",
+    "DefaultText": "需要鱼骨",
+    "LocalizationKey": "T-VUTY7LNUaQhZW0DwMkyI3u09Juo=",
     "ParentObjectID": ""
   },
   "UsageDurability": {

@@ -23,7 +23,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "DefaultStatusIconWarpData": "\u865A\u5F31",
+  "DefaultStatusIconWarpData": "虚弱",
   "DefaultStatusIconWarpType": 3,
   "DefaultStatusName": {
     "DefaultText": "",
@@ -48,8 +48,8 @@
     "StepValue": 1.0
   },
   "GameName": {
-    "DefaultText": "\u865A\u5F31",
-    "LocalizationKey": "",
+    "DefaultText": "虚弱",
+    "LocalizationKey": "T-jiXg3k8Gd4qdflEBSRlQeGPuVh4=",
     "ParentObjectID": ""
   },
   "InvertedDirection": false,

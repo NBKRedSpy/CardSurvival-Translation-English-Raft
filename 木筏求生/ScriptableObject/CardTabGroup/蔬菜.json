@@ -17,11 +17,11 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "TabIconWarpData": "\u852C\u83DC",
+  "TabIconWarpData": "蔬菜",
   "TabIconWarpType": 3,
   "TabName": {
-    "DefaultText": "\u852C\u83DC",
-    "LocalizationKey": "",
+    "DefaultText": "蔬菜",
+    "LocalizationKey": "T-nHzwdi3OBzmwvgGVnHQjA22dr3E=",
     "ParentObjectID": ""
   }
 }
